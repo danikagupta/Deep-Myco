@@ -1,0 +1,87 @@
+original_fungi_name,species_name,enzyme_name,EC_number,evidence,notes,source_file
+Agaricus blazei U2-2,,Laccase,EC 1.10.3.2,Lowest laccase activity amongst strains,Includes mediator system / LMCO,Induction+of+Laccase+Production+by+T.+pubescens_.txt
+Agaricus blazei U2-3,,Laccase,EC 1.10.3.2,Highest laccase activity in strain U2-3,Includes mediator system / LMCO,Induction+of+Laccase+Production+by+T.+pubescens_.txt
+Agaricus blazei U2-4,,Laccase,EC 1.10.3.2,Highest laccase activity in absence of copper,Includes mediator system / LMCO,Induction+of+Laccase+Production+by+T.+pubescens_.txt
+Agaricus blazei U2-4,,Laccase,EC 1.10.3.2,Lowest laccase activity,Includes mediator system / LMCO,Induction+of+Laccase+Production+by+T.+pubescens_.txt
+Agaricus blazei U2-4,,Laccase,EC 1.10.3.2,Copper increased laccase activity,Includes mediator system / LMCO,Induction+of+Laccase+Production+by+T.+pubescens_.txt
+Agaricus blazei U2-4,,Laccase,EC 1.10.3.2,Laccase activity observed after initial inhibition,Includes mediator system / LMCO,Induction+of+Laccase+Production+by+T.+pubescens_.txt
+Agaricus heterocystis,,Manganese peroxidase,EC 1.11.1.13,Optimum temperature for MnP production.,,Lignin-degrading+enzymes+of+the+commercial+button+mushroom%2C+Agaricus+bisporus_.txt
+Aspergillus niger,,Manganese peroxidase,EC 1.11.1.13,MnP activity correlated with decolorization performance,,Mycoremediation%3A+fungal+bioremediation_.txt
+Aspergillus niger strain 13A,,"Cellulase (Endo-1,4-β-glucanase)",EC 3.2.1.4,Optimal pH for growth and cellulase production.,,Investigation+on+the+biodegradation+of+polyesters+by+isolated+mesophilic+microbes_.txt
+Aspergillus niger strain 13A,,"Cellulase (Endo-1,4-β-glucanase)",EC 3.2.1.4,Growth and cellulase production at this pH.,,Investigation+on+the+biodegradation+of+polyesters+by+isolated+mesophilic+microbes_.txt
+Aspergillus niger strain 13A,,"Cellulase (Endo-1,4-β-glucanase)",EC 3.2.1.4,Optimal growth and cellulase production.,,Investigation+on+the+biodegradation+of+polyesters+by+isolated+mesophilic+microbes_.txt
+Aspergillus ochraceus NCIM-1146,,Laccase,EC 1.10.3.2,laccase accompanied by lignin peroxidase,Includes mediator system / LMCO,Biodegradation+of+azo+dyes+in+the+absence+of+a+mediator_.txt
+Aspergillus ochraceus NCIM-1146,,Lignin peroxidase,EC 1.11.1.14,laccase accompanied by lignin peroxidase,,Biodegradation+of+azo+dyes+in+the+absence+of+a+mediator_.txt
+Aspergillus ochraceus NCIM-1146,,Peroxidase (unspecified),EC 1.11.1.7,laccase accompanied by lignin peroxidase,,Biodegradation+of+azo+dyes+in+the+absence+of+a+mediator_.txt
+Ceriporiopsis subvermispora,,Manganese peroxidase,EC 1.11.1.13,initially faster decolorization due to higher MnP activity,,Induction+of+ligninolytic+enzyme+production+by+Dichomitus+squalens+on+various+types+of+immobilization+support_.txt
+Coriolus versicolor,,Laccase,EC 1.10.3.2,MnP and laccase activity influenced decolorization,Includes mediator system / LMCO,Mycoremediation%3A+fungal+bioremediation_.txt
+Coriolus versicolor,,Manganese peroxidase,EC 1.11.1.13,MnP and laccase activity influenced decolorization,,Mycoremediation%3A+fungal+bioremediation_.txt
+DyP-PE (Peroxidase from Pleurotus eryngii),,Dye-decolorizing peroxidase,EC 1.11.1.19,High effectiveness of DyP-PE reported in decolorizing MG.,,Biological+decolorization+of+dye+solution+containing+malachite+green+by+Pandoraea+sp._.txt
+DyP-PE (Peroxidase from Pleurotus eryngii),,Dye-decolorizing peroxidase,EC 1.11.1.19,Further confirmation of DyP-PE's capability.,,Biological+decolorization+of+dye+solution+containing+malachite+green+by+Pandoraea+sp._.txt
+DyP-PE (Peroxidase from Pleurotus eryngii),,Dye-decolorizing peroxidase,EC 1.11.1.19,This shows DyP-PE's consistent performance.,,Biological+decolorization+of+dye+solution+containing+malachite+green+by+Pandoraea+sp._.txt
+Fomes sclerodermeus,,Laccase,EC 1.10.3.2,No laccase production detected in Phanerochaete chrysosporium.,Includes mediator system / LMCO,Malignant+transformation+by+malachite+green_.txt
+Fomitopsis feei,,Laccase,EC 1.10.3.2,Laccase activity: 46 U/mL; Lignin peroxidase activity: 36 U/mL,Includes mediator system / LMCO,Decolorization+of+triphenylmethane+dyes+by+the+bird%27s+nest+fungus..._.txt
+Fomitopsis feei,,Laccase,EC 1.10.3.2,Laccase activity: 42 U/mL; Lignin peroxidase activity: 14 U/mL,Includes mediator system / LMCO,Decolorization+of+triphenylmethane+dyes+by+the+bird%27s+nest+fungus..._.txt
+Fomitopsis feei,,Laccase,EC 1.10.3.2,Laccase activity not observed,Includes mediator system / LMCO,Decolorization+of+triphenylmethane+dyes+by+the+bird%27s+nest+fungus..._.txt
+Fomitopsis feei,,Lignin peroxidase,EC 1.11.1.14,Laccase activity: 46 U/mL; Lignin peroxidase activity: 36 U/mL,,Decolorization+of+triphenylmethane+dyes+by+the+bird%27s+nest+fungus..._.txt
+Fomitopsis feei,,Lignin peroxidase,EC 1.11.1.14,Laccase activity: 42 U/mL; Lignin peroxidase activity: 14 U/mL,,Decolorization+of+triphenylmethane+dyes+by+the+bird%27s+nest+fungus..._.txt
+Fomitopsis feei,,Lignin peroxidase,EC 1.11.1.14,Lignin peroxidase activity: 6 U/mL,,Decolorization+of+triphenylmethane+dyes+by+the+bird%27s+nest+fungus..._.txt
+Fomitopsis feei,,Lignin peroxidase,EC 1.11.1.14,Lignin peroxidase activity: 2 U/mL,,Decolorization+of+triphenylmethane+dyes+by+the+bird%27s+nest+fungus..._.txt
+Fomitopsis feei,,Lignin peroxidase,EC 1.11.1.14,Lignin peroxidase activity: 44 U/mL,,Decolorization+of+triphenylmethane+dyes+by+the+bird%27s+nest+fungus..._.txt
+Fomitopsis feei,,Peroxidase (unspecified),EC 1.11.1.7,Laccase activity: 46 U/mL; Lignin peroxidase activity: 36 U/mL,,Decolorization+of+triphenylmethane+dyes+by+the+bird%27s+nest+fungus..._.txt
+Fomitopsis feei,,Peroxidase (unspecified),EC 1.11.1.7,Laccase activity: 42 U/mL; Lignin peroxidase activity: 14 U/mL,,Decolorization+of+triphenylmethane+dyes+by+the+bird%27s+nest+fungus..._.txt
+Fomitopsis feei,,Peroxidase (unspecified),EC 1.11.1.7,Lignin peroxidase activity: 6 U/mL,,Decolorization+of+triphenylmethane+dyes+by+the+bird%27s+nest+fungus..._.txt
+Fomitopsis feei,,Peroxidase (unspecified),EC 1.11.1.7,Lignin peroxidase activity: 2 U/mL,,Decolorization+of+triphenylmethane+dyes+by+the+bird%27s+nest+fungus..._.txt
+Fomitopsis feei,,Peroxidase (unspecified),EC 1.11.1.7,Lignin peroxidase activity: 44 U/mL,,Decolorization+of+triphenylmethane+dyes+by+the+bird%27s+nest+fungus..._.txt
+Grammothele subargentea,,Laccase,EC 1.10.3.2,Laccase activity was highest.,Includes mediator system / LMCO,Ligninolytic+ability+and+potential+biotechnology+application+of+the+South+American+fungus+Pleurotus+laciniatocrenatus_.txt
+KV10,,Laccase,EC 1.10.3.2,High correlation between laccase production and decolorization,Includes mediator system / LMCO,Degradation+of+dyes+by+white+rot+fungi_.txt
+KV10,,Laccase,EC 1.10.3.2,High correlation between laccase production and decolorization,Includes mediator system / LMCO,Degradation+of+dyes+by+white+rot+fungi_.txt
+KV12,,Laccase,EC 1.10.3.2,High correlation between laccase production and decolorization,Includes mediator system / LMCO,Degradation+of+dyes+by+white+rot+fungi_.txt
+KV12,,Laccase,EC 1.10.3.2,High correlation between laccase production and decolorization,Includes mediator system / LMCO,Degradation+of+dyes+by+white+rot+fungi_.txt
+Lentinula edodes,,Manganese peroxidase,EC 1.11.1.13,The greatest MnP activity was observed on the 25th day.,,Decolorization+of+synthetic+dyes+by+solid+state+culture+of+Lentinula+%28Lentinus%29+edodes+producing+manganese+peroxidase+as+the+main+lignolytic+enzyme_.txt
+Melanocarpus albomyces,,Laccase,EC 1.10.3.2,Screened for various laccase producing fungi,Includes mediator system / LMCO,Fed+Batch+Experiment+for+Laccase+Production_.txt
+Melanocarpus albomyces,,Laccase,EC 1.10.3.2,Confirmatory tests of laccase production,Includes mediator system / LMCO,Fed+Batch+Experiment+for+Laccase+Production_.txt
+Melanocarpus albomyces,,Laccase,EC 1.10.3.2,Used as substrate for laccase activity measurements,Includes mediator system / LMCO,Fed+Batch+Experiment+for+Laccase+Production_.txt
+Melanocarpus albomyces,,Laccase,EC 1.10.3.2,"Recombinant laccase was produced in T. reesei, yielded 920 mg/l",Includes mediator system / LMCO,Fed+Batch+Experiment+for+Laccase+Production_.txt
+Phanerochaete chrysosporium,,Laccase,EC 1.10.3.2,Performed with 36 Units/L Laccase enzyme.,Includes mediator system / LMCO,Control+of+Pellet+Morphology+in+Fluidized+Bed+Reactor_.txt
+Phanerochaete chrysosporium,,Laccase,EC 1.10.3.2,Performed with 72 Units/L Laccase enzyme.,Includes mediator system / LMCO,Control+of+Pellet+Morphology+in+Fluidized+Bed+Reactor_.txt
+Phanerochaete chrysosporium,,Laccase,EC 1.10.3.2,Performed with 144 Units/L Laccase enzyme.,Includes mediator system / LMCO,Control+of+Pellet+Morphology+in+Fluidized+Bed+Reactor_.txt
+Phanerochaete chrysosporium,,Laccase,EC 1.10.3.2,Performed with 36 Units/L Laccase enzyme.,Includes mediator system / LMCO,Control+of+Pellet+Morphology+in+Fluidized+Bed+Reactor_.txt
+Phanerochaete chrysosporium,,Laccase,EC 1.10.3.2,Performed with 72 Units/L Laccase enzyme.,Includes mediator system / LMCO,Control+of+Pellet+Morphology+in+Fluidized+Bed+Reactor_.txt
+Phanerochaete chrysosporium,,Laccase,EC 1.10.3.2,Performed with 144 Units/L Laccase enzyme.,Includes mediator system / LMCO,Control+of+Pellet+Morphology+in+Fluidized+Bed+Reactor_.txt
+Phanerochaete chrysosporium,,Manganese peroxidase,EC 1.11.1.13,Maximum MnP activity was 75 UI/L at 353 h,,Dye+removal+by+low+cost+adsorbents%3A+Hazelnut+shells+in+comparison+with+wood+sawdust_.txt
+Phanerochaete chrysosporium,,Manganese peroxidase,EC 1.11.1.13,Maximum MnP activity was 91 UI/L at 257 h,,Dye+removal+by+low+cost+adsorbents%3A+Hazelnut+shells+in+comparison+with+wood+sawdust_.txt
+Phanerochaete chrysosporium,,Manganese peroxidase,EC 1.11.1.13,Higher MnP enzymatic activity compared to suspension culture,,White+rot+fungi%3A+an+ingenious+army+for+environmental+protection_.txt
+Phanerochaete chrysosporium,,Manganese peroxidase,EC 1.11.1.13,"Highly contaminated, poor MnP activity",,White+rot+fungi%3A+an+ingenious+army+for+environmental+protection_.txt
+Phanerochaete chrysosporium,,Peroxidase (unspecified),EC 1.11.1.7,All tested 2-(4'-sulfophenylazo)-phenol dyes were poor substrates or non-substrates for peroxidases.,,Degradation+of+sulfonated+azo+dyes+and+sulfanilic+acid+by+Phanerochaete+chrysosporium+and+Streptomyces+chromofuscus_.txt
+Phlebia sp. MG-60,,Manganese peroxidase,EC 1.11.1.13,"At 3% and 5% sea salts, MnP production enhanced during decolorization.",,Effects+of+Mn2%2B+and+NH4%2B+concentrations+on+laccase+and+manganese+peroxidase+production+and+amaranth+decoloration+by+Trametes+versicolor_.txt
+Pleurotus ostreatus,,Laccase,EC 1.10.3.2,Evaluated the residual compost as a source of crude laccase,Includes mediator system / LMCO,Inhibition+of+laccase+activity+from+Trametes+versicolor+by+heavy+metals+and+organic+comp.._.txt
+Pleurotus ostreatus,,Laccase,EC 1.10.3.2,Laccase activity was 54.8 ± 8.9 U L-1,Includes mediator system / LMCO,Biodegradation+of+triphenylmethane+dye+Malachite+Green+by+Sphingomonas+paucimobilis_.txt
+Pleurotus ostreatus,,Laccase,EC 1.10.3.2,Laccase activity was 54.8 ± 8.9 U L-1,Includes mediator system / LMCO,Biodegradation+of+triphenylmethane+dye+Malachite+Green+by+Sphingomonas+paucimobilis_.txt
+Pleurotus ostreatus,,Laccase,EC 1.10.3.2,Laccase activity was 30.6 ± 2.9 U L-1,Includes mediator system / LMCO,Biodegradation+of+triphenylmethane+dye+Malachite+Green+by+Sphingomonas+paucimobilis_.txt
+Pleurotus ostreatus,,Laccase,EC 1.10.3.2,Laccase activity was 30.6 ± 2.9 U L-1,Includes mediator system / LMCO,Biodegradation+of+triphenylmethane+dye+Malachite+Green+by+Sphingomonas+paucimobilis_.txt
+Polyporus rubidus,,Laccase,EC 1.10.3.2,Maximum laccase activity detected was 17.1 U/ml after 3 days.,Includes mediator system / LMCO,Decolorization+of+synthetic+textile+dyes+by+Phlebia+tremellosa_.txt
+Pseudomonas aeruginosa,,Laccase,EC 1.10.3.2,Crude laccase decolorization study,Includes mediator system / LMCO,Reductive+decolorization+of+indigo+carmine+dye+with+Bacillus+sp.+MZS10_2015.txt
+Pyricularia oryzae,,Laccase,EC 1.10.3.2,electron-rich portion of the dye is the target of laccase action,Includes mediator system / LMCO,Biodegradation+of+azo+dyes+in+the+absence+of+a+mediator_.txt
+Thelephora sp.,,Laccase,EC 1.10.3.2,removed by laccase at 15 U/ml,Includes mediator system / LMCO,Decolourization+of+azo+dyes+and+a+dye+industry+effluent+by+white+rot+fungus+Thelephora+sp._.txt
+Thelephora sp.,,Laccase,EC 1.10.3.2,removed by laccase at various concentrations,Includes mediator system / LMCO,Decolourization+of+azo+dyes+and+a+dye+industry+effluent+by+white+rot+fungus+Thelephora+sp._.txt
+Thelephora sp.,,Laccase,EC 1.10.3.2,removed by laccase at various concentrations,Includes mediator system / LMCO,Decolourization+of+azo+dyes+and+a+dye+industry+effluent+by+white+rot+fungus+Thelephora+sp._.txt
+Thelephora sp.,,Laccase,EC 1.10.3.2,removed by laccase at 15 U/ml,Includes mediator system / LMCO,Decolourization+of+azo+dyes+and+a+dye+industry+effluent+by+white+rot+fungus+Thelephora+sp._.txt
+Thelephora sp.,,Lignin peroxidase,EC 1.11.1.14,removed by LiP and MnP at 15 U/ml each,,Decolourization+of+azo+dyes+and+a+dye+industry+effluent+by+white+rot+fungus+Thelephora+sp._.txt
+Thelephora sp.,,Manganese peroxidase,EC 1.11.1.13,removed by LiP and MnP at 15 U/ml each,,Decolourization+of+azo+dyes+and+a+dye+industry+effluent+by+white+rot+fungus+Thelephora+sp._.txt
+Trametes hirsuta,,Laccase,EC 1.10.3.2,Maximum laccase activity of 7614 U/L at 20th day,Includes mediator system / LMCO,Enhancement+of+Laccase+Production+in+Trametes+pubescens_.txt
+Trametes hirsuta,,Laccase,EC 1.10.3.2,Addition of 1mM Copper Sulphate resulted in laccase activity of 17074 U/L,Includes mediator system / LMCO,Enhancement+of+Laccase+Production+in+Trametes+pubescens_.txt
+Trametes hirsuta,,Laccase,EC 1.10.3.2,"1mM 2,5 xylidine addition resulted in maximum laccase activity of 23543 U/L",Includes mediator system / LMCO,Enhancement+of+Laccase+Production+in+Trametes+pubescens_.txt
+Trametes hirsuta,,Laccase,EC 1.10.3.2,Maximum laccase activity of 25889 U/L using Plakett-Burman design,Includes mediator system / LMCO,Enhancement+of+Laccase+Production+in+Trametes+pubescens_.txt
+Trametes hirsuta,,Laccase,EC 1.10.3.2,Peptone as nitrogen source provided maximum laccase activity of 17390 U/L,Includes mediator system / LMCO,Enhancement+of+Laccase+Production+in+Trametes+pubescens_.txt
+Trametes hirsuta,,Laccase,EC 1.10.3.2,Control with no copper sulphate had laccase activity of 4236 U/L,Includes mediator system / LMCO,Enhancement+of+Laccase+Production+in+Trametes+pubescens_.txt
+Trametes hirsuta,,Laccase,EC 1.10.3.2,"Highest laccase activity observed with 1mM 2, 5 xylidine after 3rd day of addition",Includes mediator system / LMCO,Enhancement+of+Laccase+Production+in+Trametes+pubescens_.txt
+Trametes versicolor,,Laccase,EC 1.10.3.2,Laccase was totally inactivated.,Includes mediator system / LMCO,Dye+decolorization+and+detoxification+by+laccase+immobilized+on+porous+glass+beads_.txt
+Trametes versicolor,,Laccase,EC 1.10.3.2,Laccase genes expression was affected by specific substrates,Includes mediator system / LMCO,Inhibition+of+laccase+activity+from+Trametes+versicolor+by+heavy+metals+and+organic+comp.._.txt
+Trametes versicolor,,Laccase,EC 1.10.3.2,Laccase production with glucose,Includes mediator system / LMCO,Effect+of+Glucose+Addition+on+Laccase+Production_.txt
+Trametes versicolor BBEL0970,,Laccase,EC 1.10.3.2,Laccase production was maximal at 10.3 U/ml on the 20th day.,Includes mediator system / LMCO,Fed-batch+decolourisation+of+poly+R+478+by+Trametes+versicolor_.txt
+Trametes versicolor BBEL0970,,Laccase,EC 1.10.3.2,Laccase activity preference was noted under acidic conditions with optimal range from 1.8 to 4.0.,Includes mediator system / LMCO,Fed-batch+decolourisation+of+poly+R+478+by+Trametes+versicolor_.txt
+Trametes vesicolor,,Laccase,EC 1.10.3.2,Laccase activity measured,Includes mediator system / LMCO,Screening+of+white+rot+fungi+for+the+treatment+of+olive+mill+wastewaters_.txt
+Trametes vesicolor,,Laccase,EC 1.10.3.2,Laccase activity measured,Includes mediator system / LMCO,Screening+of+white+rot+fungi+for+the+treatment+of+olive+mill+wastewaters_.txt
+Trametes vesicolor,,Laccase,EC 1.10.3.2,Laccase activity measured,Includes mediator system / LMCO,Screening+of+white+rot+fungi+for+the+treatment+of+olive+mill+wastewaters_.txt
+Trametes vesicolor,,Laccase,EC 1.10.3.2,Laccase activity measured,Includes mediator system / LMCO,Screening+of+white+rot+fungi+for+the+treatment+of+olive+mill+wastewaters_.txt
