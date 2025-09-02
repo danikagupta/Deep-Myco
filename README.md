@@ -198,8 +198,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- **Primary Author**: [Your Name] - [email@domain.com]
-- **Project Link**: https://github.com/yourusername/deepmyco
+- **Primary Author**: [Danika Gupta] - [dan@gprof.com]
+- **Project Link**: https://github.com/DanikaGupta/Deep-Myco
 - **Issues**: Please use GitHub Issues for bug reports and feature requests
 
 ---
