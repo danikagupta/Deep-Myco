@@ -1,0 +1,62 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'DeepMyco: Large Language Models for Scaling Mycoremediation'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Danika
+    family-names: Gupta
+    email: dan@gprof.com
+    affiliation: The Harker School
+    orcid: 'https://orcid.org/0009-0004-8872-7681'
+identifiers:
+  - type: url
+    value: 'https://github.com/danikagupta/Deep-Myco'
+    description: 'GitHub repository'
+repository-code: 'https://github.com/danikagupta/Deep-Myco'
+url: 'https://github.com/danikagupta/Deep-Myco'
+abstract: >-
+  DeepMyco is a groundbreaking research project that leverages Large Language 
+  Models (LLMs) to extract, analyze, and scale mycoremediation knowledge from 
+  scientific literature. By systematically processing research papers, we've 
+  created the first comprehensive dataset of mycoremediation experiments and 
+  developed machine learning models to predict optimal fungal-pollutant 
+  combinations for environmental cleanup applications. The project addresses 
+  the critical challenge of scaling mycoremediation—the use of fungi to clean 
+  up environmental pollutants—by consolidating scattered literature knowledge 
+  and making it accessible through predictive models.
+keywords:
+  - mycoremediation
+  - bioremediation
+  - fungi
+  - machine learning
+  - environmental cleanup
+  - large language models
+  - data extraction
+  - textile dye pollution
+  - water treatment
+  - sustainability
+license: MIT
+version: 1.0.0
+date-released: '2025-06-01'
+preferred-citation:
+  type: conference-paper
+  authors:
+    - given-names: Danika
+      family-names: Gupta
+      email: dan@gprof.com
+      affiliation: The Harker School
+  title: 'DeepMyco: Large Language Models for Scaling Mycoremediation'
+  collection-title: '2025 IEEE Conference on AI for Sustainable Innovation'
+  conference:
+    name: '2025 IEEE Conference on AI for Sustainable Innovation (IEEE AI-SI)'
+    location: 'San Jose, California, USA'
+  publisher: IEEE
+  year: 2025
+  isbn: 'TBD'
+  doi: 'TBD'
+  url: 'TBD'
