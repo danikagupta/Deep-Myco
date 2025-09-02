@@ -35,8 +35,6 @@ The file `fungi_taxonomy_enriched_v2.csv` was produced through a multi-stage wor
      - `accepted_name`: standardized valid name  
      - `status`: one of **Valid**, **Synonym**, **Genus only**, or **Not available**
 
-6. **Output**
-   - **`fungi_taxonomy_enriched.csv`** → First pass (basic enrichment).  
    - **`fungi_taxonomy_enriched_v2.csv`** → Final enriched version with synonyms and status flags.
 
 ### Example Row
@@ -58,4 +56,54 @@ The file `fungi_taxonomy_enriched_v2.csv` was produced through a multi-stage wor
 
 ---
 
+## 🎨 Dye Metadata File Generation
+
+The file `dye_metadata_enriched_v2.csv` was created to provide structured metadata for all unique dye names identified in the experimental dataset.
+
+### Steps in the Pipeline
+1. **Source Data Extraction**
+   - Original CSV: `PDF_Extract2 - pdf_extract_2025 (6).csv`
+   - Column used:  
+     - `type of dye`
+
+2. **Data Cleaning & Normalization**
+   - Extracted **268 unique dye names**.  
+   - Harmonized capitalization and merged duplicates (e.g., *Reactive blue 19* vs *Reactive Blue 19*).  
+   - Preserved the original dye label in the `Dye name` column.
+
+3. **Chemical Metadata Enrichment**
+   - **Chemical class** assigned using PubChem, Wikipedia, and ChEBI references.  
+   - **Molecular weight (g/mol)** populated where known.  
+   - **Structure info** stored as **SMILES** strings for single, well-defined compounds.  
+   - Mixtures (e.g., *Basic fuchsin, Methyl violet*) marked as **“Mixture — no single SMILES.”**  
+   - Plant extracts (e.g., *Eucalyptus globulus*) marked as **“Natural extract — structure varies.”**
+
+4. **Status Column**
+   - Introduced a `status` field to make filtering easier:
+     - **Valid** → Defined single compound with MW + SMILES.  
+     - **Mixture** → Historical dye blends with no unique SMILES.  
+     - **Natural extract** → Plant or crude extract, not a discrete compound.  
+     - **Not available** → Metadata could not be found or confirmed.
+
+
+### Example Row
+
+| Dye name        | Chemical class        | Molecular weight (g/mol) | Structure info | Status  |
+|-----------------|-----------------------|--------------------------|----------------|---------|
+| Crystal violet  | Triarylmethane dye    | 407.99                   | CN(C)C1=CC=C…  | Valid   |
+| Basic fuchsin   | Triarylmethane mixture|                          | Mixture — no… | Mixture |
+| Eucalyptus globulus | Natural extract   |                          | Natural extract — structure varies | Natural extract |
+
+---
+
+### ✅ TODOs / Next Steps
+
+- [ ] **Fill missing molecular weights** — many azo/anthraquinone dyes still lack MW.  
+- [ ] **Add SMILES for more dyes** where records exist but weren’t mapped yet.  
+- [ ] **Refine chemical classes** for food colorants (e.g., Tartrazine, Carmoisine) with CAS numbers.  
+- [ ] **Curate ambiguous entries** — plant extracts or misclassified “dyes” may need manual review.  
+- [ ] **Cross-check synonyms** (e.g., trade names vs. IUPAC names).  
+- [ ] **Expand external IDs** — add PubChem CID or ChEBI ID for database linking.  
+
+---
 
