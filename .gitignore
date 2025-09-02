@@ -160,3 +160,78 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+# Add these DeepMyco-specific entries to your existing .gitignore:
+
+# ============================================================================
+# DeepMyco Project Specific
+# ============================================================================
+
+# API Keys and Credentials (CRITICAL - prevents exposing LLM API keys)
+openai_api_key.txt
+anthropic_api_key.txt
+google_api_credentials.json
+config/secrets/
+config/api_keys/
+secrets.json
+credentials.json
+api_config.secret
+
+# Large Research Papers (copyright protection + size)
+data/raw/papers/*.pdf
+papers/
+*.pdf
+
+# Large Datasets (prevents uploading massive CSV files)
+data/raw/llm_extracted/*.json
+data/raw/llm_extracted/*.csv
+data/processed/mycoremediation_dataset.csv
+data/processed/timeseries_dataset.csv
+data/external/large_datasets/
+
+# Trained Models (these files can be 100+ MB each)
+models/forecasting/*.pkl
+models/forecasting/*.joblib
+models/forecasting/*.h5
+models/forecasting/*.pt
+models/recommendation/*.pkl
+models/benchmarks/*.pkl
+
+# Experimental Lab Data
+data/validation/spectroscopy/*.dat
+data/validation/spectroscopy/*.raw
+data/validation/spectroscopy/*.spec
+data/validation/growth_studies/*.xlsx
+data/validation/chemical_analysis/*.dat
+
+# Generated Results and Figures
+experiments/results/model_performance/*.json
+experiments/results/predictions/*.csv
+experiments/results/figures/*.png
+experiments/results/figures/*.pdf
+experiments/results/figures/*.svg
+
+# Lab Equipment Data Files
+*.spec
+*.raw
+*.dat
+*.asc
+*.bin
+
+# OS Files (if not already covered)
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE Files (if not already covered)
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary and Backup Files
+*.tmp
+*.bak
+*.backup
+tmp/
+temp/
+logs/
