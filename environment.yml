@@ -1,0 +1,146 @@
+name: deepmyco
+channels:
+  - conda-forge
+  - defaults
+  - pytorch
+  - nvidia
+dependencies:
+  # Python version
+  - python=3.9
+
+  # Core Data Science Stack (from conda-forge for better compatibility)
+  - numpy>=1.21.0
+  - pandas>=1.5.0
+  - scipy>=1.9.0
+  - matplotlib>=3.5.0
+  - seaborn>=0.11.0
+  - plotly>=5.0.0
+
+  # Machine Learning
+  - scikit-learn>=1.1.0
+  - xgboost>=1.6.0
+  - lightgbm>=3.3.0
+  - joblib>=1.2.0
+
+  # Deep Learning (PyTorch from pytorch channel)
+  - pytorch>=1.12.0
+  - torchvision>=0.13.0
+  - torchaudio>=0.12.0
+  - cpuonly  # Remove this line if you want GPU support
+
+  # Scientific Computing
+  - statsmodels>=0.13.0
+  - sympy>=1.11.0
+
+  # Data Processing
+  - openpyxl>=3.0.0
+  - xlrd>=2.0.0
+  - beautifulsoup4>=4.11.0
+  - lxml>=4.9.0
+  - requests>=2.28.0
+
+  # Image Processing
+  - pillow>=9.2.0
+  - opencv>=4.6.0
+
+  # Jupyter and Interactive Development
+  - jupyter>=1.0.0
+  - jupyterlab>=3.4.0
+  - ipywidgets>=8.0.0
+  - notebook>=6.4.0
+
+  # Configuration and Environment
+  - pyyaml>=6.0
+  - python-dotenv>=0.20.0
+
+  # Testing and Quality
+  - pytest>=7.1.0
+  - pytest-cov>=4.0.0
+  - black>=22.6.0
+  - flake8>=5.0.0
+  - isort>=5.10.0
+
+  # Documentation
+  - sphinx>=5.0.0
+  - sphinx_rtd_theme>=1.0.0
+
+  # Database
+  - sqlalchemy>=1.4.0
+  - sqlite>=3.39.0
+
+  # Utilities
+  - tqdm>=4.64.0
+  - python-dateutil>=2.8.0
+  - pytz>=2022.2
+  - regex>=2022.7.0
+
+  # Web Scraping
+  - scrapy>=2.6.0
+  - selenium>=4.5.0
+
+  # Logging
+  - loguru>=0.6.0
+
+  # Development Tools
+  - ipdb>=0.13.0
+  - memory_profiler>=0.60.0
+
+  # Optional: Advanced Analytics
+  - nltk>=3.7
+  - spacy>=3.4.0
+
+  # Optional: Cloud support
+  - boto3>=1.24.0
+
+  # pip dependencies (packages not available in conda)
+  - pip>=22.0.0
+  - pip:
+    # LLM and API Integration (not available in conda)
+    - openai>=1.0.0
+    - anthropic>=0.7.0
+    - google-generativeai>=0.3.0
+    - tiktoken>=0.4.0
+    
+    # Research-specific tools
+    - PyPDF2>=3.0.0
+    - python-docx>=0.8.11
+    - spectral>=0.22
+    - pyspectra>=1.0.0
+    
+    # Additional visualization
+    - bokeh>=2.4.0
+    - altair>=4.2.0
+    - wordcloud>=1.9.0
+    
+    # Statistics
+    - pingouin>=0.5.0
+    
+    # Web scraping utilities
+    - requests-html>=0.10.0
+    
+    # Advanced time series (optional)
+    - prophet>=1.1.0
+    - pmdarima>=2.0.0
+    
+    # Text processing
+    - textblob>=0.17.0
+    
+    # Image processing utilities
+    - imageio>=2.21.0
+    
+    # Network utilities
+    - urllib3>=1.26.0
+    - certifi>=2022.6.15
+    
+    # Configuration
+    - click>=8.1.0
+    - configparser>=5.3.0
+    
+    # Documentation utilities
+    - myst-parser>=0.18.0
+    
+    # Cloud storage
+    - google-cloud-storage>=2.5.0
+    
+    # Parallel processing utilities
+    - multiprocessing-logging>=0.3.0
