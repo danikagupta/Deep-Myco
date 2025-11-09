@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+S m-g,Phanerochaete chrysosporium,50 mg/L,not specified,shaking (150 rpm),30 °C,7 days,4.5,75%,not specified,biodegradation evaluated at multiple time points
+S m-g,Phanerochaete chrysosporium,50 mg/L,not specified,shaking (150 rpm),30 °C,14 days,4.5,83%,not specified,biodegradation evaluated at multiple time points
+C m-s,Phanerochaete chrysosporium,50 mg/L,not specified,shaking (150 rpm),30 °C,28 days,4.5,80%,not specified,average decolorization observed
+C m-g,Phanerochaete chrysosporium,50 mg/L,not specified,shaking (150 rpm),30 °C,28 days,4.5,88%,not specified,average decolorization observed
+S p-g,Phanerochaete chrysosporium,50 mg/L,not specified,shaking (150 rpm),30 °C,28 days,4.5,89%,not specified,highest decolorization result observed
+S p-g,Phanerochaete chrysosporium,50 mg/L,not specified,shaking (150 rpm),30 °C,28 days,4.5,30%,not specified,only when pre-adapted to S p-g itself

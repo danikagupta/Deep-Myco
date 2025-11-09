@@ -1,0 +1,13 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Ponceau 2R,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static,27.5 °C,> 21 days,5.0,incomplete,mycelium,Figure 3 shows degradation by strain arf5
+Orange G,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static,27.5 °C,> 21 days,5.0,incomplete,mycelium,Figure 4 shows degradation by strain arf5
+Direct Blue 71,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static,27.5 °C,> 21 days,5.0,incomplete,mycelium,Figure 5 shows degradation by strain arf5
+Biebrich Scarlet,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static,27.5 °C,> 21 days,5.0,incomplete,mycelium,No decolorization observed
+Ponceau 2R,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static,Room temperature,10 days,5.0,100%,mycelium,Table 3 shows degradation in nitrogen-limiting conditions
+Orange G,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static,Room temperature,7 days,5.0,100%,mycelium,Table 3 shows degradation in nitrogen-limiting conditions
+Direct Blue 71,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static,Room temperature,12 days,5.0,100%,mycelium,Table 3 shows degradation in nitrogen-limiting conditions
+Biebrich Scarlet,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static,Room temperature,12 days,5.0,100%,mycelium,Table 3 shows degradation in nitrogen-limiting conditions
+Ponceau 2R,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static,30 °C,57.5 hours,various,>90%,mycelium,Table 4 shows DT 50 values at various temperatures
+Orange G,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static,30 °C,46.7 hours,various,>90%,mycelium,Table 4 shows DT 50 values at various temperatures
+Direct Blue 71,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static,30 °C,29.3 hours,various,>90%,mycelium,Table 4 shows DT 50 values at various temperatures
+Biebrich Scarlet,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static,30 °C,>120 hours,various,<90%,mycelium,Table 4 shows DT 50 values at various temperatures

@@ -1,0 +1,13 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Reactive blue,Polyporus rubidus,1000 mg/L,1 g,shaking,28°C,5 days,not specified,39%,mycelium,Figure 2: decolorization trend
+Reactive blue,Polyporus rubidus,100 mg/L,1 g,shaking,28°C,5 days,not specified,90%,mycelium,
+Reactive orange,Polyporus rubidus,1000 mg/L,1 g,shaking,28°C,5 days,not specified,40%,mycelium,
+Reactive orange,Polyporus rubidus,100 mg/L,1 g,shaking,28°C,5 days,not specified,92%,mycelium,
+Ramazol black,Polyporus rubidus,1000 mg/L,1 g,shaking,28°C,5 days,not specified,26%,mycelium,
+Ramazol black,Polyporus rubidus,100 mg/L,1 g,shaking,28°C,3 days,not specified,100%,mycelium,
+Congo red,Polyporus rubidus,1000 mg/L,1 g,shaking,28°C,5 days,not specified,not specified,mycelium,
+Congo red,Polyporus rubidus,100 mg/L,1 g,shaking,28°C,3 days,not specified,100%,mycelium,
+Untreated effluent 1,Polyporus rubidus,not specified,1 g,shaking,28°C,5 days,not specified,100%,mycelium,
+Untreated effluent 2,Polyporus rubidus,not specified,1 g,shaking,28°C,5 days,not specified,20%,mycelium,
+Untreated effluent 3,Polyporus rubidus,not specified,1 g,shaking,28°C,5 days,not specified,100%,mycelium,
+Untreated effluent 4,Polyporus rubidus,not specified,1 g,shaking,28°C,5 days,not specified,30%,mycelium,

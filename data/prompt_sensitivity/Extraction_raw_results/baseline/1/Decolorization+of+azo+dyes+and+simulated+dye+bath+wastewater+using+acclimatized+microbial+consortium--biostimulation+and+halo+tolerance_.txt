@@ -1,0 +1,16 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Disperse Blue 64,Aspergillus flavus,50 mg/L,Not specified,static condition,30°C,48 h,7.0,96.7%,whole fungi,Fungal isolate AUMC-10515
+Disperse Blue 64,Aspergillus flavus,100 mg/L,Not specified,static condition,30°C,48 h,7.0,Complete removal,whole fungi,Fungal isolate AUMC-10515
+Disperse Blue 64,Aspergillus flavus,300 mg/L,Not specified,static condition,30°C,48 h,7.0,30.3%,whole fungi,Fungal isolate AUMC-10515
+Acid Yellow 17,Aspergillus flavus,50 mg/L,Not specified,static condition,30°C,48 h,7.0,90.1%,whole fungi,Fungal isolate AUMC-10515
+Acid Yellow 17,Aspergillus flavus,100 mg/L,Not specified,static condition,30°C,48 h,7.0,Complete removal,whole fungi,Fungal isolate AUMC-10515
+Acid Yellow 17,Aspergillus flavus,300 mg/L,Not specified,static condition,30°C,48 h,7.0,4.6%,whole fungi,Fungal isolate AUMC-10515
+Disperse Blue 64,Pseudomonas aeruginosa,50 mg/L,Not specified,static condition,30°C,48 h,7.0,95.8%,whole fungi,Bacterial isolate AUMC B-171
+Disperse Blue 64,Pseudomonas aeruginosa,100 mg/L,Not specified,static condition,30°C,48 h,7.0,Complete removal,whole fungi,Bacterial isolate AUMC B-171
+Disperse Blue 64,Pseudomonas aeruginosa,300 mg/L,Not specified,static condition,30°C,48 h,7.0,22.4%,whole fungi,Bacterial isolate AUMC B-171
+Acid Yellow 17,Pseudomonas aeruginosa,50 mg/L,Not specified,static condition,30°C,48 h,7.0,89.7%,whole fungi,Bacterial isolate AUMC B-171
+Acid Yellow 17,Pseudomonas aeruginosa,100 mg/L,Not specified,static condition,30°C,48 h,7.0,Complete removal,whole fungi,Bacterial isolate AUMC B-171
+Acid Yellow 17,Pseudomonas aeruginosa,300 mg/L,Not specified,static condition,30°C,48 h,7.0,7.5%,whole fungi,Bacterial isolate AUMC B-171
+Disperse Blue 64 and Acid Yellow 17,Aspergillus flavus and Pseudomonas aeruginosa,50 mg/L,Not specified,static condition,30°C,48 h,7.0,>99%,mycelium and whole fungi,Bacterial-fungal consortium
+Disperse Blue 64 and Acid Yellow 17,Aspergillus flavus and Pseudomonas aeruginosa,100 mg/L,Not specified,static condition,30°C,48 h,7.0,>99%,mycelium and whole fungi,Bacterial-fungal consortium
+Disperse Blue 64 and Acid Yellow 17,Aspergillus flavus and Pseudomonas aeruginosa,300 mg/L,Not specified,static condition,30°C,48 h,7.0,55.2% and 57.6%,mycelium and whole fungi,Bacterial-fungal consortium

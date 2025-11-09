@@ -1,0 +1,11 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Olive Mill Wastewater,Trametes vesicolor,0%,NA,NA,NA,15 minutes,3,76.12%,whole fungi,Highest laccase inhibition at 3.52U.
+Olive Mill Wastewater,Trametes vesicolor,1%,NA,NA,NA,15 minutes,3,14.50% inhibition,whole fungi,Absorbance at 425nm was 0.72
+Olive Mill Wastewater,Trametes vesicolor,2%,NA,NA,NA,15 minutes,3,20.34% inhibition,whole fungi,Absorbance at 425nm was 0.67
+Olive Mill Wastewater,Trametes vesicolor,5%,NA,NA,NA,15 minutes,3,22.85% inhibition,whole fungi,Absorbance at 425nm was 0.65
+Standard Phenol,NA,0mg/L,NA,NA,NA,NA,NA,0,NA,Absorbance at 500nm was 0
+Standard Phenol,NA,1mg/L,NA,NA,NA,NA,NA,0.226,NA,Absorbance at 500nm was 0.226
+Standard Phenol,NA,2mg/L,NA,NA,NA,NA,NA,0.408,NA,Absorbance at 500nm was 0.408
+Standard Phenol,NA,3mg/L,NA,NA,NA,NA,NA,0.599,NA,Absorbance at 500nm was 0.599
+Standard Phenol,NA,4mg/L,NA,NA,NA,NA,NA,0.816,NA,Absorbance at 500nm was 0.816
+Standard Phenol,NA,5mg/L,NA,NA,NA,NA,NA,1.013,NA,Absorbance at 500nm was 1.013

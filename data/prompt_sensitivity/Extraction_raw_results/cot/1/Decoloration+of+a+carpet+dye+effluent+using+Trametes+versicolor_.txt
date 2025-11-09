@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Reactive blue 19,Trametes versicolor,0.036 mM,not specified,re-circulating packed bed,23 °C,4 h,5,97.5%,mycelium,Ethanolamine treatment reduced dye adsorption by 40%
+ABTS,Trametes versicolor,0.5 mM,0.274 nM,not specified,23 °C,not specified,5,not applicable,not applicable,Kinetics followed Michaelis-Menten
+Reactive blue 19,Trametes versicolor,0.036 mM,120 nM,not specified,22 °C,not specified,4,not specified,not applicable,Inhibition was parabolic mixed with sodium chloride
+Acid blue 74,Trametes versicolor,0.036 mM,120 nM,not specified,23 °C,not specified,4,not specified,not applicable,Not actively adsorbed on immobilized laccase
+Dispersed blue 3,Trametes versicolor,0.072 mM,120 nM,not specified,23 °C,not specified,4,not specified,not applicable,Dye decolorization was rapid
+Reactive black 5,Trametes versicolor,0.036 mM,not specified,not specified,23 °C,not specified,5,not specified,not applicable,Maximally toxic dye
+Acid red 27,Trametes versicolor,0.036 mM,not specified,not specified,23 °C,not specified,5,not specified,not applicable,Decreased activity with increasing dye concentration

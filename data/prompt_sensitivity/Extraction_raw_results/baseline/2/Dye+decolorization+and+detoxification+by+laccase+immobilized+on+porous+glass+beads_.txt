@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Reactive blue 19,Trametes versicolor,varied,not specified,not specified,25°C,not specified,5.0,high decolorization rate (>12 lM dye/U-h),whole fungi,Effective enzymatic degradation
+Dispersed blue 3,Trametes versicolor,varied,not specified,not specified,25°C,not specified,5.0,high decolorization rate,whole fungi,Effective enzymatic degradation
+Acid blue 74,Trametes versicolor,varied,not specified,not specified,25°C,not specified,5.0,high decolorization rate,whole fungi,Effective enzymatic degradation
+Acid red 27,Trametes versicolor,varied,not specified,not specified,25°C,not specified,5.0,moderate decolorization rate (8 to >0.06 lM/U-h),whole fungi,Transitional color observed
+Reactive black 5,Trametes versicolor,varied,not specified,not specified,25°C,not specified,5.0,permanent adsorption and inactivation of laccase,whole fungi,No effective decolorization

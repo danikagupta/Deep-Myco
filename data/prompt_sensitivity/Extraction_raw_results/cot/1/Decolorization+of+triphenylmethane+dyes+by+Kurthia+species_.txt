@@ -1,0 +1,17 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+crystal violet,Chryseomonas luteola,0.05 g/dm3,not specified,not specified,26 °C,48 h,not specified,26.8%,whole fungi,Sorption: 18.5%
+crystal violet,Pseudomonas aeruginosa,0.05 g/dm3,not specified,not specified,26 °C,48 h,not specified,40.5%,whole fungi,Sorption: 28.2%
+crystal violet,Burkholderia cepacia,0.05 g/dm3,not specified,not specified,26 °C,48 h,not specified,30.3%,whole fungi,Sorption: 7.6%
+crystal violet,Trametes versicolor,0.05 g/dm3,not specified,not specified,26 °C,5 days,not specified,75.9%,whole fungi,Sorption: 59.7%
+crystal violet,Polyporus picipes,0.05 g/dm3,not specified,not specified,26 °C,5 days,not specified,72.4%,whole fungi,Sorption: 70.4%
+brilliant green,Chryseomonas luteola,0.05 g/dm3,not specified,not specified,26 °C,48 h,not specified,79.3%,whole fungi,Sorption: 14.4%
+brilliant green,Pseudomonas aeruginosa,0.05 g/dm3,not specified,not specified,26 °C,48 h,not specified,88.6%,whole fungi,Sorption: 50.2%
+brilliant green,Burkholderia cepacia,0.05 g/dm3,not specified,not specified,26 °C,48 h,not specified,not specified,whole fungi,Sorption: 0.7%
+brilliant green,RWP1,0.05 g/dm3,not specified,not specified,26 °C,5 days,not specified,62.5%,whole fungi,Sorption: 10.2%
+thymol blue,Clitocybe dealbata,0.05 g/dm3,not specified,not specified,26 °C,5 days,not specified,not specified,whole fungi,not specified
+thymol blue,RWP17,0.05 g/dm3,not specified,not specified,26 °C,5 days,not specified,95.1%,whole fungi,Sorption: 89.7%
+thymol blue,SM,0.05 g/dm3,not specified,not specified,26 °C,5 days,not specified,96.2%,whole fungi,Sorption: 93%
+cresol red,RWP1,0.05 g/dm3,not specified,not specified,26 °C,5 days,not specified,74.8%,whole fungi,Sorption: 70.6%
+cresol red,RWP17,0.05 g/dm3,not specified,not specified,26 °C,5 days,not specified,89.2%,whole fungi,Sorption: 76.8%
+cresol red,SM,0.05 g/dm3,not specified,not specified,26 °C,5 days,not specified,74.5%,whole fungi,Sorption: 64.4%
+cresol red,L4,0.05 g/dm3,not specified,not specified,26 °C,5 days,not specified,97.9%,whole fungi,Sorption: 95.5%

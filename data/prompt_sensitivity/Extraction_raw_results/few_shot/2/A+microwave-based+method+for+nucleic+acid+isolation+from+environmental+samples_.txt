@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+not specified,KONA001,not applicable,not specified,none specified,27±2°C,7-10 days,not specified,not applicable,mycelium,identified as Schizophyllum sp by sequencing
+not specified,AGUM004,not applicable,not specified,none specified,27±2°C,7-10 days,not specified,not applicable,mycelium,identified as Ganoderma rasinaceum by sequencing
+not specified,AGUM007,not applicable,not specified,none specified,27±2°C,7-10 days,not specified,not applicable,mycelium,identified as Lentinus squarrosulus by sequencing
+not specified,AGUM011,not applicable,not specified,none specified,27±2°C,7-10 days,not specified,not applicable,mycelium,identified as Ganoderma rasinaceum by sequencing
+not specified,AGUM021,not applicable,not specified,none specified,27±2°C,7-10 days,not specified,not applicable,mycelium,identified as Coprinellus disseminatus by sequencing
+not specified,BANG001,not applicable,not specified,none specified,27±2°C,7-10 days,not specified,not applicable,mycelium,identified as Clitopilus scyphoides by sequencing
+not specified,TAMI004,not applicable,not specified,none specified,27±2°C,7-10 days,not specified,not applicable,mycelium,identified as Lentinus squarrosulus by sequencing

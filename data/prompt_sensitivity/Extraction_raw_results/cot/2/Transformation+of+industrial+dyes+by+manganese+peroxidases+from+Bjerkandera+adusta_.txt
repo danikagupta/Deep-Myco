@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+lignin,Bjerkandera sp. B33/3,0.005 g in 100 mM NaOH,not specified,stirring,30 °C,2.0 h,4.0,57.5%,mycelium,
+lignin,Bjerkandera sp. B33/3,0.005 g in 100 mM NaOH,not specified,stirring,30 °C,4.0 h,4.0,66.7%,mycelium,
+lignin,Bjerkandera sp. B33/3,0.005 g in 100 mM NaOH,not specified,stirring,30 °C,2.0 h,5.3,55.7%,mycelium,
+lignin,Bjerkandera sp. B33/3,0.005 g in 100 mM NaOH,not specified,stirring,30 °C,4.0 h,5.3,44.7%,mycelium,
+lignin,Bjerkandera sp. B33/3,0.005 g in 100 mM NaOH,not specified,stirring,30 °C,2.0 h,5.3,50.6%,mycelium,
+lignin,Bjerkandera sp. B33/3,0.005 g in 100 mM NaOH,not specified,stirring,30 °C,4.0 h,4.0,68.5%,mycelium,
+lignin,Bjerkandera sp. B33/3,0.005 g in 100 mM NaOH,not specified,stirring,30 °C,2.0 h,not specified,0.0%,mycelium,
+lignin,Bjerkandera sp. B33/3,0.005 g in 100 mM NaOH,not specified,stirring,30 °C,4.0 h,not specified,11.8%,mycelium,

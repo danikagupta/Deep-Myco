@@ -1,0 +1,23 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+nitrogen,Agaricus blazei U2-4,0.28 g/L,150 µM,not specified,28°C,21 days,not specified,5.1 U/mL,mycelium,
+nitrogen,Agaricus blazei U2-4,2.8 g/L,150 µM,not specified,28°C,21 days,not specified,43.8 U/mL,mycelium,
+copper,Agaricus blazei U2-4,50 µM,0.28 g/L,not specified,28°C,21 days,not specified,44.2 U/mL,mycelium,
+copper,Agaricus blazei U2-4,100 µM,0.28 g/L,not specified,28°C,21 days,not specified,45.2 U/mL,mycelium,
+copper,Agaricus blazei U2-4,150 µM,0.28 g/L,not specified,28°C,21 days,not specified,45.7 U/mL,mycelium,
+copper,Agaricus blazei U2-4,200 µM,0.28 g/L,not specified,28°C,21 days,not specified,45.5 U/mL,mycelium,
+copper,Agaricus blazei U2-4,250 µM,0.28 g/L,not specified,28°C,21 days,not specified,44.7 U/mL,mycelium,
+copper,Agaricus blazei U2-4,300 µM,0.28 g/L,not specified,28°C,21 days,not specified,43.3 U/mL,mycelium,
+inducer,Agaricus blazei U2-1,0.0 mM,not specified,not specified,not specified,21 days,not specified,7.6 U/mL,mycelium,
+inducer,Agaricus blazei U2-1,0.5 mM,not specified,not specified,not specified,21 days,not specified,5.8 U/mL,mycelium,"NT, not tested"
+inducer,Agaricus blazei U2-1,1.0 mM,not specified,not specified,not specified,21 days,not specified,8.0 U/mL,mycelium,"NT, not tested"
+inducer,Agaricus blazei U2-1,1.5 mM,not specified,not specified,not specified,21 days,not specified,7.8 U/mL,mycelium,"NT, not tested"
+inducer,Agaricus blazei U2-2,0.0 mM,not specified,not specified,not specified,21 days,not specified,4.8 U/mL,mycelium,
+inducer,Agaricus blazei U2-2,0.5 mM,not specified,not specified,not specified,21 days,not specified,6.0 U/mL,mycelium,7.7 U/mL
+inducer,Agaricus blazei U2-2,1.0 mM,not specified,not specified,not specified,21 days,not specified,10.5 U/mL,mycelium,5.4 U/mL
+inducer,Agaricus blazei U2-2,1.5 mM,not specified,not specified,not specified,21 days,not specified,8.2 U/mL,mycelium,5.7 U/mL
+inducer,Agaricus blazei U2-3,0.0 mM,not specified,not specified,not specified,21 days,not specified,10.3 U/mL,mycelium,
+inducer,Agaricus blazei U2-3,0.5 mM,not specified,not specified,not specified,21 days,not specified,11.3 U/mL,mycelium,13.3 U/mL
+inducer,Agaricus blazei U2-3,1.0 mM,not specified,not specified,not specified,21 days,not specified,10.6 U/mL,mycelium,12.6 U/mL
+inducer,Agaricus blazei U2-3,1.5 mM,not specified,not specified,not specified,21 days,not specified,10.5 U/mL,mycelium,10.4 U/mL
+inducer,Agaricus blazei U2-4,0.0 mM,not specified,not specified,not specified,21 days,not specified,25.4 U/mL,mycelium,
+inducer,Agaricus blazei U2-4,0.5 mM,not specified,not specified,not specified,21 days,not specified,,,

@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Amaranth,Trametes versicolor,50 ppm,not specified,agitated (200 rpm),30 °C,1 day,not specified,100%,mycelial pellets,Complete decoloration after 24 hours.
+Amaranth,Trametes versicolor,50 ppm,not specified,static,not specified,not specified,not specified,0%,fungal mat,No visible decoloration due to mycelial sorption.
+Remazol Black B,Trametes versicolor,60 ppm,not specified,static,not specified,6 days,not specified,13%,fungal mat,Only a small percentage was decolorized.
+Remazol Black B,Trametes versicolor,60 ppm,not specified,agitated (200 rpm),30 °C,2 days,not specified,100%,mycelial pellets,Complete decoloration within 48 hours.
+Reactive Blue,Trametes versicolor,20 ppm,not specified,agitated (200 rpm),30 °C,7 days,not specified,100%,mycelial pellets,Rapid decoloration observed.
+Remazol Orange,Trametes versicolor,60 ppm,not specified,static,not specified,not specified,not specified,0%,fungal mat,No decoloration noted.
+Mixed Dyes (Remazol Black + Remazol Orange + Reactive Blue),Trametes versicolor,30 + 30 + 20 ppm,not specified,agitated (200 rpm),30 °C,not specified,not specified,not specified,mycelial pellets,Subsequent challenges of dye mixtures showed sustained decoloration capabilities.

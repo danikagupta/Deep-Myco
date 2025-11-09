@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+orange II,Phanerochaete chrysosporium,not specified,not specified,not specified,not specified,not specified,not specified,extensively degraded,mycelium,ligninolytic cultures
+azure B,Phanerochaete chrysosporium,not specified,not specified,not specified,not specified,not specified,not specified,extensively degraded,mycelium,ligninolytic cultures
+tropaeolin O,Phanerochaete chrysosporium,not specified,not specified,not specified,not specified,not specified,not specified,extensively degraded,mycelium,ligninolytic cultures
+Congo red,Phanerochaete chrysosporium,not specified,not specified,not specified,not specified,not specified,not specified,extensively degraded,mycelium,ligninolytic cultures
+amaranth,Phanerochaete chrysosporium,not specified,not specified,not specified,not specified,not specified,not specified,extensively degraded,mycelium,ligninolytic cultures
+orange G,Phanerochaete chrysosporium,not specified,not specified,not specified,not specified,not specified,not specified,extensively degraded,mycelium,ligninolytic cultures
+"4-amino-1,1'-azobenzene-3,4'-disulfonic acid",Phanerochaete chrysosporium,not specified,not specified,not specified,not specified,not specified,not specified,decolorized,mycelium,ligninolytic cultures
+sulfanilic acid,Phanerochaete chrysosporium,not specified,not specified,not specified,not specified,not specified,not specified,decolorized,mycelium,ligninolytic cultures

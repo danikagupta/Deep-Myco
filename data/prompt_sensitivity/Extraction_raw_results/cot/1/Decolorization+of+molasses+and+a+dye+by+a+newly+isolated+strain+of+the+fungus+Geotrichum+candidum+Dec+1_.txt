@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+kraft pulp bleaching effluent,Geotrichum candidum Dec 1,not specified,25% glycerol stock suspension,reciprocal shaker,30 °C,10 days,5.0,78%,mycelium,Color removal at different glucose concentrations shown in Table 2.
+kraft pulp bleaching effluent,Geotrichum candidum Dec 1,not specified,not specified,not specified,not specified,7 days,not specified,43% AOX reduction,mycelium,AOX reduction shown in Figure 4.
+kraft pulp bleaching effluent,Geotrichum candidum Dec 1,not specified,not specified,not specified,30 °C,5 days,not specified,78%,mycelium,Color removal at glucose 20 g/L.
+kraft pulp bleaching effluent,Geotrichum candidum Dec 1,not specified,not specified,not specified,30 °C,6 days,not specified,78%,mycelium,Color removal at glucose 30 g/L.
+kraft pulp bleaching effluent,Geotrichum candidum Dec 1,not specified,not specified,not specified,not specified,3 days,not specified,47%,mycelium,Color removal at glucose 5 g/L.
+kraft pulp bleaching effluent,Geotrichum candidum Dec 1,not specified,not specified,not specified,not specified,4 days,not specified,0%,mycelium,Color removal after glucose consumption.
+commercial lignin,Geotrichum candidum Dec 1,1 g/L,not specified,not specified,30 °C,14 days,not specified,decolorized,mycelium,Color removal from lignin-containing plates shown in Figure 1.

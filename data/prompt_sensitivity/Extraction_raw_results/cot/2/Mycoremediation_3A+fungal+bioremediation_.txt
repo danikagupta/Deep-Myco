@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+molasses,Saccharomyces cerevisiae,not specified,not specified,not specified,not specified,0.5 days,not specified,94%,not specified,Anaerobic digestion process reported.
+molasses,Candida utilis,not specified,not specified,not specified,not specified,16 hours,5.5,80%,not specified,Efficiently removed COD by 70%.
+dairy wastewater,Torulopsis glabrata,not specified,not specified,aerated,30°C,24 hours,5,85%,not specified,Combined with aeration to control growth.
+beet molasses,Coriolus versicolor,not specified,not specified,shaking,30°C,24 hours,5,90%,mycelium,High decolorization efficiency.
+stillage,Geotrichum candidum,not specified,not specified,not specified,not specified,2 days,not specified,70%,mycelium,Effective for color removal from synthetic media.
+molasses,Aspergillus niger,not specified,not specified,not specified,not specified,0.5 days,not specified,50%,fungal mass,High tolerance and enzyme activity.
+olive mill wastewater,Phanerochaete chrysosporium,not specified,not specified,batch culture,30°C,6 days,not specified,50-70%,whole fungi,Utilizes MnP and LiP for decolorization.
+vinasse,Coriolus versicolor,not specified,not specified,not specified,not specified,10 days,not specified,80%,mycelium,Decolorization activity achieved with nutrient additions.
+distillery effluent,Aspergillus awamori,not specified,not specified,not specified,35°C,2 days,not specified,95%,not specified,Utilized for protein yield.

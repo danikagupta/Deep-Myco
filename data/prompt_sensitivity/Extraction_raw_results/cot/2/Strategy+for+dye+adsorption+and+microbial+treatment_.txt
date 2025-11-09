@@ -1,0 +1,16 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Cibacron Red C-2G,Corius versicolor,500 mg/L,not specified,not specified,not specified,not specified,not specified,70-75%,mycelium,not specified
+Remazol Navy Blue GG,Corius versicolor,500 mg/L,not specified,not specified,not specified,not specified,not specified,70-75%,mycelium,not specified
+Remazol Red RB,Corius versicolor,500 mg/L,not specified,not specified,not specified,not specified,not specified,70-75%,mycelium,not specified
+Cibacron Orange CG,Corius versicolor,500 mg/L,not specified,not specified,not specified,not specified,not specified,70-75%,mycelium,not specified
+Remazol Golden Yellow RNL,Corius versicolor,500 mg/L,not specified,not specified,not specified,not specified,not specified,70-75%,mycelium,not specified
+Hisperse Navy D2GR,Corius versicolor,500 mg/L,not specified,not specified,not specified,not specified,not specified,70-75%,mycelium,not specified
+Remazol Blue B,Corius versicolor,500 mg/L,not specified,not specified,not specified,not specified,not specified,70-75%,mycelium,not specified
+Remazol Turquoise Blue G 133,Corius versicolor,500 mg/L,not specified,not specified,not specified,not specified,not specified,70-75%,mycelium,not specified
+Remazol Black B,Bjerkandera adusta,not specified,not specified,not specified,not specified,not specified,not specified,53%,mycelium,fermented mass enriched with protein 229 g/kg dry weight
+Remazol-Red (diazo dye),Bacterial isolates (PDC 1),0.5 g/L,not specified,not specified,not specified,24-30 h,not specified,complete,not specified,performed under anaerobic conditions
+Cibacron-red (reactive dye),Bacterial isolates (PDC 1),0.5 g/L,not specified,not specified,not specified,48 h,not specified,complete,not specified,performed under anaerobic conditions
+Remazol-Golden Yellow (azo dye),Bacterial isolates (PDC 1),0.5 g/L,not specified,not specified,not specified,48 h,not specified,complete,not specified,performed under anaerobic conditions
+Cibacron-Orange (reactive dye),Bacterial isolates (PDC 1),0.5 g/L,not specified,not specified,not specified,48 h,not specified,partial,not specified,performed under anaerobic conditions
+Remazol Navy Blue (diazo dye),Bacterial isolates (PDC 1),0.5 g/L,not specified,not specified,not specified,54 h,not specified,complete,not specified,performed under anaerobic conditions
+Remazol-Turquoise Blue (phthalocyanine dye),Bacterial isolates (PDC 1),0.5 g/L,not specified,not specified,not specified,not specified,not specified,complete,not specified,color partially reversed upon exposure to air

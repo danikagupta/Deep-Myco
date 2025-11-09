@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Phenol,Trametes versicolor,20% v/v,Not specified,Flask culture,Not specified,12 hours,Not specified,Residual phenol 5.99 mM,Whole fungi,Highest total removal and rate of removal of phenolic compounds.
+p-Cresol,Trametes versicolor,20% v/v,Not specified,Flask culture,Not specified,12 hours,Not specified,0 mM,Whole fungi,Highest total removal and rate of removal of phenolic compounds.
+m-Cresol,Trametes versicolor,20% v/v,Not specified,Flask culture,Not specified,12 hours,Not specified,0 mM,Whole fungi,Highest total removal and rate of removal of phenolic compounds.
+o-Cresol,Trametes versicolor,20% v/v,Not specified,Flask culture,Not specified,12 hours,Not specified,0.04 mM,Whole fungi,Highest total removal and rate of removal of phenolic compounds.
+p-Cresol,Trametes pubescens,2% v/v,10% inoculum,Airlift Loop Reactor,28°C,7 days,Not specified,0 mM residual after treatment,Whole fungi,5% v/v phenolic effluent addition led to increased laccase activity.
+o-Cresol,Trametes pubescens,2% v/v,10% inoculum,Airlift Loop Reactor,28°C,7 days,Not specified,0 mM residual after treatment,Whole fungi,Increased laccase production in response to effluent.
+Mixed phenolic compounds,Trametes pubescens,5% v/v,10% inoculum,Airlift Loop Reactor,28°C,16 days,Not specified,Complete removal of all target monomers,Whole fungi,These results represent the highest total removal and rate of removal of toxic phenols yet reported.

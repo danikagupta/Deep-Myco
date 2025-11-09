@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+not specified,Trametes pubescens MB89,not specified,0.87 ± 0.28 g/L,shaking,28 °C,15 days,5.0,not specified,mycelium,Full-strength distillery wastewater (pH 3.75) was adjusted.
+not specified,Trametes pubescens MB89,not specified,1.27 ± 0.31 g/L,shaking,28 °C,15 days,5.0,not specified,mycelium,Individual carbon sources assessed.
+not specified,Trametes pubescens MB89,not specified,0.76 ± 0.25 g/L,shaking,28 °C,14 days,5.0,not specified,mycelium,Wastewaters from distilleries and a winery were tested.
+not specified,Trametes pubescens MB89,not specified,0.76 ± 0.25 g/L,shaking,28 °C,20 days,not specified,not specified,mycelium,"Multiple additions of 2,5-xylidine were conducted."
+not specified,Trametes pubescens MB89,not specified,not specified,shaking,28 °C,20 days,not specified,not specified,not specified,Inducers assessed both before and after inoculation.

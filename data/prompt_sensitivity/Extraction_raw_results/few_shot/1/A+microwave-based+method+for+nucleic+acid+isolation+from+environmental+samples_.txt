@@ -1,0 +1,11 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+not applicable,KONA001,not applicable,not specified,none,27±2°C,7-10 days,not applicable,not applicable,mycelium,DNA isolated using microwave method and amplified using PCR
+not applicable,AGUM004,not applicable,not specified,none,27±2°C,7-10 days,not applicable,not applicable,mycelium,DNA isolated using microwave method and amplified using PCR
+not applicable,AGUM007,not applicable,not specified,none,27±2°C,7-10 days,not applicable,not applicable,mycelium,DNA isolated using microwave method and amplified using PCR
+not applicable,AGUM011,not applicable,not specified,none,27±2°C,7-10 days,not applicable,not applicable,mycelium,DNA isolated using microwave method and amplified using PCR
+not applicable,AGUM021,not applicable,not specified,none,27±2°C,7-10 days,not applicable,not applicable,mycelium,DNA isolated using microwave method and amplified using PCR
+not applicable,BANG001,not applicable,not specified,none,27±2°C,7-10 days,not applicable,not applicable,mycelium,DNA isolated using microwave method and amplified using PCR
+not applicable,TAMI004,not applicable,not specified,none,27±2°C,7-10 days,not applicable,not applicable,mycelium,DNA isolated using microwave method and amplified using PCR
+not applicable,MTCC138,not applicable,not specified,none,27±2°C,7-10 days,not applicable,not applicable,mycelium,DNA isolated using microwave method and amplified using PCR
+not applicable,MTCC149,not applicable,not specified,none,27±2°C,7-10 days,not applicable,not applicable,mycelium,DNA isolated using microwave method and amplified using PCR
+not applicable,MTCC1039,not applicable,not specified,none,27±2°C,7-10 days,not applicable,not applicable,mycelium,DNA isolated using microwave method and amplified using PCR

@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Methylene blue,Kabatiella bupleuri,250 mg/L,not specified,shaking,30 °C,60 min,not specified,18.2 ± 2.5%,not specified,used as a control dye
+Alkaline fuchsin,Kabatiella bupleuri,250 mg/L,not specified,shaking,30 °C,60 min,not specified,31.7 ± 3.3%,not specified,used as a control dye
+Crystal violet,Kabatiella bupleuri,250 mg/L,not specified,shaking,30 °C,60 min,not specified,40.4 ± 7.0%,not specified,used as a control dye
+Coomassie Brilliant Blue R-250,Kabatiella bupleuri,250 mg/L,not specified,shaking,30 °C,60 min,not specified,19.8 ± 5.8%,not specified,used as a control dye

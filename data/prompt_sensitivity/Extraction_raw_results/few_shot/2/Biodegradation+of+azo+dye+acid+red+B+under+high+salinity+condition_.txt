@@ -1,0 +1,11 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Congo Red,Phanerochaete chrysosporium,not specified,not specified,not specified,not specified,not specified,not specified,not specified,not specified,reported by Gill et al.
+Congo Red,Dichomitus squalens,not specified,not specified,not specified,not specified,not specified,not specified,not specified,not specified,reported by Gill et al.
+Reactive Orange 16,Irpex lacteus,not specified,not specified,not specified,not specified,not specified,not specified,80%,not specified,reported by Svobodová et al.
+Congo Red,Noval species of Alternaria alternata,600 mg/L,not specified,not specified,not specified,48 h,not specified,not specified,not specified,reported by authors.
+Reactive Orange 16,Ganoderma spp.,not specified,not specified,not specified,not specified,not specified,not specified,not specified,not specified,reported by Ma et al.
+Reactive Red 31,Aspergillus bombycis,not specified,not specified,not specified,not specified,not specified,not specified,not specified,not specified,reported by authors.
+Reactive Red 198,Aspergillus niger,200 mg/L,not specified,not specified,not specified,6 days,not specified,not specified,not specified,reported by Asses et al.
+Direct Blue 1,Aspergillus terreus,not specified,not specified,not specified,not specified,not specified,not specified,not specified,not specified,reported by Singh et al.
+Methylene Blue,Fusarium equiseti,not specified,not specified,not specified,not specified,not specified,not specified,not specified,not specified,reported by Krishnan et al.
+Malachite Green,Aspergillus flavus,not specified,not specified,not specified,not specified,not specified,not specified,N-demethylated and N-oxidized metabolites identified,not specified,reported by Barapatre et al.

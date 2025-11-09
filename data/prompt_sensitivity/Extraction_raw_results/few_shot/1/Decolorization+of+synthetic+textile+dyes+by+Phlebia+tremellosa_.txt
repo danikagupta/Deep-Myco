@@ -1,0 +1,12 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Reactive blue,Polyporus rubidus,1000 mg/L,1 g (wet weight),stationary,28 ± 2 °C,5 days,not specified,63%,mycelium,initially 100% color
+Reactive blue,Polyporus rubidus,1000 mg/L,1 g (wet weight),stationary,28 ± 2 °C,5 days,not specified,46%,mycelium,day 3
+Reactive blue,Polyporus rubidus,1000 mg/L,1 g (wet weight),stationary,28 ± 2 °C,5 days,not specified,39%,mycelium,day 5
+Reactive blue,Polyporus rubidus,100 mg/L,1 g (wet weight),stationary,28 ± 2 °C,5 days,not specified,90%,mycelium,complete decolorization after 3 days
+Reactive orange,Polyporus rubidus,1000 mg/L,1 g (wet weight),stationary,28 ± 2 °C,5 days,not specified,40%,mycelium,day 5
+Reactive orange,Polyporus rubidus,100 mg/L,1 g (wet weight),stationary,28 ± 2 °C,5 days,not specified,92%,mycelium,complete decolorization after 3 days
+Ramazol black,Polyporus rubidus,1000 mg/L,1 g (wet weight),stationary,28 ± 2 °C,5 days,not specified,26%,mycelium,day 5
+Ramazol black,Polyporus rubidus,100 mg/L,1 g (wet weight),stationary,28 ± 2 °C,5 days,not specified,100%,mycelium,complete decolorization after 3 days
+Congo red,Polyporus rubidus,1000 mg/L,1 g (wet weight),stationary,28 ± 2 °C,5 days,not specified,data not specified,mycelium,complete decolorization not achieved with enzyme alone
+Congo red,Polyporus rubidus,100 mg/L,1 g (wet weight),stationary,28 ± 2 °C,5 days,not specified,data not specified,mycelium,complete decolorization not specified
+textile effluent,Polyporus rubidus,not specified,not specified,stationary,28 ± 2 °C,8 days,4-7,100%,mycelium,within four days for specific samples

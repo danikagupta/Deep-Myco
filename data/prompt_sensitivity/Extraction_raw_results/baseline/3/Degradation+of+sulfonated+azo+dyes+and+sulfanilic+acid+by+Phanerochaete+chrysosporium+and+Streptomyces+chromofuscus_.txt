@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+4-(4'-sulfopheny1azo)-phenol,Phanerochaete chrysosporium,50 µM,Not applicable,shaking,25°C,10 min,6.0,Complete,whole fungi,Enzyme reactions were performed.
+2-(4'-sulfopheny1azo)-phenol,Phanerochaete chrysosporium,50 µM,Not applicable,shaking,25°C,10 min,6.0,Very low,whole fungi,All 2-(4'-sulfopheny1azo)-phenol dyes were poor substrates.
+Orange I,Not applicable,10 µM,Not applicable,Not specified,25°C,15 min,3.5,Up to 63%,Not applicable,Maximum reduction was determined at the lowest pH.
+Crocein Orange G,Not applicable,300 µM,Not applicable,shaking,Not specified,Not specified,Not specified,90%,Not applicable,First-order kinetics were observed.
+Orange II,Not applicable,200 µM,Not applicable,shaking,25°C,6 min,Not specified,Complete,Not applicable,Produced sulfanilic acid from reduction.
+Sunset Yellow FCF,Not applicable,Not specified,Not applicable,Not specified,Not specified,Not specified,Not specified,31%,Not applicable,All dyes produced substituted anilines from dye reduction.

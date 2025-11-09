@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+bentazon,Trametes versicolor,10 ppm,80 g L^-1 wet weight,"stirred tank bioreactor, 200 rpm",25 °C,6 h,4.5,complete removal,fungal mass,DO level 30%
+tributyl phosphate,Trametes versicolor,5 ppm,80 g L^-1 wet weight,"stirred tank bioreactor, 200 rpm",25 °C,32 h,4.5,complete removal,fungal mass,DO level 30%
+bentazon,Trametes versicolor,10 ppm,80 g L^-1 wet weight,"stirred tank bioreactor, 200 rpm",25 °C,24 h,4.5,moderate removal,fungal mass,DO level 15%
+tributyl phosphate,Trametes versicolor,5 ppm,80 g L^-1 wet weight,"stirred tank bioreactor, 200 rpm",25 °C,48 h,4.5,low removal,fungal mass,DO level 15%
+acetate,Trametes versicolor,2 g L^-1,80 g L^-1 wet weight,"stirred tank bioreactor, 200 rpm",25 °C,130 h,4.5,total consumption,fungal mass,DO level 30%

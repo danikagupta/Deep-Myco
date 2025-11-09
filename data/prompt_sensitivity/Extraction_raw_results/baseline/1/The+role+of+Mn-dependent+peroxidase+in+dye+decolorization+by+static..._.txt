@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Reactive Black 5,Phanerochaete sordida PBU 0057,100 mg/L,Not specified,shaking,30ºC,3 days,7,100%,whole fungi,Complete decoloration within three days; compared with reference strain Phanerochaete chrysosporium ATCC 24725.
+Reactive Black 5,Phanerochaete chrysosporium ATCC 24725,100 mg/L,Not specified,shaking,30ºC,4 days,7,96%,whole fungi,Compared against Phanerochaete sordida; reached 96% maximum by 96 hours.
+Reactive Black 5,Phanerochaete sordida PBU 0057,200 mg/L,Not specified,shaking,30ºC,72 hours,7,Not specified; slightly slower at higher concentration,whole fungi,Decolorization slightly slower compared to concentration of 100 mg/L.
+Reactive Black 5,Phanerochaete sordida PBU 0057,100 mg/L,Not specified,0 rpm (static),30ºC,72 hours,6,100%,whole fungi,Decoloration occurred without agitation.
+Reactive Black 5,Phanerochaete sordida PBU 0057,100 mg/L,Not specified,150 rpm,35ºC,72 hours,7,100%,whole fungi,Complete decoloration under agitation.
+Reactive Black 5,Phanerochaete sordida PBU 0057,100 mg/L,Not specified,150 rpm,25ºC,96 hours,7,Delays noted; specific percentage not given.,whole fungi,Color reduction was slower compared to higher temperatures.
+Reactive Black 5,Phanerochaete sordida PBU 0057,200 mg/L,Not specified,0 rpm (static),30ºC,72 hours,7,Not specified; slightly slower than at 100 mg/L.,whole fungi,Decoloration occurred without agitation.
+Reactive Black 5,Phanerochaete sordida PBU 0057,100 mg/L,Not specified,150 rpm,35ºC,72 hours,8,93%,whole fungi,Comparative results to effects of temperature and pH on decoloration.

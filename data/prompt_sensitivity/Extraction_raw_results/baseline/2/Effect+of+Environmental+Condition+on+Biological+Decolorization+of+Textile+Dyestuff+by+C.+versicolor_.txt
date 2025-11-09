@@ -1,0 +1,19 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+red,Aspergillus niger,50,not specified,not specified,25,24,not specified,62.85,whole fungi,Dye removal measured every 24 hours.
+red,Aspergillus niger,50,not specified,not specified,25,48,not specified,83.52,whole fungi,Dye removal measured every 24 hours.
+red,Aspergillus niger,50,not specified,not specified,25,72,not specified,99.77,whole fungi,Dye removal measured every 24 hours.
+red,Aspergillus niger,100,not specified,not specified,25,24,not specified,50.96,whole fungi,Dye removal measured every 24 hours.
+red,Aspergillus niger,100,not specified,not specified,25,48,not specified,77.87,whole fungi,Dye removal measured every 24 hours.
+red,Aspergillus niger,100,not specified,not specified,25,72,not specified,96.02,whole fungi,Dye removal measured every 24 hours.
+red,Aspergillus niger,300,not specified,not specified,25,24,not specified,38.87,whole fungi,Dye removal measured every 24 hours.
+red,Aspergillus niger,300,not specified,not specified,25,48,not specified,60.55,whole fungi,Dye removal measured every 24 hours.
+red,Aspergillus niger,300,not specified,not specified,25,72,not specified,92.19,whole fungi,Dye removal measured every 24 hours.
+yellow,Aspergillus niger,50,not specified,not specified,25,24,not specified,62.09,whole fungi,Dye removal measured every 24 hours.
+yellow,Aspergillus niger,50,not specified,not specified,25,48,not specified,80.94,whole fungi,Dye removal measured every 24 hours.
+yellow,Aspergillus niger,50,not specified,not specified,25,72,not specified,94.11,whole fungi,Dye removal measured every 24 hours.
+yellow,Aspergillus niger,100,not specified,not specified,25,24,not specified,48.31,whole fungi,Dye removal measured every 24 hours.
+yellow,Aspergillus niger,100,not specified,not specified,25,48,not specified,76.88,whole fungi,Dye removal measured every 24 hours.
+yellow,Aspergillus niger,100,not specified,not specified,25,72,not specified,93.65,whole fungi,Dye removal measured every 24 hours.
+yellow,Aspergillus niger,300,not specified,not specified,25,24,not specified,38.68,whole fungi,Dye removal measured every 24 hours.
+yellow,Aspergillus niger,300,not specified,not specified,25,48,not specified,58.01,whole fungi,Dye removal measured every 24 hours.
+yellow,Aspergillus niger,300,not specified,not specified,25,72,not specified,88.9,whole fungi,Dye removal measured every 24 hours.

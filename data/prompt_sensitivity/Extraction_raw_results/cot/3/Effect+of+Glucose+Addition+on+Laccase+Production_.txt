@@ -1,0 +1,19 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+lignin,Trametes versicolor,0.04 g/L,0.102 g,shaking,28°C,10 days,not specified,not specified,mycelium,maximum laccase activity 1240 U/L
+lignin,Trametes versicolor,0.20 g/L,0.102 g,shaking,28°C,10 days,not specified,not specified,mycelium,maximum laccase activity 985 U/L
+lignin,Trametes versicolor,0.40 g/L,0.102 g,shaking,28°C,10 days,not specified,not specified,mycelium,maximum laccase activity 912 U/L
+lignin,Trametes versicolor,2.0 g/L,0.102 g,shaking,28°C,10 days,not specified,not specified,mycelium,maximum laccase activity 912 U/L
+ligninosulphonates,Trametes versicolor,0.034 g/L,0.102 g,shaking,28°C,10 days,not specified,not specified,mycelium,maximum laccase activity 192 U/L
+ligninosulphonates,Trametes versicolor,0.086 g/L,0.102 g,shaking,28°C,10 days,not specified,not specified,mycelium,maximum laccase activity 224 U/L
+ligninosulphonates,Trametes versicolor,0.171 g/L,0.102 g,shaking,28°C,10 days,not specified,not specified,mycelium,maximum laccase activity 270 U/L
+ligninosulphonates,Trametes versicolor,0.34 g/L,0.102 g,shaking,28°C,10 days,not specified,not specified,mycelium,maximum laccase activity 148 U/L
+veratryl alcohol,Trametes versicolor,0.050 mM,0.102 g,shaking,28°C,10 days,not specified,not specified,mycelium,maximum laccase activity 47 U/L
+veratryl alcohol,Trametes versicolor,1 mM,0.102 g,shaking,28°C,10 days,not specified,not specified,mycelium,maximum laccase activity 79 U/L
+veratryl alcohol,Trametes versicolor,2 mM,0.102 g,shaking,28°C,10 days,not specified,not specified,mycelium,maximum laccase activity 345 U/L
+veratryl alcohol,Trametes versicolor,4 mM,0.102 g,shaking,28°C,10 days,not specified,not specified,mycelium,maximum laccase activity 33 U/L
+xylidine,Trametes versicolor,10 µM,0.102 g,shaking,28°C,10 days,not specified,not specified,mycelium,maximum laccase activity 573 U/L
+xylidine,Trametes versicolor,15 µM,0.102 g,shaking,28°C,10 days,not specified,not specified,mycelium,maximum laccase activity 912 U/L
+xylidine,Trametes versicolor,30 µM,0.102 g,shaking,28°C,10 days,not specified,not specified,mycelium,maximum laccase activity 1583 U/L
+xylidine,Trametes versicolor,50 µM,0.102 g,shaking,28°C,10 days,not specified,not specified,mycelium,maximum laccase activity 1040 U/L
+ethanol,Trametes versicolor,20 g/L,0.102 g,shaking,28°C,10 days,not specified,not specified,mycelium,maximum laccase activity not specified
+ethanol,Trametes versicolor,40 g/L,0.102 g,shaking,28°C,10 days,not specified,not specified,mycelium,maximum laccase activity not specified

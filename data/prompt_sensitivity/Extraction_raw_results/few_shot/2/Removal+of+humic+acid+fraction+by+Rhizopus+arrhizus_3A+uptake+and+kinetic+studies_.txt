@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Lignin,Bjerkandera adusta R59,0.2%,not specified,static,26 °C,18 days,not specified,100%,mycelium,Visible decolorization began on the 5th day; complete overgrowth of plates by mycelium observed after 18 days.
+Humic acids from brown coal,Bjerkandera adusta R59,0.03%,not specified,static,26 °C,18 days,not specified,100%,mycelium,Decolorization began on the 3rd day.
+Humic acids from lessive soil,Bjerkandera adusta R59,0.03%,not specified,static,26 °C,18 days,not specified,100%,mycelium,Decolorization began on the 3rd day.
+Humic acids from chernozem,Bjerkandera adusta R59,0.01%,not specified,static,26 °C,7 days,not specified,100%,mycelium,Total visible decolorization was observed on the 7th day.

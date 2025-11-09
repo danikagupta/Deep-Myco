@@ -1,0 +1,23 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+not specified,Citeromyces siamensis,not specified,1% glucose,shaking (200 rpm),30 °C,7 days,not specified,not specified,not specified,performed color measurement at 574 nm
+not specified,Citeromyces siamensis,not specified,2% glucose,shaking (200 rpm),30 °C,7 days,not specified,not specified,not specified,performed color measurement at 574 nm
+not specified,Citeromyces siamensis,not specified,3% glucose,shaking (200 rpm),30 °C,7 days,not specified,not specified,not specified,performed color measurement at 574 nm
+not specified,Citeromyces siamensis,not specified,1% sucrose,shaking (200 rpm),30 °C,7 days,not specified,not specified,not specified,performed color measurement at 574 nm
+not specified,Citeromyces siamensis,not specified,2% sucrose,shaking (200 rpm),30 °C,7 days,not specified,not specified,not specified,performed color measurement at 574 nm
+not specified,Citeromyces siamensis,not specified,3% sucrose,shaking (200 rpm),30 °C,7 days,not specified,not specified,not specified,performed color measurement at 574 nm
+not specified,Citeromyces siamensis,not specified,1% lactose,shaking (200 rpm),30 °C,7 days,not specified,not specified,not specified,performed color measurement at 574 nm
+not specified,Citeromyces siamensis,not specified,2% lactose,shaking (200 rpm),30 °C,7 days,not specified,not specified,not specified,performed color measurement at 574 nm
+not specified,Citeromyces siamensis,not specified,3% lactose,shaking (200 rpm),30 °C,7 days,not specified,not specified,not specified,performed color measurement at 574 nm
+not specified,Issatchenkia orientalis,not specified,1% glucose,shaking (200 rpm),30 °C,7 days,not specified,not specified,not specified,performed color measurement at 574 nm
+not specified,Issatchenkia orientalis,not specified,2% glucose,shaking (200 rpm),30 °C,7 days,not specified,not specified,not specified,performed color measurement at 574 nm
+not specified,Issatchenkia orientalis,not specified,3% glucose,shaking (200 rpm),30 °C,7 days,not specified,not specified,not specified,performed color measurement at 574 nm
+not specified,Issatchenkia orientalis,not specified,1% sucrose,shaking (200 rpm),30 °C,7 days,not specified,not specified,not specified,performed color measurement at 574 nm
+not specified,Issatchenkia orientalis,not specified,2% sucrose,shaking (200 rpm),30 °C,7 days,not specified,not specified,not specified,performed color measurement at 574 nm
+not specified,Issatchenkia orientalis,not specified,3% sucrose,shaking (200 rpm),30 °C,7 days,not specified,not specified,not specified,performed color measurement at 574 nm
+not specified,Issatchenkia orientalis,not specified,1% lactose,shaking (200 rpm),30 °C,7 days,not specified,not specified,not specified,performed color measurement at 574 nm
+not specified,Issatchenkia orientalis,not specified,2% lactose,shaking (200 rpm),30 °C,7 days,not specified,not specified,not specified,performed color measurement at 574 nm
+not specified,Issatchenkia orientalis,not specified,3% lactose,shaking (200 rpm),30 °C,7 days,not specified,not specified,not specified,performed color measurement at 574 nm
+not specified,Saccharomyces cerevisiae,not specified,1% glucose,shaking (200 rpm),30 °C,7 days,not specified,not specified,not specified,performed color measurement at 574 nm
+not specified,Saccharomyces cerevisiae,not specified,2% glucose,shaking (200 rpm),30 °C,7 days,not specified,not specified,not specified,performed color measurement at 574 nm
+not specified,Saccharomyces cerevisiae,not specified,3% glucose,shaking (200 rpm),30 °C,7 days,not specified,not specified,not specified,performed color measurement at 574 nm
+not specified,Saccharomyces cerevisiae,not specified,1% sucrose,shaking (200 rpm),30 °C,7 days,not specified,not specified,not specified,

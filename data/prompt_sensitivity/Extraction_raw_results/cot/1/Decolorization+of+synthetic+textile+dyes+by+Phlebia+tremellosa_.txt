@@ -1,0 +1,12 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Reactive blue,Polyporus rubidus,100 mg/L,not specified,shaking,28 °C,5 days,not specified,90%,mycelium,not specified
+Reactive blue,Polyporus rubidus,400 mg/L,not specified,shaking,28 °C,5 days,not specified,80%,mycelium,not specified
+Reactive blue,Polyporus rubidus,1000 mg/L,not specified,shaking,28 °C,5 days,not specified,61%,mycelium,not specified
+Reactive orange,Polyporus rubidus,100 mg/L,not specified,shaking,28 °C,5 days,not specified,92%,mycelium,not specified
+Reactive orange,Polyporus rubidus,400 mg/L,not specified,shaking,28 °C,5 days,not specified,60%,mycelium,not specified
+Reactive orange,Polyporus rubidus,1000 mg/L,not specified,shaking,28 °C,5 days,not specified,60%,mycelium,not specified
+Ramazol black,Polyporus rubidus,100 mg/L,not specified,shaking,28 °C,3 days,not specified,100%,mycelium,not specified
+Ramazol black,Polyporus rubidus,1000 mg/L,not specified,shaking,28 °C,5 days,not specified,74%,mycelium,not specified
+Congo red,Polyporus rubidus,100 mg/L,not specified,shaking,28 °C,3 days,not specified,100%,mycelium,not specified
+Congo red,Polyporus rubidus,1000 mg/L,not specified,shaking,28 °C,5 days,not specified,74%,mycelium,not specified
+textile effluent,Polyporus rubidus,not specified,not specified,shaking,28 °C,8 days,4-7,100%,whole fungi,2 samples showed 100% decolorization within 4 days.

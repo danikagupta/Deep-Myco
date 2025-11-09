@@ -1,0 +1,4 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+not specified,Trametes pubescens MB89,not specified,0.87 ± 0.28 g/L,shaking incubator,28 °C,15 days,5.0,not specified,mycelium,not specified
+not specified,Trametes pubescens MB89,not specified,1.27 ± 0.31 g/L,shaking incubator,28 °C,15 days,5.0,not specified,mycelium,experiment with different carbon sources
+not specified,Trametes pubescens MB89,not specified,0.76 ± 0.25 g/L,benchtop shaker,28 °C,14 days,5.0,not specified,mycelium,study in four wine-related wastewaters

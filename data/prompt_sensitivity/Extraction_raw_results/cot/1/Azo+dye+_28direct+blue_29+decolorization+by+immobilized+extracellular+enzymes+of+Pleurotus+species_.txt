@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Phenol Red,P. flabellatus,300 mg/L,1 mm,stagnant,25°C,20 days,not specified,not specified,mycelium,not specified
+Phenol Red,P. ostreatus,300 mg/L,1 mm,stagnant,25°C,20 days,not specified,not specified,mycelium,not specified
+Phenol Red,P. citrinopileatus,300 mg/L,1 mm,stagnant,25°C,20 days,not specified,not specified,mycelium,not specified
+Phenol Red,P. flabellatus,300 mg/L,5 ml,not specified,25°C,10 days,5.5,not specified,mycelium,5 ml of 10 days old culture shows maximum decolorization
+Phenol Red,P. ostreatus,300 mg/L,5 ml,not specified,25°C,10 days,5.5,not specified,mycelium,5 ml of 10 days old culture shows maximum decolorization
+Phenol Red,P. citrinopileatus,300 mg/L,5 ml,not specified,25°C,10 days,5.5,not specified,mycelium,5 ml of 10 days old culture shows maximum decolorization
+Phenol Red,Poc 9X6,300 mg/L,1 mm,stagnant,25°C,20 days,not specified,not specified,mycelium,Improved dikaryon shows higher efficiency
+Phenol Red,Pfo 6X9,300 mg/L,1 mm,stagnant,25°C,20 days,not specified,not specified,mycelium,Improved dikaryon shows higher efficiency
+Phenol Red,Poc 9X6,300 mg/L,3 ml,not specified,25°C,10 days,not specified,not specified,mycelium,Effect of concentration of fungi

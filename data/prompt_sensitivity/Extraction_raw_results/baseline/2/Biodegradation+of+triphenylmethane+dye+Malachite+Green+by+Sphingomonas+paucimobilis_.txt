@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Malachite Green,Pleurotus ostreatus,20 mg L-1,2% v/v,stirring (120 rpm),25 °C,72 hours,4.5,98.1 ± 0.04%,whole fungi,Laccase activity: 54.8 ± 8.9 U L-1
+Malachite Green,Pleurotus ostreatus,20 mg L-1,2% v/v,stirring (120 rpm),30 °C,72 hours,6.0,96.2 ± 0.1%,whole fungi,Laccase activity: 54.8 ± 8.9 U L-1
+Crystal Violet,Pleurotus ostreatus,10 mg L-1,2% v/v,stirring (120 rpm),30 °C,216 hours,6.0,98.3 ± 0.05%,whole fungi,Laccase activity: 30.6 ± 2.9 U L-1
+Crystal Violet,Pleurotus ostreatus,10 mg L-1,2% v/v,stirring (120 rpm),25 °C,216 hours,6.0,96.8 ± 0.4%,whole fungi,Laccase activity: 30.6 ± 2.9 U L-1
+Malachite Green,Pleurotus ostreatus,20 mg L-1,non-viable biomass,stirring (120 rpm),25 °C,72 hours,4.5,49.5 ± 2.9%,non-viable fungal biomass,
+Crystal Violet,Pleurotus ostreatus,10 mg L-1,non-viable biomass,stirring (120 rpm),30 °C,216 hours,6.0,45 ± 1.9%,non-viable fungal biomass,

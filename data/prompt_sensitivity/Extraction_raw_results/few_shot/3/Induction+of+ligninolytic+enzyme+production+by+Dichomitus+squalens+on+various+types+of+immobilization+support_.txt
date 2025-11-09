@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Remazol Brilliant Blue R,Ceriporiopsis subvermispora,50 mg L−1,not specified,not specified,room temperature,8 h,4.5,80%,not specified,Lac played a crucial role
+Copper(II) phthalocyanine,Ceriporiopsis subvermispora,50 mg L−1,not specified,not specified,room temperature,12 h,4.5,60%,not specified,initially faster decolorization than RBBR due to higher MnP activities
+Remazol Brilliant Blue R,Ceriporiopsis subvermispora,not specified,not specified,shaking,30 °C,14 h,4.5,60%,mycelium,both enzyme mixtures in OLM and BWCM showed 60% decolorization
+Copper(II) phthalocyanine,Ceriporiopsis subvermispora,not specified,not specified,shaking,30 °C,14 h,4.5,60%,mycelium,both enzyme mixtures in OLM and BWCM showed 60% decolorization

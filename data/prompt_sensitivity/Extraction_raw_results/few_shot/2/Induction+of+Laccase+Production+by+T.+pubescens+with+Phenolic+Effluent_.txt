@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+not specified,Trametes pubescens MB89,not applicable,0.87 ± 0.28 g/L,shaking (150 rpm),28 °C,15 days,5.5,not applicable,mycelium,"full-strength distillery wastewater (COD 29.5 g/L, total phenolic compounds 280 mg/L, pH 3.75)"
+not specified,Trametes pubescens MB89,not applicable,1.27 ± 0.31 g/L,shaking (150 rpm),28 °C,15 days,5.0,not applicable,mycelium,assessing effects of carbon and nitrogen sources
+not specified,Trametes pubescens MB89,not applicable,not specified,shaking (150 rpm),28 °C,20 days,5.0,not applicable,mycelium,assessing various inducers
+not specified,Trametes pubescens MB89,not applicable,0.76 ± 0.25 g/L,shaking (150 rpm),28 °C,14 days,5.0,not applicable,mycelium,testing in modified wine-related wastewaters
+not specified,Trametes pubescens MB89,not applicable,not specified,shaking,not specified,not specified,not specified,not applicable,not specified,"Multiple additions of 2,5-xylidine observed a 10.3-fold increase in laccase synthesis"
+not specified,Trametes pubescens MB89,not applicable,0.76 ± 0.25 g/L,shaking (150 rpm),28 °C,not specified,5.0,not applicable,mycelium,"highest laccase synthesis found with combination of glucose, copper, and 2,5-xylidine"

@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+N/A,Laccaria trichodermophora,N/A,N/A,shaking,25 ± 2 °C,10 days,5.50 ± 0.05,N/A,whole fungi,Cultured using Biotin Folic Acid medium.
+N/A,Laccaria trichodermophora,N/A,N/A,shaking,25 ± 2 °C,10 days,5.5 ± 0.1,N/A,whole fungi,1 mL of culture medium containing hyphae was used to inoculate.
+N/A,Laccaria trichodermophora,N/A,N/A,shaking,25 ± 2 °C,N/A,5.5 ± 0.1,N/A,whole fungi,Pellets and clumps imaged with confocal microscopy.
+N/A,Laccaria trichodermophora,N/A,N/A,shaking,25 ± 2 °C,N/A,N/A,N/A,whole fungi,Sections measured for extracellular volume fraction.
+N/A,Laccaria trichodermophora,N/A,N/A,N/A,N/A,N/A,N/A,N/A,whole fungi,Dolipore structures visualized for fluid flow measurements.

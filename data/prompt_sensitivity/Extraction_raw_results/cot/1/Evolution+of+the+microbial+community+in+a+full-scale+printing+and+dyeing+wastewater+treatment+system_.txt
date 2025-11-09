@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+not specified,Pseudomonas putida R1,not specified,not specified,not specified,not specified,not specified,not specified,complete,whole fungi,not specified
+not specified,Acinetobacter calcoaceticus,not specified,not specified,not specified,not specified,not specified,not specified,complete,whole fungi,not specified
+not specified,Pantoea agglomerans,not specified,not specified,not specified,not specified,not specified,not specified,complete,whole fungi,not specified
+not specified,Pseudomonas nitroreducens,not specified,not specified,not specified,not specified,not specified,not specified,90%,whole fungi,not specified

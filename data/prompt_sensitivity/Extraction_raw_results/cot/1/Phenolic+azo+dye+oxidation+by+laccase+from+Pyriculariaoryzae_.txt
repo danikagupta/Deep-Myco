@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Diamond Black PV 200,Trametes modesta,0.56 g L⁻¹ (100 mM),100 nkat mL⁻¹,not specified,25 °C,3 h,5,90%,mycelium,Dye transformation products analyzed by HPLC/MS.
+"1,5-dihydroxy-2-naphthylazo-3-sulfonic acid (I)",Trametes modesta,not specified,not specified,not specified,25 °C,not specified,4-5,not specified,mycelium,No enzymatic transformation observed at pH < 4 and > 6.
+"1,5-dihydroxy-2-phenylazo-4-sulfonic acid (II)",Trametes modesta,not specified,not specified,not specified,25 °C,not specified,4-5,not specified,mycelium,No enzymatic transformation observed at pH < 4 and > 6.
+"1,5-dihydroxy-2-phenylazo-3-sulfonic acid (III)",Trametes modesta,not specified,not specified,not specified,25 °C,not specified,4-5,not specified,mycelium,No enzymatic transformation observed at pH < 4 and > 6.
+"1,5-dihydroxy-2-(2-hydroxy-3-nitro)phenylazo-5-sulfonic acid (V)",Trametes modesta,not specified,not specified,not specified,25 °C,not specified,4-5,not specified,mycelium,No enzymatic transformation observed at pH < 4 and > 6.
+Diamond Black PV 200,Trametes modesta,1.5 mM,not specified,not specified,25 °C,0.5 h,5,90%,mycelium,Kinetics under various conditions measured.

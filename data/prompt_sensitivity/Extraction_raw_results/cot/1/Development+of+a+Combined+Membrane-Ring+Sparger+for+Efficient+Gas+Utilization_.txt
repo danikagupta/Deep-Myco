@@ -1,0 +1,13 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Phenol,Trametes versicolor,20 % v/v,not specified,not specified,not specified,1 day,not specified,0.125 g/g/d,not specified,
+p-cresol,Trametes versicolor,20 % v/v,not specified,not specified,not specified,1 day,not specified,0.075 g/g/d,not specified,
+m-cresol,Trametes versicolor,20 % v/v,not specified,not specified,not specified,1 day,not specified,0.077 g/g/d,not specified,
+o-cresol,Trametes versicolor,20 % v/v,not specified,not specified,not specified,1 day,not specified,0.231 g/g/d,not specified,
+Phenol,Trametes pubescens,2.5 % v/v,not specified,not specified,not specified,8 days,not specified,not specified,not specified,
+p-cresol,Trametes pubescens,2.5 % v/v,not specified,not specified,not specified,8 days,not specified,not specified,not specified,
+m-cresol,Trametes pubescens,2.5 % v/v,not specified,not specified,not specified,8 days,not specified,not specified,not specified,
+o-cresol,Trametes pubescens,2.5 % v/v,not specified,not specified,not specified,8 days,not specified,not specified,not specified,
+Phenol,Trametes pubescens,5 % v/v,not specified,not specified,not specified,not specified,not specified,0.033 g/g/d,not specified,
+p-cresol,Trametes pubescens,5 % v/v,not specified,not specified,not specified,not specified,not specified,0.011 g/g/d,not specified,
+m-cresol,Trametes pubescens,5 % v/v,not specified,not specified,not specified,not specified,not specified,0.012 g/g/d,not specified,
+o-cresol,Trametes pubescens,5 % v/v,not specified,not specified,not specified,not specified,not specified,0.035 g/g/d,not specified,

@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Acid Red 151,A. flavus SA2,20 mg l-1,0.001% (w/v),static,30 °C,8 days,5.6,67%,whole fungi,Higher removal in SDB than STE
+Acid Red 151,A. tereus SA3,20 mg l-1,0.001% (w/v),static,30 °C,8 days,5.6,22%,whole fungi,Least decolorizing in both dyes
+Acid Red 151,Alternaria spp. SA4,20 mg l-1,0.001% (w/v),static,30 °C,8 days,5.6,65%,whole fungi,Higher removal in SDB than STE
+Orange II,Penicillium spp. SA5,20 mg l-1,0.001% (w/v),static,30 °C,8 days,5.6,34%,whole fungi,Higher removal in SDB than STE
+Orange II,A. flavus SA2,20 mg l-1,0.001% (w/v),shaking (100 rpm),30 °C,192 hrs,8,47.98%,whole fungi,"Primary products: alpha naphthol, sulphalinic acid, aniline"
+Acid Red 151,A. flavus SA2,20 mg l-1,0.001% (w/v),shaking (100 rpm),30 °C,192 hrs,8,97.70%,whole fungi,Production of alpha naphthol (5.03 mg l-1) and sulphalinic acid (20.52 mg l-1)
+Orange II,Alternaria spp. SA4,20 mg l-1,0.001% (w/v),shaking (100 rpm),30 °C,192 hrs,8,58.66%,whole fungi,Production of significant levels of alpha naphthol

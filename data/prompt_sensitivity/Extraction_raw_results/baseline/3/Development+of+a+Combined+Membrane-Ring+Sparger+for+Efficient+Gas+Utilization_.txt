@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+phenol,Trametes versicolor,20%,not specified,not specified,not specified,12 hours,not specified,removal rate of 0.125 g/g biomass/d,whole fungi,highest total removal yet reported
+p-cresol,Trametes versicolor,5% v/v,not specified,not specified,not specified,not specified,not specified,complete removal,whole fungi,removal of toxic aromatic compounds
+m-cresol,Trametes versicolor,5% v/v,not specified,not specified,not specified,not specified,not specified,complete removal,whole fungi,removal of toxic aromatic compounds
+o-cresol,Trametes versicolor,5% v/v,not specified,not specified,not specified,not specified,not specified,complete removal,whole fungi,removal of toxic aromatic compounds
+phenolic effluent,Trametes pubescens,2.5% v/v,not specified,not specified,not specified,8 days,not specified,0.033 g phenol/g biomass/d,whole fungi,daily additions of effluent
+phenolic effluent,Trametes pubescens,3.5% v/v,not specified,not specified,not specified,8 days,not specified,0.011 g p-cresol/g biomass/d,whole fungi,daily additions of effluent
+phenolic effluent,Trametes pubescens,5% v/v,not specified,not specified,not specified,8 days,not specified,0.035 g o-cresol/g biomass/d,whole fungi,daily additions of effluent

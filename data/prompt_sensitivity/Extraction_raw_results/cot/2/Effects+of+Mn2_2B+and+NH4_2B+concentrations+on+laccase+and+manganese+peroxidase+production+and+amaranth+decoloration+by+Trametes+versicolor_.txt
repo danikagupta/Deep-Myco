@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Poly R-478,Phlebia sp. MG-60,0.02%,not specified,not specified,30°C,not specified,4.5,"inhibited by high sea salts, improved at 2 weeks",mycelium,Decolorization required MnP activity higher than 400 U/l under 3% and 5% sea salt conditions.
+Poly R-478,Phlebia sp. MG-60,0.02%,not specified,not specified,30°C,not specified,4.5,inhibited by excess Mn2/H11001,mycelium,Mn2/H11001 at 300 mg/l inhibited decolorization slightly more in HM-KS medium.
+Poly R-478,Phlebia sp. MG-60,0.02%,not specified,not specified,30°C,not specified,4.5,accelerated at 5% sea salts,mycelium,NH4/H11001 improved decolorization at 5% sea salt.
+Poly R-478,Phlebia sp. MG-60,0.02%,not specified,not specified,30°C,not specified,4.5,decolorization improved despite 3% sea salts inhibiting laccase activity,mycelium,Linear correlation observed between MnP activity and decolorization.

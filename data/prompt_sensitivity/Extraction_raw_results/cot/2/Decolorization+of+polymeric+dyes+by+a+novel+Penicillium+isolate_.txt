@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Reactive Red 198,Penicillium simplicissimum,200 mg/L,not specified,shaking,28°C,7 days,not specified,100%,mycelium,N/A
+Reactive Blue 21,Penicillium simplicissimum,200 mg/L,not specified,shaking,28°C,2 days,not specified,100%,mycelium,N/A
+Reactive Blue 214,Penicillium simplicissimum,200 mg/L,not specified,shaking,28°C,7 days,not specified,100%,mycelium,N/A
+"Mixture of Reactive Red 198, Reactive Blue 21, Reactive Blue 214",Penicillium simplicissimum,66.6 mg/L each,not specified,shaking,28°C,5 days,not specified,100%,mycelium,N/A

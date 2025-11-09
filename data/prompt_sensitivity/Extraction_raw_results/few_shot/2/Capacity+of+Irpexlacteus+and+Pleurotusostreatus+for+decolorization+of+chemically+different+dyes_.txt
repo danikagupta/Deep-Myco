@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),not specified,shaking (120 rpm),30 °C,7 days,4.5,84.8%,not specified,initial screening study
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),not specified,shaking (120 rpm),30 °C,3 days,4,100%,not specified,using maltose and ammonium sulfate as carbon and nitrogen sources
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),not specified,static,25 °C,10 days,4,not specified,not specified,Time course study at different temperatures
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),not specified,shaking (120 rpm),30 °C,10 days,"varied (3, 3.5, 4.0, 4.5, 5.0, 5.5, 6.0)",up to 89.2%,not specified,Effects of pH on decolorization efficiency
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),not specified,shaking (120 rpm),30 °C,10 days,4,91.5%,not specified,Using maltose and ammonium sulfate as carbon and nitrogen sources
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),not specified,shaking (120 rpm),30 °C,10 days,4,not specified,not specified,Factors such as varying inoculum size were studied

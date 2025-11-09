@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+kraft pulp bleaching effluent,Geotrichum candidum Dec 1,not specified,not specified,shaking (120 rpm),30 °C,7 days,not specified,78%,whole fungi,glucose concentration 30 g/L
+kraft pulp bleaching effluent,Geotrichum candidum Dec 1,not specified,not specified,static,30 °C,6 days,not specified,78%,whole fungi,glucose concentration 30 g/L
+kraft pulp bleaching effluent,Geotrichum candidum Dec 1,not specified,not specified,shaking (120 rpm),30 °C,3 days,not specified,47%,whole fungi,glucose concentration 5 g/L
+kraft pulp bleaching effluent,Geotrichum candidum Dec 1,not specified,not specified,shaking (120 rpm),30 °C,4 days,not specified,0%,whole fungi,glucose concentration 5 g/L
+kraft pulp bleaching effluent,Geotrichum candidum Dec 1,not specified,not specified,shaking (120 rpm),30 °C,10 days,5.0,15%,whole fungi,control of decolorization without cells
+kraft pulp bleaching effluent,Geotrichum candidum Dec 1,not specified,not specified,shaking (120 rpm),30 °C,5 days,not specified,not specified,whole fungi,"glucose concentration varying (5, 10, 20, 30 g/L)"

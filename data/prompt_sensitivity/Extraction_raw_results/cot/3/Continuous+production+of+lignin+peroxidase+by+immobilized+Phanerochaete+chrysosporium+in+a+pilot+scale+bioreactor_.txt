@@ -1,0 +1,4 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+"2,4-Dichlorophenoxyacetic acid",Phanerochaete chrysosporium,0.25 µM,not specified,shaking,37°C,15 days,not specified,41.7%,mycelium,None
+"2,4-Dichlorophenoxyacetic acid",Schizophyllum commune,0.25 µM,not specified,shaking,37°C,15 days,not specified,32.6%,mycelium,None
+"2,4-Dichlorophenoxyacetic acid",Lenzites eximia,0.25 µM,not specified,shaking,37°C,15 days,not specified,39.0%,mycelium,None

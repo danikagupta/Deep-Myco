@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Basic fuchsin,Fomitopsis feei,0.001%,not specified,shaking,28°C,21 days,2.15,98%,mycelium,Laccase: 46 U/mL; Lignin peroxidase: 36 U/mL
+Methyl violet,Fomitopsis feei,0.001%,not specified,shaking,28°C,21 days,5.18,91.5%,mycelium,Lignin peroxidase: 6 U/mL
+Ethyl violet,Fomitopsis feei,0.001%,not specified,shaking,28°C,21 days,6.19,83.1%,mycelium,Lignin peroxidase: 2 U/mL
+Malachite green,Fomitopsis feei,0.001%,not specified,shaking,28°C,21 days,2.04,89.6%,mycelium,Lignin peroxidase: not specified
+Bromophenol blue,Fomitopsis feei,0.001%,not specified,shaking,28°C,21 days,1.98,96.8%,mycelium,Laccase: 42 U/mL
+Methyl green,Fomitopsis feei,0.001%,not specified,shaking,28°C,21 days,2.20,88.3%,mycelium,Lignin peroxidase: 44 U/mL

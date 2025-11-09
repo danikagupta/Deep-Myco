@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+not specified,Coriolus versicolor,not specified,not specified,not specified,27±2°C,7-10 days,not specified,not applicable,mycelium,Method 1 for DNA extraction
+not specified,Ganoderma lucidium,not specified,not specified,not specified,27±2°C,7-10 days,not specified,not applicable,mycelium,Method 2 for DNA extraction
+not specified,Pleurotus sajorcaju,not specified,not specified,not specified,27±2°C,7-10 days,not specified,not applicable,mycelium,Method 3 for DNA extraction
+not specified,AGUM004,not specified,not specified,not specified,not specified,not specified,not specified,not applicable,mycelium,DNA yield and A260/A280 ratio results
+not specified,AGUM007,not specified,not specified,not specified,not specified,not specified,not specified,not applicable,mycelium,DNA yield and A260/A280 ratio results
+not specified,KONA001,not specified,not specified,not specified,not specified,not specified,not specified,not applicable,mycelium,DNA yield and A260/A280 ratio results
+not specified,BANG001,not specified,not specified,not specified,not specified,not specified,not specified,not applicable,mycelium,DNA yield and A260/A280 ratio results
+not specified,TAMI004,not specified,not specified,not specified,not specified,not specified,not specified,not applicable,mycelium,DNA yield and A260/A280 ratio results

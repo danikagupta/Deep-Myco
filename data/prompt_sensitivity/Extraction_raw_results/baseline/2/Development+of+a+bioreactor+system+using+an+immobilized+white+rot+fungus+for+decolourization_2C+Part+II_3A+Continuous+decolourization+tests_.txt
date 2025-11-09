@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Poly R-478,Phanerochaete chrysosporium,not specified,10% (v/v) inoculum,orbital agitation at 100 rpm,38°C,not specified for this stage,4.5 (adjusted with HCl),62%,mycelium,Immobilized on polyurethane foam.
+Poly R-478,Phanerochaete chrysosporium,not specified,10% (v/v) inoculum,orbital agitation at 100 rpm,38°C,40 days (repeated-batch tests with 3 days each batch),not specified,60%,mycelium,Immobilized on scouring web.
+Poly S-119,Phanerochaete chrysosporium,not specified,10% (v/v) inoculum,not specified,38°C,not specified,not specified,54% (initial 17 days continuous operation),mycelium,Used in a rotating biological contactor (RBC) reactor.
+not specified,Phanerochaete chrysosporium,not specified,10% (v/v) inoculum,not specified,38°C,36 days continuous operation,not specified,55%,mycelium,RBC reactor showed sequential feeding to increase efficiency.

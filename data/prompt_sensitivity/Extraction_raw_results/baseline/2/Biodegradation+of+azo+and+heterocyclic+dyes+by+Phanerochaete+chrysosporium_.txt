@@ -1,0 +1,13 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Orange II,Phanerochaete chrysosporium,50 mg/l,not specified,shaking (150 rpm),30°C,7 days,3.0,39.84%,mycelium,Optimum decolorization at pH 5.0.
+Orange II,Phanerochaete chrysosporium,50 mg/l,not specified,shaking (150 rpm),30°C,7 days,4.0,71.56%,mycelium,Optimum decolorization at pH 5.0.
+Orange II,Phanerochaete chrysosporium,50 mg/l,not specified,shaking (150 rpm),30°C,7 days,5.0,86.34%,mycelium,Optimum decolorization observed.
+Orange II,Phanerochaete chrysosporium,50 mg/l,not specified,shaking (150 rpm),30°C,7 days,6.0,69.56%,mycelium,Decrease in decolorization at higher pH.
+Orange II,Phanerochaete chrysosporium,50 mg/l,not specified,shaking (150 rpm),30°C,7 days,7.0,51.42%,mycelium,Decrease in decolorization at pH 7.0.
+Orange II,Phanerochaete chrysosporium,100 mg/l,not specified,shaking (150 rpm),30°C,7 days,5.0,85%,mycelium,Observed decrease in decolorization with increasing dye concentration.
+Orange II,Phanerochaete chrysosporium,150 mg/l,not specified,shaking (150 rpm),30°C,7 days,5.0,less than previous concentrations,mycelium,Inhibition observed at higher dye concentrations.
+Orange II,Phanerochaete chrysosporium,200 mg/l,not specified,shaking (150 rpm),30°C,7 days,5.0,lower than previous concentrations,mycelium,Further inhibition likely.
+Orange II,Phanerochaete chrysosporium,250 mg/l,not specified,shaking (150 rpm),30°C,7 days,5.0,significantly lower,mycelium,High concentration led to very low decolorization.
+Orange II,Phanerochaete chrysosporium,50 mg/l,not specified,shaking (150 rpm),24°C,7 days,5.0,slightly lower than at 30°C,mycelium,Temperature effect indicated.
+Orange II,Phanerochaete chrysosporium,50 mg/l,not specified,shaking (150 rpm),32°C,7 days,5.0,lower than at 30°C,mycelium,Temperature effect indicated.
+Orange II,Phanerochaete chrysosporium,50 mg/l,not specified,shaking (150 rpm),34°C,7 days,5.0,lower than at 30°C,mycelium,Temperature effect indicated.

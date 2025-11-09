@@ -1,0 +1,16 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Congo red,Pha. chrysosporium,100 mg/L,not specified,not specified,not specified,not specified,not specified,not specified,mycelium,reported by Gill et al.
+Congo red,Dichomitus squalens,not specified,not specified,not specified,not specified,not specified,not specified,not specified,mycelium,reported by Gill et al.
+Reactive Orange 16,Irpex lacteus,not specified,not specified,not specified,not specified,not specified,not specified,80%,mycelium,reported by Svobodová et al.
+Congo red,Ganoderma lucidum,100 mg/L,not specified,not specified,not specified,48 h,not specified,not specified,mycelium,reported by Jayasinghe et al.
+Blue 21,Fusarium oxysporum,not specified,not specified,not specified,not specified,not specified,not specified,not specified,mycelium,reported by Dhanve et al.
+Reactive Orange 16,Bjerkandera adusta,not specified,not specified,not specified,not specified,not specified,not specified,not specified,mycelium,reported by Ghanem et al.
+Congo red,Aspergillus niger,200 mg/L,not specified,not specified,not specified,6 days,not specified,not specified,mycelium,reported by Asses et al.
+Reactive Red 31,Aspergillus bombycis,not specified,not specified,not specified,not specified,not specified,not specified,not specified,mycelium,reported by Khan et al.
+Cresol Red,Absidia spinosa,not specified,not specified,not specified,not specified,not specified,not specified,65%,mycelium,reported by Kristanti et al.
+Malachite Green,Aspergillus flavus,not specified,not specified,not specified,not specified,not specified,not specified,not specified,mycelium,intermediate N-demethylated and N-oxidized metabolites identified according to Barapatre et al.
+Reactive Red 198,Aspergillus niger,200 mg/L,not specified,not specified,not specified,6 days,not specified,not specified,mycelium,reported by Asses et al.
+Reactive Orange 16,Bacillus stratosphericus,50 mg/L,not specified,not specified,not specified,not specified,not specified,100%,mycelium,reported by Akansha et al.
+Acid Orange 7,Shewanella oneidensis,not specified,not specified,not specified,not specified,not specified,not specified,not specified,not specified,reported by Mani et al.
+Acid Scarlet GR,Galactomyces geotrichum,not specified,not specified,not specified,not specified,not specified,not specified,not specified,mycelium,reported by Khehra et al.
+Acid Red B,Pichia kudriavzevii,100 mg/L,not specified,not specified,not specified,40 h,not specified,90%,mycelium,reported by Tan et al.

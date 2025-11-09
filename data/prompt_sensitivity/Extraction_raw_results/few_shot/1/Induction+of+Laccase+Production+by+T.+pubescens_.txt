@@ -1,0 +1,13 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+not applicable,Agaricus blazei,not applicable,0.28 g/L nitrogen,not specified,28°C,21 days,not specified,5.1 U/mL laccase activity,mycelium,highest laccase activity without copper.
+not applicable,Agaricus blazei,not applicable,2.8 g/L nitrogen,not specified,28°C,21 days,not specified,43.8 U/mL laccase activity,mycelium,highest laccase production achieved with copper.
+not applicable,Agaricus blazei,not applicable,2.8 g/L nitrogen,not specified,28°C,21 days,not specified,44.2 U/mL laccase activity,mycelium,with 50 µM copper.
+not applicable,Agaricus blazei,not applicable,2.8 g/L nitrogen,not specified,28°C,21 days,not specified,44.9 U/mL laccase activity,mycelium,with 100 µM copper.
+not applicable,Agaricus blazei,not applicable,2.8 g/L nitrogen,not specified,28°C,21 days,not specified,44.4 U/mL laccase activity,mycelium,with 150 µM copper.
+not applicable,Agaricus blazei,not applicable,2.8 g/L nitrogen,not specified,28°C,21 days,not specified,45.0 U/mL laccase activity,mycelium,with 200 µM copper.
+not applicable,Agaricus blazei,not applicable,2.8 g/L nitrogen,not specified,28°C,21 days,not specified,45.7 U/mL laccase activity,mycelium,with 250 µM copper.
+not applicable,Agaricus blazei,not applicable,2.8 g/L nitrogen,not specified,28°C,21 days,not specified,45.4 U/mL laccase activity,mycelium,with 300 µM copper.
+not applicable,Agaricus blazei,not applicable,not specified,not specified,not specified,3 days for each inducer,not specified,varied laccase activity,mycelium,1 mM ethanol increased laccase by 120% for strain U2-2.
+not applicable,Agaricus blazei,not applicable,not specified,not specified,not specified,3 days for each inducer,not specified,varied laccase activity,mycelium,0.5 mM guaiacol increased laccase by 60% for strain U2-2.
+not applicable,Agaricus blazei,not applicable,not specified,not specified,not specified,3 days for each inducer,not specified,varied laccase activity,mycelium,1.0 and 1.5 mM ethanol increased laccase activity for strain U2-2.
+not applicable,Agaricus blazei,not applicable,not specified,not specified,not specified,21 days,not specified,5% increase in laccase activity,mycelium,pyrogallol initially inhibited laccase activity.

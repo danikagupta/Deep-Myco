@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Acid Red 131,Aspergillus niger,100 mg/L,24 hr culture,shaking,room temperature,60 minutes,7.4 ± 0.2,measured by decrease in absorbance at 550nm,whole fungi,"dye concentration varied, maximum decolorization observed at 75 mg/L"
+Acid Red 131,Aspergillus niger,25 mg/L,24 hr culture,shaking,30 °C,varied,7,first order kinetics,whole fungi,thermodynamic and kinetic parameters studied
+Acid Red 131,Aspergillus niger,50 mg/L,24 hr culture,shaking,30 °C,varied,7,first order kinetics,whole fungi,thermodynamic and kinetic parameters studied
+Acid Red 131,Aspergillus niger,75 mg/L,24 hr culture,shaking,30 °C,60 minutes,7,maximum decolorization observed,whole fungi,thermodynamic and kinetic parameters studied
+Acid Red 131,Aspergillus niger,100 mg/L,24 hr culture,shaking,40 °C,varied,7,observed,whole fungi,thermodynamic and kinetic parameters studied
+Acid Red 131,Aspergillus niger,100 mg/L,24 hr culture,shaking,50 °C,varied,7,observed,whole fungi,thermodynamic and kinetic parameters studied

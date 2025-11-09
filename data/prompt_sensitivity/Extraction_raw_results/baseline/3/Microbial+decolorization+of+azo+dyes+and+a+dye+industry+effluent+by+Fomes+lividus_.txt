@@ -1,0 +1,16 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+orange G,Daldenia concentrica,50 µM,105 spores/ml,shaking,30°C,12 days,6.5,35.88%,mycelium,Maximum dye removal observed due to adsorption and metabolic breakdown.
+orange G,Lepiota sp.,50 µM,105 spores/ml,shaking,30°C,12 days,6.5,43.00%,mycelium,Maximum dye removal observed due to adsorption and metabolic breakdown.
+orange G,Trametes serialis,50 µM,105 spores/ml,shaking,30°C,12 days,6.5,32.00%,mycelium,Maximum dye removal observed due to adsorption and metabolic breakdown.
+methyl orange,Daldenia concentrica,50 µM,105 spores/ml,shaking,30°C,8 days,6.5,60.00%,mycelium,Maximum dye removal observed along with increased mycelial growth.
+methyl orange,Lepiota sp.,50 µM,105 spores/ml,shaking,30°C,16 days,6.5,58.65%,mycelium,Maximum dye removal observed along with increased mycelial growth.
+methyl orange,Trametes serialis,50 µM,105 spores/ml,shaking,30°C,8 days,6.5,53.28%,mycelium,Maximum dye removal observed along with increased mycelial growth.
+congo red,Daldenia concentrica,50 µM,105 spores/ml,shaking,30°C,8 days,6.5,91.54%,mycelium,Maximum dye removal was observed along with increased mycelial growth.
+congo red,Lepiota sp.,50 µM,105 spores/ml,shaking,30°C,8 days,6.5,90.07%,mycelium,Maximum dye removal was observed along with increased mycelial growth.
+congo red,Trametes serialis,50 µM,105 spores/ml,shaking,30°C,8 days,6.5,95.48%,mycelium,Maximum dye removal was observed along with increased mycelial growth.
+textile industry effluent,Daldenia concentrica,n/a,50 ml of spore suspension (10^5 spores/ml),batch mode,39°C,7 days,n/a,84.52%,n/a,Maximum colour removal observed after 7 days.
+textile industry effluent,Lepiota sp.,n/a,50 ml of spore suspension (10^5 spores/ml),batch mode,n/a,7 days,n/a,66.67%,n/a,Maximum colour removal observed after 7 days.
+textile industry effluent,Trametes serialis,n/a,50 ml of spore suspension (10^5 spores/ml),batch mode,n/a,7 days,n/a,89.28%,n/a,Maximum colour removal observed after 7 days.
+textile industry effluent,Lepiota sp.,n/a,50 ml of spore suspension (10^5 spores/ml),continuous mode,n/a,7 days,n/a,55.95%,n/a,Maximum colour removal observed in continuous mode on 7th day.
+textile industry effluent,Daldenia concentrica,n/a,50 ml of spore suspension (10^5 spores/ml),continuous mode,n/a,5 days,n/a,52.38%,n/a,Maximum colour removal observed in continuous mode on 5th day.
+textile industry effluent,Trametes serialis,n/a,50 ml of spore suspension (10^5 spores/ml),continuous mode,n/a,5 days,n/a,54.76%,n/a,Maximum colour removal observed in continuous mode on 5th day.

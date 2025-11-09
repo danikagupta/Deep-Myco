@@ -1,0 +1,16 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Acid Red (AR) 151,A. flavus SA2,20 mg l-1,0.001% (w/v),shaking,30°C,192 hours,5.6,97.70%,fungal mass,N/A
+Acid Red (AR) 151,A. tereus SA3,20 mg l-1,0.001% (w/v),shaking,30°C,192 hours,5.6,55.42%,fungal mass,N/A
+Acid Red (AR) 151,Alternaria spp. SA4,20 mg l-1,0.001% (w/v),shaking,30°C,192 hours,5.6,98.47%,fungal mass,N/A
+Acid Red (AR) 151,Penicillium spp. SA5,20 mg l-1,0.001% (w/v),shaking,30°C,192 hours,5.6,65.12%,fungal mass,N/A
+Orange II (Or II),A. flavus SA2,20 mg l-1,0.001% (w/v),shaking,30°C,192 hours,5.6,47.98%,fungal mass,N/A
+Orange II (Or II),A. tereus SA3,20 mg l-1,0.001% (w/v),shaking,30°C,192 hours,5.6,44.67%,fungal mass,N/A
+Orange II (Or II),Alternaria spp. SA4,20 mg l-1,0.001% (w/v),shaking,30°C,192 hours,5.6,58.66%,fungal mass,N/A
+Orange II (Or II),Penicillium spp. SA5,20 mg l-1,0.001% (w/v),shaking,30°C,192 hours,5.6,55.68%,fungal mass,N/A
+Acid Red (AR) 151,A. flavus SA2,20 mg l-1,0.001% (w/v),static,30°C,192 hours,5.6,67.38%,fungal mass,N/A
+Acid Red (AR) 151,A. tereus SA3,20 mg l-1,0.001% (w/v),static,30°C,192 hours,5.6,22.43%,fungal mass,N/A
+Acid Red (AR) 151,Alternaria spp. SA4,20 mg l-1,0.001% (w/v),static,30°C,192 hours,5.6,65.42%,fungal mass,N/A
+Orange II (Or II),A. flavus SA2,20 mg l-1,0.001% (w/v),static,30°C,192 hours,5.6,25.75%,fungal mass,N/A
+Orange II (Or II),A. tereus SA3,20 mg l-1,0.001% (w/v),static,30°C,192 hours,5.6,22.66%,fungal mass,N/A
+Orange II (Or II),Alternaria spp. SA4,20 mg l-1,0.001% (w/v),static,30°C,192 hours,5.6,29.32%,fungal mass,N/A
+Orange II (Or II),Penicillium spp. SA5,20 mg l-1,0.001% (w/v),static,30°C,192 hours,5.6,34.22%,fungal mass,N/A

@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Remazol Brilliant Blue R,Pleurotus pulmonarius,200 ppm,not specified,static,28 °C,10 days,not specified,complete,mycelium,"1.4% residual dye with pineapple peel cultures at 60% moisture, 2.0% at 85% moisture."
+Congo Red,Pleurotus pulmonarius,200 ppm,not specified,static,28 °C,10 days,not specified,"22.0% at 60% moisture, 47.3% at 85% moisture",mycelium,Residual dye measured as percentage.
+Methylene Blue,Pleurotus pulmonarius,200 ppm,not specified,static,28 °C,10 days,not specified,"52.1% at 60% moisture, 67.9% at 85% moisture",mycelium,Residual dye measured by spectrophotometry.
+Ethyl Violet,Pleurotus pulmonarius,200 ppm,not specified,static,28 °C,10 days,not specified,"39.5% at 60% moisture, 62.5% at 85% moisture",mycelium,Residual dye measured by spectrophotometry.
+Poly R-478,Pleurotus pulmonarius,200 ppm,not specified,static,28 °C,10 days,not specified,"67.8% at 60% moisture, 81.8% at 85% moisture",mycelium,Residual dye measured by spectrophotometry.

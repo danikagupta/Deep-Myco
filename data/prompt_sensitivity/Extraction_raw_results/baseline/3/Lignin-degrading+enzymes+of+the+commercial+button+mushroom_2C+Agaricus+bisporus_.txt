@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Manganese peroxidase,Agaricus heterocystis,Not specified,Not specified,Static,30°C,17 days,5.5,45.19 ± 1.08 U/ml,Mycelium,Figure 1 shows effect of temperature on MnP production.
+Manganese peroxidase,Agaricus heterocystis,Not specified,Not specified,Static,Not specified,17 days,5.5,48.33 ± 0.87 U/ml,Mycelium,Figure 2 shows effect of pH on MnP production.
+Manganese peroxidase,Agaricus heterocystis,Not specified,Not specified,Static,30°C,19 days,Not specified,53.86 ± 1.09 U/ml,Mycelium,Figure 3 shows effect of nitrogen on MnP production.
+Manganese peroxidase,Agaricus heterocystis,0.1% fructose,Not specified,Static,Not specified,19 days,Not specified,52.17 ± 0.97 U/ml,Mycelium,Figure 4 shows effect of carbon on MnP production.
+Manganese peroxidase,Agaricus heterocystis,0.01% tryptophan,Not specified,Static,Not specified,17 days,Not specified,54.39 ± 0.87 U/ml,Mycelium,Figure 5 shows effect of amino acids on MnP production.

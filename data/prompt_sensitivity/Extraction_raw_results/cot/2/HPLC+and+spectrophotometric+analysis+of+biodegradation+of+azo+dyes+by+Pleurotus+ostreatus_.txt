@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Orange II,Pleurotus ostreatus,100 ppm,not specified,shaking,30°C,3 days,not specified,90%,mycelium,buffer concentration impact observed
+Acid Red 29,Pleurotus ostreatus,100 ppm,not specified,shaking,30°C,3 days,not specified,95%,mycelium,buffer concentration impact observed
+Remazol Brilliant Blue R,Pleurotus ostreatus,100 ppm,not specified,shaking,30°C,3 days,not specified,not specified,mycelium,buffer concentration impact observed
+Disperse Red 1,Pleurotus ostreatus,not specified,not specified,shaking,30°C,3 days,not specified,not specified,mycelium,"primary products identified: nitrobenzene, 4-nitrophenol, 4-nitroaniline"
+Disperse Red 19,Pleurotus ostreatus,not specified,not specified,shaking,30°C,3 days,not specified,not specified,mycelium,"primary products identified: nitrobenzene, 4-nitrophenol, 4-nitroaniline"
+Disperse Orange 1,Pleurotus ostreatus,not specified,not specified,shaking,30°C,3 days,not specified,not specified,mycelium,"primary products identified: nitrobenzene, 4-nitrophenol, 4-nitroaniline"
+Disperse Orange 25,Pleurotus ostreatus,not specified,not specified,shaking,30°C,3 days,not specified,not specified,mycelium,"primary products identified: nitrobenzene, 4-nitrophenol, 4-nitroaniline"
+Disperse Red 13,Pleurotus ostreatus,not specified,not specified,shaking,30°C,3 days,not specified,not specified,mycelium,"primary products identified: 1-chloro-3-nitrobenzene, 2-chloro-4-nitroaniline, 2-chloro-4-nitroanisole"

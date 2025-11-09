@@ -1,0 +1,11 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+"AY49, AR266, Abu62",Bjerkandera adusta,100 ppm each,not specified,shaking (130 rpm),28 °C,7 days,5,88.0%,mycelium,"MnP activity: 291.1 IU, MiP activity: 45.2 IU"
+"AY49, AR266, Abu62",Bjerkandera adusta,100 ppm each,not specified,shaking (130 rpm),28 °C,7 days,5.8,96.5%,mycelium,N content low with glucose and yeast extract
+"RY145, RR195, Rbu222, Rbk5",Bjerkandera adusta,1250 ppm each,not specified,shaking (130 rpm),28 °C,7 days,10,29.2%,mycelium,Culture conditions hindered fungus growth
+"RY145, RR195, Rbu222, Rbk5",Bjerkandera adusta,1250 ppm each,not specified,shaking (130 rpm),28 °C,7 days,6.3,55.8%,mycelium,Low N content with glucose and yeast extract (GLY)
+"DrY106, DrR80, DrBu71",Bjerkandera adusta,1000 ppm each,not specified,shaking (130 rpm),28 °C,7 days,9,50.2%,mycelium,Greater impact of culture medium
+"DrY106, DrR80, DrBu71",Bjerkandera adusta,1000 ppm each,not specified,shaking (130 rpm),28 °C,7 days,6.5,89.7%,mycelium,N content low with glucose and yeast extract (GLY)
+"ABk194, Abk210, AY194",Bjerkandera adusta,100 ppm each,not specified,shaking (130 rpm),28 °C,7 days,5,82.7%,mycelium,Good correlation with enzymatic activity
+"ABk194, Abk210, AY194",Bjerkandera adusta,100 ppm each,not specified,shaking (130 rpm),28 °C,7 days,7.3,91.4%,mycelium,Higher efficiency due to availability of nutrients
+"ABk194, Abk210, AY194",Bjerkandera adusta,100 ppm each,not specified,shaking (130 rpm),28 °C,7 days,6.6,74.6%,mycelium,COD analysis was slightly high post-treatment
+real wastewater,Bjerkandera adusta,not specified,not specified,not specified,not specified,24 hours,7.3,40.6%,not specified,Compared with ozonation results

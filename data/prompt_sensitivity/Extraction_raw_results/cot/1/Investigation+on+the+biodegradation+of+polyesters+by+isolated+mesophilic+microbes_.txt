@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+not specified,Aspergillus niger strain 13A,not specified,1 × 10^6 spores/mL,shaking,35 °C,6 days,6.0,not specified,mycelium,Optimal conditions for cellulase production.
+not specified,Aspergillus niger strain 13A,not specified,1 × 10^6 spores/mL,shaking,20 °C,6 days,4.0,not specified,mycelium,"Mycelial dry weight: 0.21 g/100 mL, CMC-ase: 0.82 IU/mL, FP-ase: 0.13 IU/mL."
+not specified,Aspergillus niger strain 13A,not specified,1 × 10^6 spores/mL,shaking,25 °C,6 days,5.0,not specified,mycelium,"Mycelial dry weight: 0.32 g/100 mL, CMC-ase: 1.07 IU/mL, FP-ase: 0.18 IU/mL."
+not specified,Aspergillus niger strain 13A,not specified,1 × 10^6 spores/mL,shaking,30 °C,6 days,6.0,not specified,mycelium,"Mycelial dry weight: 0.42 g/100 mL, CMC-ase: 0.93 IU/mL, FP-ase: 0.36 IU/mL."
+not specified,Aspergillus niger strain 13A,not specified,1 × 10^6 spores/mL,shaking,35 °C,6 days,6.0,not specified,mycelium,"Mycelial dry weight: 0.51 g/100 mL, CMC-ase: 1.21 IU/mL, FP-ase: 0.44 IU/mL."
+not specified,Aspergillus niger strain 13A,not specified,1 × 10^6 spores/mL,not specified,not specified,not specified,6.0,not specified,mycelium,Highest cellulase production from kraft brown bags and cardboard in both SmF and SSF.
+not specified,Aspergillus niger strain 13A,not specified,1 × 10^6 spores/mL,not specified,not specified,42 days,not specified,not specified,mycelium,"Complete degradation of paper waste mixture, biomass produced was used for soil treatment."

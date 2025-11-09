@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+RBBR,Pleurotus pulmonarius,200 ppm,5 g,static,28 °C,10 days,6.0,"Low residual dye (3.3±0.6% at 60%, 3.0±1.0% at 85%)",mycelium,Dye completely decolorized at initial moisture levels of 60 and 85 %.
+Congo red,Pleurotus pulmonarius,200 ppm,5 g,static,28 °C,10 days,6.0,"22.0±5.0% at 60%, 47.3±5.6% at 85%",mycelium,
+methylene blue,Pleurotus pulmonarius,200 ppm,5 g,static,28 °C,10 days,6.0,"52.1±5.7% at 60%, 67.9±7.3% at 85%",mycelium,
+ethyl violet,Pleurotus pulmonarius,200 ppm,5 g,static,28 °C,10 days,6.0,"39.5±6.2% at 60%, 62.5±2.3% at 85%",mycelium,
+poly R-478,Pleurotus pulmonarius,200 ppm,5 g,static,28 °C,10 days,6.0,"67.8±6.8% at 60%, 81.8±7.2% at 85%",mycelium,
+RBBR,Pleurotus pulmonarius,100 ppm,5 g,shaking,40 °C,2 hours,4.5,Efficiently decolorized by crude extracts.,mycelium,Comparison was made for high and low MnP/laccase ratios.

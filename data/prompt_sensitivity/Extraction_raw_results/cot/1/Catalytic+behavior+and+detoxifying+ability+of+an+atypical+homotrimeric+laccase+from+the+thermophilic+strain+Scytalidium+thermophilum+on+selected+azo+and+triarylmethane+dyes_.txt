@@ -1,0 +1,11 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+enrofloxacin (ENR),Trametes versicolor,50 mg L−1,6 U mL−1,shaking,45 °C,6 h,5,98%,mycelium,None
+flumequine (FLU),Trametes versicolor,50 mg L−1,6 U mL−1,shaking,45 °C,6 h,4.5,96%,mycelium,None
+enrofloxacin (ENR),Trametes versicolor,50 mg L−1,6 U mL−1,shaking,30 °C,6 h,5,75%,mycelium,Optimal performance at 40-50 °C
+flumequine (FLU),Trametes versicolor,50 mg L−1,6 U mL−1,shaking,30 °C,6 h,4.5,72%,mycelium,Optimal performance at 40-50 °C
+enrofloxacin (ENR),Trametes versicolor,50 mg L−1,6 U mL−1,shaking,45 °C,6 h,5.0,75.5%,mycelium,Temperature effect observed.
+flumequine (FLU),Trametes versicolor,50 mg L−1,6 U mL−1,shaking,45 °C,6 h,4.5,68%,mycelium,Temperature effect observed.
+enrofloxacin (ENR),Trametes versicolor,50 mg L−1,6 U mL−1,shaking,45 °C,6 h,5,90% with 0.5 mM HBT,mycelium,Mediator concentration effect.
+flumequine (FLU),Trametes versicolor,50 mg L−1,6 U mL−1,shaking,45 °C,6 h,4.5,96% with 0.5 mM HBT,mycelium,Mediator concentration effect.
+enrofloxacin (ENR),Trametes versicolor,50 mg L−1,6 U mL−1,shaking,45 °C,6 h,5,95% with 2 mM HBT,mycelium,Mediator concentration effect.
+flumequine (FLU),Trametes versicolor,50 mg L−1,6 U mL−1,shaking,45 °C,6 h,4.5,96% with 2 mM HBT,mycelium,Mediator concentration effect.

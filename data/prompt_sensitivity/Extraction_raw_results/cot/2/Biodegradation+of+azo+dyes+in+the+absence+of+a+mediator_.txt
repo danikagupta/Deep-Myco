@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+azo dye,Pyricularia oryzae,not specified,not specified,not specified,not specified,not specified,not specified,excellent,not specified,Oxidative cleavage observed.
+4-sulfophenylazo dye,Trametes villosa,not specified,not specified,not specified,not specified,not specified,not specified,moderate,not specified,Polymerization of degradation products observed.
+azo dye,Bacillus subtilis (recombinant CotA-Laccase),not specified,not specified,not specified,not specified,not specified,not specified,efficient for most tested dyes,not specified,Reactive Yellow 81 not degraded.
+Sudan Orange G,Bacillus subtilis (recombinant CotA-Laccase),not specified,not specified,not specified,not specified,not specified,not specified,degraded,not specified,Leads to hydroxy-p-benzoquinone and other products.
+hydroxyanthraquinone dyes,Lentinus sp.,not specified,not specified,not specified,not specified,not specified,not specified,efficient,not specified,Modeling calculations assessed enzyme-substrate interactions.
+Reactive Blue 25 (Cu-phthalocyanine),Aspergillus ochraceus NCIM-1146,not specified,not specified,not specified,not specified,not specified,not specified,bleached,not specified,Enhanced by lignin peroxidase presence.
+various textile dyes,various (including Trametes versicolor),not specified,not specified,not specified,not specified,not specified,not specified,varies,not specified,Involves a range of mechanisms depending on dye structure.
+toxic redox mediators,not specified,not specified,not specified,not specified,not specified,not specified,not specified,not specified,not specified,Considerations for persistence in bleached wastewaters.

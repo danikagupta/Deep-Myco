@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Ponceau 2R,Coriolopsis sp.,0.2 g/L,not specified,static,not specified,not specified,not specified,incomplete,mycelium,Nitrogen-limiting conditions
+Orange G,Coriolopsis sp.,0.2 g/L,not specified,static,not specified,not specified,not specified,incomplete,mycelium,Nitrogen-limiting conditions
+Direct Blue 71,Coriolopsis sp.,0.2 g/L,not specified,static,not specified,not specified,not specified,incomplete,mycelium,Nitrogen-limiting conditions
+Biebrich Scarlet,Coriolopsis sp.,0.2 g/L,not specified,static,not specified,not specified,not specified,incomplete,mycelium,Nitrogen-limiting conditions
+Ponceau 2R,Coriolopsis sp.,not specified,not specified,static,not specified,10 days,not specified,complete,mycelium,"Carbon-limiting conditions, with glucose"
+Orange G,Coriolopsis sp.,not specified,not specified,static,not specified,7 days,not specified,complete,mycelium,"Carbon-limiting conditions, with glucose"
+Direct Blue 71,Coriolopsis sp.,not specified,not specified,static,not specified,12 days,not specified,complete,mycelium,"Carbon-limiting conditions, with glucose"
+Biebrich Scarlet,Coriolopsis sp.,not specified,not specified,static,not specified,12 days,not specified,complete,mycelium,"Carbon-limiting conditions, with glucose"

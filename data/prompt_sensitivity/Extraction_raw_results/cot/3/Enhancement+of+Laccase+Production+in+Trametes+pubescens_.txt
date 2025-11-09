@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+not specified,Trametes hirsuta,not specified,not specified,shaking,25°C,20 days,5.8,not specified,mycelium,Maximum laccase activity of 7614 U/L observed.
+not specified,Trametes hirsuta,not specified,not specified,shaking,25°C,not specified,5.8,not specified,mycelium,1mM copper sulphate produced maximum laccase activity of 17074 U/L.
+not specified,Trametes hirsuta,not specified,not specified,shaking,25°C,not specified,5.8,not specified,mycelium,"1mM 2,5 xylidine led to laccase activity of 23543 U/L."
+not specified,Trametes hirsuta,not specified,not specified,shaking,25°C,20 days,5.8,not specified,mycelium,25889 U/L maximum laccase activity using Plakett-Burman design.
+not specified,Trametes hirsuta,not specified,20 g/L,shaking,25°C,20 days,5.8,9300 U/L,mycelium,Wheat bran used as carbon source.
+not specified,Trametes hirsuta,not specified,10 g/L,shaking,25°C,not specified,5.8,17390 U/L,mycelium,Peptone as nitrogen source.
+not specified,Trametes hirsuta,not specified,20 g/L (mixed mode),shaking,25°C,not specified,5.8,not specified,mycelium,"Various nitrogen sources tested, mixed mode nitrogen source gave moderate activity."
+not specified,Trametes hirsuta,not specified,not specified,shaking,25°C,not specified,5.8,not specified,mycelium,Control laccase activity without copper sulfate was 4236 U/L.
+not specified,Trametes hirsuta,not specified,not specified,shaking,25°C,20 days,5.8,not specified,mycelium,Maximal laccase production from various lignocellulosic substrates.

@@ -1,0 +1,11 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Cibacron Red C-2G-reactive dye,Coriolus versicolor,500 mg/L,,none specified,,,,70-75%,mycelium,
+Remazol Navy Blue GG-diazo dye,Coriolus versicolor,500 mg/L,,none specified,,,,70-75%,mycelium,
+Remazol Red RB-diazo dye,Coriolus versicolor,500 mg/L,,none specified,,,,70-75%,mycelium,
+Cibacron Orange CG-reactive dye,Coriolus versicolor,500 mg/L,,none specified,,,,70-75%,mycelium,
+Remazol Golden Yellow RNL-azo dye,Coriolus versicolor,500 mg/L,,none specified,,,,70-75%,mycelium,
+Hisperse Navy D2GR-disperse dye,Coriolus versicolor,500 mg/L,,none specified,,,,70-75%,mycelium,
+Remazol Blue B-diazo dye,Coriolus versicolor,500 mg/L,,none specified,,,,70-75%,mycelium,
+Remazol Turquoise Blue G 133 -phthalocynine dye,Coriolus versicolor,500 mg/L,,none specified,,,,70-75%,mycelium,
+Remazol Black B-diazo dye,Bjerkandera adusta,unknown,,solid-state fermentation,,7 days,unknown,53%,mycelium,performed at 80-85% moisture content
+Remazol Black B,Kluyveromyces marxianus,unknown,,,37°C,,3.0–5.5,98%,yeast,no metabolic reaction observed

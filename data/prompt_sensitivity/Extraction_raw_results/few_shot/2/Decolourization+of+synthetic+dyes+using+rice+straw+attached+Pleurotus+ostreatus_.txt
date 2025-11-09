@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Carmoisine Red,Pleurotus ostreatus,10 ppm,5 g/L,shaking (150 rpm),room temperature,5 days,not specified,81.34%,not specified,visual disappearance of color
+Tartrazine Yellow,Pleurotus ostreatus,10 ppm,5 g/L,shaking (150 rpm),room temperature,5 days,not specified,45.36%,not specified,visual transformation to light yellow
+Brilliant Blue FCF,Pleurotus ostreatus,10 ppm,5 g/L,shaking (150 rpm),room temperature,5 days,not specified,19.82%,not specified,not specified
+Fast Green FCF,Pleurotus ostreatus,10 ppm,5 g/L,shaking (150 rpm),room temperature,5 days,not specified,28.99%,not specified,not specified

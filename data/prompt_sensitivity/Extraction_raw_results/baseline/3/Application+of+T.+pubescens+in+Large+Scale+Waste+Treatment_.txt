@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Cadmium,Trametes pubescens MB 89,10 mg/L,Not specified,Shaking at 130 rpm,28°C,7 days,4.5,53.13%,mycelium,Highest adsorption capacity was 6.565 mg/g at 100 mg/L Cd2+ concentration.
+Cadmium,Trametes pubescens MB 89,5 mg/L,Not specified,Shaking at 130 rpm,28°C,7 days,4.5,Not specified,mycelium,FTIR spectra showed shifts indicative of metal ion interaction.
+Cadmium,Trametes pubescens MB 89,50 mg/L,Not specified,Shaking at 130 rpm,28°C,7 days,4.5,Not specified,mycelium,FTIR spectra showed shifts indicative of metal ion interaction.
+Cadmium,Trametes pubescens MB 89,100 mg/L,Not specified,Shaking at 130 rpm,28°C,7 days,4.5,Not specified,mycelium,FTIR spectra showed shifts indicative of metal ion interaction.
+Cadmium,Trametes pubescens MB 89,10 mg/L,Not specified,Static incubation,28°C,15 days,Not specified,Catdeum accumulation reduced by 53.54% in roots and 86.38% in shoots.,mycelium,This setup was part of a pot experiment.

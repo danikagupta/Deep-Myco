@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Crystal Violet,Bjerkandera adusta SWUSI4,100 mg/L,4 g,shaking,30 °C,24 h,not specified,91%,mycelium,highest decolorization observed at optimized biomass
+Crystal Violet,Bjerkandera adusta SWUSI4,50 mg/L,2 g,shaking,30 °C,7 days,not specified,85%,mycelium,decolorization decreased with increasing initial dye concentrations
+Malachite Green,Bjerkandera adusta SWUSI4,50 mg/L,2 g,shaking,30 °C,7 days,not specified,94%,mycelium,highest decolorization observed on lower dye concentrations
+Methyl Violet,Bjerkandera adusta SWUSI4,50 mg/L,2 g,shaking,30 °C,7 days,not specified,94%,mycelium,decolorization efficiency reduced at higher concentrations
+Cotton Blue,Bjerkandera adusta SWUSI4,50 mg/L,2 g,shaking,30 °C,7 days,not specified,92%,mycelium,similar trends observed as with other TPM dyes

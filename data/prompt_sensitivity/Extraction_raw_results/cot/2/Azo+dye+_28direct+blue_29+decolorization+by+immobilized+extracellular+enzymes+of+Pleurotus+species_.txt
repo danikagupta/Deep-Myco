@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Phenol Red (PSP),P. flabellatus,300 mg/L,1 mm,not specified,25°C,20 days,not specified,moderate,mycelium,not specified
+Phenol Red (PSP),P. ostreatus,300 mg/L,1 mm,not specified,25°C,20 days,not specified,moderate,mycelium,not specified
+Phenol Red (PSP),P. citrinopileatus,300 mg/L,1 mm,not specified,25°C,20 days,not specified,moderate,mycelium,not specified
+Phenol Red (PSP),Pfo 6X9,300 mg/L,1 mm,not specified,25°C,20 days,not specified,excellent,mycelium,not specified
+Phenol Red (PSP),Poc 9X6,300 mg/L,1 mm,not specified,25°C,20 days,not specified,excellent,mycelium,not specified

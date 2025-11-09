@@ -1,0 +1,14 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Remazol Brilliant Blue R,KRUS-G,100 ppm,not specified,shaking,28°C,6 days,4,more than 79%,mycelium,"Compared to P. chrysosporium and C. subvermispora, KRUS-G showed better activity."
+Remazol Brilliant Blue R,KRUS-G,500 ppm,not specified,shaking,28°C,6 days,4,93.32%,mycelium,"Rapid decolorization occurred from day 1 until day 4, slow rate after day 4."
+Remazol Brilliant Blue R,KRUS-G,1000 ppm,not specified,shaking,28°C,6 days,4,not specified,mycelium,Strain KRUS-G could decolorize at this high concentration.
+Remazol Brilliant Blue R,KRUS-G,1500 ppm,not specified,shaking,28°C,6 days,4,not specified,mycelium,Strain KRUS-G could decolorize at this high concentration.
+Remazol Brilliant Blue R,P. chrysosporium,100 ppm,not specified,shaking,28°C,6 days,4,less than 23%,mycelium,"Compared to KRUS-G, P. chrysosporium showed significantly lower decolorization."
+Remazol Brilliant Blue R,C. subvermispora,100 ppm,not specified,shaking,28°C,6 days,4,63-68%,mycelium,C. subvermispora performed better than P. chrysosporium but worse than KRUS-G.
+Remazol Brilliant Blue R,KRUS-G,500 ppm,not specified,shaking,28°C,6 days,5,not specified,mycelium,Conducted at pH 5 to evaluate decolorization performance.
+Remazol Brilliant Blue R,KRUS-G,1000 ppm,not specified,shaking,28°C,6 days,5,not specified,mycelium,Conducted at pH 5.
+Remazol Brilliant Blue R,KRUS-G,1500 ppm,not specified,shaking,28°C,6 days,5,not specified,mycelium,Conducted at pH 5.
+Remazol Brilliant Blue R,KRUS-G,100 ppm,not specified,shaking,28°C,6 days,6,not specified,mycelium,Conducted at pH 6.
+Remazol Brilliant Blue R,KRUS-G,500 ppm,not specified,shaking,28°C,6 days,6,not specified,mycelium,Conducted at pH 6.
+Remazol Brilliant Blue R,KRUS-G,1000 ppm,not specified,shaking,28°C,6 days,6,not specified,mycelium,Conducted at pH 6.
+Remazol Brilliant Blue R,KRUS-G,1500 ppm,not specified,shaking,28°C,6 days,6,not specified,mycelium,Conducted at pH 6.

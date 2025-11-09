@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+molasses wastewater,Citeromyces siamensis,not specified,1% glucose,shaking (200 rpm),30 °C,7 days,not specified,best color loss,not specified,1% glucose provided the best results
+molasses wastewater,Issatchenkia orientalis,not specified,1% glucose,shaking (200 rpm),30 °C,7 days,not specified,best color loss,not specified,1% glucose provided the best results
+molasses wastewater,Saccharomyces cerevisiae,not specified,1% yeast extract,shaking (200 rpm),30 °C,7 days,not specified,best color loss,not specified,1% yeast extract provided the best results
+molasses wastewater,Citeromyces siamensis,not specified,1% peptone,shaking (200 rpm),30 °C,7 days,not specified,best color removal efficiency,not specified,1% peptone proved very effective
+molasses wastewater,Issatchenkia orientalis,not specified,1% peptone,shaking (200 rpm),30 °C,7 days,not specified,best color removal efficiency,not specified,1% peptone proved very effective
+molasses wastewater,Saccharomyces cerevisiae,not specified,1% urea,shaking (200 rpm),30 °C,7 days,not specified,reduced color,not specified,included urea in the experiment
+molasses wastewater,Citeromyces siamensis,not specified,1% yeast extract,shaking (200 rpm),30 °C,7 days,not specified,measured absorbance at 475 nm,not specified,results shown for nitrogen sources
+molasses wastewater,Issatchenkia orientalis,not specified,1% yeast extract,shaking (200 rpm),30 °C,7 days,not specified,measured absorbance at 475 nm,not specified,results shown for nitrogen sources
+molasses wastewater,Saccharomyces cerevisiae,not specified,1% yeast extract,shaking (200 rpm),30 °C,7 days,not specified,measured absorbance at 475 nm,not specified,results shown for nitrogen sources

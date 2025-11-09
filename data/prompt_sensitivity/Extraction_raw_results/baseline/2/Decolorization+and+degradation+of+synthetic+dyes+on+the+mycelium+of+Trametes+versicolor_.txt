@@ -1,0 +1,11 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Malachite Green,Trametes versicolor,7 mg/l,3 plugs (5 mm²),none,28 °C,20 days,not mentioned,95%,mycelium,induced by 0.5 mM copper
+Bromothymol Blue,Trametes versicolor,50 mg/l,3 plugs (5 mm²),none,28 °C,20 days,not mentioned,95%,mycelium,induced by 0.5 mM copper
+Methyl Red,Trametes versicolor,100 mg/l,3 plugs (5 mm²),none,28 °C,20 days,not mentioned,80%,mycelium,induced by 0.5 mM copper
+Crystal Violet,Trametes versicolor,20 mg/l,3 plugs (5 mm²),none,28 °C,20 days,not mentioned,low,mycelium,induced by 0.5 mM copper
+Methylene Blue,Trametes versicolor,240 mg/l,3 plugs (5 mm²),none,28 °C,20 days,not mentioned,low,mycelium,induced by 0.5 mM copper
+Malachite Green,Fomes fomentarius,7 mg/l,3 plugs (5 mm²),none,28 °C,20 days,not mentioned,70%,mycelium,induced by 0.5 mM copper
+Bromothymol Blue,Fomes fomentarius,50 mg/l,3 plugs (5 mm²),none,28 °C,20 days,not mentioned,70%,mycelium,induced by 0.5 mM copper
+Methyl Red,Fomes fomentarius,100 mg/l,3 plugs (5 mm²),none,28 °C,20 days,not mentioned,80%,mycelium,induced by 0.5 mM copper
+Crystal Violet,Fomes fomentarius,20 mg/l,3 plugs (5 mm²),none,28 °C,20 days,not mentioned,low,mycelium,induced by 0.5 mM copper
+Methylene Blue,Fomes fomentarius,240 mg/l,3 plugs (5 mm²),none,28 °C,20 days,not mentioned,low,mycelium,induced by 0.5 mM copper

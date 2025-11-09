@@ -1,0 +1,14 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+orange II,Phanerochaete chrysosporium,not specified,not specified,not specified,not specified,not specified,not specified,extensively degraded,whole fungi,LIPS more important than MNPs
+azure B,Phanerochaete chrysosporium,not specified,not specified,not specified,not specified,not specified,not specified,extensively degraded,whole fungi,LIPS more important than MNPs
+Congo red,Phanerochaete chrysosporium,not specified,not specified,not specified,not specified,not specified,not specified,extensively degraded,whole fungi,LIPS more important than MNPs
+amaranth,Phanerochaete chrysosporium,not specified,not specified,not specified,not specified,not specified,not specified,extensively degraded,whole fungi,LIPS more important than MNPs
+orange G,Phanerochaete chrysosporium,not specified,not specified,not specified,not specified,not specified,not specified,extensively degraded,whole fungi,LIPS more important than MNPs
+"4-amino- 1 ,I’-azobenzene-3,4’-disulfonic acid",Phanerochaete chrysosporium,not specified,not specified,not specified,not specified,not specified,not specified,decolorized,whole fungi,decolorization more readily than corresponding unsubstituted molecules
+sulfanilic acid,Phanerochaete chrysosporium,not specified,not specified,not specified,not specified,not specified,not specified,decolorized,whole fungi,decolorization more readily than corresponding unsubstituted molecules
+azo dyes,Phanerochaete chrysosporium,not specified,not specified,not specified,not specified,not specified,not specified,23-48% mineralized,whole fungi,nitrogen-limited ligninolytic cultures
+azo dyes,Phanerochaete chrysosporium,not specified,not specified,not specified,not specified,not specified,not specified,decolorized,whole fungi,LIPS reported as more important than MNPs
+PCBs,Phanerochaete chrysosporium,0.04-1.6 ppm,not specified,not specified,not specified,not specified,not specified,10% to 82%,whole fungi,"no congener specificity among ortho, meta, para chlorines"
+"2,4-dichlorophenol",Phanerochaete chrysosporium,not specified,not specified,immobilized on rotating biological contactor disks,not specified,not specified,not specified,20-50% mineralized,whole fungi,LDS involved in oxidation
+"2,4,5-trichlorophenol",Phanerochaete chrysosporium,not specified,not specified,not specified,not specified,not specified,not specified,complete degradation pathway elucidated,whole fungi,multiple stages in the degradative pathway
+phenanthrene,Phanerochaete chrysosporium,not specified,not specified,ligninolytic cultures,not specified,not specified,not specified,mineralized,whole fungi,major steps in oxidation defined

@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),not specified,shaking (120 rpm),30 °C,7 days,4.5,84.8%,not specified,Initial screening study
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),not specified,shaking (120 rpm),30 °C,3 days,4,100%,not specified,Using maltose and ammonium sulfate as carbon and nitrogen sources
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),not specified,shaking (120 rpm),25 °C,10 days,4,not specified,not specified,Maximum enzyme activity (LiP) at each monitored interval
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),not specified,shaking (120 rpm),30 °C,10 days,4,89.2%,not specified,Max enzyme activity at 30 °C
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),not specified,shaking (120 rpm),30 °C,4 days,4.5,complete decolorization with 5 mL inoculum,not specified,Enzyme production correlated with decolorization efficiency
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),not specified,shaking (120 rpm),30 °C,10 days,4.5,not specified,not specified,Enzyme activity: LiP (944 U/mL) was the major enzyme
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),not specified,shaking (120 rpm),30 °C,10 days,4,not specified,not specified,Enzyme production varied with nitrogen source

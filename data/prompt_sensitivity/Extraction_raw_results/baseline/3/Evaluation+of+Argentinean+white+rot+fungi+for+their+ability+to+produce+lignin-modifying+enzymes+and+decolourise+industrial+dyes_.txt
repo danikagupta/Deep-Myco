@@ -1,0 +1,13 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+indigo carmine,Coriolus antarcticus,100 µM,40 days post-inoculation,not specified,30 ºC,5 h,5.2,93%,whole fungi,
+malachite green,Coriolus antarcticus,100 µM,40 days post-inoculation,not specified,30 ºC,5 h,5.2,86%,whole fungi,
+azure B,Coriolus antarcticus,100 µM,40 days post-inoculation,not specified,30 ºC,5 h,5.2,82%,whole fungi,
+Remazol Brilliant Blue R,Coriolus antarcticus,100 µM,40 days post-inoculation,not specified,30 ºC,5 h,5.2,82%,whole fungi,
+crystal violet,Coriolus antarcticus,100 µM,40 days post-inoculation,not specified,30 ºC,5 h,5.2,77%,whole fungi,
+xylidine,Coriolus antarcticus,100 µM,40 days post-inoculation,not specified,30 ºC,5 h,5.2,58%,whole fungi,
+indigo carmine,Stereum hirsutum,100 µM,40 days post-inoculation,not specified,30 ºC,5 h,5.2,26.4%,whole fungi,mean of three replicates
+malachite green,Stereum hirsutum,100 µM,40 days post-inoculation,not specified,30 ºC,5 h,5.2,24.5%,whole fungi,mean of three replicates
+azure B,Stereum hirsutum,100 µM,40 days post-inoculation,not specified,30 ºC,5 h,5.2,3.5%,whole fungi,mean of three replicates
+indigo carmine,Trametes trogii,100 µM,40 days post-inoculation,not specified,30 ºC,5 h,5.2,9.6%,whole fungi,mean of three replicates
+malachite green,Trametes trogii,100 µM,40 days post-inoculation,not specified,30 ºC,5 h,5.2,3.6%,whole fungi,mean of three replicates
+azure B,Trametes trogii,100 µM,40 days post-inoculation,not specified,30 ºC,5 h,5.2,14.7%,whole fungi,mean of three replicates

@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+not specified,Trametes versicolor,not specified,not specified,shaking (180 rpm),28 °C,10 days,not specified,not specified,mycelium,growth curves compared in modified TDM and TaK media
+not specified,Trametes versicolor,not specified,not specified,shaking (180 rpm),35 °C,10 days,not specified,not specified,mycelium,temperature did not provide significant growth
+not specified,Trametes versicolor,0.4 g/L,not specified,shaking (180 rpm),28 °C,10 days,not specified,1240 U/L,mycelium,maximum laccase activity with solid lignin
+not specified,Trametes versicolor,not specified,not specified,shaking (180 rpm),28 °C,10 days,not specified,1583 U/L,mycelium,maximum laccase activity with xylidine and glucose suppression
+not specified,Trametes versicolor,not specified,not specified,shaking (180 rpm),28 °C,10 days,not specified,not specified,mycelium,tests with glucose suppression included
+not specified,Trametes versicolor,not specified,not specified,not specified,not specified,not specified,not specified,not specified,not specified,combination effects were evaluated

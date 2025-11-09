@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Congo Red,Grammothele subargentea,"0.01%, w/v",not specified,not specified,25 ± 1.5 °C,7 days,not specified,1,not specified,Growth reduction: 22%
+Methyl Red,Grammothele subargentea,"0.01%, w/v",not specified,not specified,25 ± 1.5 °C,7 days,not specified,1,not specified,Growth reduction: 13.02%
+Trypan Blue,Grammothele subargentea,"0.01%, w/v",not specified,not specified,25 ± 1.5 °C,7 days,not specified,1,not specified,Growth reduction: 1.3%
+Methylene Blue B,Grammothele subargentea,"0.01%, w/v",not specified,not specified,25 ± 1.5 °C,21 days,not specified,4,not specified,Growth reduction: 26.9%
+Bengal Rose,Grammothele subargentea,"0.01%, w/v",not specified,not specified,25 ± 1.5 °C,21 days,not specified,1,not specified,Growth reduction: 50.6%
+Brilliant Green,Grammothele subargentea,"0.01%, w/v",not specified,not specified,25 ± 1.5 °C,21 days,not specified,3,not specified,Growth reduction: 90.3%
+Crystal Violet,Grammothele subargentea,"0.01%, w/v",not specified,not specified,25 ± 1.5 °C,21 days,not specified,3,not specified,Growth reduction: 84.8%

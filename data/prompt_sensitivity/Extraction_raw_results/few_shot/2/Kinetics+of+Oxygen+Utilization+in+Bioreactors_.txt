@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+bentazon,Trametes versicolor,10 ppm,80 g L⁻¹,stirring (200 rpm),25 °C,6 h,4.5,100%,whole fungi,completely eliminated at 30% DO
+tributyl phosphate (TBP),Trametes versicolor,5 ppm,80 g L⁻¹,stirring (200 rpm),25 °C,32 h,4.5,100%,whole fungi,completely eliminated at 30% DO
+bentazon,Trametes versicolor,10 ppm,80 g L⁻¹,stirring (200 rpm),25 °C,6 h,4.5,53%,whole fungi,degradation efficiency at 15% DO
+tributyl phosphate (TBP),Trametes versicolor,5 ppm,80 g L⁻¹,stirring (200 rpm),25 °C,32 h,4.5,77%,whole fungi,degradation efficiency at 15% DO
+bentazon,Trametes versicolor,10 ppm,80 g L⁻¹,stirring (200 rpm),25 °C,3 days,4.5,not specified,whole fungi,previous results show degradation in less than 3 days
+tributyl phosphate (TBP),Trametes versicolor,5 ppm,80 g L⁻¹,stirring (200 rpm),25 °C,not specified,4.5,not specified,whole fungi,no previous data on TBP degradation by fungi noted
+sodium acetate,Trametes versicolor,2 g O₂ L⁻¹,80 g L⁻¹,stirring (200 rpm),25 °C,approximately 130 h,4.5,not specified,whole fungi,acetate consumption rate was about 5 times slower than glucose
+glucose,Trametes versicolor,not specified,80 g L⁻¹,stirring (200 rpm),25 °C,approximately 26 h,4.5,not specified,whole fungi,glucose consumption rate was significantly faster than acetate

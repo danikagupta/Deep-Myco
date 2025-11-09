@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Malachite Green,Pleurotus ostreatus,20 mg L-1,2% v/v,stirring (120 rpm),25 °C,72 h,4.5,98.2%,mycelium,laccase activity reached 54.76 ± 8.91 UL-1
+Malachite Green,Pleurotus ostreatus,20 mg L-1,2% v/v,stirring (120 rpm),30 °C,72 h,4.5,98.2%,mycelium,higher decolorization observed than with non-viable biomass
+Crystal Violet,Pleurotus ostreatus,10 mg L-1,2% v/v,stirring (120 rpm),30 °C,216 h,6.0,98.2%,mycelium,laccase activity reached 30.6 ± 2.9 UL-1
+Crystal Violet,Pleurotus ostreatus,10 mg L-1,2% v/v,stirring (120 rpm),25 °C,216 h,6.0,97.1%,mycelium,decolorization not significantly affected by biomass type
+Malachite Green,Pleurotus ostreatus,20 mg L-1,2% v/v,stirring (120 rpm),30 °C,72 h,6.0,96.8%,mycelium,pH and dye concentration improved decolorization
+Crystal Violet,Pleurotus ostreatus,10 mg L-1,2% v/v,stirring (120 rpm),30 °C,216 h,6.0,99.2%,mycelium,higher removal efficiency than with MG
+Malachite Green,Pleurotus ostreatus,20 mg L-1,2% v/v,stirring (120 rpm),25 °C,72 h,4.5,98.1%,mycelium,parameters such as pH and agitation speed optimized
+Crystal Violet,Pleurotus ostreatus,10 mg L-1,2% v/v,stirring (120 rpm),30 °C,216 h,6.0,98.3%,mycelium,longer duration required compared to MG

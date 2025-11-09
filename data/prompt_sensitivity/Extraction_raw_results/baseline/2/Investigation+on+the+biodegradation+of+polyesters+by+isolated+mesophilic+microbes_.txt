@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+kraft brown bags,Aspergillus niger strain 13A,1%,1 x 10^6 spores,shaking,35 °C,14 days,6.0,high production of cellulase,fungal mass,"maximal CMC-ase was 0.36 ± 0.11 IU/ml, FP-ase was 0.090 ± 0.02 IU/ml"
+cardboard,Aspergillus niger strain 13A,1%,1 x 10^6 spores,shaking,35 °C,14 days,6.0,high production of cellulase,fungal mass,"maximal CMC-ase was 0.43 ± 0.076 IU/ml, FP-ase was 0.16 ± 0.008 IU/ml"
+foolscap,Aspergillus niger strain 13A,1%,1 x 10^6 spores,shaking,35 °C,14 days,6.0,moderate production of cellulase,fungal mass,less production compared to kraft and cardboard
+printout paper,Aspergillus niger strain 13A,1%,1 x 10^6 spores,shaking,35 °C,14 days,6.0,low production of cellulase,fungal mass,minimal cellulase production observed
+newspaper,Aspergillus niger strain 13A,1%,1 x 10^6 spores,shaking,35 °C,14 days,6.0,very low production of cellulase,fungal mass,was the least effective substrate
+coated cardboard,Aspergillus niger strain 13A,1%,1 x 10^6 spores,shaking,35 °C,14 days,6.0,very low production of cellulase,fungal mass,similar results to newspaper
+mixed paper types,Aspergillus niger strain 13A,1%,1 x 10^6 spores,shaking,35 °C,42 days,6.0,complete degradation observed,fungal mass,the mixture color turned black due to fungal growth
+N/A,Aspergillus niger strain 13A,N/A,1 x 10^6 spores,N/A,N/A,10 days,N/A,inhibition percent ranged from 63.27 to 78.5%,fungal mass,performed biocontrol assay against Fusarium oxysporum

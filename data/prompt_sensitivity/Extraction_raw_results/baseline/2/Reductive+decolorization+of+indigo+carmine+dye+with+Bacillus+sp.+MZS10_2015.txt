@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Indigo Carmine,Funalia trogii,50 mg/L,Not applicable,Static,30 °C,4 h,6.0,92%,Not applicable,Agitated conditions yielded similar or slightly better results.
+Indigo Carmine,Funalia trogii,100 mg/L,Not applicable,Static,30 °C,4 h,6.0,91%,Not applicable,Control with only dye showed no color change.
+Indigo Carmine,Funalia trogii,50 mg/L,Not applicable,Agitation (150 rpm),30 °C,4 h,6.0,92%,Not applicable,
+Indigo Carmine,Funalia trogii,100 mg/L,Not applicable,Agitation (150 rpm),30 °C,4 h,3.0,57% over 300 seconds,Not applicable,Optimal pH for laccase activity was pH 3.0.
+Indigo Carmine,Funalia trogii,100 mg/L,Not applicable,Agitation (150 rpm),60 °C,300 s,3.0,45%,Not applicable,
+Indigo Carmine,Funalia trogii,100 mg/L,Not applicable,Agitation (150 rpm),70 °C,300 s,3.0,38%,Not applicable,
+Indigo Carmine,Pseudomonas aeruginosa,50 mg/L,Not applicable,Static,30 °C,4 h,Not specified,"Rapidity of decolorization observed, >80%",Whole bacteria,Rapid decolorization reported within 4 hours.
+Indigo Carmine,Pseudomonas aeruginosa,100 mg/L,Not applicable,Static,30 °C,4 h,Not specified,Effective decolorization within 24 h,Whole bacteria,
+Indigo Carmine,Pseudomonas aeruginosa,100–500 mg/L,Not applicable,Agitated (150 rpm),30 °C,"4, 8, 24 h",Not specified,Activity decreased with increasing dye concentration.,Whole bacteria,High dye concentrations not toxic to bacteria.

@@ -1,0 +1,11 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Congo red,Phanerochaete chrysosporium,100 mg/L,not specified,not specified,not specified,not specified,not specified,not specified,not specified,reported for decolorization
+Congo red,Dichomitus squalens,not specified,not specified,not specified,not specified,not specified,not specified,not specified,not specified,reported for decolorization
+Reactive Orange 16,Irpex lacteus,not specified,not specified,not specified,not specified,not specified,not specified,80%,not specified,maximum decolorization reported
+Congo red,Aspergillus niger,200 mg/L,not specified,not specified,not specified,6 days,not specified,not specified,not specified,reported for decolorization
+Cresol Red,Absidia spinosa,not specified,not specified,not specified,not specified,not specified,not specified,65%,not specified,reported for biotransformation
+Malachite Green,Aspergillus flavus,not specified,not specified,not specified,not specified,not specified,not specified,not specified,not specified,intermediate metabolites identified
+Reactive Red 31,Aspergillus bombycis,not specified,not specified,not specified,not specified,not specified,not specified,not specified,not specified,reported for degradation
+Navy blue HER,Trichosporon beigelii,not specified,not specified,static,37 °C,50h,not specified,70%,not specified,temperature noted in conditions
+Reactive Red 198,Sphingomonas paucimobilis,not specified,not specified,not specified,not specified,not specified,not specified,not specified,not specified,reported for degrading under mixed conditions
+Reactive Orange 16,Bacillus stratosphericus,100 mg/L,not specified,not specified,not specified,48 h,not specified,not specified,not specified,noted for decolorization

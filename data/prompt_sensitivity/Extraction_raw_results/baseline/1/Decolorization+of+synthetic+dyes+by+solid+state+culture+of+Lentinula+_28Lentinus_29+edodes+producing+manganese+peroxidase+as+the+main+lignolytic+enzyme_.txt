@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+n/a,Lentinula boryana,n/a,n/a,n/a,20 °C,25 days,4.10,70 UI.L-1 MnP expression,mycelium,n/a
+n/a,Lentinula edodes,n/a,n/a,n/a,25 °C,30 days,3.59,20 UI.L-1 MnP expression,mycelium,n/a
+n/a,Lentinula edodes,n/a,n/a,shaking,25 °C,10 days,4.23,110 UI.L-1 MnP expression,mycelium,n/a
+n/a,Lentinula boryana,n/a,n/a,shaking,20 °C,between 20 and 25 days,4.99,110 UI.L-1 MnP expression,mycelium,n/a

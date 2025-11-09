@@ -1,0 +1,14 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+remazol brilliant blue R,Pleurotus pulmonarius,200 ppm,not specified,shaking,28 °C,10 days,not specified,complete,mycelium,not specified
+Congo red,Pleurotus pulmonarius,200 ppm,not specified,shaking,28 °C,10 days,not specified,partial,mycelium,not specified
+methylene blue,Pleurotus pulmonarius,200 ppm,not specified,shaking,28 °C,10 days,not specified,partial,mycelium,not specified
+ethyl violet,Pleurotus pulmonarius,200 ppm,not specified,shaking,28 °C,10 days,not specified,partial,mycelium,not specified
+poly R-478,Pleurotus pulmonarius,200 ppm,not specified,shaking,28 °C,10 days,not specified,partial,mycelium,not specified
+remazol brilliant blue R,Pleurotus pulmonarius,100 ppm,not specified,shaking,40 °C,2 h,4.5,not specified,not specified,conditions for MnP activity
+Congo red,Pleurotus pulmonarius,100 ppm,not specified,shaking,40 °C,2 h,4.5,not specified,not specified,conditions for MnP activity
+ethyl violet,Pleurotus pulmonarius,100 ppm,not specified,shaking,40 °C,2 h,4.5,not specified,not specified,conditions for MnP activity
+methylene blue,Pleurotus pulmonarius,100 ppm,not specified,shaking,40 °C,2 h,4.5,not specified,not specified,conditions for MnP activity
+remazol brilliant blue R,Pleurotus pulmonarius,100 ppm,not specified,shaking,40 °C,2 h,6.5,not specified,not specified,conditions for laccase activity
+Congo red,Pleurotus pulmonarius,100 ppm,not specified,shaking,40 °C,2 h,6.5,not specified,not specified,conditions for laccase activity
+ethyl violet,Pleurotus pulmonarius,100 ppm,not specified,shaking,40 °C,2 h,6.5,not specified,not specified,conditions for laccase activity
+methylene blue,Pleurotus pulmonarius,100 ppm,not specified,shaking,40 °C,2 h,6.5,not specified,not specified,conditions for laccase activity

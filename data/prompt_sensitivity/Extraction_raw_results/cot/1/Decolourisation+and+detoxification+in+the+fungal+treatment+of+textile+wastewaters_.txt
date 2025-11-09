@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+"AY49, AR266, Abu62 (W1)",Bjerkandera adusta,100 ppm,not specified,shaking,28 °C,7 days,5.7,88.0 ± 1.4%,mycelium,Table 1
+"RY145, RR195, Rbu222, Rbk5 (W2)",Bjerkandera adusta,1250 ppm,not specified,shaking,28 °C,7 days,10,29.2 ± 2.3%,mycelium,Table 1
+"DrY106, DrR80, DrBu71 (W3)",Bjerkandera adusta,1000 ppm,not specified,shaking,28 °C,7 days,7.4,50.2 ± 7.0%,mycelium,Table 1
+"ABk194, Abk210, AY194 (W4)",Bjerkandera adusta,100 ppm,not specified,shaking,28 °C,7 days,6.6,82.7 ± 7.8%,mycelium,Table 1
+"AY49, AR266, Abu62 (W1)",Bjerkandera adusta,100 ppm,not specified,shaking,28 °C,7 days,5.8,96.5 ± 0.5%,mycelium,Table 1
+"RY145, RR195, Rbu222, Rbk5 (W2 1/5)",Bjerkandera adusta,1250 ppm,not specified,shaking,28 °C,7 days,5.4,91.0 ± 6.5%,mycelium,Table 1
+"DrY106, DrR80, DrBu71 (W3 GLY)",Bjerkandera adusta,1000 ppm,not specified,shaking,28 °C,7 days,6.5,89.7 ± 1.5%,mycelium,Table 1
+"ABk194, Abk210, AY194 (W4 GLY)",Bjerkandera adusta,100 ppm,not specified,shaking,28 °C,7 days,7.3,91.4 ± 2.5%,mycelium,Table 1
+real wastewater (WR Pre O3),Bjerkandera adusta,not specified,not specified,shaking,not specified,24 h,7.3,40.8 ± 6.8%,mycelium,Table 3

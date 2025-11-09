@@ -1,0 +1,13 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+glucose,Citeromyces siamensis,1%,not specified,shaking,30 °C,7 days,not specified,good,mycelium,OD at 574 nm decreased significantly.
+sucrose,Citeromyces siamensis,1%,not specified,shaking,30 °C,7 days,not specified,moderate,mycelium,OD at 574 nm was higher than glucose.
+lactose,Citeromyces siamensis,1%,not specified,shaking,30 °C,7 days,not specified,low,mycelium,OD at 574 nm was lowest.
+glucose,Issatchenkia orientalis,1%,not specified,shaking,30 °C,7 days,not specified,good,mycelium,OD at 574 nm decreased significantly.
+sucrose,Issatchenkia orientalis,1%,not specified,shaking,30 °C,7 days,not specified,moderate,mycelium,OD at 574 nm was higher than glucose.
+lactose,Issatchenkia orientalis,1%,not specified,shaking,30 °C,7 days,not specified,low,mycelium,OD at 574 nm was lowest.
+glucose,Saccharomyces cerevisiae,1%,not specified,shaking,30 °C,7 days,not specified,excellent,mycelium,OD at 574 nm decreased significantly.
+sucrose,Saccharomyces cerevisiae,1%,not specified,shaking,30 °C,7 days,not specified,moderate,mycelium,OD at 574 nm was higher than glucose.
+lactose,Saccharomyces cerevisiae,1%,not specified,shaking,30 °C,7 days,not specified,low,mycelium,OD at 574 nm was lowest.
+peptone,Citeromyces siamensis,1%,not specified,shaking,30 °C,7 days,not specified,excellent,mycelium,1% peptone gave best color removal efficiency.
+peptone,Issatchenkia orientalis,1%,not specified,shaking,30 °C,7 days,not specified,excellent,mycelium,1% peptone gave best color removal efficiency.
+yeast extract,Saccharomyces cerevisiae,1%,not specified,shaking,30 °C,7 days,not specified,excellent,mycelium,1% yeast extract gave best color removal efficiency.

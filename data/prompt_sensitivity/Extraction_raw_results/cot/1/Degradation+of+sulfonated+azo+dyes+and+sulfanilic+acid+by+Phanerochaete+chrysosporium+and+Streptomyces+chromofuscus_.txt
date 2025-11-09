@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+4-(4'-sulfophenylazo)-phenol,Phanerochaete chrysosporium,50 µM,not specified,shaking,25 °C,24 h,7,100%,mycelium,not specified
+4-(4'-sulfophenylazo)-phenol,Phanerochaete chrysosporium,50 µM,0.2 mg/mL,shaking,25 °C,10 min,not specified,95%,whole fungi,no further degradation products detected
+2-(4'-sulfophenylazo)-phenol,Phanerochaete chrysosporium,50 µM,not specified,shaking,25 °C,10 min,not specified,not specified,mycelium,not specified
+Crocein Orange G,not specified,300 µM,not specified,shaking,25 °C,10 min,not specified,90%,not specified,KNO3 increased the reduction efficiency
+Orange I,not specified,200 µM,not specified,shaking,25 °C,10 min,not specified,100%,not specified,product identified as sulfanilic acid
+Orange 11,not specified,200 µM,not specified,shaking,25 °C,10 min,not specified,94%,not specified,product likely to be 4-aminobenzenesulfonic acid

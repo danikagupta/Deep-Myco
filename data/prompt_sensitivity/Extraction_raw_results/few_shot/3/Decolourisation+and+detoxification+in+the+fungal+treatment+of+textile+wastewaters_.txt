@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+"AY49, AR266, Abu62",Bjerkandera adusta,100 ppm each,not specified,shaking (130 rpm),28°C,7 days,5,88.0 ± 1.4%,mycelium,tested under GLY conditions with no nutrients
+"RY145, RR195, Rbu222, Rbk5",Bjerkandera adusta,1250 ppm each,not specified,shaking (130 rpm),28°C,7 days,10,29.2 ± 2.3%,mycelium,tested with 1/3 and 1/5 dilution
+"DrY106, DrR80, DrBu71",Bjerkandera adusta,1000 ppm each,not specified,shaking (130 rpm),28°C,7 days,9,50.2 ± 7.0%,mycelium,tested with GLY conditions
+"ABk194, Abk210, AY194",Bjerkandera adusta,100 ppm each,not specified,shaking (130 rpm),28°C,7 days,5,82.7 ± 7.8%,mycelium,tested with GHY conditions
+real wastewater,Bjerkandera adusta,not specified,not specified,not specified,not specified,24 h,7.3,40.8 ± 6.8%,not specified,compared with ozonation treatment

@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Congo Red,Irpex lacteus KUC8958,100 mg/L,not specified,static,27 °C,6 days,not specified,82.1%,not specified,highest decolorizing rate among tested strains
+Congo Red,Irpex lacteus KUC8958,0.1 g/L,not specified,shaking (150 rpm),27 °C,14 days,not specified,95%,not specified,detected reduction in absorbance at 495 nm
+Reactive Blue 4,Irpex lacteus KUC8958,100 mg/L,not specified,static,27 °C,6 days,not specified,100%,not specified,highest decolorizing rate among tested strains
+Reactive Blue 4,Irpex lacteus KUC8958,0.1 g/L,not specified,shaking (150 rpm),27 °C,14 days,not specified,95%,not specified,detected reduction in absorbance at 595 nm
+Orange II,Irpex lacteus KUC8958,100 mg/L,not specified,static,27 °C,6 days,not specified,76.4%,not specified,highest decolorizing rate among tested strains
+Orange II,Irpex lacteus KUC8958,0.1 g/L,not specified,shaking (150 rpm),27 °C,14 days,not specified,53%,not specified,detected reduction in absorbance at 485 nm
+Orange II,Irpex lacteus KUC8958,0.1 g/L,not specified,static,27 °C,14 days,not specified,9%,not specified,detected increase in toxicity after decolorization
+Congo Red,Irpex lacteus KUC8958,0.1 g/L,not specified,static,27 °C,14 days,not specified,77%,not specified,tolerance and elevated toxicity observed after treatment
+Reactive Blue 4,Irpex lacteus KUC8958,0.1 g/L,not specified,static,27 °C,14 days,not specified,44%,not specified,toxicity of RB4 decreased post-decolorization

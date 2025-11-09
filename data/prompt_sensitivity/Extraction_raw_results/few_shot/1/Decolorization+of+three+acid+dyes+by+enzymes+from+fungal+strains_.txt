@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Novacron Red,Leptosphaerulina sp.,200 ppm,not specified,static,28 °C,21 days,not specified,>90%,not specified,high concentration of dye resulted in slower decolorization
+Remazol Black,Leptosphaerulina sp.,200 ppm,not specified,static,28 °C,21 days,not specified,>90%,not specified,high concentration of dye resulted in slower decolorization
+Turquoise Blue,Leptosphaerulina sp.,200 ppm,not specified,static,28 °C,21 days,not specified,>90%,not specified,high concentration of dye resulted in slower decolorization
+discharge effluent,Leptosphaerulina sp.,not specified,not specified,150 rpm,25 °C,21 days,pH 5,95.5%,not specified,medium supplementation with 10 g/L glucose and 5 g/L ammonium tartrate
+fabric dyeing effluent,Leptosphaerulina sp.,not specified,not specified,150 rpm,25 °C,21 days,not specified,90%,not specified,successful only when diluted to 200 ppm

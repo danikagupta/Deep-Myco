@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Reactive blue,Polyporus rubidus,1000 mg/L,1 g (wet weight),static,28 °C,5 days,not specified,39%,mycelium,Initial concentration was monitored; 90% decolorization at lower dye concentrations.
+Reactive blue,Polyporus rubidus,400 mg/L,1 g (wet weight),static,28 °C,5 days,not specified,80%,mycelium,Laccase activity peaked after 3 days.
+Reactive blue,Polyporus rubidus,100 mg/L,1 g (wet weight),static,28 °C,5 days,not specified,90%,mycelium,Complete decolorization achieved within 3 days.
+Reactive orange,Polyporus rubidus,1000 mg/L,1 g (wet weight),static,28 °C,5 days,not specified,60%,mycelium,92% decolorization for 100 mg/L concentration.
+Ramazol black,Polyporus rubidus,1000 mg/L,1 g (wet weight),static,28 °C,5 days,not specified,74%,mycelium,Complete decolorization after 3 days for lower concentration.
+Congo red,Polyporus rubidus,1000 mg/L,1 g (wet weight),static,28 °C,5 days,not specified,80%,mycelium,100% decolorization achieved for 100 mg/L concentration.
+Untreated textile effluent,Polyporus rubidus,not specified,1 g (wet weight),static,28 °C,8 days,4-7,100%,mycelium,Samples showed varying decolorization rates.

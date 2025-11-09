@@ -1,0 +1,11 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Congo Red,Trichoderma virens,50 mg/L,not specified,shaking (150 rpm),28 °C,8 days,6,93%,living mycelium,Increased from 82.4% to 93% removal over time.
+Congo Red,Trichoderma virens,50 mg/L,not specified,shaking (150 rpm),28 °C,8 days,6,94%,dead mycelium,Comparison made with live mycelium removal capacity.
+Congo Red,Trichoderma viride,50 mg/L,not specified,shaking (150 rpm),28 °C,8 days,6,95%,dead mycelium,Significant removal percentage compared to other species.
+Malachite Green,Trichoderma virens,50 mg/L,not specified,shaking (150 rpm),28 °C,8 days,6,95%,living mycelium,Highest removal percentage among treatments.
+Malachite Green,Trichoderma virens,50 mg/L,not specified,shaking (150 rpm),28 °C,8 days,6,87%,dead mycelium,
+Malachite Green,Trichoderma viride,50 mg/L,not specified,shaking (150 rpm),28 °C,8 days,6,82%,dead mycelium,Compared with living mycelium which had lower removal.
+Congo Red,Trichoderma virens,60 mg/L,not specified,stirring (150 rpm),25 °C,not specified,6,not specified,not specified,Removal capacity was higher than that reported for Aspergillus niger.
+Congo Red,Trichoderma viride,60 mg/L,not specified,stirring (150 rpm),25 °C,not specified,6,not specified,not specified,Removal capacity assessed against activated carbon.
+Malachite Green,Trichoderma virens,75 mg/L,not specified,stirring (150 rpm),25 °C,not specified,6,not specified,not specified,Removal efficiency matched activated carbon at times.
+Malachite Green,Trichoderma viride,90 mg/L,not specified,stirring (150 rpm),25 °C,not specified,6,not specified,not specified,Comparative analysis with activated carbon.

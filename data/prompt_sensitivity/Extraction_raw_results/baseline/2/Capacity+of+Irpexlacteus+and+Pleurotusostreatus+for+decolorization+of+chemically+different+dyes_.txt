@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),5 mL inoculum,shaking,30°C,3 days,4.5,100%,whole fungi,Maximum application of ligninolytic enzymes (LiP 944 U/mL) observed
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),5 mL inoculum,shaking,30°C,7 days,4.5,84.8%,whole fungi,LiP was the major enzyme (507 U/mL) during decolorization
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),5 mL inoculum,shaking,25°C,10 days,4,89.2%,whole fungi,Max enzyme activity of LiP (625 U/mL) noted
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),5 mL inoculum,shaking,30°C,6 days,4,87.7%,whole fungi,LiP was the major enzyme secreted
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),5 mL inoculum,shaking,40°C,10 days,4,not specified,whole fungi,Inhibition of decolorization observed at higher temperatures
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),5 mL inoculum,shaking,45°C,10 days,4,not specified,whole fungi,Inhibition of decolorization observed at higher temperatures
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),1-7 mL inoculum,shaking,30°C,10 days,4.5,100% with 5 mL inoculum,whole fungi,Decolorization efficiency decreases with increased inoculum volume beyond 5 mL

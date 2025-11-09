@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Azo dyes,Pyricularia oryzae,not specified,not specified,not specified,not specified,not specified,not specified,oxidative cleavage observed,not specified,Released elemental nitrogen and para-hydroperoxy-benzenesulfonic acid
+Azo dyes,Trametes villosa,not specified,not specified,not specified,not specified,not specified,not specified,polymerization retained azo group,not specified,Substantial fraction of degradation products polymerized
+Reactive Yellow 81,Bacillus subtilis (CotA-Laccase),not specified,not specified,not specified,not specified,not specified,not specified,not degraded,not specified,Lacked electron-rich moieties preferred by laccases
+Sudan Orange G,Bacillus subtilis (CotA-Laccase),not specified,not specified,not specified,not specified,not specified,not specified,leading to hydroxy-p-benzoquinone,not specified,Produced a polymer mixture with the retained azo moiety
+Hydroxyanthraquinones,Pleurotus ostreatus,not specified,not specified,not specified,not specified,not specified,not specified,oxidized effectively,not specified,Higher laccase secretion than Phanerochaete chrysosporium
+Methylene blue,not specified,not specified,not specified,not specified,not specified,not specified,not specified,not ideal substrate for laccases,not specified,Lacks –OH or –NH2 groups
+Azure B,not specified,not specified,not specified,not specified,not specified,not specified,not specified,more efficient bleaching,not specified,HAT mechanism favored due to –NHCH3 group
+Crystal violet,Trametes versicolor,not specified,not specified,not specified,not specified,not specified,not specified,most recalcitrant,mycelium,"Basic dyes toxic to fungus, affecting biomass"
+Reactive Blue 25,Aspergillus ochraceus,not specified,not specified,not specified,not specified,not specified,not specified,bleached,not specified,Demetallated through manganese peroxidase intervention

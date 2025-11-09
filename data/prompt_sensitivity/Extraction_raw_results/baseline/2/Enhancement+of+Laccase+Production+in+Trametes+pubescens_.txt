@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+none,Trametes hirsuta,N/A,N/A,shaking,25°C,twentieth day,5.8,7614 U/L,mycelium,Color change due to pigment secretion
+none,Trametes hirsuta,1 mM copper sulphate,N/A,shaking,25°C,up to 5th day,5.8,17074 U/L,mycelium,Growth inhibited at higher concentrations
+none,Trametes hirsuta,"1 mM 2, 5 xylidine",N/A,shaking,25°C,4th day,5.8,23543 U/L,mycelium,Higher cell mass formation
+none,Trametes hirsuta,0.25 mM to 2 mM copper sulphate,N/A,shaking,25°C,3rd day,5.8,maximum at 1mM with 17074 U/L,mycelium,Concentration above 1 mM inhibited growth
+none,Trametes hirsuta,"0.25 mM to 2 mM 2, 5 xylidine",N/A,shaking,25°C,up to 5th day,5.8,maximum at 1mM with 23543 U/L,mycelium,Higher concentrations reduced laccase production
+none,Trametes hirsuta,N/A,20 g/l lignocellulosic materials,shaking,25°C,N/A,5.8,9300 U/L (wheat bran),mycelium,Wheat bran provided highest activity
+none,Trametes hirsuta,N/A,10 g/l of various nitrogen sources,shaking,25°C,N/A,5.8,17390 U/L (peptone),mycelium,Combined sources showed lower activity
+none,Trametes hirsuta,1 mM various inducers,N/A,shaking,25°C,added on 3rd day,5.8,"maximum at 2, 5 xylidine with 23456 U/L",mycelium,Various inducers assessed for laccase activity
+none,Trametes hirsuta,N/A,N/A,N/A,N/A,N/A,N/A,25889 U/L,mycelium,Plakett-Burman design optimized conditions

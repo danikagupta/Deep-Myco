@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Azo dyes,Trametes versicolor HEMIM-9,not specified,not specified,shaking,not specified,not specified,not specified,excellent,mycelium,N/A
+not specified,Agaricus bisporus,not specified,not specified,not specified,not specified,not specified,not specified,not specified,not specified,Residual compost used for oxidation of phenolic compounds.
+not specified,Coriolus rigida,not specified,not specified,not specified,not specified,not specified,not specified,not specified,not specified,25-fold increase in laccase production using nutshells.
+not specified,Trametes hirsuta,not specified,not specified,not specified,not specified,not specified,not specified,not specified,not specified,Laccase production improved by using grape seeds as lignocellulosic source.
+not specified,Pleurotus ostreatus,not specified,not specified,not specified,not specified,not specified,not specified,not specified,not specified,High laccase activity achieved with specific inducers.

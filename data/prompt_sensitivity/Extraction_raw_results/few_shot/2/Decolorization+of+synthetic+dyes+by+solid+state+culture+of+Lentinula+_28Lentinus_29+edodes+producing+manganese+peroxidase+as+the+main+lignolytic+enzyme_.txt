@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Manganese Peroxidase,Lentinula boryana,70 UI.L-1,not specified,not specified,not specified,25 days,not specified,not applicable,not specified,Maximum MnP expression
+Manganese Peroxidase,Lentinula edodes,20 UI.L-1,not specified,not specified,not specified,25 days,not specified,not applicable,not specified,Maximum MnP expression
+Manganese Peroxidase,Lentinula edodes,110 UI.L-1,not specified,not specified,not specified,10 days,not specified,not applicable,not specified,Best results in SSF
+Manganese Peroxidase,Lentinula boryana,110 UI.L-1,not specified,not specified,not specified,20-25 days,not specified,not applicable,not specified,Enzyme production reaches maximum

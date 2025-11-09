@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Reactive blue 19,Trametes versicolor,not specified,not specified,not specified,not specified,36 h,5.0,excellent,mycelium,laccase immobilized on CPC-silica beads
+Dispersed blue 3,Trametes versicolor,not specified,not specified,not specified,not specified,36 h,5.0,excellent,mycelium,laccase immobilized on CPC-silica beads
+Acid blue 74,Trametes versicolor,not specified,not specified,not specified,not specified,36 h,5.0,moderate,mycelium,laccase immobilized on CPC-silica beads
+Acid red 27,Trametes versicolor,not specified,not specified,not specified,not specified,36 h,5.0,moderate,mycelium,laccase immobilized on CPC-silica beads
+Reactive black 5,Trametes versicolor,not specified,not specified,not specified,not specified,36 h,5.0,poor,mycelium,laccase immobilized on CPC-silica beads

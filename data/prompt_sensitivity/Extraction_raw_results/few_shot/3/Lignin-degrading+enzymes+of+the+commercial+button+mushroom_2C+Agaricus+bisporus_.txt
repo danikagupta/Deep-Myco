@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+not applicable,Agaricus heterocystis,not applicable,not specified,static,30 °C,17 days,not applicable,45.19 ± 1.08 U/ml,mycelium,maximum MnP production
+not applicable,Agaricus heterocystis,not applicable,not specified,static,not applicable,17 days,5.5,48.33 ± 0.87 U/ml,mycelium,maximum MnP production at pH 5.5
+not applicable,Agaricus heterocystis,not applicable,not specified,static,30 °C,19 days,not applicable,53.86 ± 1.09 U/ml,mycelium,maximum MnP production with peptone
+not applicable,Agaricus heterocystis,not applicable,not specified,static,30 °C,17 days,not applicable,54.39 ± 0.87 U/ml,mycelium,maximum MnP production with tryptophan
+not applicable,Agaricus heterocystis,not applicable,not specified,static,30 °C,19 days,not applicable,52.17 ± 0.97 U/ml,mycelium,maximum MnP production with fructose

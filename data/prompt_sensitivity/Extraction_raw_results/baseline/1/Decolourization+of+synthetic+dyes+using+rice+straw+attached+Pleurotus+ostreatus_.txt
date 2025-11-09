@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Carmoisine Red,Pleurotus ostreatus,10ppm,5g/L dried,shaking,room temperature,5 days,6.5,81.34%,fungal mass,Complete decolorization visually confirmed.
+Tartrazine Yellow,Pleurotus ostreatus,10ppm,5g/L dried,shaking,room temperature,5 days,6.5,45.36%,fungal mass,Visual transformation to light yellow.
+Brilliant Blue FCF,Pleurotus ostreatus,10ppm,5g/L dried,shaking,room temperature,5 days,6.5,19.82%,fungal mass,Visual confirmation of decolorization.
+Fast Green FCF,Pleurotus ostreatus,10ppm,5g/L dried,shaking,room temperature,5 days,6.5,28.99%,fungal mass,Decolorization observed.
+Carmoisine Red,Pleurotus ostreatus,10ppm,0.1g fresh,none specified,room temperature,5 days,6.5,30.49%,mycellium,No agitation used.
+Tartrazine Yellow,Pleurotus ostreatus,10ppm,0.1g fresh,none specified,room temperature,5 days,6.5,12.66%,mycellium,No agitation used.
+Brilliant Blue FCF,Pleurotus ostreatus,10ppm,0.1g fresh,none specified,room temperature,5 days,6.5,5.11%,mycellium,No agitation used.
+Fast Green FCF,Pleurotus ostreatus,10ppm,0.1g fresh,none specified,room temperature,5 days,6.5,10.43%,mycellium,No agitation used.

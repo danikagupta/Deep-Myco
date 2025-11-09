@@ -1,0 +1,17 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+xylidine,Trametes versicolor,10 µM,not specified,shaking,28°C,not specified,not specified,not specified,mycelium,Maximum laccase activity 573 U/L
+xylidine,Trametes versicolor,15 µM,not specified,shaking,28°C,not specified,not specified,not specified,mycelium,Maximum laccase activity 912 U/L
+xylidine,Trametes versicolor,30 µM,not specified,shaking,28°C,not specified,not specified,not specified,mycelium,Maximum laccase activity 1583 U/L
+xylidine,Trametes versicolor,50 µM,not specified,shaking,28°C,not specified,not specified,not specified,mycelium,Maximum laccase activity 1040 U/L
+veratryl alcohol,Trametes versicolor,0.050 mM,not specified,shaking,28°C,not specified,not specified,not specified,mycelium,Maximum laccase activity 47 U/L
+veratryl alcohol,Trametes versicolor,1.0 mM,not specified,shaking,28°C,not specified,not specified,not specified,mycelium,Maximum laccase activity 79 U/L
+veratryl alcohol,Trametes versicolor,2.0 mM,not specified,shaking,28°C,not specified,not specified,not specified,mycelium,Maximum laccase activity 345 U/L
+veratryl alcohol,Trametes versicolor,4.0 mM,not specified,shaking,28°C,not specified,not specified,not specified,mycelium,Maximum laccase activity 33 U/L
+ligninosulphonates,Trametes versicolor,0.034 g/L,not specified,shaking,28°C,not specified,not specified,not specified,mycelium,Maximum laccase activity 192 U/L
+ligninosulphonates,Trametes versicolor,0.086 g/L,not specified,shaking,28°C,not specified,not specified,not specified,mycelium,Maximum laccase activity 224 U/L
+ligninosulphonates,Trametes versicolor,0.171 g/L,not specified,shaking,28°C,not specified,not specified,not specified,mycelium,Maximum laccase activity 270 U/L
+ligninosulphonates,Trametes versicolor,0.34 g/L,not specified,shaking,28°C,not specified,not specified,not specified,mycelium,Maximum laccase activity 148 U/L
+solid lignin,Trametes versicolor,0.04 g/L,not specified,shaking,28°C,not specified,not specified,not specified,mycelium,Maximum laccase activity 870 U/L
+solid lignin,Trametes versicolor,0.20 g/L,not specified,shaking,28°C,not specified,not specified,not specified,mycelium,Maximum laccase activity 985 U/L
+solid lignin,Trametes versicolor,0.40 g/L,not specified,shaking,28°C,not specified,not specified,not specified,mycelium,Maximum laccase activity 1240 U/L
+solid lignin,Trametes versicolor,2.0 g/L,not specified,shaking,28°C,not specified,not specified,not specified,mycelium,Maximum laccase activity 912 U/L

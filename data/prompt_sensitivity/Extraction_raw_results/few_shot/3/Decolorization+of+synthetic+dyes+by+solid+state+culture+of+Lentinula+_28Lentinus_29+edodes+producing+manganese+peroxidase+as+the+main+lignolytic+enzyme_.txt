@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+not applicable,Lentinula boryana,not applicable,not specified,submerged fermentation,20 °C,25 days,not specified,70 UI.L-1,mycelium,enzyme expression peaks on day 25
+not applicable,Lentinula edodes,not applicable,not specified,submerged fermentation,25 °C,25 days,not specified,20 UI.L-1,mycelium,enzyme expression peaks on day 25
+not applicable,Lentinula edodes,not applicable,not specified,solid-state fermentation,not specified,10 days,not specified,around 110 UI.L-1,mycelium,enzyme activity maximum at 10 days
+not applicable,Lentinula boryana,not applicable,not specified,solid-state fermentation,not specified,20-25 days,not specified,around 110 UI.L-1,mycelium,enzyme activity maximum between 20-25 days

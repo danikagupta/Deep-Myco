@@ -1,0 +1,11 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+not applicable,Aspergillus niger strain 13A,not applicable,1 × 10^6 spores/ml,static,35 °C,6 days,6.0,not applicable,whole fungi,Maximizing cellulase production
+not applicable,Aspergillus niger strain 13A,not applicable,1 × 10^6 spores/ml,submerged fermentation,35 °C,14 days,not applicable,not applicable,whole fungi,"Utilization of kraft brown bags, cardboard, foolscap, printout paper for cellulase production"
+not applicable,Aspergillus niger strain 13A,not applicable,1 × 10^6 spores/ml,static,35 °C,6 days,4,not applicable,whole fungi,Mycelial dry weight was 0.21 ± 0.02 g/100 ml
+not applicable,Aspergillus niger strain 13A,not applicable,1 × 10^6 spores/ml,static,35 °C,6 days,5,not applicable,whole fungi,"Mycelial dry weight was 0.32 ± 0.025 g/100 ml, CMC-ase was 1.07 ± 0.074 IU/ml"
+not applicable,Aspergillus niger strain 13A,not applicable,1 × 10^6 spores/ml,static,35 °C,6 days,6,not applicable,whole fungi,"Mycelial dry weight was 0.37 ± 0.026 g/100 ml, CMC-ase was 1.24 ± 0.049 IU/ml"
+not applicable,Aspergillus niger strain 13A,not applicable,1 × 10^6 spores/ml,static,35 °C,6 days,7,not applicable,whole fungi,Mycelial dry weight was 0.29 ± 0.35 g/100 ml
+not applicable,Aspergillus niger strain 13A,not applicable,1 × 10^6 spores/ml,static,35 °C,6 days,8,not applicable,whole fungi,Mycelial dry weight was 0.20 ± 0.025 g/100 ml
+not applicable,Aspergillus niger strain 13A,not applicable,1 × 10^6 spores/ml,static,35 °C,6 days,9,not applicable,whole fungi,Mycelial dry weight was 0.13 ± 0.021 g/100 ml
+not applicable,Aspergillus niger strain 13A,not applicable,1 × 10^6 spores/ml,static,35 °C,14 days,6,not applicable,whole fungi,Biodegradation of paper waste achieved complete degradation
+not applicable,Aspergillus niger strain 13A,not applicable,1 × 10^6 spores/ml,static,35 °C,6 days,not applicable,not applicable,whole fungi,Inhibition rate against Fusarium oxysporum ranged from 63.27% to 78.5%

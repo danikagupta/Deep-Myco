@@ -1,0 +1,16 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+orange G,Daldenia concentrica,50 µM,not specified,shaking,30°C,12 days,not specified,35.88%,mycelium,mycelial growth 56 mg
+orange G,Lepiota sp.,50 µM,not specified,shaking,30°C,12 days,not specified,43.00%,mycelium,mycelial growth 55 mg
+orange G,Trametes serialis,50 µM,not specified,shaking,30°C,12 days,not specified,32.00%,mycelium,mycelial growth 51 mg
+methyl orange,Daldenia concentrica,50 µM,not specified,shaking,30°C,8 days,not specified,60.00%,mycelium,"initial mycelial growth 47 mg, increased to 54 mg"
+methyl orange,Lepiota sp.,50 µM,not specified,shaking,30°C,16 days,not specified,58.65%,mycelium,mycelial growth 56 mg
+methyl orange,Trametes serialis,50 µM,not specified,shaking,30°C,8 days,not specified,53.28%,mycelium,mycelial growth 54 mg
+congo red,Daldenia concentrica,50 µM,not specified,shaking,30°C,8 days,not specified,91.54%,mycelium,mycelial growth 60 mg
+congo red,Lepiota sp.,50 µM,not specified,shaking,30°C,8 days,not specified,90.07%,mycelium,mycelial growth 56 mg
+congo red,Trametes serialis,50 µM,not specified,shaking,30°C,8 days,not specified,95.48%,mycelium,mycelial growth 54 mg
+textile effluent,Daldenia concentrica,not specified,not specified,batch mode,39°C,7 days,not specified,84.52%,mycelium,not specified
+textile effluent,Lepiota sp.,not specified,not specified,batch mode,39°C,7 days,not specified,66.67%,mycelium,not specified
+textile effluent,Trametes serialis,not specified,not specified,batch mode,39°C,7 days,not specified,89.28%,mycelium,not specified
+textile effluent,Daldenia concentrica,not specified,not specified,continuous mode,39°C,5 days,not specified,52.38%,mycelium,not specified
+textile effluent,Lepiota sp.,not specified,not specified,continuous mode,39°C,7 days,not specified,55.95%,mycelium,not specified
+textile effluent,Trametes serialis,not specified,not specified,continuous mode,39°C,5 days,not specified,54.76%,mycelium,not specified

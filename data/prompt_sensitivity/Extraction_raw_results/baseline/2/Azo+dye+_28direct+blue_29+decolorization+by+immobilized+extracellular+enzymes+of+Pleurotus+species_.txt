@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Phenol Red,P. flabellatus,300 mg/l,1 mm (mycelial bits),stagnant,25°C,20 days,5.0,not specified,mycelium,Absorbance measured at λmax 497 nm
+Phenol Red,P. ostreatus,300 mg/l,1 mm (mycelial bits),stagnant,25°C,20 days,5.0,not specified,mycelium,Absorbance measured at λmax 497 nm
+Phenol Red,P. citrinopileatus,300 mg/l,1 mm (mycelial bits),stagnant,25°C,20 days,5.0,not specified,mycelium,Absorbance measured at λmax 497 nm
+Phenol Red,Improved dikaryon Poc 9X6,300 mg/l,1 mm (mycelial bits),stagnant,25°C,20 days,5.5,maximum,mycelium,Absorbance measured at λmax 497 nm
+Phenol Red,Improved dikaryon Pfo 6X9,300 mg/l,1 mm (mycelial bits),stagnant,25°C,20 days,5.5,not specified,mycelium,Absorbance measured at λmax 497 nm
+Phenol Red,Improved dikaryon Poc 9X6,300 mg/l,5 ml (10 days old culture),stagnant,25°C,20 days,not specified,maximum,mycelium,Absorbance measured at λmax 497 nm
+Phenol Red,Improved dikaryon Poc 9X6,300 mg/l,30 ml (various inoculum concentrations),not specified,25°C,not specified,5.5,maximum,mycelium,Absorbance measured at λmax 497 nm

@@ -1,0 +1,11 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+malachite green,Aspergillus flavus,10 µM,not specified,static,37.5°C,6 days,not specified,> 96%,mycelium,Dye was used as sole carbon source; decolorization at various concentrations tested.
+malachite green,Aspergillus flavus,20 µM,not specified,static,37.5°C,6 days,not specified,> 96%,mycelium,Dye was used as sole carbon source; decolorization at various concentrations tested.
+malachite green,Aspergillus flavus,30 µM,not specified,static,37.5°C,6 days,not specified,> 96%,mycelium,Dye was used as sole carbon source; decolorization at various concentrations tested.
+malachite green,Aspergillus flavus,40 µM,not specified,static,37.5°C,6 days,not specified,> 96%,mycelium,Dye was used as sole carbon source; decolorization at various concentrations tested.
+malachite green,Aspergillus flavus,50 µM,not specified,static,37.5°C,6 days,not specified,97.43%,mycelium,"Used dye as sole carbon source, good degradation observed."
+malachite green,Alternaria solani,10 µM,not specified,static,37.5°C,6 days,not specified,> 96%,mycelium,Dye was used as sole carbon source; decolorization at various concentrations tested.
+malachite green,Alternaria solani,20 µM,not specified,static,37.5°C,6 days,not specified,> 96%,mycelium,Dye was used as sole carbon source; decolorization at various concentrations tested.
+malachite green,Alternaria solani,30 µM,not specified,static,37.5°C,6 days,not specified,> 96%,mycelium,Dye was used as sole carbon source; decolorization at various concentrations tested.
+malachite green,Alternaria solani,40 µM,not specified,static,37.5°C,6 days,not specified,> 96%,mycelium,Dye was used as sole carbon source; decolorization at various concentrations tested.
+malachite green,Alternaria solani,50 µM,not specified,static,37.5°C,6 days,not specified,96.91%,mycelium,"Used dye as sole carbon source, good degradation observed."

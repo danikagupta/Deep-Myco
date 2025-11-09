@@ -1,0 +1,19 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Red dye,Aspergillus niger,50 ppm,not specified,not specified,25 °C,24 h,not specified,62.85%,not specified,results recorded each 24 hours
+Red dye,Aspergillus niger,50 ppm,not specified,not specified,25 °C,48 h,not specified,83.52%,not specified,results recorded each 24 hours
+Red dye,Aspergillus niger,50 ppm,not specified,not specified,25 °C,72 h,not specified,99.77%,not specified,results recorded each 24 hours
+Red dye,Aspergillus niger,100 ppm,not specified,not specified,25 °C,24 h,not specified,50.96%,not specified,results recorded each 24 hours
+Red dye,Aspergillus niger,100 ppm,not specified,not specified,25 °C,48 h,not specified,77.87%,not specified,results recorded each 24 hours
+Red dye,Aspergillus niger,100 ppm,not specified,not specified,25 °C,72 h,not specified,96.02%,not specified,results recorded each 24 hours
+Red dye,Aspergillus niger,300 ppm,not specified,not specified,25 °C,24 h,not specified,38.87%,not specified,results recorded each 24 hours
+Red dye,Aspergillus niger,300 ppm,not specified,not specified,25 °C,48 h,not specified,60.55%,not specified,results recorded each 24 hours
+Red dye,Aspergillus niger,300 ppm,not specified,not specified,25 °C,72 h,not specified,92.19%,not specified,results recorded each 24 hours
+Yellow dye,Aspergillus niger,50 ppm,not specified,not specified,25 °C,24 h,not specified,62.09%,not specified,results recorded each 24 hours
+Yellow dye,Aspergillus niger,50 ppm,not specified,not specified,25 °C,48 h,not specified,80.94%,not specified,results recorded each 24 hours
+Yellow dye,Aspergillus niger,50 ppm,not specified,not specified,25 °C,72 h,not specified,94.11%,not specified,results recorded each 24 hours
+Yellow dye,Aspergillus niger,100 ppm,not specified,not specified,25 °C,24 h,not specified,48.31%,not specified,results recorded each 24 hours
+Yellow dye,Aspergillus niger,100 ppm,not specified,not specified,25 °C,48 h,not specified,76.88%,not specified,results recorded each 24 hours
+Yellow dye,Aspergillus niger,100 ppm,not specified,not specified,25 °C,72 h,not specified,93.65%,not specified,results recorded each 24 hours
+Yellow dye,Aspergillus niger,300 ppm,not specified,not specified,25 °C,24 h,not specified,38.68%,not specified,results recorded each 24 hours
+Yellow dye,Aspergillus niger,300 ppm,not specified,not specified,25 °C,48 h,not specified,58.01%,not specified,results recorded each 24 hours
+Yellow dye,Aspergillus niger,300 ppm,not specified,not specified,25 °C,72 h,not specified,88.9%,not specified,results recorded each 24 hours

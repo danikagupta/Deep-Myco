@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Not applicable,Trametes pubescens MB89,Not applicable,0.87 ± 0.28 g/L,shaking (150 rpm),28 °C,15 days,5.0,Not applicable,whole fungi,Optimal pH for laccase synthesis was assessed from a range of pH values.
+Not applicable,Trametes pubescens MB89,Not applicable,1.27 ± 0.31 g/L,shaking (150 rpm),28 °C,15 days,5.0,Not applicable,whole fungi,Different carbon sources were added to low-strength distillery wastewater.
+Not applicable,Trametes pubescens MB89,Not applicable,0.76 ± 0.25 g/L,shaking (150 rpm),28 °C,14 days,5.0,Not applicable,whole fungi,Laccase synthesis was studied in modified wine-related wastewaters with various additions.
+Not applicable,Trametes pubescens MB89,Not applicable,0.76 ± 0.25 g/L,shaking (150 rpm),28 °C,14 days,5.0,Not applicable,whole fungi,"Combination of glucose, copper, and 2,5-xylidine enhanced laccase synthesis."
+Not applicable,Trametes pubescens MB89,Not applicable,0.76 ± 0.25 g/L,shaking (150 rpm),28 °C,14 days,5.0,Not applicable,whole fungi,"Multiple additions of 2,5-xylidine significantly increased laccase synthesis."

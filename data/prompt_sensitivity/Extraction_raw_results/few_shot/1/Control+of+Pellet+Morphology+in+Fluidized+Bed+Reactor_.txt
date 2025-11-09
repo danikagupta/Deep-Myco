@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+MTBE,Phanerochaete chrysosporium,not specified,not specified,shaking,37 °C,30 h,not specified,not specified,whole fungi,Enzyme productivity achieved up to 456 Units.L-1 day-1 at enzyme concentration of 144 Units/L.
+Naphthalene,Phanerochaete chrysosporium,not specified,not specified,shaking,37 °C,30 h,not specified,not specified,whole fungi,The maximum naphthalene degradation recorded was 26% at 36 Units/L enzyme concentration.
+MTBE,Phanerochaete chrysosporium,not specified,not specified,shaking,37 °C,30 h,not specified,not specified,whole fungi,MTBE degradation was achieved with variations in enzyme concentrations and mediating substrates.
+Naphthalene,Phanerochaete chrysosporium,not specified,not specified,shaking,37 °C,30 h,not specified,not specified,whole fungi,A maximum of 38% degradation of naphthalene was noted at 72 Units/L enzyme concentration.

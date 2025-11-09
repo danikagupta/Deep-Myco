@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Olive mill wastewater (OMWW),Trametes vesicolor,0%,not specified,not specified,40.5°C to 41.5°C,15 minutes,3,76.12%,whole fungi,Figure 4.3: Phenol concentration versus time
+Olive mill wastewater (OMWW),Trametes vesicolor,1%,not specified,not specified,40.5°C to 41.5°C,15 minutes,not specified,14.50%,whole fungi,Figure 4.1: Laccase activity versus OMW concentration
+Olive mill wastewater (OMWW),Trametes vesicolor,2%,not specified,not specified,40.5°C to 41.5°C,15 minutes,not specified,20.34%,whole fungi,Figure 4.1: Laccase activity versus OMW concentration
+Olive mill wastewater (OMWW),Trametes vesicolor,5%,not specified,not specified,40.5°C to 41.5°C,15 minutes,not specified,22.85%,whole fungi,Figure 4.1: Laccase activity versus OMW concentration

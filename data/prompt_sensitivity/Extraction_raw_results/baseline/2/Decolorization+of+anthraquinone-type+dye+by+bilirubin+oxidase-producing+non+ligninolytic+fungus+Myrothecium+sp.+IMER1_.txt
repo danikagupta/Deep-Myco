@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Remazol Brilliant Blue R,Myrothecium sp. IMER1,60 mg L-1,not specified,shaking,28°C,6 days,5.0,60-70%,mycelium,Similar results obtained for pH range 6.0-10.0
+Remazol Brilliant Blue R,Myrothecium sp. IMER1,60 mg L-1,not specified,shaking,28°C,6 days,6.0,60-70%,mycelium,Similar results obtained for pH range 5.0-10.0
+Remazol Brilliant Blue R,Myrothecium sp. IMER1,60 mg L-1,not specified,shaking,28°C,6 days,7.0,more than 65%,mycelium,Similar results observed at pH 8.0-10.0
+Remazol Brilliant Blue R,Myrothecium sp. IMER1,60 mg L-1,not specified,shaking,28°C,6 days,8.0,more than 65%,mycelium,Demonstrates high efficiency in decolorization across pH ranges
+Remazol Brilliant Blue R,Myrothecium sp. IMER1,not applicable,30% (v/v),not specified,not specified,not specified,7.0,73%,not specified,Compared to white-rot fungi which had less than 25%
+dye effluent,Myrothecium sp. IMER1,not applicable,30% (v/v),not specified,not specified,not specified,9.0,70%,not specified,Indicates good performance under alkaline conditions

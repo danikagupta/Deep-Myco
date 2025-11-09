@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Molasses spent wash,Phanerochaete chrysosporium,undiluted,not specified,static,30°C,12 days,not specified,51%,whole fungi,Culture reduced phenol toxicity by 70%
+Molasses spent wash,Trametes versicolor,20%,not specified,not specified,not specified,7 days,not specified,73%,whole fungi,Produced laccase activity
+Cane molasses,Geotrichum candidum,undiluted,not specified,batch,not specified,3 days,not specified,80%,whole fungi,Highest activity of peroxidase recorded
+Other distilled spirits,Coriolus versicolor,undiluted,not specified,not specified,not specified,10 days,not specified,53%,whole fungi,Condensed to decolorize under multiple substrates
+Molasses spent wash,Flavodon flavus,undiluted,not specified,aerobic,30°C,10 days,not specified,70%,whole fungi,Induces fungal oxidase
+Vinasse,Aspergillus niger,undiluted,not specified,batch,34°C,3 days,6.0,85%,whole fungi,Promotes good digestion of Coca-Cola byproduct
+Distillery waste,Coriolus versicolor Ps4a,10%,not specified,batch,not specified,7 days,6.5,65%,whole fungi,Promotes protein recovery from remaining distillation
+Stillage,Saccharomyces,undiluted,not specified,batch,30°C,30 hours,5.0,41%,whole fungi,Used in malting or beer making

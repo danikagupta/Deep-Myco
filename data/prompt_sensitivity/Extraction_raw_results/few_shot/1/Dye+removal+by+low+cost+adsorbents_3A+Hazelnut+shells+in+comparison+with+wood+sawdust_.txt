@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Congo Red,Phanerochaete chrysosporium,50 mg/L,5 x 10^10/L,static,30 °C,48 h,5.5,37.5%,mycelium,tested across different dye concentrations
+Congo Red,Phanerochaete chrysosporium,500 mg/L,5 x 10^10/L,static,30 °C,48 h,5.5,43%,mycelium,considered as typical concentration in textile industry; significant degradation observed
+Congo Red,Phanerochaete chrysosporium,1000 mg/L,5 x 10^10/L,static,30 °C,48 h,5.5,not specified,mycelium,tested to evaluate adsorption rate
+Congo Red,Phanerochaete chrysosporium,5000 mg/L,5 x 10^10/L,static,30 °C,48 h,5.5,27.5%,mycelium,maximum adsorption of 13.75 mg/g shells observed
+Congo Red,Phanerochaete chrysosporium,abhabiotic,not applicable,static,30 °C,48 h,5.5,0%,not applicable,control experiment to contrast with biotic cultures

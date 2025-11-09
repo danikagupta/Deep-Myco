@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+lignin,Trametes versicolor,0.40 g/L,not specified,shaking (180 rpm),28 °C,10 days,not specified,1240 U/L,mycelium,best result for laccase induction
+veratryl alcohol,Trametes versicolor,2 mM,not specified,shaking (180 rpm),28 °C,10 days,not specified,345 U/L,mycelium,favourable concentration for laccase production
+xylidine,Trametes versicolor,30 µM,not specified,shaking (180 rpm),28 °C,10 days,not specified,1583 U/L,mycelium,highest laccase activity found
+ligninosulphonates,Trametes versicolor,0.34 g/L,not specified,shaking (180 rpm),28 °C,10 days,not specified,270 U/L,mycelium,less effective than lignin

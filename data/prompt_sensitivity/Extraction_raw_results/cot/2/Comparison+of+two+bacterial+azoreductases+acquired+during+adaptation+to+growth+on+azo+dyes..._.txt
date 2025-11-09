@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+m-[(4-dimethylamino)phenylaazo]benzenesulfonic acid,Candida zeylanoides,0.2 mM,not specified,shaking,25 °C,60 h,not specified,100%,whole fungi,Aliquots analyzed showed presence of metanilic acid.
+p-[(4-dimethylamino)phenylaazo]benzenesulfonic acid (Methyl Orange),Candida zeylanoides,0.2 mM,not specified,shaking,25 °C,25 h,not specified,80%,whole fungi,Aliquots analyzed showed presence of sulfanilic acid.
+m-[(2-hydroxy-1-naphthyl)azo]benzenesulfonic acid,Issatchenkia occidentalis,0.2 mM,not specified,shaking,not specified,15 h,not specified,80%,whole fungi,Performance under microaerophilic conditions.
+p-[(2-hydroxy-1-naphthyl)azo]benzenesulfonic acid (Orange II),Issatchenkia occidentalis,0.2 mM,not specified,shaking,not specified,30 h,not specified,not specified,whole fungi,Decolorization did not occur under anoxic conditions.
+Amaranth (Acid Red 27),Saccharomyces cerevisiae,0.2 mM,not specified,shaking,not specified,8.5 h,not specified,100%,whole fungi,high initial cell density used.
+Amaranth (Acid Red 27),Issatchenkia occidentalis,0.2 mM,not specified,shaking,not specified,26 h,not specified,not specified,whole fungi,Performance was assessed under batch conditions.
+C.I. Reactive Black 5,Bacterial Consortium,not specified,not specified,not specified,55 °C,24 h,9,91.5±1.3%,not applicable,Continuous process developed with a hydraulic retention time of 24 h.

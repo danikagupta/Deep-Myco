@@ -1,0 +1,12 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Neolane yellow,Trametes trogii,50 mg/L,not specified,shaking,30°C,1 day,not specified,18%,mycelium,Decolorization increased to 40% after 10 days.
+Neolane yellow,Trametes trogii,50 mg/L,not specified,shaking,30°C,4 days,not specified,39.6%,mycelium,Decolorization reached 100% with 0.5 mM HBT.
+Maxillon blue,Trametes trogii,50 mg/L,not specified,shaking,30°C,1 day,not specified,0%,mycelium,Subsequent treatments with 0.5 mM HBT showed slight decolorization.
+Maxillon blue,Trametes trogii,50 mg/L,not specified,shaking,30°C,4 days,not specified,0%,mycelium,HBT increased slight decolorization.
+Neolane pink,Trametes trogii,50 mg/L,not specified,shaking,30°C,1 day,not specified,63.6%,mycelium,Result remained consistent on repeat.
+Neolane pink,Trametes trogii,50 mg/L,not specified,shaking,30°C,4 days,not specified,86.4%,mycelium,Result remained consistent on repeat.
+Bezaktiv S-BF turquoise,Trametes trogii,50 mg/L,not specified,shaking,30°C,1 day,not specified,54%,mycelium,Complete decolorization not achieved with or without HBT.
+Bezaktiv S-BF turquoise,Trametes trogii,50 mg/L,not specified,shaking,30°C,4 days,not specified,71%,mycelium,Complete decolorization not achieved with or without HBT.
+Basacryl yellow,Trametes trogii,50 mg/L,not specified,shaking,30°C,10 days,not specified,0%,mycelium,No significant decolorization occurred.
+Neolane blue,Trametes trogii,50 mg/L,not specified,shaking,30°C,1 day,not specified,91.5%,mycelium,Result remained consistent on repeat.
+Neolane blue,Trametes trogii,50 mg/L,not specified,shaking,30°C,4 days,not specified,91.2%,mycelium,Result remained consistent on repeat.

@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Methyl orange,P. citrinopileatus,Not specified,1 mm in diameter,Stagnant condition,25°C,20 days,Not specified,96.98%,mycelium,
+Congo red,P. flabellatus,Not specified,1 mm in diameter,Stagnant condition,25°C,25 days,Not specified,97.42%,mycelium,
+Methyl red,P. flabellatus,Not specified,1 mm in diameter,Stagnant condition,25°C,25 days,Not specified,90.67%,mycelium,
+Acid black,P. flabellatus,Not specified,1 mm in diameter,Stagnant condition,25°C,25 days,Not specified,84.52%,mycelium,
+Phenol red,P. citrinopileatus,Not specified,1 mm in diameter,Stagnant condition,25°C,25 days,Not specified,93.33%,mycelium,
+PSP,dikaryons,300 mg/l,1 mm in diameter,Not specified,25°C,20 days,Not specified,Not specified,mycelium,Detected spectrophotometrically at λ max 497 nm
+Acid black,P. citrinopileatus (dikaryon Poc 9X6),0.02%,5 ml of 10 days old culture,Not specified,Not specified,Not specified,5.5,Not specified,dikaryon,Higher decolorization
+Tested,Pleurotus species,Not specified,"0.2 µM, 0.4 µM",Not specified,27± 2°C,Not specified,Not specified,Not specified,Not specified,Effects of aromatic amino acids tested
+Acid black,Improved dikaryons,0.03%,Not specified,Not specified,Not specified,Not specified,Not specified,Better decolorization,dikaryon,Higher tolerance level

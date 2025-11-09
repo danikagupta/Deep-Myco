@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+enrofloxacin,Trametes versicolor,50 mg L−1,6 U mL−1,shaking (150 rpm),45 °C,6 h,5,"75% without HBT, 90% with HBT (2 mM)",not specified,
+flumequine,Trametes versicolor,50 mg L−1,6 U mL−1,shaking (150 rpm),45 °C,6 h,4.5,"72% without HBT, 96% with HBT (2 mM)",not specified,
+enrofloxacin,Trametes versicolor,50 mg L−1,6 U mL−1,shaking (150 rpm),45 °C,6 h,5,80.66% using immobilized laccase after 6 h,not specified,
+flumequine,Trametes versicolor,50 mg L−1,6 U mL−1,shaking (150 rpm),45 °C,6 h,4.5,72.33% using immobilized laccase after 6 h,not specified,
+enrofloxacin,Trametes versicolor,50 mg L−1,6 U mL−1,shaking (150 rpm),30 - 55 °C,6 h,5,Highest removal at 45 °C: 75.5%,not specified,Optimized for temperature
+flumequine,Trametes versicolor,50 mg L−1,6 U mL−1,shaking (150 rpm),30 - 55 °C,6 h,4.5,Highest removal at 45 °C: 72%,not specified,Optimized for temperature
+enrofloxacin,Trametes versicolor,50 mg L−1,6 U mL−1,shaking (150 rpm),45 °C,6 h,4.5,"70% at pH 5, 5.5 significant decrease",not specified,Maximal removal at pH 5
+flumequine,Trametes versicolor,50 mg L−1,6 U mL−1,shaking (150 rpm),45 °C,6 h,4.5,Maximum removal at pH 4.5,not specified,

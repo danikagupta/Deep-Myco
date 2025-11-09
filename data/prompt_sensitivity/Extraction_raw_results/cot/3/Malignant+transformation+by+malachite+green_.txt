@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+malachite green,Fomes sclerodermeus,32 µM,not specified,static,28 °C,7 days,5.6,excellent,mycelium,Figure 1b: radial growth
+malachite green,Fomes sclerodermeus,64 µM,not specified,static,28 °C,7 days,5.6,excellent,mycelium,Figure 1b: radial growth
+malachite green,Phanerochaete chrysosporium,4 µM,not specified,static,28 °C,7 days,5.6,limited,mycelium,Figure 1a: radial growth
+malachite green,Phanerochaete chrysosporium,32 µM,not specified,static,28 °C,7 days,5.6,limited,mycelium,Figure 1a: radial growth
+malachite green,Phanerochaete chrysosporium,64 µM,not specified,static,28 °C,7 days,5.6,not specified,mycelium,Figure 1a: radial growth
+decolorized malachite green,Phanerochaete chrysosporium,10 µM,not specified,static,28 °C,7 days,5.6,no toxicity,mycelium,Figure 4: DMG toxicity
+decolorized malachite green,Coriolus versicolor,10 µM,not specified,static,28 °C,7 days,5.6,limited growth,mycelium,Figure 4: DMG toxicity

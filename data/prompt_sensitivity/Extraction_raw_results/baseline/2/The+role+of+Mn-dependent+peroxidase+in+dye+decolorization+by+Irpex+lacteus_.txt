@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Congo Red,Irpex lacteus,100 mg/L,5-mm fungal disk,static,27°C,6 days,,61.4%,whole fungi,Test performed in triplicate
+Reactive Blue 4,Irpex lacteus,100 mg/L,5-mm fungal disk,static,27°C,6 days,,69.5%,whole fungi,Test performed in triplicate
+Orange II,Irpex lacteus,100 mg/L,5-mm fungal disk,static,27°C,6 days,,59.6%,whole fungi,Test performed in triplicate
+Congo Red,Irpex lacteus KUC8958,0.1 g/L,5-mm fungal disk,shaking,27°C,14 days,,95%,whole fungi,Measured every 2 days
+Reactive Blue 4,Irpex lacteus KUC8958,0.1 g/L,5-mm fungal disk,shaking,27°C,14 days,,95%,whole fungi,Measured every 2 days
+Orange II,Irpex lacteus KUC8958,0.1 g/L,5-mm fungal disk,shaking,27°C,14 days,,53%,whole fungi,Measured every 2 days
+Congo Red,Irpex lacteus KUC8958,0.1 g/L,5-mm fungal disk,static,27°C,14 days,,77%,whole fungi,Measured every 2 days
+Reactive Blue 4,Irpex lacteus KUC8958,0.1 g/L,5-mm fungal disk,static,27°C,14 days,,44%,whole fungi,Measured every 2 days
+Orange II,Irpex lacteus KUC8958,0.1 g/L,5-mm fungal disk,static,27°C,14 days,,9%,whole fungi,Measured every 2 days

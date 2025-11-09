@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+S m-g,Phanerochaete chrysosporium,50 mg/L,not specified,shaking,30 °C,7 days,4.5,75%,mycelium,Inoculated using PAM pre-growth medium
+S m-g,Phanerochaete chrysosporium,50 mg/L,not specified,shaking,30 °C,14 days,4.5,83%,mycelium,Inoculated using PAM pre-growth medium
+C m-s,Phanerochaete chrysosporium,50 mg/L,not specified,shaking,30 °C,28 days,4.5,not specified,mycelium,Dye structures and biodegradation results analyzed
+C m-g,Phanerochaete chrysosporium,50 mg/L,not specified,shaking,30 °C,28 days,4.5,not specified,mycelium,Dye structures and biodegradation results analyzed
+S p-g,Phanerochaete chrysosporium,50 mg/L,not specified,shaking,30 °C,28 days,4.5,not specified,mycelium,Dye structures and biodegradation results analyzed
+S m-s,Phanerochaete chrysosporium,50 mg/L,not specified,shaking,30 °C,28 days,4.5,not specified,mycelium,Dye structures and biodegradation results analyzed
+C p-s,Phanerochaete chrysosporium,50 mg/L,not specified,shaking,30 °C,28 days,4.5,not specified,mycelium,Dye structures and biodegradation results analyzed
+C p-g,Phanerochaete chrysosporium,50 mg/L,not specified,shaking,30 °C,28 days,4.5,not specified,mycelium,Dye structures and biodegradation results analyzed
+S p-s,Phanerochaete chrysosporium,50 mg/L,not specified,shaking,30 °C,28 days,4.5,not specified,mycelium,Dye structures and biodegradation results analyzed

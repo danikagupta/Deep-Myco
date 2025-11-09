@@ -1,0 +1,12 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Remazol brilliant blue R,Melanocarpus albomyces,0.04%,N/A,shaking,30°C,1 week,N/A,Positive,whole fungi,Used for screening
+Poly R-478,Melanocarpus albomyces,0.04%,N/A,shaking,30°C,1 week,N/A,Positive,whole fungi,Used for screening
+Guaiacol,Melanocarpus albomyces,0.01%,N/A,shaking,30°C,1 week,N/A,Positive,whole fungi,Used for screening
+Tannic acid,Melanocarpus albomyces,0.5%,N/A,shaking,30°C,1 week,N/A,Weak positive,whole fungi,Less effective than other dyes
+ABTS,Melanocarpus albomyces,5 mM,N/A,N/A,25°C,N/A,4.5,High activity recorded,N/A,Used for enzyme activity monitoring
+Syringaldazine,Melanocarpus albomyces,0.06 mM,N/A,N/A,N/A,N/A,N/A,Not applicable,N/A,Typical substrate for laccase
+"2,6-DMP",Melanocarpus albomyces,0.8 mM,N/A,N/A,N/A,N/A,4.5,High activity recorded,N/A,Typical substrate for laccase
+Guaiacol,Melanocarpus albomyces,N/A,N/A,N/A,N/A,N/A,N/A,75% activity at pH 8,N/A,Enzyme generalized reaction at alkaline pH
+Cellulose binding,Melanocarpus albomyces,1% Avicel,N/A,N/A,22°C,1 hour,5,Efficient binding,N/A,Binding capacity measured
+Cellulose binding,Melanocarpus albomyces,N/A,N/A,N/A,N/A,N/A,N/A,High affinity but low capacity,N/A,First report of laccase binding to cellulose
+Temperature stability,Melanocarpus albomyces,N/A,N/A,N/A,60°C,2 hours,N/A,Activity retained,N/A,Thermal stability features matched with activity

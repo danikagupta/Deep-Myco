@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+PCP,Phanerochaete chrysosporium,50 mg l-1,1-30% w/w,static,not specified,6.5 weeks,not specified,96%,mycelium,High nitrogen media suppressed mineralization of PCP.
+PCP,Phanerochaete chrysosporium,100 g g-1,3.3% w/w,soil,not specified,6.5 weeks,not specified,8-13%,mycelium,Field studies showing substantial depletion of PCP.
+"2,4-D",Phanerochaete chrysosporium,not specified,not specified,not specified,not specified,not specified,not specified,higher rate when mixed,not specified,Mineralization studied under nitrogen-limited conditions showed effective degradation.
+"2,4,5-T",Phanerochaete chrysosporium,not specified,not specified,not specified,not specified,not specified,not specified,higher rate when mixed,not specified,Mutual inhibition of degradation was not observed.
+"2,4-dichlorophenol",Phanerochaete chrysosporium,not specified,not specified,immobilized on rotating biological contactor disks,not specified,not specified,not specified,efficient degradation,immobilized fungal mass,Substrates oxidized to give quinone-type products.
+Azo dyes,Phanerochaete chrysosporium,23-48%,nitrogen-limited ligninolytic cultures,not specified,not specified,not specified,not specified,extensively degraded,not specified,"Dyes included orange II, azure B, tropaeolin O, Congo red."

@@ -1,0 +1,16 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Orange II,Pleurotus ostreatus,100 ppm,not specified,"static for 3 days, shaking at 150 rpm thereafter",30 °C,5 days,3,0%,mycelium,No decolorization observed.
+Orange II,Pleurotus ostreatus,100 ppm,not specified,"static for 3 days, shaking at 150 rpm thereafter",30 °C,5 days,4,95.5%,mycelium,Fast decolorization occurred.
+Orange II,Pleurotus ostreatus,100 ppm,not specified,"static for 3 days, shaking at 150 rpm thereafter",30 °C,5 days,5,>90%,mycelium,Best decolorization observed at pH 5.
+Orange II,Pleurotus ostreatus,100 ppm,not specified,"static for 3 days, shaking at 150 rpm thereafter",30 °C,5 days,6,0%,mycelium,No decolorization occurred.
+Orange II,Pleurotus ostreatus,100 ppm,not specified,"static for 3 days, shaking at 150 rpm thereafter",30 °C,5 days,7,9%,mycelium,Low decolorization efficiency.
+Acid Red 29,Pleurotus ostreatus,100 ppm,not specified,"static for 3 days, shaking at 150 rpm thereafter",30 °C,5 days,3,0%,mycelium,No decolorization observed.
+Acid Red 29,Pleurotus ostreatus,100 ppm,not specified,"static for 3 days, shaking at 150 rpm thereafter",30 °C,5 days,4,76.40%,mycelium,Effective decolorization.
+Acid Red 29,Pleurotus ostreatus,100 ppm,not specified,"static for 3 days, shaking at 150 rpm thereafter",30 °C,5 days,5,22.26%,mycelium,Lower than expected but significant.
+Acid Red 29,Pleurotus ostreatus,100 ppm,not specified,"static for 3 days, shaking at 150 rpm thereafter",30 °C,5 days,6,20.12%,mycelium,Moderate activity.
+Acid Red 29,Pleurotus ostreatus,100 ppm,not specified,"static for 3 days, shaking at 150 rpm thereafter",30 °C,5 days,7,18.44%,mycelium,Low decolorization observed.
+Remazol Brilliant Blue R,Pleurotus ostreatus,100 ppm,not specified,"static for 3 days, shaking at 150 rpm thereafter",30 °C,5 days,3,0%,mycelium,No color removal.
+Remazol Brilliant Blue R,Pleurotus ostreatus,100 ppm,not specified,"static for 3 days, shaking at 150 rpm thereafter",30 °C,5 days,4,79.6%,mycelium,Very effective.
+Remazol Brilliant Blue R,Pleurotus ostreatus,100 ppm,not specified,"static for 3 days, shaking at 150 rpm thereafter",30 °C,5 days,5,67.14%,mycelium,Not optimal but effective.
+Remazol Brilliant Blue R,Pleurotus ostreatus,100 ppm,not specified,"static for 3 days, shaking at 150 rpm thereafter",30 °C,5 days,6,23.56%,mycelium,Moderate activity.
+Remazol Brilliant Blue R,Pleurotus ostreatus,100 ppm,not specified,"static for 3 days, shaking at 150 rpm thereafter",30 °C,5 days,7,19.87%,mycelium,Dye removal achieved.

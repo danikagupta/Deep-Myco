@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Poly R-478,P. chrysosporium,Not specified,10% (v/v) inoculum,orbital agitation,38°C,until supports were completely colonized,not specified,62%,mycelium,Immobilized on polyurethane foam (PUF) and scouring web (SW)
+Poly S-119,P. chrysosporium,Not specified,10% (v/v) inoculum,orbital agitation,38°C,until supports were completely colonized,not specified,60%,mycelium,Immobilized on polyurethane foam (PUF) and scouring web (SW)
+Not specified,P. chrysosporium,Not specified,Not specified,"RBC reactor, rotating disks",38°C,36 days,not specified,55%,mycelium,Reversed feed inlet after day 17
+Not specified,P. chrysosporium,Not specified,Not specified,continuous flow in RBC reactor,38°C,36 days,Not specified,54% average,mycelium,RBC reactor continuously fed; first stage showed biofilm thickness increase
+Not specified,P. chrysosporium,Not specified,Not specified,Reversed feeding mode in RBC,Not specified,16 days after feed reversal,Not specified,53% average,mycelium,Reversal of feed inlet re-established the activity

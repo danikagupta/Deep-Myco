@@ -1,0 +1,11 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+bentazon,Trametes versicolor,10 ppm,3.5 g DW·L−1,stirring (200 rpm),25 °C,6 h,4.5,complete removal,fungal mass,DO set at 30%
+tributyl phosphate,Trametes versicolor,5 ppm,3.5 g DW·L−1,stirring (200 rpm),25 °C,32 h,4.5,complete removal,fungal mass,DO set at 30%
+bentazon,Trametes versicolor,10 ppm,3.5 g DW·L−1,stirring (200 rpm),25 °C,h (15% DO),4.5,moderate removal,fungal mass,DO set at 15%
+tributyl phosphate,Trametes versicolor,5 ppm,3.5 g DW·L−1,stirring (200 rpm),25 °C,h (15% DO),4.5,moderate removal,fungal mass,DO set at 15%
+bentazon,Trametes versicolor,10 ppm,3.5 g DW·L−1,stirring (200 rpm),25 °C,h (10% DO),4.5,reduced removal,fungal mass,DO set at 10%
+tributyl phosphate,Trametes versicolor,5 ppm,3.5 g DW·L−1,stirring (200 rpm),25 °C,h (10% DO),4.5,reduced removal,fungal mass,DO set at 10%
+bentazon,Trametes versicolor,10 ppm,3.5 g DW·L−1,stirring (200 rpm),25 °C,h (5% DO),4.5,minimal removal,fungal mass,DO set at 5%
+tributyl phosphate,Trametes versicolor,5 ppm,3.5 g DW·L−1,stirring (200 rpm),25 °C,h (5% DO),4.5,minimal removal,fungal mass,DO set at 5%
+acetate,Trametes versicolor,equivalent COD,3.5 g DW·L−1,stirring (200 rpm),25 °C,130 h,4.5,complete removal,fungal mass,DO set at 30%
+glucose,Trametes versicolor,equivalent COD,3.5 g DW·L−1,stirring (200 rpm),25 °C,h,4.5,complete removal,fungal mass,DO set at 30%

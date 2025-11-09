@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Poly R4478,Trametes versicolor,0.1 g/l,not specified,static,28 °C,14 days,not specified,positive,not specified,16 strains selected showed varying abilities to decolorize
+Azure B,Trametes versicolor,0.1 g/l,not specified,static,28 °C,14 days,not specified,positive,not specified,73 strains exhibited decolorization; azure B was more easily degraded
+Guaiacol,Trametes versicolor,not specified,not specified,static,not specified,not specified,not specified,positive,not specified,Laccase activity was investigated; direct correlation with color changes seen
+none,Trametes versicolor,not specified,not specified,agitation,28 °C,8 days,2.5,3.14 U/ml laccase production,not specified,Laccase activity was highest with glucose as carbon source
+none,Trametes versicolor,not specified,not specified,agitation,28 °C,20 days,not specified,10.3 U/ml laccase production,not specified,Laccase production maximized in barley straw medium
+none,Trametes versicolor,not specified,not specified,static,not specified,not specified,not specified,not specified,not specified,Thermogravimetry (TG) and DTG analysis showed changes in thermal degradation

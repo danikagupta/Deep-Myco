@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+enrofloxacin,Trametes versicolor,50 mg/L,6 U/mL,shaking (150 rpm),45 °C,6 h,5,81%,not specified,with immobilized laccase and HBT
+enrofloxacin,Trametes versicolor,50 mg/L,6 U/mL,shaking (150 rpm),45 °C,6 h,5,75%,not specified,with free laccase without mediator
+flumequine,Trametes versicolor,50 mg/L,6 U/mL,shaking (150 rpm),45 °C,6 h,4.5,96%,not specified,with immobilized laccase and HBT
+flumequine,Trametes versicolor,50 mg/L,6 U/mL,shaking (150 rpm),45 °C,6 h,4.5,72%,not specified,with free laccase without mediator
+enrofloxacin,Trametes versicolor,50 mg/L,6 U/mL,shaking (150 rpm),45 °C,6 h,5,90%,not specified,with immobilized laccase and HBT
+flumequine,Trametes versicolor,50 mg/L,6 U/mL,shaking (150 rpm),45 °C,6 h,4.5,90%,not specified,with immobilized laccase and HBT

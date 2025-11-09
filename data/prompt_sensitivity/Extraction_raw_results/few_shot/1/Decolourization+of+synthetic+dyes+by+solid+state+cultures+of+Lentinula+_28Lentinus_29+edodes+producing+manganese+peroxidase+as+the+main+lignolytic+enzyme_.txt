@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Remazol Brilliant Blue R,Pleurotus pulmonarius,200 ppm,not specified,static,28 °C,10 days,6.0,complete,mycelium,tested at initial moisture levels of 60% and 85%
+Congo Red,Pleurotus pulmonarius,200 ppm,not specified,static,28 °C,10 days,6.0,partial,mycelium,decolorization efficiency lower than RBBR
+Methylene Blue,Pleurotus pulmonarius,200 ppm,not specified,static,28 °C,10 days,6.0,partial,mycelium,decolorization efficiency varies with initial moisture level
+Ethyl Violet,Pleurotus pulmonarius,200 ppm,not specified,static,28 °C,10 days,6.0,partial,mycelium,decolorization order included Ethyl Violet
+Poly R-478,Pleurotus pulmonarius,200 ppm,not specified,static,28 °C,10 days,6.0,partial,mycelium,decolorization efficiency varies
+Methylene Blue,Pleurotus pulmonarius,100 ppm,not specified,shaking,40 °C,2 h,4.5,high efficiency,not specified,tested with crude enzyme extract
+Congo Red,Pleurotus pulmonarius,100 ppm,not specified,shaking,40 °C,2 h,4.5,high efficiency,not specified,tested with crude enzyme extract
+Ethyl Violet,Pleurotus pulmonarius,100 ppm,not specified,shaking,40 °C,2 h,4.5,high efficiency,not specified,tested with crude enzyme extract
+Poly R-478,Pleurotus pulmonarius,100 ppm,not specified,shaking,40 °C,2 h,4.5,high efficiency,not specified,tested with crude enzyme extract

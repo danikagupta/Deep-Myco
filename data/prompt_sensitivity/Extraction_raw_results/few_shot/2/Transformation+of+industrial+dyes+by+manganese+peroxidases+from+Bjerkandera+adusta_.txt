@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+lignin,Bjerkandera sp. B33/3,0.005 g in 100 mM NaOH,not specified,stirring (90 rpm),30 °C,2.0 h,4.0,57.5%,not specified,first replicate
+lignin,Bjerkandera sp. B33/3,0.005 g in 100 mM NaOH,not specified,stirring (90 rpm),30 °C,2.0 h,5.3,55.7%,not specified,second replicate
+lignin,Bjerkandera sp. B33/3,0.005 g in 100 mM NaOH,not specified,stirring (90 rpm),30 °C,4.0 h,4.0,66.7%,not specified,first replicate
+lignin,Bjerkandera sp. B33/3,0.005 g in 100 mM NaOH,not specified,stirring (90 rpm),30 °C,4.0 h,5.3,44.7%,not specified,second replicate
+lignin,Bjerkandera sp. B33/3,0.005 g in 100 mM NaOH,not specified,stirring (90 rpm),30 °C,2.0 h,5.3,50.6%,not specified,second replicate

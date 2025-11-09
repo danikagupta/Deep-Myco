@@ -1,0 +1,11 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+none,Trametes hirsuta,none,none,shaking,25°C,20 days,5.8,not applicable,mycelium,Laccase production achieved maximum activity of 7614 U/L.
+none,Trametes hirsuta,1 mM copper sulphate,none,shaking,25°C,3 days,5.8,not applicable,mycelium,Copper sulphate increased laccase activity to 17390 U/L.
+none,Trametes hirsuta,"1 mM 2,5 xylidine",none,shaking,25°C,3 days,5.8,not applicable,mycelium,Use of xylidine increased laccase activity to 23543 U/L.
+none,Trametes hirsuta,none,none,shaking,25°C,none,none,none,mycelium,Max laccase activity of 25889 U/L achieved using Plakett-Burman design.
+none,Trametes hirsuta,none,none,shaking,25°C,20 days,5.8,none,mycelium,Wheat bran substrate produced 9300 U/L laccase activity.
+none,Trametes hirsuta,none,none,shaking,25°C,none,none,none,mycelium,Combination of wheat bran and peptone produced max laccase activity of 17390 U/L.
+none,Trametes hirsuta,none,none,shaking,25°C,none,5.8,none,mycelium,Laccase production influenced by various lignocellulosic substrates.
+none,Trametes hirsuta,none,none,shaking,25°C,3 days,5.8,none,mycelium,Control flask without additives produced 7614 U/L.
+none,Trametes hirsuta,none,none,shaking,25°C,3 days,5.8,none,mycelium,Nitrogen sources were varied to assess their impact on laccase production.
+none,Trametes hirsuta,none,none,shaking,25°C,3 days,5.8,none,mycelium,Inducers added on the 3rd day showed significant increases in laccase activity.

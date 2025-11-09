@@ -1,0 +1,24 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Methyl orange,Pleurotus ostreatus,6.8 mg/L,not specified,shaking (150 rpm),30 °C,24 h,not specified,30.86%,not specified,initial concentration
+Methyl orange,Pleurotus ostreatus,6.8 mg/L,not specified,shaking (150 rpm),30 °C,48 h,not specified,35.17%,not specified,initial concentration
+Methyl orange,Pleurotus ostreatus,6.8 mg/L,not specified,shaking (150 rpm),30 °C,72 h,not specified,44.29%,not specified,initial concentration
+Acid fast red,Pleurotus ostreatus,67 mg/L,not specified,shaking (150 rpm),30 °C,24 h,not specified,24.86%,not specified,initial concentration
+Acid fast red,Pleurotus ostreatus,67 mg/L,not specified,shaking (150 rpm),30 °C,48 h,not specified,30.89%,not specified,initial concentration
+Acid fast red,Pleurotus ostreatus,67 mg/L,not specified,shaking (150 rpm),30 °C,72 h,not specified,50.33%,not specified,initial concentration
+Reactive black 5,Pleurotus ostreatus,100 mg/L,not specified,shaking (150 rpm),30 °C,24 h,not specified,78.27%,not specified,initial concentration
+Reactive black 5,Pleurotus ostreatus,100 mg/L,not specified,shaking (150 rpm),30 °C,48 h,not specified,84.37%,not specified,initial concentration
+Reactive black 5,Pleurotus ostreatus,100 mg/L,not specified,shaking (150 rpm),30 °C,72 h,not specified,89.56%,not specified,initial concentration
+Congo red,Pleurotus ostreatus,20 mg/L,not specified,shaking (150 rpm),30 °C,24 h,not specified,88.16%,not specified,initial concentration
+Congo red,Pleurotus ostreatus,20 mg/L,not specified,shaking (150 rpm),30 °C,48 h,not specified,89.40%,not specified,initial concentration
+Congo red,Pleurotus ostreatus,20 mg/L,not specified,shaking (150 rpm),30 °C,72 h,not specified,91.52%,not specified,initial concentration
+Methylene blue,Pleurotus ostreatus,3.3 mg/L,not specified,shaking (150 rpm),30 °C,24 h,not specified,42.49%,not specified,initial concentration
+Methylene blue,Pleurotus ostreatus,3.3 mg/L,not specified,shaking (150 rpm),30 °C,48 h,not specified,42.49%,not specified,initial concentration
+Methylene blue,Pleurotus ostreatus,3.3 mg/L,not specified,shaking (150 rpm),30 °C,72 h,not specified,42.49%,not specified,initial concentration
+Disperse Violet 31,Pleurotus ostreatus,100 mg/L,not specified,shaking (150 rpm),30 °C,24 h,not specified,88.16%,not specified,initial concentration
+Disperse Violet 31,Pleurotus ostreatus,100 mg/L,not specified,shaking (150 rpm),30 °C,48 h,not specified,89.40%,not specified,initial concentration
+Disperse Violet 31,Pleurotus ostreatus,100 mg/L,not specified,shaking (150 rpm),30 °C,72 h,not specified,91.52%,not specified,initial concentration
+Reactive black 5,Phanerochaete chrysosporium,100 mg/L,not specified,shaking (150 rpm),30 °C,72 h,not specified,90.42%,not specified,initial concentration
+Congo red,Phanerochaete chrysosporium,20 mg/L,not specified,shaking (150 rpm),30 °C,72 h,not specified,14.83%,not specified,initial concentration
+Methylene blue,Phanerochaete chrysosporium,3.3 mg/L,not specified,shaking (150 rpm),30 °C,72 h,not specified,44.12%,not specified,initial concentration
+Acid fast red,Phanerochaete chrysosporium,67 mg/L,not specified,shaking (150 rpm),30 °C,72 h,not specified,21.94%,not specified,initial concentration
+,,,,,,,,,,

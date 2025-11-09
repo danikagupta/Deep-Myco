@@ -1,0 +1,14 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Neolane yellow,Trametes trogii,50 mg/l,not specified,not specified,30 °C,1 day,not specified,18%,not specified,tested with crude enzyme
+Neolane yellow,Trametes trogii,50 mg/l,not specified,not specified,30 °C,4 days,not specified,39.6%,not specified,crude enzyme
+Maxillon blue,Trametes trogii,50 mg/l,not specified,not specified,30 °C,1 day,not specified,0%,not specified,not decolorized
+Maxillon blue,Trametes trogii,50 mg/l,not specified,not specified,30 °C,4 days,not specified,0%,not specified,not decolorized
+Neolane pink,Trametes trogii,50 mg/l,not specified,not specified,30 °C,1 day,not specified,63.6%,not specified,tested with crude enzyme
+Neolane pink,Trametes trogii,50 mg/l,not specified,not specified,30 °C,4 days,not specified,86.4%,not specified,tested with crude enzyme
+Basacryl yellow,Trametes trogii,50 mg/l,not specified,not specified,30 °C,10 days,not specified,0%,not specified,not decolorized
+Neolane blue,Trametes trogii,50 mg/l,not specified,not specified,30 °C,1 day,not specified,91.5%,not specified,tested with crude enzyme
+Neolane blue,Trametes trogii,50 mg/l,not specified,not specified,30 °C,4 days,not specified,91.2%,not specified,tested with crude enzyme
+Bezaktiv S-BF turquoise,Trametes trogii,50 mg/l,not specified,not specified,30 °C,1 day,not specified,54%,not specified,tested with crude enzyme
+Bezaktiv S-BF turquoise,Trametes trogii,50 mg/l,not specified,not specified,30 °C,4 days,not specified,71%,not specified,tested with crude enzyme
+Neolane yellow,Trametes trogii,50 mg/l,not specified,not specified,30 °C,1 day,not specified,100%,not specified,tested with HBT
+Maxillon blue,Trametes trogii,50 mg/l,not specified,not specified,30 °C,4 days,not specified,15.14%,not specified,tested with HBT

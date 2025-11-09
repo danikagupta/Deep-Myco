@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,fungi type,additional information
+Diamond Black PV 200,Trametes modesta,0.56 g/L,100 nkat/mL,not specified,room temperature,3 hours,5,decolorized,mycelium,Spectral analysis illustrated the decrease of absorbance maximum at 530 nm to about 10%.
+Diamond Black PV 200,Trametes modesta,0.01 to 1.5 mM,not specified,not specified,25 °C,not specified,4 to 5,decolorized,mycelium,Kinetic analysis showed highest reaction rates at pH 5.
+3-Sulfophenyl-azo-dye,Trametes modesta,not specified,not specified,not specified,not specified,not specified,4 to 5,not specified,mycelium,Kinetic studies indicated lower reactivity compared to Diamond Black PV 200.
+4-Sulfophenyl-azo-dye,Trametes modesta,not specified,not specified,not specified,not specified,not specified,4 to 5,not specified,mycelium,Kinetic studies indicated significantly lower reactivity.
+Naphthyl-azo-dye,Trametes modesta,not specified,not specified,not specified,not specified,not specified,4 to 5,not specified,mycelium,Observed negligible transformation with limited reactivity.
+Nitro-substituted azo-dye,Trametes modesta,not specified,not specified,not specified,not specified,not specified,4 to 5,not specified,mycelium,No enzymatic transformation observed.

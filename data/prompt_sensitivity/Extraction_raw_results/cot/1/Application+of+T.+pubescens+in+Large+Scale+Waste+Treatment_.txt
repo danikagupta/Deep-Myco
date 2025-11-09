@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+cadmium,Trametes pubescens,10 mg/L,not specified,not specified,28 °C,15 days,not specified,53.13% removal,mycelium,Maximum removal rate observed in aqueous solution.
+cadmium,Trametes pubescens,100 mg/L,not specified,not specified,28 °C,7 days,not specified,6.565 mg/g,mycelium,Biosorption capacity increased with initial concentration before becoming saturated.
+cadmium,Trametes pubescens,10 mg/L,not specified,not specified,26 °C,15 days,not specified,53.54% reduction in roots,not specified,Colonization reduced cadmium accumulation in rice roots.
+cadmium,Trametes pubescens,10 mg/L,not specified,not specified,25 °C,15 days,not specified,86.38% reduction in shoots,not specified,Colonization greatly reduced cadmium levels in rice shoots.

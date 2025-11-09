@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Novacron Red,Leptosphaerulina sp.,200 ppm,4 cylinders,static,20-25 °C,15 days,not specified,>90%,whole fungi,
+Remazol Black,Leptosphaerulina sp.,200 ppm,4 cylinders,static,20-25 °C,15 days,not specified,>90%,whole fungi,
+Turquoise Blue,Leptosphaerulina sp.,200 ppm,4 cylinders,static,20-25 °C,15 days,not specified,>90%,whole fungi,
+Remazol Black,Leptosphaerulina sp.,200 ppm,4 cylinders,agitated,25 °C,21 days,5,>90%,whole fungi,
+Turquoise Blue,Leptosphaerulina sp.,200 ppm,4 cylinders,agitated,25 °C,21 days,5,>90%,whole fungi,
+Dyeing effluent,Leptosphaerulina sp.,200 ppm,4 cylinders,agitated,25 °C,21 days,diluted to 5,>90%,whole fungi,
+Discharge effluent,Leptosphaerulina sp.,not specified,8 cylinders,agitated,25 °C,21 days,5,95.5%,whole fungi,Highest laccase production (24.86 U/L)

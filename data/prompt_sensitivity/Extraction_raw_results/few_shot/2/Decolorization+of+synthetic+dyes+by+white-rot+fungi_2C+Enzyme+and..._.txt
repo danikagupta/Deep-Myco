@@ -1,0 +1,13 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Crystal Violet,P. chrysosporium ATCC 24725,200 ppm,not specified,static,28 °C,15 days,not specified,0.000,whole fungi,Least effective at decolorizing this dye
+Crystal Violet,T. maxima LE130,200 ppm,not specified,static,28 °C,15 days,not specified,2.543,whole fungi,Most effective among assessed strains
+Crystal Violet,Trametes sp. LA1,200 ppm,not specified,static,28 °C,15 days,not specified,0.413,whole fungi,More effective than P. chrysosporium but less than T. maxima LE130
+Reactive Black 5,P. chrysosporium ATCC 24725,200 ppm,not specified,static,28 °C,15 days,not specified,0.000,whole fungi,No decolorization observed
+Reactive Black 5,T. maxima LE130,200 ppm,not specified,static,28 °C,15 days,not specified,1.000,whole fungi,High decolorization efficiency
+Reactive Black 5,Trametes sp. LA1,200 ppm,not specified,static,28 °C,15 days,not specified,1.000,whole fungi,Similar efficiency to T. maxima
+Remazol Brilliant Blue R,P. chrysosporium ATCC 24725,200 ppm,not specified,static,28 °C,15 days,not specified,0.000,whole fungi,No decolorization occurred
+Remazol Brilliant Blue R,T. maxima LE130,200 ppm,not specified,static,28 °C,15 days,not specified,54.94 %,whole fungi,Partial effectiveness
+Remazol Brilliant Blue R,Trametes sp. LA1,200 ppm,not specified,static,28 °C,15 days,not specified,49.60 %,whole fungi,Slightly less effective than T. maxima
+Acid Orange 7,P. chrysosporium ATCC 24725,200 ppm,not specified,static,28 °C,15 days,not specified,0.000,whole fungi,No decolorization
+Acid Orange 7,T. maxima LE130,200 ppm,not specified,static,28 °C,15 days,not specified,1.000,whole fungi,High efficiency
+Acid Orange 7,Trametes sp. LA1,200 ppm,not specified,static,28 °C,15 days,not specified,44.12 %,whole fungi,Slightly less effective than T. maxima

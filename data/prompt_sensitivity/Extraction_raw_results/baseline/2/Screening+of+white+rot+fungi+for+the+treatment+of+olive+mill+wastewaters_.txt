@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Olive mill wastewater,Laccase-producing fungi,3.52U,not specified,not specified,28°C,14 days,3,76.12%,whole fungi,Laccase activity decreased with increasing OMW concentration.
+Olive mill wastewater,Laccase-producing fungi,0%,not specified,not specified,not specified,not specified,not specified,0% inhibition,not specified,Absorbance was 0.84 at 425nm
+Olive mill wastewater,Laccase-producing fungi,1%,not specified,not specified,not specified,not specified,not specified,14.50% inhibition,not specified,Absorbance was 0.72 at 425nm
+Olive mill wastewater,Laccase-producing fungi,2%,not specified,not specified,not specified,not specified,not specified,20.34% inhibition,not specified,Absorbance was 0.67 at 425nm
+Olive mill wastewater,Laccase-producing fungi,5%,not specified,not specified,not specified,not specified,not specified,22.85% inhibition,not specified,Absorbance was 0.65 at 425nm
+Olive mill wastewater,Laccase-producing fungi,various pH,not specified,not specified,not specified,not specified,3-7,Varies with pH,not specified,Best phenol removal was 76.12% at pH 3.

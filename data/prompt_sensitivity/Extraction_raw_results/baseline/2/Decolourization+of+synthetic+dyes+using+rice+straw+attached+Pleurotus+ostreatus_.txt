@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Carmoisine Red,Pleurotus ostreatus,10 ppm,5 g/L (dried),shaking (150 rpm),room temperature,5 days,6.5,81.34%,dried biomass,Dye visually transformed to colorless solution by day 5.
+Tartrazine Yellow,Pleurotus ostreatus,10 ppm,5 g/L (dried),shaking (150 rpm),room temperature,5 days,6.5,45.36%,dried biomass,Appearance transformed to light yellow.
+Brilliant Blue FCF,Pleurotus ostreatus,10 ppm,5 g/L (dried),shaking (150 rpm),room temperature,5 days,6.5,19.82%,dried biomass,Less decolorized compared to Carmoisine and Tartrazine.
+Fast Green FCF,Pleurotus ostreatus,10 ppm,5 g/L (dried),shaking (150 rpm),room temperature,5 days,6.5,28.99%,dried biomass,Visual decolorization noted during treatment period.
+Carmoisine Red,Pleurotus ostreatus,10 ppm,0.1 g (fresh),none,room temperature,5 days,6.5,30.49%,fresh biomass,Dye decolorization results for fresh biomass were lower.
+Tartrazine Yellow,Pleurotus ostreatus,10 ppm,0.1 g (fresh),none,room temperature,5 days,6.5,12.66%,fresh biomass,Results significantly lower than dried biomass.
+Brilliant Blue FCF,Pleurotus ostreatus,10 ppm,0.1 g (fresh),none,room temperature,5 days,6.5,5.11%,fresh biomass,Lowest removal percentages were observed.
+Fast Green FCF,Pleurotus ostreatus,10 ppm,0.1 g (fresh),none,room temperature,5 days,6.5,10.43%,fresh biomass,Dye removal was inadequate compared to dried forms.

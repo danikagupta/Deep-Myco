@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+not applicable,Candida utilis,not applicable,5%,aerated,30°C,16 hours,5.5,96%,whole fungi,This process primarily utilizes C. utilis for the treatment of sauerkraut waste.
+not applicable,Rhizopus oligosporus,not applicable,unknown,activated sludge process,mixed process,12 hours,unknown,96%,whole fungi,Used in a laboratory-scale bench system.
+Vinasse,Aspergillus terreus,50%,not specified,batch fermentation,unknown,100-120 hours,unknown,60%,whole fungi,Phenols reduction was noted in the process.
+not applicable,Phanerochaete chrysosporium,beet molasses,not applicable,not specified,unknown,6 days,unknown,85%,whole fungi,This process involves MnP and LiP for decolorization.
+not applicable,Coriolus versicolor,not applicable,not specified,not specified,not specified,unknown,unknown,80%,whole fungi,A focus on melanoidins found in distillery wastes.
+not applicable,Trametes sp.,not applicable,not specified,not specified,unknown,not applicable,not applicable,73%,whole fungi,Effective in the treatment of distillery wastewater.
+molasses distillery wastewater,Candida rugosa,10%,unknown,continuous culture,40°C,5 days,near neutral,85%,whole fungi,Utilized for the production of biomass protein.
+olive mill wastewater,Lentinus edodes,not applicable,varied,agitated submerged cultures,not specified,not specified,not specified,90%,whole fungi,Utilized its lignolytic enzymes for phenolic and color removal.

@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Remazol Brilliant Blue R (RBBR),KRUS-G,100 ppm,Not specified,shaking,28°C,6 days,4,More than 79%,mycelium,Compared with C. subvermispora and P. chrysosporium
+Remazol Brilliant Blue R (RBBR),KRUS-G,500 ppm,Not specified,shaking,28°C,6 days,4,93.32%,mycelium,Decolorization occurred rapidly from day 1 to day 4
+Remazol Brilliant Blue R (RBBR),KRUS-G,1000 ppm,Not specified,static with periodic shaking,28°C,6 days,4,Result not specified,mycelium,The results showed decolorization at this concentration but exact percentage not provided
+Remazol Brilliant Blue R (RBBR),KRUS-G,1500 ppm,Not specified,static with periodic shaking,28°C,6 days,4,Result not specified,mycelium,Noted for capability to decolorize high concentration
+Remazol Brilliant Blue R (RBBR),C. subvermispora,100 ppm,Not specified,shaking,28°C,6 days,4,63-68%,mycelium,Compared with KRUS-G
+Remazol Brilliant Blue R (RBBR),P. chrysosporium,100 ppm,Not specified,shaking,28°C,6 days,4,21-23%,mycelium,Noted for low performance in this scenario
+Remazol Brilliant Blue R (RBBR),KRUS-G,500 ppm,Not specified,shaking,28°C,6 days,4 to 6,84%,mycelium,Measured decolorization at various pH

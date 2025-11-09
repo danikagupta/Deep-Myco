@@ -1,0 +1,13 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Acid Black 194,Aspergillus flavus Link,0.05 g/L,1 disc (1 cm in diameter),not specified,24 °C,8 days,7,85%,mycelium,tested across multiple conditions
+Acid Black 194,Aspergillus tamarii Kita,0.05 g/L,1 disc (1 cm in diameter),not specified,24 °C,8 days,7,91.15%,mycelium,tested across multiple conditions
+Acid Black 194,Aspergillus parasiticus Speare,0.05 g/L,1 disc (1 cm in diameter),not specified,24 °C,8 days,7,85%,mycelium,tested across multiple conditions
+Acid Black 194,Aspergillus flavus Link,0.05 g/L,2 discs (1 cm in diameter),not specified,24 °C,8 days,7,87.4%,mycelium,inoculum size optimization
+Acid Black 194,Aspergillus tamarii Kita,0.05 g/L,10 discs (1 cm in diameter),not specified,24 °C,8 days,7,85%,mycelium,inoculum size optimization
+Acid Black 194,Aspergillus parasiticus Speare,0.05 g/L,1 disc (1 cm in diameter),not specified,24 °C,8 days,7,95.2%,mycelium,inoculum size optimization
+Acid Black 194,Aspergillus flavus Link,25 mg/L,1 disc (1 cm in diameter),not specified,24 °C,8 days,7,87.3%,mycelium,optimized dye concentration
+Acid Black 194,Aspergillus tamarii Kita,50 mg/L,1 disc (1 cm in diameter),not specified,24 °C,8 days,7,92.5%,mycelium,optimized dye concentration
+Acid Black 194,Aspergillus parasiticus Speare,50 mg/L,1 disc (1 cm in diameter),not specified,24 °C,8 days,7,96.4%,mycelium,optimized dye concentration
+Acid Black 194,Aspergillus flavus Link,150 mg/L,1 disc (1 cm in diameter),not specified,24 °C,8 days,7,21.9%,mycelium,high concentration reduction
+Acid Black 194,Aspergillus tamarii Kita,150 mg/L,1 disc (1 cm in diameter),not specified,24 °C,8 days,7,42.7%,mycelium,high concentration reduction
+Acid Black 194,Aspergillus parasiticus Speare,150 mg/L,1 disc (1 cm in diameter),not specified,24 °C,8 days,7,62.6%,mycelium,optimized to high concentration

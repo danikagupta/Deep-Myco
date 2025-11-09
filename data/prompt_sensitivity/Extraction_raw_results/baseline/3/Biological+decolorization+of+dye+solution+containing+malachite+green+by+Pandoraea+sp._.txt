@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,type of fungi characteristic,additional information
+Malachite green,Pleurotus eryngii,10 mg/L,10 g/L,shaking,25°C,30 min,7.0,47.2%,mycelium,Decolorization rate decreases with increase in dye concentration
+Malachite green,Pleurotus eryngii,150 mg/L,10 g/L,shaking,25°C,30 min,7.0,2.32%,mycelium,Higher concentration of MG might have a toxic effect on mycelium
+Malachite green,Pleurotus eryngii,20 mg/L,10 g/L,shaking,30°C,120 min,4.0,no effect,mycelium,No obvious decolorization effect under pH 4.0-6.0
+Malachite green,Pleurotus eryngii,20 mg/L,10 g/L,shaking,30°C,120 min,9.0,93.6%,mycelium,Decolorization increased dramatically at pH 9.0
+Malachite green,Pleurotus eryngii,20 mg/L,10 g/L,shaking,50°C,120 min,7.0,steady rates,mycelium,Decolorization rate remained steady between 30°C and 50°C
+Malachite green,DyP-PE enzyme,10 mg/L,0.05 mg/mL,none specified,30°C,2 h,7.0,97.5%,enzyme,DyP-PE peroxidase effectively decolorized MG
+Malachite green,DyP-PE enzyme,20 mg/L,0.05 mg/mL,none specified,30°C,2 h,7.0,94.3%,enzyme,DyP-PE peroxidase maintained high efficiency
+Malachite green,DyP-PE enzyme,30 mg/L,0.05 mg/mL,none specified,30°C,2 h,7.0,90.2%,enzyme,DyP-PE peroxidase showed decreasing efficiency at higher concentrations

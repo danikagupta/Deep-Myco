@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Remazol Brilliant Blue R,Pleurotus pulmonarius,200 ppm,-,static,28 °C,10 days,6.0±0.1,Complete,mycelium,Dye disappearance determined spectrophotometrically.
+Congo red,Pleurotus pulmonarius,200 ppm,-,static,28 °C,10 days,6.0±0.1,Partially (22.0±5.0% at 60% moisture level and 47.3±5.6% at 85% moisture level),mycelium,Dye concentration measured after treatment.
+Methylene blue,Pleurotus pulmonarius,200 ppm,-,static,28 °C,10 days,6.0±0.1,Partially (52.1±5.7% at 60% moisture level and 67.9±7.3% at 85% moisture level),mycelium,Dye concentration measured after treatment.
+Ethyl violet,Pleurotus pulmonarius,200 ppm,-,static,28 °C,10 days,6.0±0.1,Partially (39.5±6.2% at 60% moisture level and 62.5±2.3% at 85% moisture level),mycelium,Dye concentration measured after treatment.
+Poly R-478,Pleurotus pulmonarius,200 ppm,-,static,28 °C,10 days,6.0±0.1,Partially (67.8±6.8% at 60% moisture level and 81.8±7.2% at 85% moisture level),mycelium,Dye concentration measured after treatment.
+Congo red,Pleurotus pulmonarius,100 ppm,-,rotary shaker,40 °C,2 hours,4.5,High MnP/laccase ratio was used,mycelium,Dye disappearance monitored spectrophotometrically.
+Methylene blue,Pleurotus pulmonarius,100 ppm,-,rotary shaker,40 °C,2 hours,4.5,High MnP/laccase ratio was used,mycelium,Dye disappearance monitored spectrophotometrically.

@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Direct Blue 71,Phanerochaete chrysosporium,1 g/L,not specified,shaking,28 °C,1 day,not specified,46%,whole fungi,87% decolorization after 7 days
+Direct Blue 71,Phanerochaete chrysosporium,1 g/L,not specified,shaking,28 °C,7 days,not specified,87%,whole fungi,Not specified
+Acid Blue 62,Pleurotus ostreatus,0.10 g/L,not specified,shaking,28 °C,1 day,5,40%,whole fungi,60% decolorization after 7 days
+Acid Blue 62,Pleurotus ostreatus,0.10 g/L,not specified,shaking,28 °C,7 days,5,60%,whole fungi,66% decolorization after 14 days
+Reactive Black 5,Pleurotus ostreatus,not specified,not specified,shaking,not specified,not specified,10,0%,whole fungi,Not effective under tested conditions
+Remazol Brilliant Blue R,P. ostreatus laccase mixture,not specified,not specified,not specified,room temperature,24 h,not specified,35%,n/a (enzyme),1 IU/ml enzyme gives 30% decolorization in 1 h
+Remazol Brilliant Blue R,P. ostreatus laccase mixture,not specified,not specified,not specified,not specified,not specified,not specified,80%,n/a (enzyme),After several cycles of addition

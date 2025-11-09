@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Poly R-478,P. chrysosporium,not specified,0.1 (v/v) inoculum,orbital agitation,38°C,3 days,4.5,62%,mycelium,Immobilized on polyurethane foam.
+Poly R-478,P. chrysosporium,not specified,0.1 (v/v) inoculum,orbital agitation,38°C,3 days,4.5,60%,mycelium,Immobilized on scouring web.
+Poly S-119,P. chrysosporium,not specified,0.1 (v/v) inoculum,orbital agitation,38°C,3 days,4.5,62%,mycelium,Immobilized on polyurethane foam.
+Poly S-119,P. chrysosporium,not specified,0.1 (v/v) inoculum,orbital agitation,38°C,3 days,4.5,60%,mycelium,Immobilized on scouring web.
+dye waste,P. chrysosporium,not specified,not specified,not specified,38°C,3 days,not specified,54%,mycelium,Continuous operation in RBC reactor.
+dye waste,P. chrysosporium,not specified,not specified,not specified,38°C,16 days,not specified,55%,mycelium,Reversed feeding in RBC reactor.

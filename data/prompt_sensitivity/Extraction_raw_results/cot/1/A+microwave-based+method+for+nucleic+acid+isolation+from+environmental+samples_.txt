@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+not specified,Clitopilus scyphoides,not specified,not specified,vortexing,27±2°C,7-10 days,not specified,not applicable,mycelium,Microwave method for DNA isolation.
+not specified,Ganoderma rasinaceum,not specified,not specified,vortexing,27±2°C,7-10 days,not specified,not applicable,mycelium,Microwave method for DNA isolation.
+not specified,Schizophyllum sp,not specified,not specified,vortexing,27±2°C,7-10 days,not specified,not applicable,mycelium,Microwave method for DNA isolation.
+not specified,Coprinellus disseminatus,not specified,not specified,vortexing,27±2°C,7-10 days,not specified,not applicable,mycelium,Microwave method for DNA isolation.
+not specified,Lentinus squarrosulus,not specified,not specified,vortexing,27±2°C,7-10 days,not specified,not applicable,mycelium,Microwave method for DNA isolation.

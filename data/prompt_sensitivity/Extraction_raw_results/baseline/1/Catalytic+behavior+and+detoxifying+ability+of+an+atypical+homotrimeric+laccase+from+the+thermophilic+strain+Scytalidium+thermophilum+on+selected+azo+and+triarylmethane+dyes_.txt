@@ -1,0 +1,13 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+ENR,Trametes versicolor,50 mg L−1,6 U mL−1,shaking,45 °C,6 h,5,98%,Whole fungi,Used in presence of HBT
+FLU,Trametes versicolor,50 mg L−1,6 U mL−1,shaking,45 °C,6 h,4.5,96%,Whole fungi,Used in presence of HBT
+ENR,Trametes versicolor,50 mg L−1,6 U mL−1,shaking,45 °C,6 h,5,97%,Whole fungi,Used in presence of HBA
+FLU,Trametes versicolor,50 mg L−1,6 U mL−1,shaking,45 °C,6 h,4.5,88%,Whole fungi,Used in presence of HBA
+ENR,Trametes versicolor,50 mg L−1,6 U mL−1,shaking,30 °C,6 h,5,75.5%,Whole fungi,Conducted at varying temperatures
+FLU,Trametes versicolor,50 mg L−1,6 U mL−1,shaking,30 °C,6 h,4.5,68%,Whole fungi,Conducted at varying temperatures
+ENR,Trametes versicolor,50 mg L−1,6 U mL−1,shaking,55 °C,6 h,5,Not detected,Whole fungi,Conducted at varying temperatures
+FLU,Trametes versicolor,50 mg L−1,6 U mL−1,shaking,55 °C,6 h,4.5,Not detected,Whole fungi,Conducted at varying temperatures
+ENR,Trametes versicolor,Variable (25-150 mg L−1),6 U mL−1,shaking,45 °C,6 h,5,Varied based on concentration,Whole fungi,Conducted at varying dye concentrations
+FLU,Trametes versicolor,Variable (25-150 mg L−1),6 U mL−1,shaking,45 °C,6 h,4.5,Varied based on concentration,Whole fungi,Conducted at varying dye concentrations
+ENR,Trametes versicolor,50 mg L−1,6 U mL−1,shaking,45 °C,6 h,Variable (3.5-5.5),Varied based on pH,Whole fungi,Conducted at varying pH levels
+FLU,Trametes versicolor,50 mg L−1,6 U mL−1,shaking,45 °C,6 h,Variable (3.5-5.5),Varied based on pH,Whole fungi,Conducted at varying pH levels

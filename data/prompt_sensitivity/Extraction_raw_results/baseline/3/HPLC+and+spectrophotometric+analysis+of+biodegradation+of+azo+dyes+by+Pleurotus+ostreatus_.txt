@@ -1,0 +1,12 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",additional information
+Orange II,Pleurotus ostreatus,100 ppm,7 days,shaking,30 °C,7 days,3,0%,whole fungi,"pH dropped rapidly, no enzymes produced"
+Orange II,Pleurotus ostreatus,100 ppm,7 days,shaking,30 °C,7 days,10 mM buffer,90%,whole fungi,buffer concentration significant for decolorization
+Orange II,Pleurotus ostreatus,100 ppm,7 days,shaking,30 °C,7 days,20 mM buffer,90%,whole fungi,similar efficiency to 10 mM buffer
+Orange II,Pleurotus ostreatus,100 ppm,7 days,static,30 °C,3 days,10 mM buffer,0%,whole fungi,"no decolorization, agitation required"
+Acid Red 29,Pleurotus ostreatus,100 ppm,7 days,shaking,30 °C,7 days,10 mM buffer,60%,whole fungi,pH critical for decolorization
+Remazol Brilliant Blue R,Pleurotus ostreatus,100 ppm,7 days,shaking,30 °C,7 days,20 mM buffer,70%,whole fungi,faster decolorization in 10 mM buffer
+Disperse Red 1,Pleurotus ostreatus,100 ppm,7 days,shaking,30 °C,7 days,5,>90%,whole fungi,primary products identified by GC/MS
+Disperse Red 19,Pleurotus ostreatus,100 ppm,7 days,shaking,30 °C,7 days,5,>90%,whole fungi,similar degradation products to Disperse Red 1
+Disperse Orange 1,Pleurotus ostreatus,100 ppm,7 days,shaking,30 °C,7 days,5,>90%,whole fungi,maintained degradation pathway
+Disperse Orange 25,Pleurotus ostreatus,100 ppm,7 days,shaking,30 °C,7 days,5,>90%,whole fungi,yielded several primary products
+Disperse Red 13,Pleurotus ostreatus,100 ppm,7 days,shaking,30 °C,7 days,5,unknown,whole fungi,produced 2-chloro compounds

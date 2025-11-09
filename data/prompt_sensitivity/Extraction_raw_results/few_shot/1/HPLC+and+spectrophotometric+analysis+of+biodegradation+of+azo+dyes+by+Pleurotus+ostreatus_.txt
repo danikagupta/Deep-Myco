@@ -1,0 +1,11 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Orange II,Pleurotus ostreatus,100 ppm,not specified,agitation (150 rpm),30 °C,3 days,5,0%,mycelium,No decolorization observed without buffer.
+Orange II,Pleurotus ostreatus,100 ppm,not specified,agitation (150 rpm),30 °C,5 days,5,90%,mycelium,Achieved 90% decolorization after 5 days.
+Acid Red 29,Pleurotus ostreatus,100 ppm,not specified,agitation (150 rpm),30 °C,5 days,5,0%,mycelium,No decolorization observed without buffer.
+Acid Red 29,Pleurotus ostreatus,100 ppm,not specified,agitation (150 rpm),30 °C,5 days,5,90%,mycelium,Achieved 90% decolorization.
+Remazol Brilliant Blue R,Pleurotus ostreatus,100 ppm,not specified,agitation (150 rpm),30 °C,5 days,5,90%,mycelium,Achieved similar levels of decolorization.
+Disperse Red 1,Pleurotus ostreatus,not specified,not specified,agitation (150 rpm),30 °C,7 days,not specified,not specified,whole fungi,"Nitrobenzene, 4-nitrophenol, and 4-nitroaniline identified as primary products."
+Disperse Red 19,Pleurotus ostreatus,not specified,not specified,agitation (150 rpm),30 °C,7 days,not specified,not specified,whole fungi,Identified as having similar products as Disperse Red 1.
+Disperse Orange 1,Pleurotus ostreatus,not specified,not specified,agitation (150 rpm),30 °C,7 days,not specified,not specified,whole fungi,Product analysis revealed nitrobenzene and 4-nitrophenol production.
+Disperse Orange 25,Pleurotus ostreatus,not specified,not specified,agitation (150 rpm),30 °C,7 days,not specified,not specified,whole fungi,Similar products to those generated from Disperse Red 1.
+Disperse Red 13,Pleurotus ostreatus,not specified,not specified,agitation (150 rpm),30 °C,7 days,not specified,not specified,whole fungi,Identified degradation products included chlorinated nitro-compounds.

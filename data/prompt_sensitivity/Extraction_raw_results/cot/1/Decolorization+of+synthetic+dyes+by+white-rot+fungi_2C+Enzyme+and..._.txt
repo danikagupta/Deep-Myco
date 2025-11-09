@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Crystal Violet (CV),Trametes maxima LE130,200 ppm,not specified,shaking,28 °C,24 h,not specified,41.05%,whole fungi,Liquid culture in BRM medium
+Reactive Black 5 (RB5),Trametes maxima LE130,200 ppm,not specified,shaking,28 °C,24 h,not specified,61.01%,whole fungi,Liquid culture in BRM medium
+Remazol Brilliant Blue R (RBBR),Trametes maxima LE130,200 ppm,not specified,shaking,28 °C,24 h,not specified,54.94%,whole fungi,Liquid culture in BRM medium
+Crystal Violet (CV),Trametes sp. LA1,200 ppm,not specified,shaking,28 °C,24 h,not specified,79.70%,whole fungi,Liquid culture in BRM medium
+Reactive Black 5 (RB5),Trametes sp. LA1,200 ppm,not specified,shaking,28 °C,24 h,not specified,54.80%,whole fungi,Liquid culture in BRM medium
+Remazol Brilliant Blue R (RBBR),Trametes sp. LA1,200 ppm,not specified,shaking,28 °C,24 h,not specified,49.60%,whole fungi,Liquid culture in BRM medium
+Acid Orange 7 (OII),Trametes maxima LE130,200 ppm,not specified,shaking,28 °C,24 h,not specified,not specified,whole fungi,Liquid culture in BRM medium
+Acid Orange 7 (OII),Trametes sp. LA1,200 ppm,not specified,shaking,28 °C,24 h,not specified,not specified,whole fungi,Liquid culture in BRM medium

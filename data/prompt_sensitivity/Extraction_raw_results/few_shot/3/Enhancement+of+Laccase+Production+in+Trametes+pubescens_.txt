@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Laccase,Trametes hirsuta,not specified,not specified,shaking (150 rpm),25 °C,20 days,5.8,7614 U/L,whole fungi,maximum laccase production observed
+Laccase,Trametes hirsuta,not specified,not specified,shaking (150 rpm),25 °C,5 days,5.8,23543 U/L,whole fungi,"enhanced by 1mM 2,5 xylidine on third day"
+Laccase,Trametes hirsuta,not specified,not specified,shaking (150 rpm),25 °C,not specified,5.8,25889 U/L,whole fungi,maximum activity achieved through Plakett-Burman design
+Laccase,Trametes hirsuta,not specified,not specified,shaking (150 rpm),25 °C,not specified,5.8,9300 U/L,whole fungi,maximum laccase activity from wheat bran
+Laccase,Trametes hirsuta,not specified,not specified,shaking (150 rpm),25 °C,not specified,5.8,17390 U/L,whole fungi,combined effect of wheat bran and peptone with 1mM copper sulphate
+Laccase,Trametes hirsuta,not specified,not specified,shaking (150 rpm),25 °C,not specified,5.8,variable (dependent on substrate),whole fungi,"tested various lignocellulosic materials, maximum from wheat bran"
+Laccase,Trametes hirsuta,not specified,not specified,shaking (150 rpm),25 °C,not specified,5.8,variable (dependent on nitrogen source),whole fungi,peptone determined as best nitrogen source for laccase production

@@ -1,0 +1,2 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Diamond Black PV 200,Trametes modesta,0.56 g/L,100 nkat/mL,not specified,25 °C,3 h,5,90%,mycelium,Figure 3: spectral time course

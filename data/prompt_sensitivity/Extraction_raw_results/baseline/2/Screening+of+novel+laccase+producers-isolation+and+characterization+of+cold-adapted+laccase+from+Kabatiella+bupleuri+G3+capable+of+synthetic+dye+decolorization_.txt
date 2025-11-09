@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+ABTS,Kabatiella bupleuri G3,1 mM,N/A,shaking,30°C,15 days,3.5,215 U/L,whole fungi,
+Methylene Blue,Kabatiella bupleuri G3,250 mg/L,N/A,N/A,30°C,1 hour,N/A,18.2 ± 2.5%,whole fungi,
+Alkaline Fuchsin,Kabatiella bupleuri G3,250 mg/L,N/A,N/A,30°C,1 hour,N/A,31.7 ± 3.3%,whole fungi,
+Crystal Violet,Kabatiella bupleuri G3,250 mg/L,N/A,N/A,30°C,1 hour,N/A,40.4 ± 7.0%,whole fungi,
+Coomassie Brilliant Blue R-250,Kabatiella bupleuri G3,250 mg/L,N/A,N/A,30°C,1 hour,N/A,19.8 ± 5.8%,whole fungi,

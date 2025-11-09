@@ -1,0 +1,13 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Cotton Blue,Bjerkandera adusta SWUSI4,50 mg/L,2 g,shaking,30 °C,14 days,not specified,80%,mycelium,decolorization efficiency declines with increased dye concentration
+Crystal Violet,Bjerkandera adusta SWUSI4,50 mg/L,2 g,shaking,30 °C,14 days,not specified,85%,mycelium,decolorization efficiency declines with increased dye concentration
+Methyl Violet,Bjerkandera adusta SWUSI4,50 mg/L,2 g,shaking,30 °C,14 days,not specified,90%,mycelium,decolorization efficiency declines with increased dye concentration
+Malachite Green,Bjerkandera adusta SWUSI4,50 mg/L,2 g,shaking,30 °C,14 days,not specified,94%,mycelium,decolorization efficiency declines with increased dye concentration
+Cotton Blue,Bjerkandera adusta SWUSI4,100 mg/L,2 g,static,30 °C,14 days,not specified,not specified,mycelium,compared decolorization between static and shaking conditions
+Malachite Green,Bjerkandera adusta SWUSI4,100 mg/L,2 g,static,30 °C,14 days,not specified,not specified,mycelium,compared decolorization between static and shaking conditions
+Methyl Violet,Bjerkandera adusta SWUSI4,100 mg/L,2 g,static,30 °C,14 days,not specified,not specified,mycelium,compared decolorization between static and shaking conditions
+Crystal Violet,Bjerkandera adusta SWUSI4,100 mg/L,2 g,static,30 °C,14 days,not specified,not specified,mycelium,compared decolorization between static and shaking conditions
+Cotton Blue,Bjerkandera adusta SWUSI4,200 mg/L,2 g,shaking,30 °C,14 days,not specified,not specified,mycelium,further testing with higher dye concentration
+Malachite Green,Bjerkandera adusta SWUSI4,200 mg/L,2 g,shaking,30 °C,14 days,not specified,not specified,mycelium,further testing with higher dye concentration
+Methyl Violet,Bjerkandera adusta SWUSI4,200 mg/L,2 g,shaking,30 °C,14 days,not specified,not specified,mycelium,further testing with higher dye concentration
+Crystal Violet,Bjerkandera adusta SWUSI4,200 mg/L,2 g,shaking,30 °C,14 days,not specified,not specified,mycelium,further testing with higher dye concentration

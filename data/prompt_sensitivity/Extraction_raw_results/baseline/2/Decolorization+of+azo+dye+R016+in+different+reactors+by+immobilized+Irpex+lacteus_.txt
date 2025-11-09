@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+reactive Blue 21,Pleurotus eryngii,50 mg/l,5g of immobilized substrate,shaking,30°C,96 hours,,98.4%,mycelium,Most efficient decolorization
+reactive Blue 21,Pleurotus eryngii,50 mg/l,5g of immobilized substrate,shaking,30°C,72 hours,,83.5%,mycelium,Immobilized on sugar cane waste
+reactive Blue 21,Pleurotus eryngii,50 mg/l,2 discs (0.5 cm diameter) in liquid medium,shaking,30°C,10 days,,50.8%,whole fungi,Free P. eryngii in control
+reactive Yellow 160,Pleurotus eryngii,50 mg/l,5g of immobilized substrate,shaking,30°C,96 hours,,96.8%,mycelium,
+reactive Orange 122,Pleurotus eryngii,50 mg/l,5g of immobilized substrate,shaking,30°C,96 hours,,97.1%,mycelium,
+direct Congo red,Pleurotus eryngii,50 mg/l,5g of immobilized substrate,shaking,30°C,96 hours,,97.8%,mycelium,
+direct Yellow 5G,Pleurotus eryngii,50 mg/l,5g of immobilized substrate,shaking,30°C,96 hours,,76%,mycelium,
+acid Methyl orange,Pleurotus eryngii,50 mg/l,5g of immobilized substrate,shaking,30°C,96 hours,,61.1%,mycelium,
+acid Eriochrome black T,Pleurotus eryngii,50 mg/l,5g of immobilized substrate,shaking,30°C,96 hours,,96.9%,mycelium,

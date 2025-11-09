@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+none,Trametes pubescens MB89,N/A,0.87 ± 0.28 g/L,shaking,28°C,15 days,3.75 adjusted to 5.0,N/A,whole fungi,Laccase production in distillery wastewater
+none,Trametes pubescens MB89,N/A,1.27 ± 0.31 g/L,shaking,28°C,15 days,5.0,N/A,whole fungi,"Ethanol, copper, or 2,5-xylidine were included before inoculation"
+none,Trametes pubescens MB89,N/A,0.76 ± 0.25 g/L,shaking,28°C,14 days,5.0,N/A,whole fungi,Utilization of wine lees and distilled wine wastewaters
+none,Trametes pubescens MB89,N/A,0.76 ± 0.25 g/L,shaking,28°C,14 days,5.0,Improved laccase synthesis,whole fungi,Data varies across different distillery wastewaters
+none,Trametes pubescens MB89,N/A,0.76 ± 0.25 g/L,shaking,28°C,14 days,5.0,Highest laccase activity,whole fungi,No increase in growth in wastewaters at full strength
+none,Trametes pubescens MB89,N/A,N/A,shaking,28°C,N/A,5.0,N/A,N/A,"Assessed multiple additions of 2,5-xylidine"

@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+not specified,Trametes hirsuta,not specified,not specified,shaking,25°C,20 days,5.8,not specified,mycelium,Maximum laccase activity of 7614 U/L on 20th day.
+not specified,Trametes hirsuta,not specified,3 ml inoculum in 100 ml media,shaking,25°C,3 days,not specified,not specified,mycelium,Copper sulfate (1 mM) added on 3rd day increased laccase to 23543 U/L.
+not specified,Trametes hirsuta,not specified,not specified,shaking,25°C,3 days,not specified,not specified,mycelium,"2,5-xylidine concentrations adjusted: max activity at 1 mM."
+not specified,Trametes hirsuta,not specified,not specified,shaking,25°C,5 days,5.8,not specified,mycelium,Laccase production with various nitrogen sources tested with peptone showing 17390 U/L.
+not specified,Trametes hirsuta,not specified,not specified,shaking,25°C,20 days,not specified,not specified,mycelium,Wheat bran produced 9300 U/L laccase.
+not specified,Trametes hirsuta,not specified,not specified,shaking,25°C,3 days,not specified,not specified,mycelium,Various concentrations of copper sulfate evaluated; max activity at 1 mM.
+not specified,Trametes hirsuta,not specified,not specified,shaking,25°C,3 days,not specified,not specified,mycelium,Various combinations of nitrogen sources tested; effectiveness varied.
+not specified,Trametes hirsuta,not specified,not specified,shaking,25°C,5 days,not specified,not specified,mycelium,Laccase activity enhanced with xylidine and various inducers tested.

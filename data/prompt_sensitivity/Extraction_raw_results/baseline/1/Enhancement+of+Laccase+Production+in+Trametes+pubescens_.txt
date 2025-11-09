@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+,Trametes hirsuta,,,shaking,25°C,20 days,5.8,7614 U/L,whole fungi,"Time course of laccase production observed, maximum laccase activity recorded."
+,Trametes hirsuta,1mM,,shaking,25°C,5 days,5.8,23543 U/L,whole fungi,"Addition of 2, 5 xylidine on 3rd day significantly enhanced laccase production."
+,Trametes hirsuta,1mM,,shaking,25°C,3 days,5.8,17074 U/L,whole fungi,Addition of copper sulphate on the 3rd day maximized laccase production.
+,Trametes hirsuta,,20 g/l,shaking,25°C,5 days,5.8,9300 U/L,whole fungi,Wheat bran was used as a lignocellulosic substrate.
+,Trametes hirsuta,,,shaking,25°C,5 days,5.8,14562 U/L,whole fungi,Plakett-Burman design showed this as a method of optimization for media components.
+,Trametes hirsuta,,,shaking,25°C,5 days,5.8,25889 U/L,whole fungi,Maximum laccase activity achieved through optimization of media components using PB design.

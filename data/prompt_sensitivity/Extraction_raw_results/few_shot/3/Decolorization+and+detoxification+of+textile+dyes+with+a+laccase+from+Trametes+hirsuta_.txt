@@ -1,0 +1,11 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+triarylmethane,Trametes hirsuta,not specified,1.5 g (wet weight),static,30 °C,8 days,not specified,not specified,mycelium,growth inhibited with antibiotics
+indigoid,Trametes hirsuta,not specified,1.5 g (wet weight),static,30 °C,8 days,not specified,not specified,mycelium,growth inhibited with antibiotics
+azo,Trametes hirsuta,not specified,1.5 g (wet weight),static,30 °C,8 days,not specified,not specified,mycelium,growth inhibited with antibiotics
+anthraquinonic,Trametes hirsuta,not specified,1.5 g (wet weight),static,30 °C,8 days,not specified,not specified,mycelium,growth inhibited with antibiotics
+Reactive Blue 221,Trametes hirsuta,0.25 mM,not specified,shaking,30 °C,10 h,5.0,not specified,not specified,using heat-inactivated enzymes as control
+Reactive Black 5,Trametes hirsuta,0.25 mM,not specified,shaking,30 °C,10 h,5.0,not specified,not specified,using heat-inactivated enzymes as control
+Direct Blue 71,Trametes hirsuta,0.25 mM,not specified,shaking,30 °C,10 h,5.0,not specified,not specified,using heat-inactivated enzymes as control
+Basic Red 9 Base,Trametes hirsuta,0.25 mM,not specified,shaking,30 °C,10 h,5.0,not specified,not specified,using heat-inactivated enzymes as control
+Reactive Blue 19,Trametes hirsuta,0.25 mM,not specified,shaking,30 °C,10 h,5.0,not specified,not specified,using heat-inactivated enzymes as control
+immobilized laccase treated dye,Trametes hirsuta,0.25 mM,not specified,pumping through column reactor,30 °C,not specified,5.0,Exact 90% decolorization,not specified,dyeing experiments using decolorized dye solutions

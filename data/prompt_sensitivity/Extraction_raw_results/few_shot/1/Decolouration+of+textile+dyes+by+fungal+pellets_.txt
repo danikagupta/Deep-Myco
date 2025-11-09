@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Neolane blue,Trametes trogii,50 mg/L,not specified,static,30 °C,1 day,not specified,91.5%,not specified,complete decolorization after 24 h with Cu2+ present
+Neolane blue,Trametes trogii,50 mg/L,not specified,static,30 °C,4 days,not specified,91.2%,not specified,remained stable over the period
+Neolane pink,Trametes trogii,50 mg/L,not specified,static,30 °C,1 day,not specified,63.6%,not specified,complete decolorization after 24 h with Cu2+ present
+Neolane pink,Trametes trogii,50 mg/L,not specified,static,30 °C,4 days,not specified,86.4%,not specified,remained stable over the period
+Maxillon blue,Trametes trogii,50 mg/L,not specified,static,30 °C,1 day,not specified,0%,not specified,no decolorization observed
+Maxillon blue,Trametes trogii,50 mg/L,not specified,static,30 °C,4 days,not specified,0%,not specified,no decolorization observed
+Bezaktiv S-BF turquoise,Trametes trogii,50 mg/L,not specified,static,30 °C,1 day,not specified,54%,not specified,partially decolorized

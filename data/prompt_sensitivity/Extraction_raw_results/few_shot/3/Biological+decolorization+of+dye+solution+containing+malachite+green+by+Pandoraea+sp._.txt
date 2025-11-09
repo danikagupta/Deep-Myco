@@ -1,0 +1,11 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Malachite green,Pleurotus eryngii,10 mg/L,10.0 g/L,shaking (150 r/min),25°C,120 min,7.0,47.2%,mycelium,Initial concentration effect on decolorization rate.
+Malachite green,Pleurotus eryngii,20 mg/L,10.0 g/L,shaking (150 r/min),25°C,120 min,7.0,99%,mycelium,Optimal conditions for decolorization.
+Malachite green,Pleurotus eryngii,30 mg/L,10.0 g/L,shaking (150 r/min),25°C,120 min,7.0,94.3%,mycelium,Effective decolorization properties.
+Malachite green,Pleurotus eryngii,50 mg/L,10.0 g/L,shaking (150 r/min),25°C,120 min,7.0,90.2%,mycelium,Concentration-dependent decolorization results.
+Malachite green,Pleurotus eryngii,100 mg/L,10.0 g/L,shaking (150 r/min),25°C,120 min,7.0,lower decolorization rates observed,mycelium,High concentration increases toxicity.
+Malachite green,Pleurotus eryngii,150 mg/L,10.0 g/L,shaking (150 r/min),25°C,120 min,7.0,lower decolorization rates observed,mycelium,Increased concentration and toxic effects.
+Malachite green,Pleurotus eryngii,20 mg/L,10.0 g/L,shaking (150 r/min),30°C,120 min,7.0,94%,mycelium,Temperature increased decolorization efficiency.
+Malachite green,Pleurotus eryngii,20 mg/L,10.0 g/L,shaking (150 r/min),50°C,120 min,7.0,decreased decolorization efficiency,mycelium,Optimal temperature determined as lower than 50°C.
+Malachite green,Pleurotus eryngii,20 mg/L,10.0 g/L,shaking (150 r/min),30°C,120 min,9.0,93.6%,mycelium,Higher pH increases decolorization rates.
+Malachite green,Pleurotus eryngii,20 mg/L,10.0 g/L,shaking (150 r/min),30°C,120 min,4.0-6.0,no significant decolorization,mycelium,pH below 6 reduces binding efficiency.

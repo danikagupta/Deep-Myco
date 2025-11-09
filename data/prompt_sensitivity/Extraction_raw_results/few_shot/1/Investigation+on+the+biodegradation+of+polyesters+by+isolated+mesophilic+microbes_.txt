@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+not applicable,Aspergillus niger strain 13A,not applicable,1 x 10^6 spores/ml,static,35 °C,6 days,6.0,not applicable,whole fungi,optimal culture conditions for cellulase production
+not applicable,Aspergillus niger strain 13A,not applicable,1 x 10^6 spores/ml,submerged fermentation,35 °C,14 days,6.0,not applicable,whole fungi,maximum cellulase production using kraft brown bags
+not applicable,Aspergillus niger strain 13A,not applicable,1 x 10^6 spores/ml,solid-state fermentation,35 °C,14 days,6.0,not applicable,whole fungi,cardboard also used as substrate
+not applicable,Aspergillus niger strain 13A,not applicable,1 x 10^6 spores/ml,static,35 °C,42 days,not applicable,complete degradation of paper wastes,whole fungi,produced bioorganic materials for soil treatment
+not applicable,A. niger,not applicable,not specified,dual culture,not specified,10 days,not specified,inhibition of Fusarium oxysporum,not specified,inhibition rate ranged from 63.27 to 78.5%

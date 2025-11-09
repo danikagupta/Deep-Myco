@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Methyl Orange,Candida zeylanoides,0.2 mM,not specified,shaking,26 °C,40 h,not specified,not detectable,not specified,Initial rates were 14–52 µmol (g dry cell)−1.h−1
+Orange II,Candida zeylanoides,0.2 mM,not specified,shaking,26 °C,60 h,not specified,not detectable,not specified,Initial rates were noted
+Untested Dyes,Issatchenkia occidentalis,0.2 mM,not specified,shaking,not specified,15 h,not specified,>80%,not specified,Essentially under microaerophilic conditions.
+Reactive Black 5,Bacterial Consortium (Bacillus sp.),not specified,not specified,not specified,55 °C,24 h,9,91.5±1.3%,not applicable,Efficient in COD removal as well.

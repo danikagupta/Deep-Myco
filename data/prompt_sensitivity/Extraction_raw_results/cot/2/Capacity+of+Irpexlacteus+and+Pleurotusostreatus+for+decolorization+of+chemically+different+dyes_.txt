@@ -1,0 +1,14 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),5 mL,shaking,30°C,3 days,4,100%,mycelium,
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),not specified,shaking,25°C,10 days,4.5,not specified,mycelium,
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),not specified,shaking,35°C,10 days,4.5,not specified,mycelium,
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),not specified,shaking,40°C,10 days,4.5,not specified,mycelium,
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),not specified,shaking,45°C,10 days,4.5,not specified,mycelium,
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),not specified,shaking,30°C,10 days,3.0,not specified,mycelium,
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),not specified,shaking,30°C,10 days,3.5,not specified,mycelium,
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),not specified,shaking,30°C,10 days,5.0,not specified,mycelium,
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),not specified,shaking,30°C,10 days,5.5,not specified,mycelium,
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),not specified,shaking,30°C,10 days,6.0,not specified,mycelium,
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),not specified,shaking,30°C,10 days,4.0,89.2%,mycelium,
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),not specified,shaking,30°C,10 days,pH 4.5,84.83%,mycelium,
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),not specified,shaking,30°C,10 days,not specified,not specified,mycelium,Table 1: Activities of ligninolytic enzymes produced during decolorization under different conditions.

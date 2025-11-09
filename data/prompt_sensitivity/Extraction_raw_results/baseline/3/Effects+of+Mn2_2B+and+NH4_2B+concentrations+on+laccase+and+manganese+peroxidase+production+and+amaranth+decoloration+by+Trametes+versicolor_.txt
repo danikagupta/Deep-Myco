@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Poly R-478,Phlebia sp. MG-60,0.02%,not specified,stationary incubation,30°C,2 weeks,4.5,"inhibited by high concentrations of sea salts at the beginning, increased after 2 weeks",whole fungi,Decolorization ability related to MnP activity.
+Poly R-478,Phlebia sp. MG-60,0.02%,not specified,stationary incubation,30°C,2 weeks,4.5,enhanced at 3% and 5% sea salt but inhibited at 0%,whole fungi,Laccase activity inhibited by high sea salt concentrations.
+Poly R-478,Phlebia sp. MG-60,0.02%,not specified,stationary incubation,30°C,not specified,4.5,showed different effects based on Mn2 concentration in presence of sea salts,whole fungi,The presence of higher Mn2 concentrations inhibited decolorization.
+Poly R-478,Phlebia sp. MG-60,0.02%,not specified,stationary incubation,30°C,2 weeks,4.5,strongly inhibited at 0% sea salts,whole fungi,Increased decolorization observed at 5% sea salts.
+Poly R-478,Phlebia sp. MG-60,0.02%,not specified,stationary incubation,30°C,2 weeks,4.5,improved in HN-KS medium over time at 5% sea salt,whole fungi,Laccase production enhanced at 5% sea salt compared to KS medium.

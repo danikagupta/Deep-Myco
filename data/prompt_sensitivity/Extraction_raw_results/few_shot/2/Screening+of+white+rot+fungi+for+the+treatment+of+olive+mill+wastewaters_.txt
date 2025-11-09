@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+not specified,Trametes versicolor,not specified,not specified,not specified,28°C,15 minutes,3,76.12%,whole fungi,highest laccase activity observed at pH 3 and time was 15 minutes.
+not specified,Trametes versicolor,not specified,not specified,not specified,not specified,not specified,4,47.01%,whole fungi,degradation efficiency decreases with increasing pH.
+not specified,Trametes versicolor,not specified,not specified,not specified,not specified,not specified,5,45.52%,whole fungi,
+not specified,Trametes versicolor,not specified,not specified,not specified,not specified,not specified,6,38.80%,whole fungi,
+not specified,Trametes versicolor,not specified,not specified,not specified,not specified,not specified,7,1.46%,whole fungi,

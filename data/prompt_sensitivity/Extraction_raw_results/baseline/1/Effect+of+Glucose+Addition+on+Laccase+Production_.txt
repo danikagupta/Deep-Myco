@@ -1,0 +1,13 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Solid lignin,Trametes versicolor,0.40 g/L,0.102 g,rotatory shaker,28ºC,10 days,Not specified,1240 U/L,mycelium,N/A
+Ligninosulphonates,Trametes versicolor,0.34 g/L,0.102 g,rotatory shaker,28ºC,10 days,Not specified,270 U/L,mycelium,N/A
+Veratryl alcohol,Trametes versicolor,2 mM,0.102 g,rotatory shaker,28ºC,10 days,Not specified,345 U/L,mycelium,N/A
+Xylidine,Trametes versicolor,30 µM,0.102 g,rotatory shaker,28ºC,10 days,Not specified,1583 U/L,mycelium,N/A
+Ethanol,Trametes versicolor,40 g/L,0.102 g,rotatory shaker,28ºC,10 days,Not specified,N/A,mycelium,No significant effect on laccase production observed.
+Xylidine,Trametes versicolor,10 µM,0.102 g,rotatory shaker,28ºC,10 days,Not specified,405 U/L,mycelium,N/A
+Xylidine,Trametes versicolor,15 µM,0.102 g,rotatory shaker,28ºC,10 days,Not specified,912 U/L,mycelium,N/A
+Xylidine,Trametes versicolor,50 µM,0.102 g,rotatory shaker,28ºC,10 days,Not specified,1040 U/L,mycelium,N/A
+Veratryl alcohol,Trametes versicolor,4 mM,0.102 g,rotatory shaker,28ºC,10 days,Not specified,33 U/L,mycelium,N/A
+Ligninosulphonates,Trametes versicolor,0.086 g/L,0.102 g,rotatory shaker,28ºC,10 days,Not specified,224 U/L,mycelium,N/A
+Ligninosulphonates,Trametes versicolor,0.171 g/L,0.102 g,rotatory shaker,28ºC,10 days,Not specified,270 U/L,mycelium,N/A
+Solid lignin,Trametes versicolor,0.4 g/L,0.102 g,rotatory shaker,28ºC,10 days,Not specified,1240 U/L,mycelium,N/A

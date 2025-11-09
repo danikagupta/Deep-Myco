@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Crystal violet,Polyporus picipes,0.05 g/dm3,not specified,static,26 °C,7 days,not specified,75.9%,fungal culture,sorption 59.7%
+Crystal violet,Trametes versicolor,0.05 g/dm3,not specified,static,26 °C,7 days,not specified,64.0%,fungal culture,sorption 61.4%
+Brilliant green,Polyporus picipes,0.05 g/dm3,not specified,static,26 °C,7 days,not specified,94.0%,fungal culture,sorption 90.6%
+Brilliant green,Trametes versicolor,0.05 g/dm3,not specified,static,26 °C,7 days,not specified,75.8%,fungal culture,sorption 42.0%
+Thymol blue,Polyporus picipes,0.05 g/dm3,not specified,static,26 °C,7 days,not specified,95%,fungal culture,sorption 89.7%
+Thymol blue,Trametes versicolor,0.05 g/dm3,not specified,static,26 °C,7 days,not specified,not specified,fungal culture,"31.4% removal, sorption not effective"
+Cresol red,Polyporus picipes,0.05 g/dm3,not specified,static,26 °C,7 days,not specified,97.9%,fungal culture,sorption similar to removal by biomass
+Cresol red,Trametes versicolor,0.05 g/dm3,not specified,static,26 °C,7 days,not specified,75%,fungal culture,sorption similar to removal by biomass

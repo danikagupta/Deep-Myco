@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Triarylmethane,Trametes hirsuta,0.25 mM,1.5 g (wet weight),shaking (150 rpm),30 °C,8 days,5.0,not specified,mycelium,Analyzed degradation rates against other dye classes
+Indigoid,Trametes hirsuta,0.25 mM,1.5 g (wet weight),shaking (150 rpm),30 °C,8 days,5.0,not specified,mycelium,Analyzed degradation rates against other dye classes
+Azo,Trametes hirsuta,0.25 mM,1.5 g (wet weight),shaking (150 rpm),30 °C,8 days,5.0,not specified,mycelium,Analyzed degradation rates against other dye classes
+Anthraquinonic,Trametes hirsuta,0.25 mM,1.5 g (wet weight),shaking (150 rpm),30 °C,8 days,5.0,not specified,mycelium,Analyzed degradation rates against other dye classes
+Basic Red 9,Trametes hirsuta,not specified,not specified,shaking (150 rpm),not specified,6 days,not specified,not specified,mycelium,7% of dye bound to mycelium
+DMP,Trametes hirsuta,1 mM,not specified,shaking,30 °C,10 h,4.5,not specified,not specified,Measured through spectrophotometry
+Reactive Black 5,Trametes hirsuta,0.25 mM,not specified,shaking,30 °C,not specified,not specified,1.3 nmol s-1 ml-1,not specified,Compared enzymatic versus microbial degradation
+Reactive Blue 221,Trametes hirsuta,0.25 mM,not specified,shaking,30 °C,not specified,not specified,4.1% detoxification,not specified,Assessing effectiveness in effluents

@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+not specified,Trametes versicolor,not specified,5.5 g/L,shaking (180 rpm),28 °C,not specified,not specified,not specified,mycelium,maximum specific growth rate (µmax) = 0.083 h-1
+not specified,Trametes versicolor,not specified,1.2 g/L,shaking (180 rpm),28 °C,not specified,not specified,not specified,mycelium,maximum specific growth rate (µmax) = 0.043 h-1
+not specified,Trametes versicolor,not specified,not specified,shaking (180 rpm),28 °C,10 days,not specified,not specified,mycelium,laccase production induced by solid lignin with maximum activity of 1240 U/L
+not specified,Trametes versicolor,not specified,not specified,shaking (180 rpm),28 °C,10 days,not specified,not specified,mycelium,laccase production induced with 30 µM xylidine and glucose suppression; maximum activity 1583 U/L
+not specified,Trametes versicolor,not specified,not specified,shaking (180 rpm),28 °C,10 days,not specified,not specified,mycelium,laccase activity with veratryl alcohol enhanced with glucose suppression to 1110 U/L
+not specified,Trametes versicolor,not specified,not specified,shaking (180 rpm),28 °C,10 days,not specified,not specified,mycelium,"laccase activity with control (without inducers) resulted in 65 U/L, and glucose suppression resulted in 376 U/L"

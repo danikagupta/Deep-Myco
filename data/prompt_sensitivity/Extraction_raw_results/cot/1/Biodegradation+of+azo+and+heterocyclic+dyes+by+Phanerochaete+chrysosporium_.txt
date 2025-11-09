@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Orange II,Phanerochaete chrysosporium,50 mg/L,not specified,shaking,30°C,5 days,5.0,86.34%,mycelium,optimum decolorization at pH 5.0
+Orange II,Phanerochaete chrysosporium,100 mg/L,not specified,shaking,30°C,5 days,5.0,85%,mycelium,removal rate similar to 50 mg/L
+Orange II,Phanerochaete chrysosporium,150 mg/L,not specified,shaking,30°C,5 days,5.0,not specified,mycelium,inhibitory effect observed
+Orange II,Phanerochaete chrysosporium,200 mg/L,not specified,shaking,30°C,5 days,5.0,not specified,mycelium,inhibitory effect observed
+Orange II,Phanerochaete chrysosporium,250 mg/L,not specified,shaking,30°C,5 days,5.0,not specified,mycelium,inhibitory effect observed
+Orange II,Phanerochaete chrysosporium,50 mg/L,not specified,shaking,28°C,7 days,5.0,not specified,mycelium,maximum degradation observed at 28-30°C
+Orange II,Phanerochaete chrysosporium,50 mg/L,not specified,shaking,24°C,5 days,5.0,not specified,mycelium,decolorization rate increased with temperature to 30°C
+Orange II,Phanerochaete chrysosporium,50 mg/L,not specified,shaking,32°C,5 days,5.0,not specified,mycelium,reduced decolorization rate observed
+Orange II,Phanerochaete chrysosporium,50 mg/L,not specified,shaking,34°C,5 days,5.0,not specified,mycelium,further decrease in degradation rate observed

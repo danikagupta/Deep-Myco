@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+None,Trametes versicolor,N/A,0.102 ± 0.002 g,rotatory shaker,28ºC,7 days,N/A,N/A,mycelium,Cultured in TaK maintenance solid medium.
+None,Trametes versicolor,N/A,N/A,rotatory shaker,28ºC,10 days,N/A,N/A,mycelium,Laccase induction using modified TDM.
+None,Trametes versicolor,N/A,N/A,rotatory shaker,35ºC,7 days,N/A,N/A,mycelium,Supported growth was limited.
+Solid lignin,Trametes versicolor,0.40 g/L,N/A,N/A,N/A,N/A,N/A,1240 U/L laccase activity,N/A,Used as an inducer.
+Ligninosulphonates,Trametes versicolor,0.034 g/L,N/A,N/A,N/A,N/A,N/A,192 U/L laccase activity,N/A,Used as an inducer.
+Veratryl alcohol,Trametes versicolor,0.050 mM,N/A,N/A,N/A,N/A,N/A,47 U/L laccase activity,N/A,Used as an inducer.
+Xylidine,Trametes versicolor,30 µM,N/A,N/A,N/A,N/A,N/A,1583 U/L laccase activity,N/A,Combined effect with glucose suppression.
+Ethanol,Trametes versicolor,40 g/L,N/A,N/A,N/A,N/A,N/A,Lack of significant effect on laccase production,N/A,High concentrations were potentially lethal.
+Control,Trametes versicolor,N/A,N/A,N/A,N/A,N/A,N/A,65 ± 5 U/L laccase activity,N/A,Control without inducers.

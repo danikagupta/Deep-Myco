@@ -1,0 +1,11 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Congo red,Pha. chrysosporium,N/A,N/A,N/A,N/A,N/A,N/A,Not specified,whole fungi,Gill et al. [72]
+Reactive Orange 16,Irpex lacteus,N/A,N/A,N/A,N/A,N/A,N/A,80%,whole fungi,Svobodová et al. [73]
+Congo red,Ganoderma lucidum,100 mg/L,N/A,N/A,N/A,N/A,N/A,N/A,whole fungi,Jayasinghe et al. [74]
+Blue 21,Fusarium oxysporum,N/A,N/A,N/A,N/A,N/A,N/A,N/A,whole fungi,75
+Cresol Red,Absidia spinosa,N/A,N/A,N/A,N/A,N/A,N/A,65%,whole fungi,Kristanti et al. [81]
+Malachite Green,Aspergillus flavus,N/A,N/A,N/A,N/A,N/A,N/A,Intermediate N-demethylated and N-oxidized metabolites identified,whole fungi,Barapatre et al. [82]
+Reactive Red 31,Aspergillus bombycis,N/A,N/A,N/A,N/A,N/A,N/A,N/A,whole fungi,83
+Congo red,Aspergillus niger,200 mg/L,N/A,N/A,N/A,6 days,N/A,N/A,whole fungi,Asses et al. [84]
+Direct Blue 1,Aspergillus terreus,N/A,N/A,N/A,N/A,N/A,N/A,N/A,whole fungi,86
+Methylene blue,Fusarium equiseti,N/A,N/A,N/A,N/A,N/A,N/A,N/A,whole fungi,87

@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+not specified,Agaricus blazei U2-4,not specified,2.8 g/L nitrogen,not specified,28°C,21 days,not specified,43.8 U/mL laccase activity,mycelium,none
+not specified,Agaricus blazei U2-4,not specified,0.28 g/L nitrogen,not specified,28°C,21 days,not specified,5.1 U/mL laccase activity,mycelium,none
+not specified,Agaricus blazei U2-4,not specified,2.8 g/L nitrogen,not specified,28°C,21 days,not specified,not specified,mycelium,CuSO4 concentrations ranged from 0 to 300 µM.
+not specified,Agaricus blazei U2-2,0.5 mM guaiacol,2.8 g/L nitrogen,not specified,not specified,21 days,not specified,10.5 U/mL laccase activity,mycelium,effect of 0.5 mM guaiacol on laccase activity
+not specified,Agaricus blazei U2-4,0.5 mM ethanol,2.8 g/L nitrogen,not specified,not specified,21 days,not specified,28.7 U/mL laccase activity,mycelium,effect of 0.5 mM ethanol on laccase activity
+not specified,Agaricus blazei U2-4,1.0 mM vanillin,2.8 g/L nitrogen,not specified,not specified,21 days,not specified,27.4 U/mL laccase activity,mycelium,effect of 1.0 mM vanillin on laccase activity
+not specified,Agaricus blazei U2-4,0.5 mM pyrogallol,2.8 g/L nitrogen,not specified,not specified,21 days,not specified,not specified,mycelium,delay in peak laccase activity due to pyrogallol.
+not specified,Agaricus blazei U2-4,1.0 mM guaiacol,2.8 g/L nitrogen,not specified,not specified,21 days,not specified,27.3 U/mL laccase activity,mycelium,effect of 1.0 mM guaiacol on laccase activity

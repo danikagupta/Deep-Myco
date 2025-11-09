@@ -1,0 +1,14 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),not specified,shaking,30°C,3 days,4.5,100%,whole fungi,Using maltose and ammonium sulfate as carbon and nitrogen sources.
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),not specified,shaking,30°C,7 days,4.5,84.8%,whole fungi,Maximum decolorization.
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),not specified,shaking,25°C,10 days,4,89.2%,whole fungi,Optimal temperature study.
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),not specified,shaking,35°C,10 days,4,not specified,whole fungi,Temperature effect study.
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),not specified,shaking,40°C,10 days,4,not specified,whole fungi,Temperature effect study.
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),not specified,shaking,45°C,10 days,4,not specified,whole fungi,Temperature effect study.
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),not specified,shaking,30°C,10 days,3.5,not specified,whole fungi,Effect of varying pH 3.5 study.
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),not specified,shaking,30°C,10 days,3,not specified,whole fungi,Effect of varying pH 3 study.
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),not specified,shaking,30°C,10 days,5.0,not specified,whole fungi,Effect of varying pH 5 study.
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),not specified,shaking,30°C,10 days,5.5,not specified,whole fungi,Effect of varying pH 5.5 study.
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),not specified,shaking,30°C,10 days,6.0,not specified,whole fungi,Effect of varying pH 6 study.
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),not specified,shaking,30°C,3 days,not specified,91.5%,whole fungi,Combination of maltose and ammonium sulfate.
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),not specified,shaking,30°C,3 days,not specified,86.6%,whole fungi,Using glucose and ammonium di-hydrogen phosphate.

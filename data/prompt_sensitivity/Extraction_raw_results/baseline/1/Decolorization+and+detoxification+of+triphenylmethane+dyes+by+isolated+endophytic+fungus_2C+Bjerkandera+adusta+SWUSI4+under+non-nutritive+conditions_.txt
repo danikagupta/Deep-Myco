@@ -1,0 +1,12 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Crystal Violet,Bjerkandera adusta SWUSI4,50 mg L-1,4g,shaking,30 °C,7 days,not specified,97%,mycelium,Decolorization was rapid with live cells.
+Methyl Violet,Bjerkandera adusta SWUSI4,50 mg L-1,4g,shaking,30 °C,7 days,not specified,94%,mycelium,Decolorization was rapid with live cells.
+Malachite Green,Bjerkandera adusta SWUSI4,50 mg L-1,4g,shaking,30 °C,7 days,not specified,94%,mycelium,Decolorization was rapid with live cells.
+Cotton Blue,Bjerkandera adusta SWUSI4,50 mg L-1,4g,shaking,30 °C,7 days,not specified,92%,mycelium,Decolorization was rapid with live cells.
+Crystal Violet,Bjerkandera adusta SWUSI4,100 mg L-1,2g,shaking,30 °C,14 days,not specified,72%,mycelium,Decolorization efficiency was lower due to higher dye concentration.
+Methyl Violet,Bjerkandera adusta SWUSI4,100 mg L-1,2g,shaking,30 °C,14 days,not specified,81%,mycelium,Decolorization efficiency was lower due to higher dye concentration.
+Malachite Green,Bjerkandera adusta SWUSI4,100 mg L-1,2g,shaking,30 °C,14 days,not specified,90%,mycelium,Decolorization efficiency was lower due to higher dye concentration.
+Cotton Blue,Bjerkandera adusta SWUSI4,100 mg L-1,2g,shaking,30 °C,14 days,not specified,70%,mycelium,Decolorization efficiency was lower due to higher dye concentration.
+Crystal Violet,Bjerkandera adusta SWUSI4,100 mg L-1,2g,static,30 °C,14 days,not specified,27%,mycelium,Static conditions resulted in lower efficiency.
+Methyl Violet,Bjerkandera adusta SWUSI4,100 mg L-1,2g,static,30 °C,14 days,not specified,47%,mycelium,Static conditions resulted in lower efficiency.
+Cotton Blue,Bjerkandera adusta SWUSI4,100 mg L-1,2g,static,30 °C,14 days,not specified,58%,mycelium,Static conditions resulted in lower efficiency.

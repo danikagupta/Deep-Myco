@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Congo Red,Trichoderma virens,50 mg/L,not specified,shaking (150 rpm),28 °C,8 days,6,93%,living mycelium,"compared to dead mycelium, removal efficiency was 94%"
+Congo Red,Trichoderma viride,50 mg/L,not specified,shaking (150 rpm),28 °C,8 days,6,95%,dead mycelium,showed similar results to living T. viride
+Malachite Green,Trichoderma virens,50 mg/L,not specified,shaking (150 rpm),28 °C,8 days,6,95%,living mycelium,higher removal than other fungi
+Malachite Green,Trichoderma viride,50 mg/L,not specified,shaking (150 rpm),28 °C,8 days,6,75%,living mycelium,shown lower removal than dead T. viride
+Malachite Green,Trichoderma virens,15-90 mg/L,not specified,stirring (150 rpm),25 °C,24 h,6,equilibrium reached with dry biomass,dry biomass,removal efficiency increased with time
+Congo Red,Trichoderma viride,15-90 mg/L,not specified,stirring (150 rpm),25 °C,24 h,6,removal efficiency greater than activated carbon,dry biomass,showed higher capacity than activated carbon after initial period

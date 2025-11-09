@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Crystal Violet,Bjerkandera adusta,50 mg/L,4 g,shaking,30 °C,7 days,not specified,92%,mycelium,Live cells achieved DE in 24h
+Crystal Violet,Bjerkandera adusta,100 mg/L,2 g,shaking,30 °C,14 days,not specified,72%,mycelium,Static condition DE was 27%
+Methyl Violet,Bjerkandera adusta,50 mg/L,4 g,shaking,30 °C,7 days,not specified,94%,mycelium,Live cells achieved DE in 24h
+Methyl Violet,Bjerkandera adusta,100 mg/L,2 g,shaking,30 °C,14 days,not specified,81%,mycelium,Static condition DE was 47%
+Malachite Green,Bjerkandera adusta,50 mg/L,4 g,shaking,30 °C,7 days,not specified,96%,mycelium,Live cells achieved DE in 24h
+Malachite Green,Bjerkandera adusta,100 mg/L,2 g,shaking,30 °C,14 days,not specified,90%,mycelium,Static condition DE was 68%
+Cotton Blue,Bjerkandera adusta,50 mg/L,4 g,shaking,30 °C,7 days,not specified,94%,mycelium,Live cells achieved DE in 24h
+Cotton Blue,Bjerkandera adusta,100 mg/L,2 g,shaking,30 °C,14 days,not specified,70%,mycelium,Static condition DE was 58%

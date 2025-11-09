@@ -1,0 +1,11 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+not specified,Aspergillus niger,5 ml,1 ml,shaking,27 °C,7 days,1.62,not specified,mycelium,pH decreased from initial to 1.62 over 7 days.
+not specified,Aspergillus niger,10 ml,1 ml,shaking,27 °C,7 days,1.40,not specified,mycelium,pH decreased from initial to 1.40 over 7 days.
+not specified,Aspergillus niger,20 ml,1 ml,shaking,27 °C,7 days,1.61,not specified,mycelium,pH decreased from initial to 1.61 over 7 days.
+not specified,Aspergillus niger,30 ml,1 ml,shaking,27 °C,7 days,1.60,not specified,mycelium,pH decreased from initial to 1.60 over 7 days.
+not specified,Aspergillus niger,40 ml,1 ml,shaking,27 °C,7 days,1.46,not specified,mycelium,pH decreased from initial to 1.46 over 7 days.
+not specified,Aspergillus niger,5 ml,1 ml,shaking,27 °C,5 days,not specified,88%,mycelium,COD decreased significantly.
+not specified,Aspergillus niger,10 ml,1 ml,shaking,27 °C,5 days,not specified,88%,mycelium,COD decreased significantly.
+not specified,Aspergillus niger,20 ml,1 ml,shaking,27 °C,5 days,not specified,88%,mycelium,COD decreased significantly.
+not specified,Aspergillus niger,30 ml,1 ml,shaking,27 °C,5 days,not specified,88%,mycelium,COD decreased significantly.
+not specified,Aspergillus niger,40 ml,1 ml,shaking,27 °C,5 days,not specified,88%,mycelium,COD decreased significantly.

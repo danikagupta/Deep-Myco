@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Olive mill wastewater,Trametes versicolor,0%,Not specified,Not specified,Not specified,Not specified,3,76.12%,Mycelium,Laccase activity recorded
+Olive mill wastewater,Trametes versicolor,1%,Not specified,Not specified,Not specified,Not specified,Not specified,14.50%,Mycelium,Laccase activity recorded
+Olive mill wastewater,Trametes versicolor,2%,Not specified,Not specified,Not specified,Not specified,Not specified,20.34%,Mycelium,Laccase activity recorded
+Olive mill wastewater,Trametes versicolor,5%,Not specified,Not specified,Not specified,Not specified,Not specified,22.85%,Mycelium,Laccase activity recorded

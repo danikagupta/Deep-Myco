@@ -1,0 +1,13 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Malachite Green,Aspergillus flavus,10 µM,Unknown,Static,37.5°C,6 days,7.3,> 96%,Whole fungi,"Used in combination with concentrations of 20, 30, 40, and 50 µM"
+Malachite Green,Aspergillus flavus,20 µM,Unknown,Static,37.5°C,6 days,7.3,> 96%,Whole fungi,"Used in combination with concentrations of 10, 30, 40, and 50 µM"
+Malachite Green,Aspergillus flavus,30 µM,Unknown,Static,37.5°C,6 days,7.3,> 96%,Whole fungi,"Used in combination with concentrations of 10, 20, 40, and 50 µM"
+Malachite Green,Aspergillus flavus,40 µM,Unknown,Static,37.5°C,6 days,7.3,> 96%,Whole fungi,"Used in combination with concentrations of 10, 20, 30, and 50 µM"
+Malachite Green,Aspergillus flavus,50 µM,Unknown,Static,37.5°C,6 days,7.3,> 96%,Whole fungi,"Used in combination with concentrations of 10, 20, 30, and 40 µM"
+Malachite Green,Alternaria solani,10 µM,Unknown,Static,37.5°C,6 days,7.3,> 96%,Whole fungi,"Used in combination with concentrations of 20, 30, 40, and 50 µM"
+Malachite Green,Alternaria solani,20 µM,Unknown,Static,37.5°C,6 days,7.3,> 96%,Whole fungi,"Used in combination with concentrations of 10, 30, 40, and 50 µM"
+Malachite Green,Alternaria solani,30 µM,Unknown,Static,37.5°C,6 days,7.3,> 96%,Whole fungi,"Used in combination with concentrations of 10, 20, 40, and 50 µM"
+Malachite Green,Alternaria solani,40 µM,Unknown,Static,37.5°C,6 days,7.3,> 96%,Whole fungi,"Used in combination with concentrations of 10, 20, 30, and 50 µM"
+Malachite Green,Alternaria solani,50 µM,Unknown,Static,37.5°C,6 days,7.3,> 96%,Whole fungi,"Used in combination with concentrations of 10, 20, 30, and 40 µM"
+Malachite Green,Aspergillus flavus,30 µM,Unknown,Static,37.5°C,6 days,7.3,99.78%,Whole fungi,Used as the sole source of Carbon
+Malachite Green,Alternaria solani,30 µM,Unknown,Static,37.5°C,6 days,7.3,91.72%,Whole fungi,Used as the sole source of Carbon

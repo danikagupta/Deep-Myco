@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Methyl Green,Myceliophthora thermophila,0.02% (w/v),20 U of immobilized laccase,stirring (90 rpm),30 °C,6 h,4.5,75%,not specified,decolorization achieved in presence and absence of redox mediator HBT
+Methyl Orange,Myceliophthora thermophila,0.02% (w/v),20 U of immobilized laccase,stirring (90 rpm),30 °C,6 h,4.5,61%,not specified,maximum decolorization of 82% in presence of 1 mM HBT
+Acid Blue 25,Myceliophthora thermophila,0.02% (w/v),20 U of immobilized laccase,stirring (90 rpm),30 °C,6 h,4.5,not specified,not specified,directly decolorized by immobilized enzyme
+Acid Green 27,Myceliophthora thermophila,0.02% (w/v),20 U of immobilized laccase,stirring (90 rpm),30 °C,6 h,4.5,not specified,not specified,directly decolorized by immobilized enzyme
+Remazol Brilliant Blue R (RBBR),Myceliophthora thermophila,0.02% (w/v),20 U of immobilized laccase,stirring (90 rpm),30 °C,24 h,4.5,31%,not specified,achieved in presence of 1 mM HBT
+Reactive Black 5 (RB −5),Myceliophthora thermophila,0.02% (w/v),20 U of immobilized laccase,stirring (90 rpm),30 °C,24 h,4.5,0%,not specified,no decolorization without mediator; 60% decolorization achieved with HBT

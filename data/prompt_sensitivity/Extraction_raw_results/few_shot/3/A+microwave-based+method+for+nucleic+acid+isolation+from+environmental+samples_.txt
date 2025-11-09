@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+not applicable,Clitopilus scyphoides,not applicable,not specified,not applicable,not specified,not specified,not specified,not applicable,mycelium,"identified by sequencing; AGUM004, BankIt2098576 MH172163"
+not applicable,Ganoderma rasinaceum,not applicable,not specified,not applicable,not specified,not specified,not specified,not applicable,mycelium,"identified by sequencing; AGUM007, BankIt2098576 MH172163"
+not applicable,Schizophyllum sp,not applicable,not specified,not applicable,not specified,not specified,not specified,not applicable,mycelium,"identified by sequencing; KONA001, BankIt2098576 MH172164; AGUM011, BankIt2098576 MH172165; AGUM021, BankIt2098576 MH172166"
+not applicable,Coprinellus disseminatus,not applicable,not specified,not applicable,not specified,not specified,not specified,not applicable,mycelium,"identified by sequencing; BANG001, BankIt2098576 MH172167"
+not applicable,Lentinus squarrosulus,not applicable,not specified,not applicable,not specified,not specified,not specified,not applicable,mycelium,"identified by sequencing; TAMI004, BankIt2098576 MH172167"

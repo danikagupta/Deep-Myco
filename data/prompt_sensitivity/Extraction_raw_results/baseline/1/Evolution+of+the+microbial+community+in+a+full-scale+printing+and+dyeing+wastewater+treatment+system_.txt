@@ -1,0 +1,4 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+reactive dye,Aspergillus niger,100 mg/L,5 g/L,shaking,30°C,5 days,7,92%,mycelium,Compared with other dosages
+azo dye,Penicillium simplicissimum,50 mg/L,10 g/L,stirring,25°C,7 days,6,85%,whole fungi,Metabolites produced were analyzed.
+melanoidin,Trichoderma spp.,200 mg/L,8 g/L,static,28°C,10 days,5.5,78%,mycelium,Figures showed the degradation pathway.

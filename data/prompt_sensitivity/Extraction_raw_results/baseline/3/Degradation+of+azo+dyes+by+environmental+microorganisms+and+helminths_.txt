@@ -1,0 +1,11 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Synazol red HF-6BN,Aspergillus niger,unknown,unknown,unknown,unknown,24 d,unknown,88.0 %,whole fungi,Ilyas and Rehman (2013)
+Synazol red HF-6BN,Nigrospora sp.,unknown,unknown,unknown,unknown,24 d,unknown,96.0 %,whole fungi,Ilyas and Rehman (2013)
+Congo red,Oudemansiella canarii,unknown,unknown,unknown,unknown,60,unknown,80.0 %,whole fungi,Iark et al. (2019)
+Remazol blue,Peurotus florida,unknown,unknown,unknown,unknown,72 h,unknown,94.6 %,whole fungi,Montiague et al. (2020)
+Direct Blue-1,Aspergillus terreus,unknown,unknown,unknown,unknown,168 h,unknown,98.4 %,whole fungi,Singh and Dwivedi (2020)
+Disperse red 1,Aspergillus fumigatus,unknown,unknown,unknown,unknown,unknown,unknown,85.0 %,whole fungi,Ameen et al. (2021)
+Acid Blue 29,Aspergillus flavus,unknown,unknown,unknown,unknown,unknown,unknown,86.0 %,whole fungi,Ameen et al. (2021)
+Acid blue 12,Trametes hirsute,unknown,unknown,unknown,unknown,unknown,unknown,90.0 %,whole fungi,Khan et al. (2020)
+Reactive blue 4,Trametes hirsute,unknown,unknown,unknown,unknown,unknown,unknown,96.0 %,whole fungi,Khan et al. (2020)
+Synozol Red HF-6BN,Aspergillus nidulans,unknown,unknown,unknown,unknown,unknown,unknown,90.0 %,whole fungi,Alam et al. (2021)

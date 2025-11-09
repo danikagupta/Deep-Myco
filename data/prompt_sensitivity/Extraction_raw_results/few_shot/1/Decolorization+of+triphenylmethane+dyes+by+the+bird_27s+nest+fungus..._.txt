@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Basic fuchsin,Fomitopsis feei,0.001%,not specified,shaking (150 rpm),28 °C,21 days,2.15,98%,not specified,highest growth observed (11.16 g/L) with corresponding laccase activity of 46 U/mL
+Bromophenol blue,Fomitopsis feei,0.001%,not specified,shaking (150 rpm),28 °C,21 days,2.42,96.8%,not specified,laccase activity of 42 U/mL observed after 21 days
+Methyl violet,Fomitopsis feei,0.001%,not specified,shaking (150 rpm),28 °C,21 days,6.23,91.5%,not specified,"initially low enzyme activity, increased to 8 U/mL after 21 days"
+Methyl green,Fomitopsis feei,0.001%,not specified,shaking (150 rpm),28 °C,21 days,5.75,88.3%,not specified,"no initial laccase activity, lignin peroxidase reached 44 U/mL"
+Ethyl violet,Fomitopsis feei,0.001%,not specified,shaking (150 rpm),28 °C,21 days,6.36,83.1%,not specified,"low enzyme activity, only 2 U/mL lignin peroxidase observed at 21 days"
+Malachite green,Fomitopsis feei,0.001%,not specified,shaking (150 rpm),28 °C,21 days,4.54,89.6%,not specified,"lignin peroxidase increased over time, maximum of 34 U/mL at 21 days"

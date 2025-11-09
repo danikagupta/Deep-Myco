@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Dye I,Candida zeylanoides,0.2 mM,not specified,shaking,25 °C,60 h,not specified,complete,whole fungi,Presence of metanilic acid or sulfanilic acid detected in culture supernatants.
+Dye II,Issatchenkia occidentalis,0.2 mM,not specified,shaking,not specified,15 h,not specified,>80%,whole fungi,Notably effective under microaerophilic conditions.
+Dye II,Saccharomyces cerevisiae,0.2 mM,not specified,shaking,not specified,8.5 h,not specified,complete,whole fungi,>95% decolorization is achieved rapidly.
+Dye III,Candida zeylanoides,0.2 mM,not specified,shaking,not specified,40 h,not specified,15% residual,whole fungi,Detection of stable reduction products in the culture.
+Dye III,Issatchenkia occidentalis,0.2 mM,not specified,shaking,not specified,not specified,not specified,not specified,whole fungi,No decolorization occurs under anoxic conditions.
+Dye III,Saccharomyces cerevisiae,0.2 mM,not specified,shaking,not specified,not specified,not specified,not specified,whole fungi,Exhibited reduced decolorization capacity when FRE1 is deleted.
+Dye IV,Candida zeylanoides,0.2 mM,not specified,shaking,not specified,60 h,not specified,>80%,whole fungi,Used for nitrogen source but not carbon.
+Dye IV,Issatchenkia occidentalis,0.2 mM,not specified,shaking,not specified,not specified,not specified,not specified,whole fungi,Notably does not occur under anoxic conditions.
+Dye IV,Saccharomyces cerevisiae,0.2 mM,not specified,shaking,not specified,not specified,not specified,not specified,whole fungi,Mutant strains displayed much reduced decolorization capability.

@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Phenol,Trametes versicolor,not specified,not specified,static,not specified,7 d,not specified,not specified,mycelium,Removal of phenol was 0.125 g/g biomass/day
+p-cresol,Trametes versicolor,not specified,not specified,static,not specified,1 day,not specified,0.075 g/g biomass/day,mycelium,Removal rate was 0.075 g/g biomass/day
+m-cresol,Trametes versicolor,not specified,not specified,static,not specified,1 day,not specified,0.077 g/g biomass/day,mycelium,Removal rate was 0.077 g/g biomass/day
+o-cresol,Trametes versicolor,not specified,not specified,static,not specified,1 day,not specified,0.031 g/g biomass/day,mycelium,Removal rate was 0.031 g/g biomass/day
+Cresylic compounds,Trametes pubescens,2.5% v/v,not specified,ALR,not specified,8 days,not specified,Total removal of phenols,mycelium,Sequential additions resulted in complete removal of phenols
+Cresylic compounds,Trametes pubescens,5% v/v,not specified,ALR,not specified,daily for several additions,not specified,Total removal of phenols,mycelium,Increased enzyme production due to effluent additions
+Cresylic compounds,Trametes pubescens,10% v/v,not specified,ALR,not specified,daily for several additions,not specified,Total removal of phenols,mycelium,Immediate increase in laccase activity after addition

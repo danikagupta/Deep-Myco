@@ -1,0 +1,12 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+,Agaricus blazei U2-4,,2.8 g/L nitrogen,shaking,28°C,21 days,,43.8 U/mL,mycelium,Copper concentration varied from 0 to 300 µM.
+,Agaricus blazei U2-4,,0.28 g/L nitrogen,shaking,28°C,21 days,,5.1 U/mL,mycelium,
+,Agaricus blazei U2-1,,2.8 g/L nitrogen & 150 µM copper,shaking,,21 days,,7.6 ± 2.4 U/mL,mycelium,"Ethanol, guaiacol, pyrogallol, vanillin, and veratryl alcohol were tested."
+,Agaricus blazei U2-2,,2.8 g/L nitrogen & 150 µM copper,shaking,,21 days,,4.8 ± 1.4 U/mL,mycelium,
+,Agaricus blazei U2-3,,2.8 g/L nitrogen & 150 µM copper,shaking,,21 days,,10.3 ± 1.0 U/mL,mycelium,
+,Agaricus blazei U2-4,,2.8 g/L nitrogen & 150 µM copper,shaking,,21 days,,25.4 ± 2.5 U/mL,mycelium,
+,Agaricus blazei U2-1,,2.8 g/L nitrogen & 150 µM copper,shaking,,21 days,,8.0 ± 1.9 U/mL,mycelium,
+,Agaricus blazei U2-2,,2.8 g/L nitrogen & 150 µM copper,shaking,,21 days,,10.5 ± 4.4 U/mL,mycelium,
+,Agaricus blazei U2-3,,2.8 g/L nitrogen & 150 µM copper,shaking,,21 days,,11.3 ± 0.2 U/mL,mycelium,
+,Agaricus blazei U2-4,,2.8 g/L nitrogen & 150 µM copper,shaking,,21 days,,28.7 ± 0.8 U/mL,mycelium,
+,Agaricus blazei U2-4,,1.0 mM pyrogallol,shaking,,21 days,,"Initial inhibition observed, increased after 15 days.",mycelium,

@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+indigo carmine,Pseudomonas aeruginosa,50 mg/L,not specified,static,30 °C,4 h,6.0,92%,not applicable,high decolorization activity after 4 h
+indigo carmine,Pseudomonas aeruginosa,50 mg/L,not specified,shaking (150 rpm),30 °C,4 h,6.0,92%,not applicable,effective at all agitation rates
+indigo carmine,Pseudomonas aeruginosa,100 mg/L,not specified,shaking (150 rpm),30 °C,4 h,6.0,91%,not applicable,consistent decolorization performance
+indigo carmine,Pseudomonas aeruginosa,50 mg/L,not specified,static,30 °C,2 h,not specified,59%,not applicable,results measured for static conditions
+indigo carmine,Pseudomonas aeruginosa,100 mg/L,not specified,shaking (150 rpm),20 °C,4 h,not specified,58%,not applicable,lower activity at 20 °C
+indigo carmine,Funalia trogii,100 mg/L,not specified,not specified,30 °C,300 s,3.0,57%,not applicable,highest decolorization observed at pH 3
+indigo carmine,Funalia trogii,100 mg/L,not specified,not specified,60 °C,300 s,3.0,45%,not applicable,decolorization activity decreased with temperature increase
+indigo carmine,Funalia trogii,100 mg/L,not specified,not specified,70 °C,300 s,3.0,38%,not applicable,lower activity at higher temperatures

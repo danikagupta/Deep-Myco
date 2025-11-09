@@ -1,0 +1,4 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+not specified,Trametes pubescens MB89,not specified,0.87±0.28 g/L,shaking,28°C,15 days,5.0,not specified,mycelium,Laccase production optimal under specified conditions.
+not specified,Trametes pubescens MB89,not specified,1.27±0.31 g/L,shaking,28°C,15 days,5.0,not specified,mycelium,Highest laccase activity assessed with different carbon sources.
+not specified,Trametes pubescens MB89,not specified,0.76±0.25 g/L,shaking,28°C,14 days,5,not specified,mycelium,Laccase synthesis in modified wine-related wastewaters.

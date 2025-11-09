@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+CBB G-250,Salinivibrio kushneri HTSP,500-3000 mg/L,n/a,shaking,37°C,48h,n/a,80% for CBB G-250,Whole fungi,Dye decolorization highest for CBB G-250 at 500 mg/L.
+Congo red,Salinivibrio kushneri HTSP,50-800 mg/L,n/a,shaking,37°C,48h,n/a,92% for 50 ppm; 90% after 36h,Whole fungi,High decolorization rate.
+Safranin O,Salinivibrio kushneri HTSP,50-800 mg/L,n/a,shaking,37°C,48h,n/a,Complete decolorization at low concentrations; decreased rate at higher concentrations.,Whole fungi,High concentration (800 mg/L) shows only 22% decolorization.
+CBB G-250,rlac1338 (recombinant laccase),100 mg/L,n/a,shaking,37°C,24h,6,No degradation effect without mediators.,n/a,Need mediators to improve degradation ability.
+Bromophenol blue,lac2-9 (mutant laccase),100 mg/L,n/a,shaking,37°C,24h,6.5,Improved degradation by 3.4 times compared to rlac1338.,n/a,Requires mediators for significant degradation.

@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Ponceau 2R,Coriolopsis sp. strain arf5,0.2 g/L,,static,room temperature,not specified,not specified,complete degradation in nitrogen-limiting conditions,mycelium,used for degrading experiments
+Ponceau 2R,Coriolopsis sp. strain arf5,0.2 g/L,,static,30 °C,48 hours,4.5,degradation rate observed,mycelium,temperature effect tested
+Ponceau 2R,Coriolopsis sp. strain arf5,0.2 g/L,,static,35 °C,48 hours,5.0,46% degradation rate,mycelium,temperature effect tested
+Ponceau 2R,Coriolopsis sp. strain arf5,0.2 g/L,,static,40 °C,48 hours,5.5,55.5% degradation rate,mycelium,temperature effect tested
+Orange G,Coriolopsis sp. strain arf5,0.2 g/L,,static,room temperature,48 hours,4.5,successful degradation,mycelium,used for degrading experiments
+Direct Blue 71,Coriolopsis sp. strain arf5,0.2 g/L,,static,room temperature,> 21 days,not specified,incomplete degradation observed,mycelium,degradation rate under nitrogen sufficient conditions
+Biebrich Scarlet,Coriolopsis sp. strain arf5,0.2 g/L,,static,not specified,12 days,not specified,successful degradation under nitrogen-limiting condition,mycelium,degradation tests conducted in various conditions
+Biebrich Scarlet,Coriolopsis sp. strain arf5,0.2 g/L,,static,30 °C,48 hours,5.0,below 90% after 120 hours,mycelium,temperature effect on degradation examined

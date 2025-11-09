@@ -1,0 +1,13 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Basic fuchsin,Fomitopsis feei,0.001%,not specified,shaking (150 rpm),28 °C,21 days,2.00,98%,mycelium,Highest laccase activity of 46 U/mL observed.
+Bromophenol blue,Fomitopsis feei,0.001%,not specified,shaking (150 rpm),28 °C,21 days,1.98,96.8%,mycelium,Fastest rate of decolorization observed.
+Methyl violet,Fomitopsis feei,0.001%,not specified,shaking (150 rpm),28 °C,21 days,2.12,91.5%,mycelium,8 U/mL of laccase observed after 21 days.
+Ethyl violet,Fomitopsis feei,0.001%,not specified,shaking (150 rpm),28 °C,21 days,5.91,83.1%,mycelium,Lignin peroxidase activity (2 U/mL) observed only at 7 days.
+Malachite green,Fomitopsis feei,0.001%,not specified,shaking (150 rpm),28 °C,21 days,2.04,89.6%,mycelium,Laccase and lignin peroxidase activities increased with incubation time.
+Methyl green,Fomitopsis feei,0.001%,not specified,shaking (150 rpm),28 °C,21 days,2.20,88.3%,mycelium,44 U/mL lignin peroxidase activity noted.
+Ethyl violet,Fomitopsis feei,0.001%,not specified,shaking (150 rpm),28 °C,7 days,6.36,63.1%,mycelium,2 U/mL of lignin peroxidase observed.
+Basic fuchsin,Fomitopsis feei,0.001%,not specified,shaking (150 rpm),28 °C,7 days,2.15,73.8%,mycelium,Growth of fungus not inhibited.
+Methyl violet,Fomitopsis feei,0.001%,not specified,shaking (150 rpm),28 °C,14 days,5.18,88.7%,mycelium,
+Malachite green,Fomitopsis feei,0.001%,not specified,shaking (150 rpm),28 °C,14 days,2.18,85.1%,mycelium,
+Bromophenol blue,Fomitopsis feei,0.001%,not specified,shaking (150 rpm),28 °C,14 days,2.14,92.4%,mycelium,
+Basic fuchsin,Fomitopsis feei,0.001%,not specified,shaking (150 rpm),28 °C,14 days,2.12,81.7%,mycelium,

@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+S m-g,Phanerochaete chrysosporium,50 mg l−1,Not specified,rotary shaker,30 °C,28 days,4.5,"75% at day 7, 83% at day 14",whole fungi,Best results when pre-grown in PAM medium.
+S p-g,Phanerochaete chrysosporium,50 mg l−1,Not specified,rotary shaker,30 °C,28 days,4.5,89%,whole fungi,High biodegradation achieved with guaiacol coupling component.
+C m-s,Phanerochaete chrysosporium,50 mg l−1,Not specified,rotary shaker,30 °C,28 days,4.5,88%,whole fungi,Saprotrophic conditions enhance dye degradation.
+C m-g,Phanerochaete chrysosporium,50 mg l−1,Not specified,rotary shaker,30 °C,28 days,4.5,88%,whole fungi,Experiments conducted to compare with other dye structures.
+S m-s,Phanerochaete chrysosporium,50 mg l−1,Not specified,rotary shaker,30 °C,28 days,4.5,85%,whole fungi,Significant biodegradation when pre-grown with dyes containing guaiacol.
+S p-g,Phanerochaete chrysosporium,50 mg l−1,Not specified,rotary shaker,30 °C,28 days,4.5,30% at day 28 when pre-adapted to S p-g,whole fungi,Suggests that pre-adaptation dye doesn't need to be the same for successful biodegradation.

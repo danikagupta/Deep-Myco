@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Ambifix Blue H3R,Polyporus pseudobetulinus,200 mg/L,3 plugs (6 mm diameter),shaking (120 rpm),25°C,8 days,unknown,98%,mycelium,observed good decolorization
+Ambifix Yellow H3R,Polyporus pseudobetulinus,200 mg/L,3 plugs (6 mm diameter),shaking (120 rpm),25°C,10 days,unknown,24%,mycelium,very slowly processed
+Ambifix Red HE3B,Polyporus pseudobetulinus,200 mg/L,3 plugs (6 mm diameter),shaking (120 rpm),25°C,18 days,unknown,50%,mycelium,slow processing
+Malachite Green,Polyporus pseudobetulinus,100 mg/L,5 U/ml,unknown,unknown,24 h,5.0,80%,mycelium,good ability in decolorization
+Ambifix Blue H3R,Polyporus pseudobetulinus,100 mg/L,5 U/ml,unknown,unknown,15 min,5.0,65%,mycelium,good ability in decolorization

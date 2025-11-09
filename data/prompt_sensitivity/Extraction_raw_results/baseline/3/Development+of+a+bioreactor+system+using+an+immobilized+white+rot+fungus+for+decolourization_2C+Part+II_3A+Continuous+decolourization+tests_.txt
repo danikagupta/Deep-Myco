@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Poly R-478,P. chrysosporium,not specified,10% (v/v) inoculum,orbital agitation,38°C,4 days,4.5,62%,mycelium,Immobilization carried out in serum bottles with aeration
+Poly S-119,P. chrysosporium,not specified,10% (v/v) inoculum,orbital agitation,38°C,4 days,4.5,60%,mycelium,Immobilization carried out in serum bottles with aeration
+not specified,P. chrysosporium,not specified,not specified,"RBC reactor, 4 rpm",38°C,36 days,not specified,55%,mycelium,Decolorization medium without addition of both thiamine and nitrogen used
+not specified,P. chrysosporium,not specified,not specified,"RBC reactor, 4 rpm",38°C,17 days,not specified,54%,mycelium,Reverse feed established after 17 days
+not specified,P. chrysosporium,not specified,not specified,"RBC reactor, 4 rpm",38°C,36 days,not specified,not specified,mycelium,"Phenols reduced by 63%, COD reduced by 48%"

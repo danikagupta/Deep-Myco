@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+S m-g,Phanerochaete chrysosporium,50 mg/L,not specified,shaking (150 rpm),30 °C,28 days,4.5,75% at day 7,not specified,used PAM as pre-growth medium
+S m-g,Phanerochaete chrysosporium,50 mg/L,not specified,shaking (150 rpm),30 °C,28 days,4.5,83% at day 14,not specified,used PAM as pre-growth medium
+S p-g,Phanerochaete chrysosporium,50 mg/L,not specified,shaking (150 rpm),30 °C,28 days,4.5,89%,not specified,in comparison to S m-g in PAM
+C m-s,Phanerochaete chrysosporium,50 mg/L,not specified,shaking (150 rpm),30 °C,28 days,4.5,88%,not specified,in comparison to S m-g in PAM
+C m-g,Phanerochaete chrysosporium,50 mg/L,not specified,shaking (150 rpm),30 °C,28 days,4.5,88%,not specified,in comparison to S m-g in PAM
+S m-s,Phanerochaete chrysosporium,50 mg/L,not specified,shaking (150 rpm),30 °C,28 days,4.5,85%,not specified,in comparison to S m-g in PAM

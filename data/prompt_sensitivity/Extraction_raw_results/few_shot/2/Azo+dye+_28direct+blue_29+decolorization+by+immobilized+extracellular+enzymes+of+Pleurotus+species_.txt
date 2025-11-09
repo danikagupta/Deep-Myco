@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Phenol Red,Pleurotus flabellatus,300 mg/L,not specified,stagnant,25 °C,20 days,5.0,not specified,not specified,tested across different pH values
+Phenol Red,Pleurotus ostreatus,300 mg/L,not specified,stagnant,25 °C,20 days,5.0,not specified,not specified,tested across different pH values
+Phenol Red,Pleurotus citrinopileatus,300 mg/L,not specified,stagnant,25 °C,20 days,5.0,not specified,not specified,tested across different pH values
+Phenol Red,Poc 9X6 (improved dikaryon),300 mg/L,not specified,stagnant,25 °C,20 days,5.5,maximum,not specified,maximum decolorization achieved with 5 ml of 10 days old culture
+Phenol Red,Pfo 6X9 (improved dikaryon),300 mg/L,not specified,stagnant,25 °C,20 days,5.5,not specified,not specified,tested with different surfactants
+Phenol Red,Poc 9X6 (improved dikaryon),300 mg/L,not specified,stagnant,25 °C,20 days,6.0,not specified,not specified,tested with different surfactants

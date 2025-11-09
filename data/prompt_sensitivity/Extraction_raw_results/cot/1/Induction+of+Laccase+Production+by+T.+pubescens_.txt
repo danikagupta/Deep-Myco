@@ -1,0 +1,18 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Ethanol,Agaricus blazei U2-1,1.0 mM,not specified,not specified,not specified,21 days,not specified,8.0 U/mL,mycelium,Control: 7.6 U/mL
+Ethanol,Agaricus blazei U2-2,1.0 mM,not specified,not specified,not specified,21 days,not specified,10.5 U/mL,mycelium,Control: 4.8 U/mL
+Ethanol,Agaricus blazei U2-3,0.5 mM,not specified,not specified,not specified,21 days,not specified,11.3 U/mL,mycelium,Control: 10.3 U/mL
+Ethanol,Agaricus blazei U2-4,1.0 mM,not specified,not specified,not specified,21 days,not specified,28.0 U/mL,mycelium,Control: 25.4 U/mL
+Guaiacol,Agaricus blazei U2-1,1.0 mM,not specified,not specified,not specified,21 days,not specified,9.0 U/mL,mycelium,Control: 7.6 U/mL
+Guaiacol,Agaricus blazei U2-2,0.5 mM,not specified,not specified,not specified,21 days,not specified,7.2 U/mL,mycelium,Control: 4.8 U/mL
+Guaiacol,Agaricus blazei U2-3,0.5 mM,not specified,not specified,not specified,21 days,not specified,7.2 U/mL,mycelium,Control: 10.3 U/mL
+Guaiacol,Agaricus blazei U2-4,1.0 mM,not specified,not specified,not specified,21 days,not specified,27.2 U/mL,mycelium,Control: 25.4 U/mL
+Vanillin,Agaricus blazei U2-1,1.0 mM,not specified,not specified,not specified,21 days,not specified,6.6 U/mL,mycelium,Control: 7.6 U/mL
+Vanillin,Agaricus blazei U2-2,1.0 mM,not specified,not specified,not specified,21 days,not specified,6.7 U/mL,mycelium,Control: 4.8 U/mL
+Vanillin,Agaricus blazei U2-3,0.5 mM,not specified,not specified,not specified,21 days,not specified,15.0 U/mL,mycelium,Control: 10.3 U/mL
+Vanillin,Agaricus blazei U2-4,0.5 mM,not specified,not specified,not specified,21 days,not specified,27.4 U/mL,mycelium,Control: 25.4 U/mL
+Pyrogallol,Agaricus blazei U2-1,1.0 mM,not specified,not specified,not specified,21 days,not specified,6.2 U/mL,mycelium,Control: 7.6 U/mL
+Pyrogallol,Agaricus blazei U2-2,1.0 mM,not specified,not specified,not specified,21 days,not specified,6.3 U/mL,mycelium,Control: 4.8 U/mL
+Pyrogallol,Agaricus blazei U2-3,1.0 mM,not specified,not specified,not specified,21 days,not specified,9.7 U/mL,mycelium,Control: 10.3 U/mL
+Pyrogallol,Agaricus blazei U2-4,1.0 mM,not specified,not specified,not specified,21 days,not specified,27.4 U/mL,mycelium,Control: 25.4 U/mL
+Xylidine,Agaricus blazei U2-4,0.5 mM,not specified,not specified,not specified,21 days,not specified,27.0 U/mL,mycelium,Control: 25.4 U/mL

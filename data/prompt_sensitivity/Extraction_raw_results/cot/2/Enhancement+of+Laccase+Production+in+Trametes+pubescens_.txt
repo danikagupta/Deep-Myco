@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+not specified,Trametes hirsuta,not specified,20 g/L wheat bran + 10 g/L peptone,shaking,25 °C,20 days,5.8,not specified,mycelium,Maximum laccase production of 7614 U/L observed.
+not specified,Trametes hirsuta,1 mM copper sulfate,20 g/L wheat bran + 10 g/L peptone,shaking,25 °C,20 days,5.8,not specified,mycelium,Laccase production of 17390 U/L.
+not specified,Trametes hirsuta,"1 mM 2,5 xylidine",20 g/L wheat bran + 10 g/L peptone,shaking,25 °C,20 days,5.8,not specified,mycelium,Laccase production achieved 23543 U/L.
+not specified,Trametes hirsuta,not specified,not specified,not specified,not specified,not specified,not specified,not specified,mycelium,Maximum laccase production reached 25889 U/L using Plakett-Burmann design.
+not specified,Trametes hirsuta,not specified,not specified,not specified,not specified,not specified,not specified,not specified,mycelium,Various lignocellulosic materials tested; maximum activity with wheat bran.
+not specified,Trametes hirsuta,10 g/L,20 g/L,not specified,not specified,not specified,not specified,not specified,mycelium,Peptone as nitrogen source produced 17390 U/L of laccase.

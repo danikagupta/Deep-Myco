@@ -1,0 +1,11 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Reactive Blue 21,Pleurotus eryngii,50 mg/l,N/A,shaking,30°C,10 days,N/A,98.4%,N/A,N/A
+Reactive Blue 21,Pleurotus eryngii (immobilized on sugar cane waste),50 mg/l,N/A,150 rpm,30°C,"4, 6, 8, 24, 48, 72, 96 hours",N/A,83.5%,mycelium,Decolorization efficiency increased over incubation period.
+Reactive Blue 21,Pleurotus eryngii (free),50 mg/l,N/A,N/A,N/A,N/A,N/A,50.8%,N/A,N/A
+Reactive Yellow 160,Pleurotus eryngii,50 mg/l,N/A,N/A,N/A,N/A,N/A,96.8%,N/A,Decolorization was tested on liquid medium.
+Reactive Orange 122,Pleurotus eryngii,50 mg/l,N/A,N/A,N/A,N/A,N/A,97.1%,N/A,Decolorization was tested on liquid medium.
+Direct Congo Red,Pleurotus eryngii,50 mg/l,N/A,N/A,N/A,N/A,N/A,97.8%,N/A,Decolorization was tested on liquid medium.
+Direct Yellow 5G,Pleurotus eryngii,50 mg/l,N/A,N/A,N/A,N/A,N/A,76%,N/A,Decolorization was tested on liquid medium.
+Acid Methyl Orange,Pleurotus eryngii,50 mg/l,N/A,N/A,N/A,N/A,N/A,61.1%,N/A,Decolorization was tested on liquid medium.
+Acid Eriochrome Black T,Pleurotus eryngii,50 mg/l,N/A,N/A,N/A,N/A,N/A,96.9%,N/A,Decolorization was tested on liquid medium.
+Textile effluent,Pleurotus eryngii (immobilized on sugar cane waste),N/A,N/A,N/A,N/A,N/A,10,about 96%,mycelium,Reduction of BOD and COD was 85% to 90%.

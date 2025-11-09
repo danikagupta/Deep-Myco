@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Malachite Green,Phanerochaete chrysosporium,64 μM,not specified,static,28 °C,not specified,5.6,0%,mycelium,unable to grow at this concentration
+Malachite Green,Phanerochaete chrysosporium,32 μM,not specified,static,28 °C,84 h,5.6,not specified,mycelium,growth delayed by 24 h compared to control
+Malachite Green,Fomes sclerodermeus,32 μM,not specified,static,28 °C,not specified,5.6,not specified,not specified,unaffected growth at this concentration
+Malachite Green,Fomes sclerodermeus,128 μM,not specified,static,28 °C,9 days,5.6,not specified,not specified,grew half the plate
+Malachite Green,Fomes sclerodermeus,32 μM,not specified,static,30 °C,not specified,3.5,not specified,not specified,demonstrated ability to decolorize and detoxify MG
+Malachite Green,Fomes sclerodermeus,32 μM,not specified,static,30 °C,not specified,3.5,>95%,not specified,incubated for detoxification
+Malachite Green,Coriolus versicolor,16 μM,not specified,static,not specified,7 days,not specified,not specified,not specified,showed delayed growth in presence of MG
+Decolorized Malachite Green,Phanerochaete chrysosporium,40 μM,not specified,not specified,not specified,not specified,not specified,not specified,not specified,non-toxic to tested fungi

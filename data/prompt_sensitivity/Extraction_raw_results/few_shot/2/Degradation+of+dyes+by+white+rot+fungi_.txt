@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Methyl Orange,KV10,1 mg/ml,not specified,not specified,28 °C,96 h,5.4,76%,mycelium,highest decolorization rate among tested fungi
+Methyl Orange,KV12,1 mg/ml,not specified,not specified,28 °C,96 h,5.4,79%,mycelium,highest decolorization rate among tested fungi
+Rhodamine B,KV10,1 mg/ml,not specified,not specified,28 °C,96 h,5.4,60%,mycelium,lower decolorization efficiency than Methyl Orange
+Rhodamine B,KV12,1 mg/ml,not specified,not specified,28 °C,96 h,5.4,greater than 60%,mycelium,lower decolorization efficiency than Methyl Orange

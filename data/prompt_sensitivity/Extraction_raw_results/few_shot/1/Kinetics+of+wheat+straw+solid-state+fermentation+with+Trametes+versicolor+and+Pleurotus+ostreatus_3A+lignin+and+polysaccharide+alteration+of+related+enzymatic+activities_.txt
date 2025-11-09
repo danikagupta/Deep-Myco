@@ -1,0 +1,11 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Congo red,Aspergillus niger,0.01%,not specified,stationary,25°C,10 days,not specified,74.07%,not specified,used in liquid medium
+Crystal violet,Aspergillus niger,0.01%,not specified,stationary,25°C,10 days,not specified,33.82%,not specified,used in liquid medium
+Methylene blue,Aspergillus niger,0.01%,not specified,stationary,25°C,10 days,not specified,22.44%,not specified,used in liquid medium
+Congo red,Fusarium oxysporum,0.01%,not specified,stationary,25°C,10 days,not specified,78.9%,not specified,used in liquid medium
+Crystal violet,Trichoderma lignorum,0.01%,not specified,stationary,25°C,10 days,not specified,92.7%,not specified,used in liquid medium
+Methylene blue,Trichoderma lignorum,0.01%,not specified,stationary,25°C,10 days,not specified,48.3%,not specified,used in liquid medium
+Congo red,Trichoderma lignorum,0.01%,not specified,stationary,25°C,10 days,not specified,35.25%,not specified,used in liquid medium
+Congo red,Aspergillus niger,0.01%,not specified,shaking,25°C,10 days,not specified,91.4%,not specified,highest percentage decolorization under shaking
+Crystal violet,Trichoderma lignorum,0.01%,not specified,shaking,25°C,10 days,not specified,96.6%,not specified,highest percentage decolorization under shaking
+Methylene blue,Trichoderma lignorum,0.01%,not specified,shaking,25°C,10 days,not specified,85.2%,not specified,highest percentage decolorization under shaking

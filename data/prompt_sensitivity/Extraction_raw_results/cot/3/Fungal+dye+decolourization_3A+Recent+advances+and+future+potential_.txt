@@ -1,0 +1,4 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+malachite green,Pseudopestalotiopsis theae,100 ppm,0.5 g,shaking,25 °C,14 days,not specified,89.22%,mycelium,
+malachite green,Trichoderma asperellum,100 ppm,0.5 g,shaking,25 °C,14 days,not specified,76.19%,mycelium,
+malachite green,Astrocystis bambusae,100 ppm,0.5 g,shaking,25 °C,14 days,not specified,67.69%,mycelium,

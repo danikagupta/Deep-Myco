@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Cadmium,Trametes pubescens,10 mg/L,not specified,not specified,not specified,not specified,not specified,53.13%,mycelium,maximum removal rate of Cd from aqueous solution
+Cadmium,Trametes pubescens,100 mg/L,not specified,shaking (130 rpm),28 °C,7 days,not specified,6.565 mg/g,mycelium,highest Cd adsorption in this experiment
+Cadmium,Trametes pubescens,10 mg/L,not specified,not specified,not specified,15 days,not specified,"53.54% reduced in roots, 86.38% reduced in shoots",not specified,Cd accumulation in roots and shoots of rice plants was significantly reduced
+Cadmium,Trametes pubescens,10 mg/L,not specified,not specified,26 °C,15 days,not specified,not specified,not specified,Rice seedlings showed healthier growth under fungal colonization

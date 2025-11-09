@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Methyl Orange,Phanerochaete chrysosporium,100 mg/L,not specified,static,28 °C,72 h,5.5,85%,fungal pellets,figures showed additional enzymatic activity results.
+Reactive Blue 19,Trametes versicolor,not specified,not specified,shaking (120 rpm),30 °C,48 h,7,90%,mycelium,tested across multiple pH values.
+Reactive Blue 19,Trametes versicolor,not specified,not specified,shaking (120 rpm),25 °C,48 h,4,70%,mycelium,tested across multiple pH values.
+Dye X,Fungus A,50 mg/L,10 g/L,stirring,37 °C,24 h,6,75%,whole fungi,none

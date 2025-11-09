@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Acid Blue 62,Pleurotus ostreatus,0.10 g/l,N/A,shaking,28°C,7 days,5,"54% (in absence of nutrients), 66% (in presence of nutrients)",whole fungi,Conducted in liquid cultures.
+Acid Red 266,Pleurotus ostreatus,0.10 g/l,N/A,shaking,28°C,7 days,5,60% (in presence of nutrients),whole fungi,Conducted in liquid cultures.
+Direct Blue 71,Phanerochaete chrysosporium,0.10 g/l,N/A,shaking,28°C,1 day,9,"46% (after 1 day), 87% (after 7 days)",whole fungi,Effective particularly in the presence of nutrients.
+Reactive Blue 222,P. ostreatus,1.25 g/l,N/A,shaking,28°C,Not specified,10,Not effective,whole fungi,Loss of vitality during treatment due to high salt concentration.
+Remazol Brilliant Blue R,P. ostreatus laccase,Variable,N/A,batch mode,Not specified,1 week (15 cycles),4.5,Up to 80% decrease of absorbance at 637 nm,N/A,Conducted in a fluidized bed reactor.
+Various,"Mucorales fungi (Cunninghamella elegans, Rhizomucor pusillus, Rhizopus stolonifer)",Varied,3 g,shaking,30°C,2 - 24 hours,5 - 10,Up to 94% for Acid and Direct wastewater models,fungal mass,Significant toxicity reduction observed post-biosorption.

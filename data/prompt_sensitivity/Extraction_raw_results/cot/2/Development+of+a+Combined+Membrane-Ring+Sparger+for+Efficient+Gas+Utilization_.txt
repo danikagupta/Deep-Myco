@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Phenol,Trametes versicolor,20% v/v,not specified,not specified,not specified,12h,not specified,0.125 g/g biomass/day,whole fungi,complete removal in flask culture
+p-cresol,Trametes versicolor,20% v/v,not specified,not specified,not specified,12h,not specified,0.075 g/g biomass/day,whole fungi,complete removal in flask culture
+m-cresol,Trametes versicolor,20% v/v,not specified,not specified,not specified,12h,not specified,0.077 g/g biomass/day,whole fungi,complete removal in flask culture
+o-cresol,Trametes versicolor,20% v/v,not specified,not specified,not specified,12h,not specified,0.231 g/g biomass/day,whole fungi,complete removal in flask culture
+Phenol,Trametes pubescens,2% v/v,not specified,not specified,not specified,not specified,not specified,not specified,whole fungi,"highest removal rate recorded in ALR, daily addition"
+p-cresol,Trametes pubescens,2% v/v,not specified,not specified,not specified,not specified,not specified,not specified,whole fungi,"highest removal rate recorded in ALR, daily addition"
+m-cresol,Trametes pubescens,2% v/v,not specified,not specified,not specified,not specified,not specified,not specified,whole fungi,"highest removal rate recorded in ALR, daily addition"
+o-cresol,Trametes pubescens,2% v/v,not specified,not specified,not specified,not specified,not specified,not specified,whole fungi,"highest removal rate recorded in ALR, daily addition"

@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Reactive blue,Polyporus rubidus,1000 mg/l,1 g,shaking,28 + 2 °C,5 days,5.5,"63% color remaining on day 1, 46% on day 3, 39% on day 5",mycelium,"Full decolorization was not achieved, conditions studied varied."
+Reactive orange,Polyporus rubidus,1000 mg/l,1 g,shaking,28 + 2 °C,5 days,5.5,40% color remaining,mycelium,Significant decrease in color noted at lower concentrations.
+Ramazol black,Polyporus rubidus,1000 mg/l,1 g,shaking,28 + 2 °C,5 days,5.5,26% color remaining,mycelium,Complete decolorization observed at 100 mg/l concentration after 3 days.
+Congo red,Polyporus rubidus,1000 mg/l,1 g,shaking,28 + 2 °C,5 days,5.5,Not specified,mycelium,Complete decolorization achieved at lower concentrations.
+Reactive blue,laccase enzyme from Polyporus rubidus,100 mg/l,"Not applicable, enzyme used",n/a,28 + 2 °C,5 days,5.5,90% decolorization achieved,Not applicable,Comparison with mycelium showed laccase to be significantly more efficient.
+Reactive orange,laccase enzyme from Polyporus rubidus,100 mg/l,"Not applicable, enzyme used",n/a,28 + 2 °C,5 days,5.5,92% decolorization achieved,Not applicable,Effective at high efficiency relative to mycelial treatment.
+Ramazol black,laccase enzyme from Polyporus rubidus,100 mg/l,"Not applicable, enzyme used",n/a,28 + 2 °C,5 days,5.5,100% decolorization achieved,Not applicable,Rapid decolorization comparing with earlier mentioned studies.
+Congo red,laccase enzyme from Polyporus rubidus,100 mg/l,"Not applicable, enzyme used",n/a,28 + 2 °C,5 days,5.5,Complete decolorization achieved,Not applicable,Achieved quickly due to enzyme efficiency.
+effluent sample,laccase enzyme from Polyporus rubidus,varied,"Not applicable, enzyme used",n/a,28 + 2 °C,8 days,4-7,100% decolorization in some samples within 4 days,Not applicable,"Effectiveness varied by effluent type, comparison with mycelial results shown."

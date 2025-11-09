@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Phenol,Trametes versicolor,Not specified,Not specified,Static,Not specified,12 hours,Not specified,Complete removal,Whole fungi,Initial concentration was 20% v/v.
+p-cresol,Trametes versicolor,Not specified,Not specified,Static,Not specified,12 hours,Not specified,Complete removal,Whole fungi,Initial concentration was 20% v/v.
+m-cresol,Trametes versicolor,Not specified,Not specified,Static,Not specified,12 hours,Not specified,Complete removal,Whole fungi,Initial concentration was 20% v/v.
+o-cresol,Trametes versicolor,Not specified,Not specified,Static,Not specified,12 hours,Not specified,Complete removal,Whole fungi,Initial concentration was 20% v/v.
+Phenol,Trametes pubescens,3.45 mM,Not specified,Airlift Loop Reactor,Not specified,8 days,Not specified,Complete removal,Whole fungi,"Sequential additions of effluent (2%, 3.5%, 5% v/v) removed all target monomers before the next addition."
+p-cresol,Trametes pubescens,1.04 mM,Not specified,Airlift Loop Reactor,Not specified,8 days,Not specified,Complete removal,Whole fungi,"Sequential additions of effluent (2%, 3.5%, 5% v/v) removed all target monomers before the next addition."
+m-cresol,Trametes pubescens,1.08 mM,Not specified,Airlift Loop Reactor,Not specified,8 days,Not specified,Complete removal,Whole fungi,"Sequential additions of effluent (2%, 3.5%, 5% v/v) removed all target monomers before the next addition."
+o-cresol,Trametes pubescens,3.21 mM,Not specified,Airlift Loop Reactor,Not specified,8 days,Not specified,Complete removal,Whole fungi,"Sequential additions of effluent (2%, 3.5%, 5% v/v) removed all target monomers before the next addition."

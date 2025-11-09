@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+unknown,Phanerochaete chrysosporium,unknown,unknown,batch,optimum,20 hours,5.0,85%,mycelium,The pigment reduction occurs optimally at low pH.
+molasses pigment,Coriolus versicolor,12.5%,unknown,batch fermentation,30°C,10 days,unknown,53%,mycelium,High levels of laccase production were observed.
+synthetic melanoidins,Phanerochaete chrysosporium,unknown,unknown,unknown,unknown,24 hours,unknown,40-50%,whole fungi,The culture filtrate was used for enzyme source.
+unknown,Lentinula edodes,unknown,unknown,unknown,unknown,unknown,unknown,80%,unknown,Produced significant lignin peroxidase activity.
+distillery stillage,Aspergillus niger,unknown,unknown,continuous fermentation,40°C,10 days,unknown,70%,mycelium,Higher efficiency observed at this temperature.
+molasses,Candida utilis,unknown,unknown,batch,constant 30°C,48 hours,5.5,90%,mycelium,High protein biomass recovery.

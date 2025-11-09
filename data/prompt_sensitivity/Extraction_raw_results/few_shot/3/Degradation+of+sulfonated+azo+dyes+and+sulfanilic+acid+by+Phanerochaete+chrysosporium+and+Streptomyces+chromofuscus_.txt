@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+4-(4'-sulfophenylazo)-phenol,Phanerochaete chrysosporium,not specified,not specified,shaking,not specified,not specified,not specified,not specified,not specified,"oxidized by peroxidases (HRP, MnP, Lip)"
+2-(4'-sulfophenylazo)-phenol,Phanerochaete chrysosporium,not specified,not specified,shaking,not specified,not specified,not specified,not specified,not specified,poor substrates for peroxidases
+Methyl Orange,not specified,100 mg/L,not specified,static,28 °C,72 h,5.5,85%,fungal pellets,enzymatic activity results in figures
+Reactive Blue 19,Trametes versicolor,not specified,not specified,shaking (120 rpm),30 °C,48 h,7,90%,mycelium,highest decolorization efficiency
+Orange I,not specified,200 pM,not specified,shaking,25 °C,10 min,7,complete loss of color,not specified,produced sulfanilic acid
+Crocein Orange G,not specified,60 pM,not specified,shaking,not specified,6 min,7,more than 90%,not specified,first-order kinetics
+4-hydroxyazobenzene,not specified,not specified,not specified,not specified,not specified,not specified,not specified,not specified,not specified,analyzed for products identification
+various azo dyes,not specified,various concentrations,not specified,not specified,not specified,not specified,not specified,quantitated,not specified,included various substitutions

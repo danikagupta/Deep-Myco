@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Congo Red,Trichoderma virens (fresh biomass),50 mg L−1,not specified,shaking (150 rpm),28 °C,8 days,6,93%,mycelium,constant increase from 82.4% to 93% over time
+Congo Red,Trichoderma viride (fresh biomass),50 mg L−1,not specified,shaking (150 rpm),28 °C,8 days,6,93%,mycelium,no significant differences with dead biomass (95%) after 24 h
+Congo Red,Trichoderma virens (dead biomass),50 mg L−1,not specified,shaking (150 rpm),28 °C,8 days,6,94%,mycelium,no significant differences with fresh biomass (93%) after 24 h
+Congo Red,Trichoderma viride (dead biomass),50 mg L−1,not specified,shaking (150 rpm),28 °C,8 days,6,95%,mycelium,better than fresh biomass (93%) after 24 h
+Malachite Green,Trichoderma virens (fresh biomass),50 mg L−1,not specified,shaking (150 rpm),28 °C,8 days,6,95%,mycelium,higher than other fungal species
+Malachite Green,Trichoderma viride (fresh biomass),50 mg L−1,not specified,shaking (150 rpm),28 °C,8 days,6,75%,mycelium,lower than T. virens (95%)
+Malachite Green,Trichoderma virens (dead biomass),50 mg L−1,not specified,shaking (150 rpm),28 °C,8 days,6,87%,mycelium,higher than dead biomass of T. viride (82%)
+Malachite Green,Trichoderma viride (dead biomass),50 mg L−1,not specified,shaking (150 rpm),28 °C,8 days,6,82%,mycelium,lower than dead biomass T. virens (87%)

@@ -1,0 +1,11 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+N/A,KONA001,N/A,N/A,N/A,N/A,N/A,N/A,N/A,mycelium,"DNA yield: 152.8±2.62 ηg/µl, A260/A280 Ratio: 1.92±0.02"
+N/A,AGUM004,N/A,N/A,N/A,N/A,N/A,N/A,N/A,mycelium,"DNA yield: 238.1±1.64 ηg/µl, A260/A280 Ratio: 2.07±0.04"
+N/A,AGUM007,N/A,N/A,N/A,N/A,N/A,N/A,N/A,mycelium,"DNA yield: 128.1±1.78 ηg/µl, A260/A280 Ratio: 2±0.03"
+N/A,AGUM011,N/A,N/A,N/A,N/A,N/A,N/A,N/A,mycelium,"DNA yield: 339.7±0.91 ηg/µl, A260/A280 Ratio: 1.88±0.02"
+N/A,AGUM021,N/A,N/A,N/A,N/A,N/A,N/A,N/A,mycelium,"DNA yield: 122.3±1.87 ηg/ul, A260/A280 Ratio: 2.04±0.04"
+N/A,BANG001,N/A,N/A,N/A,N/A,N/A,N/A,N/A,mycelium,"DNA yield: 165.3±1.07 ηg/µl, A260/A280 Ratio: 2±0.02"
+N/A,TAMI004,N/A,N/A,N/A,N/A,N/A,N/A,N/A,mycelium,"DNA yield: 99.8±0.3 ηg/µl, A260/A280 Ratio: 2.02±0.03"
+N/A,MTCC138,N/A,N/A,N/A,N/A,N/A,N/A,N/A,whole fungi,"DNA yield: 66.9±1.29 ηg/µl, A260/A280 Ratio: 1.93±0.02"
+N/A,MTCC1039,N/A,N/A,N/A,N/A,N/A,N/A,N/A,whole fungi,"DNA yield: 87.5±1.22 ηg/µl, A260/A280 Ratio: 2.04±0.06"
+N/A,MTCC149,N/A,N/A,N/A,N/A,N/A,N/A,N/A,whole fungi,"DNA yield: 110.7±1.52 ηg/µl, A260/A280 Ratio: 2.09±0.07"

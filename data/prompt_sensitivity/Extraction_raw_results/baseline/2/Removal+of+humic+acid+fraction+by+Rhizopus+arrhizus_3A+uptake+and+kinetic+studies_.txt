@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+lignin,Bjerkandera adusta R59,0.2%,10^5 cfu/ml,agar medium,26ºC,18 days,6.54 to 5.05,100%,mycelium,Decolorization observed after 5 days
+humic acids,Bjerkandera adusta R59,0.03%,10^5 cfu/ml,agar medium,26ºC,18 days,6.54 to 5.05,100%,mycelium,Decolorization observed after 3 days
+lignin,Bjerkandera adusta R59,0.2%,10^5 cfu/ml,liquid culture,26ºC,60 days,6.54 to 5.07,50%,mycelium,"Slow decolorization, final effect slightly yellowish"
+humic acids from brown coal,Bjerkandera adusta R59,0.01%,10^5 cfu/ml,liquid culture,26ºC,60 days,6.54 to 5.07,74%,mycelium,Decolorization began on 7th day
+humic acids from lessive soil,Bjerkandera adusta R59,0.01%,10^5 cfu/ml,liquid culture,26ºC,60 days,6.54 to 5.07,90.5%,mycelium,Decolorization began on 7th day
+humic acids from chernozem,Bjerkandera adusta R59,0.01%,10^5 cfu/ml,liquid culture,26ºC,30 days,6.54 to 5.44,100%,mycelium,Total decolorization observed on 7th day

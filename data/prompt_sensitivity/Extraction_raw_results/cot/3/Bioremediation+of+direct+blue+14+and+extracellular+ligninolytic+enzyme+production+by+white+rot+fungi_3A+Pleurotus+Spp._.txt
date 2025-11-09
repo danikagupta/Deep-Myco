@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Methyl orange,P. citrinopileatus,300 mg/L,1 mm,not specified,25 °C,20 days,not specified,96.98%,mycelium,not specified
+Congo red,P. flabellatus,300 mg/L,1 mm,not specified,25 °C,25 days,not specified,97.42%,mycelium,not specified
+Methyl red,P. flabellatus,300 mg/L,1 mm,not specified,25 °C,25 days,not specified,90.67%,mycelium,not specified
+Acid black,P. flabellatus,300 mg/L,1 mm,not specified,25 °C,25 days,not specified,84.52%,mycelium,not specified
+Phenol red,P. citrinopileatus,300 mg/L,1 mm,not specified,25 °C,25 days,not specified,93.33%,mycelium,not specified

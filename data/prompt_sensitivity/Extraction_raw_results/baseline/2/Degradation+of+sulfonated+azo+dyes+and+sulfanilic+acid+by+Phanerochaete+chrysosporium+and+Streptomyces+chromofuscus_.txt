@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+4-(4'-sulfopheny1azo)-phenol,Phanerochaete chrysosporium,50 µM,not specified,shaking,25 °C,1 hour,4.5,not specified,not specified,HRP was the most active among peroxidases.
+2-(4'-sulfopheny1azo)-phenol,not specified,50 µM,not specified,shaking,25 °C,1 hour,4.5,not specified,not specified,All peroxidases examined found these dyes poor substrates.
+Orange I,not specified,200 µM,not specified,shaking,25 °C,10 min,not specified,93%,not specified,Produced sulfanilic acid as reduction product.
+Mordant Orange I,not specified,200 µM,not specified,shaking,25 °C,10 min,not specified,not specified,not specified,Azo dye reduction by FeO was examined.
+Crocein Orange G,not specified,200 µM,not specified,shaking,not specified,10 min,not specified,not specified,not specified,Dye was subjected to various initial concentrations.
+4-hydroxyazobenzene,not specified,200 µM,not specified,not specified,not specified,not specified,not specified,not specified,not specified,Products were analyzed by HPLC and GC-MS.
+Allura Red,not specified,200 µM,not specified,shaking,25 °C,1 hour,3.5,93%,not specified,Used for studying non-enzymatic reduction.
+Sunset Yellow FCF,not specified,200 µM,not specified,shaking,25 °C,1 hour,3.5,58%,not specified,Studied alongside Allura Red.

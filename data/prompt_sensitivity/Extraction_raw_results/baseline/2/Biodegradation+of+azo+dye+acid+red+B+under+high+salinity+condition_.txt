@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Congo Red,Pha. chrysosporium,100 mg/L,,,,,,,whole fungi,
+Reactive Orange 16,Irpex lacteus,,,,,,,up to 80%,whole fungi,
+Congo Red,Ganoderma lucidum,600 mg/L,,,,48 h,,,whole fungi,
+Blue 21,Fusarium oxysporum,,,,,,,,whole fungi,
+Amaranth,Bjerkandera adusta,,,,,,,,whole fungi,
+"Azo, anthraquinone, and triphenylmethane dyes",Armillaria spp.,,,,,,,,whole fungi,
+Congo Red,Aspergillus niger,200 mg/L,,,,6 days,,,whole fungi,
+Direct Blue-1,Aspergillus terreus,,,,,,,,whole fungi,
+Methylene Blue,Fusarium equiseti,,,,,,,,whole fungi,

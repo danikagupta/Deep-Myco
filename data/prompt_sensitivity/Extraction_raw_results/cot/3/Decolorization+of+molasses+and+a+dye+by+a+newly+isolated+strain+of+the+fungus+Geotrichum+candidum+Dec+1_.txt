@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+kraft pulp bleaching effluent,Geotrichum candidum Dec 1,30 g/L,not specified,shaking,30 °C,7 days,5.0,78%,mycelium,Reduction of AOX 43%; average molecular weight decreased from 5600 to <3000.
+kraft pulp bleaching effluent,Geotrichum candidum Dec 1,20 g/L,not specified,shaking,30 °C,6 days,5.0,78%,mycelium,N/A
+kraft pulp bleaching effluent,Geotrichum candidum Dec 1,5 g/L,not specified,shaking,30 °C,3 days,5.0,47%,mycelium,Decreased to 0% after 4 days.
+kraft pulp bleaching effluent,Geotrichum candidum Dec 1,5 g/L,not specified,shaking,30 °C,not specified,3.2,10%,mycelium,N/A
+kraft pulp bleaching effluent,Geotrichum candidum Dec 1,30 g/L,not specified,shaking,30 °C,7 days,4.5,not specified,mycelium,Absorbance at 465 nm was 0.494.
+kraft pulp bleaching effluent,Geotrichum candidum Dec 1,30 g/L,not specified,shaking,30 °C,7 days,3.2,not specified,mycelium,Absorbance at 465 nm was 0.474.

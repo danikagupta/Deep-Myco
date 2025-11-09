@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Reactive blue 19,Trametes versicolor,varied,/C243 U/ml,none specified,4 °C,36 h,5.0,high decolorization rate (>12 lM dye/U-h),fungal mass,n/a
+Dispersed blue 3,Trametes versicolor,varied,/C243 U/ml,none specified,4 °C,36 h,5.0,high decolorization rate,fungal mass,n/a
+Acid blue 74,Trametes versicolor,varied,/C243 U/ml,none specified,4 °C,36 h,5.0,high decolorization rate,fungal mass,n/a
+Acid red 27,Trametes versicolor,varied,/C243 U/ml,none specified,4 °C,36 h,5.0,moderate decolorization,fungal mass,n/a
+Reactive black 5,Trametes versicolor,varied,/C243 U/ml,none specified,4 °C,36 h,5.0,"permanent adsorption, likely due to laccase inactivation",fungal mass,n/a

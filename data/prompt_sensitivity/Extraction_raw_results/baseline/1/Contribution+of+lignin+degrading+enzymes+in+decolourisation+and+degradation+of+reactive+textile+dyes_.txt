@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Reactive Red HE8B,Phanerochaete chrysosporium,10 mg/L,10 mm agar plugs,static condition,27 °C,13 days,Not specified,Complete decolorization,whole fungi,Figures included for degradation analysis
+Reactive Black B,Phanerochaete chrysosporium,10 mg/L,10 mm agar plugs,static condition,27 °C,11 days,Not specified,Complete decolorization,whole fungi,Figures included for degradation analysis
+Reactive Golden Yellow HR,Phanerochaete chrysosporium,10 mg/L,10 mm agar plugs,static condition,27 °C,11 days,Not specified,Complete decolorization,whole fungi,Figures included for degradation analysis
+Reactive Violet 5R,Phanerochaete chrysosporium,10 mg/L,10 mm agar plugs,static condition,27 °C,11 days,Not specified,Complete decolorization,whole fungi,Figures included for degradation analysis
+Reactive Red HE8B,Phanerochaete chrysosporium,50 mg/L,10 mm agar plugs,static condition,27 °C,Not specified,Not specified,Not specified,whole fungi,Figures included for degradation analysis
+Reactive Black B,Phanerochaete chrysosporium,50 mg/L,10 mm agar plugs,static condition,27 °C,Not specified,Not specified,Not specified,whole fungi,Figures included for degradation analysis
+Reactive Golden Yellow HR,Phanerochaete chrysosporium,50 mg/L,10 mm agar plugs,static condition,27 °C,Not specified,Not specified,Not specified,whole fungi,Figures included for degradation analysis
+Reactive Violet 5R,Phanerochaete chrysosporium,50 mg/L,10 mm agar plugs,static condition,27 °C,Not specified,Not specified,Not specified,whole fungi,Figures included for degradation analysis
+Reactive Red HE8B,Phanerochaete chrysosporium,100 mg/L,10 mm agar plugs,static condition,27 °C,Not specified,Not specified,Not specified,whole fungi,Figures included for degradation analysis

@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+N/A,Trametes pubescens MB89,N/A,0.87 ± 0.28 g/L,shaking,28 °C,15 days,5.5,N/A,whole fungi,Higher laccase yield with glucose and a nitrogen source.
+N/A,Trametes pubescens MB89,N/A,1.27 ± 0.31 g/L,shaking,28 °C,15 days,5.0,N/A,whole fungi,Testing various carbon sources.
+N/A,Trametes pubescens MB89,N/A,0.76 ± 0.25 g/L,shaking,28 °C,14 days,5.0,N/A,whole fungi,Testing laccase synthesis in modified wine-related wastewaters.
+N/A,Trametes pubescens MB89,N/A,0.76 ± 0.25 g/L,benchtop shaker,28 °C,14 days,5.0,N/A,whole fungi,Assessment of copper concentrations added to wastewater.
+N/A,Trametes pubescens MB89,N/A,1.00 g/L,shaking,28 °C,20 days,5.0,N/A,whole fungi,Testing the effects of various inducers.
+N/A,Trametes pubescens MB89,N/A,1.00 g/L,shaking,28 °C,20 days,5.0,N/A,whole fungi,"multiple addition of 2,5-xylidine tested."

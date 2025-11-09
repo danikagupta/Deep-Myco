@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+not specified,Lentinula boryana,not specified,not specified,shaking,20 °C,30 days,not specified,70 UI.L-1,mycelium,Maximum MnP expression on 25th day in submerged fermentation.
+not specified,Lentinula edodes,not specified,not specified,shaking,25 °C,30 days,not specified,20 UI.L-1,mycelium,Maximum MnP expression on 25th day in submerged fermentation.
+not specified,Lentinula boryana,not specified,not specified,not specified,not specified,30 days,not specified,110 UI.L-1,mycelium,Maximum MnP expression occurred between 20th and 25th day in solid state fermentation.
+not specified,Lentinula edodes,not specified,not specified,not specified,not specified,30 days,not specified,110 UI.L-1,mycelium,Maximum MnP expression on 10th day in solid state fermentation.

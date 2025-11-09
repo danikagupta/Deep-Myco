@@ -1,0 +1,15 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+enrofloxacin,Trametes versicolor,50 mg L−1,6 U mL−1,shaking,45 °C,6 h,5,98%,mycelium,none
+flumequine,Trametes versicolor,50 mg L−1,6 U mL−1,shaking,45 °C,6 h,4.5,96%,mycelium,none
+enrofloxacin,Trametes versicolor,50 mg L−1,6 U mL−1,shaking,30 °C,6 h,5,not specified,mycelium,temperature effect
+enrofloxacin,Trametes versicolor,50 mg L−1,6 U mL−1,shaking,35 °C,6 h,5,not specified,mycelium,temperature effect
+enrofloxacin,Trametes versicolor,50 mg L−1,6 U mL−1,shaking,40 °C,6 h,5,not specified,mycelium,temperature effect
+enrofloxacin,Trametes versicolor,50 mg L−1,6 U mL−1,shaking,45 °C,6 h,5,not specified,mycelium,temperature effect
+enrofloxacin,Trametes versicolor,50 mg L−1,6 U mL−1,shaking,50 °C,6 h,5,not specified,mycelium,temperature effect
+enrofloxacin,Trametes versicolor,50 mg L−1,6 U mL−1,shaking,55 °C,6 h,5,not specified,mycelium,temperature effect
+flumequine,Trametes versicolor,50 mg L−1,6 U mL−1,shaking,30 °C,6 h,4.5,not specified,mycelium,temperature effect
+flumequine,Trametes versicolor,50 mg L−1,6 U mL−1,shaking,35 °C,6 h,4.5,not specified,mycelium,temperature effect
+flumequine,Trametes versicolor,50 mg L−1,6 U mL−1,shaking,40 °C,6 h,4.5,not specified,mycelium,temperature effect
+flumequine,Trametes versicolor,50 mg L−1,6 U mL−1,shaking,45 °C,6 h,4.5,not specified,mycelium,temperature effect
+flumequine,Trametes versicolor,50 mg L−1,6 U mL−1,shaking,50 °C,6 h,4.5,not specified,mycelium,temperature effect
+flumequine,Trametes versicolor,50 mg L−1,6 U mL−1,shaking,55 °C,6 h,4.5,not specified,mycelium,temperature effect

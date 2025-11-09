@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+MTBE,Phanerochaete chrysosporium,1000 ppm,360 Units/L,horizontal shaker,25°C,5 days,4.5,26%,whole fungi,Sample collected for analysis after 5 days.
+Naphthalene,Phanerochaete chrysosporium,1000 ppm,360 Units/L,horizontal shaker,25°C,5 days,4.5,26%,whole fungi,Sample collected for analysis after 5 days.
+MTBE,Phanerochaete chrysosporium,1000 ppm,720 Units/L,horizontal shaker,25°C,5 days,4.5,38%,whole fungi,Sample collected for analysis after 5 days.
+Naphthalene,Phanerochaete chrysosporium,1000 ppm,720 Units/L,horizontal shaker,25°C,5 days,4.5,25%,whole fungi,Sample collected for analysis after 5 days.
+MTBE,Phanerochaete chrysosporium,1000 ppm,1440 Units/L,horizontal shaker,25°C,5 days,4.5,37%,whole fungi,Sample collected for analysis after 5 days.
+Naphthalene,Phanerochaete chrysosporium,1000 ppm,1440 Units/L,horizontal shaker,25°C,5 days,4.5,27%,whole fungi,Sample collected for analysis after 5 days.

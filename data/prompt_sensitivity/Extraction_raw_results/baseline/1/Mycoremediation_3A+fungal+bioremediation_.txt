@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+sugar dye,Aspergillus niger,not specified,not specified,shaking,30°C,6 days,4.5,≥ 80%,whole fungi,optimized for batch culture
+vinasse dye,Coriolus versicolor,20% (v/v),not specified,not specified,not specified,12 hours,not specified,53%,whole fungi,high decolorization due to high enzyme activity
+sugarcane vinasse,Phanerochaete chrysosporium,6.25%,not specified,not specified,not specified,6 days,not specified,85%,whole fungi,effective under various conditions
+cane molasses,Fusarium,not specified,not specified,not specified,not specified,10 days,not specified,80%,whole fungi,enzymatic reaction increased over time
+sugar beet stillage,Hansenula sp.,not specified,5% (w/v),agitation at 900 rpm,30-35°C,not specified,5,70%,mycelium,high efficiency at specified conditions
+palm oil mill effluent,Candida tropicalis,not specified,not specified,not specified,not specified,20 days,3.5,95%,whole fungi,used for both decolorization and protein production
+olive mill wastewater,Lentinula edodes,not specified,not specified,not specified,not specified,24 hours,not specified,100%,whole fungi,removed toxins effectively
+distillery wastewater,Trichoderma viride,not specified,not specified,not specified,30°C,14 days,5,70%,whole fungi,improved performance with increasing enzyme concentration
+wine distillery wastewater,Aspergillus niger,not specified,not specified,not specified,35°C,3 days,5.5,90%,whole fungi,high efficiency in decolorizing wine waste

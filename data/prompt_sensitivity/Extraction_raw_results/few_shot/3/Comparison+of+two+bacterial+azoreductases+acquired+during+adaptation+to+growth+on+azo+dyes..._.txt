@@ -1,0 +1,3 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+C.I. Reactive Black 5 (RB5),Bacterial consortium (Bacillus sp. KF),not specified,not specified,not specified,55 °C,24 h,9,91.5±1.3%,not applicable,"system tolerated 3% Na2SO4, Na2CO3 or NaCl without significant decrease in color removal efficiency; COD removal 89.0±0.4%"
+not specified,Bacterial consortium (Bacillus sp. KF),not specified,not specified,not specified,not specified,varied,not specified,varied,not applicable,"studied effects of hydraulic retention time (HRT), pH, temperature, and presence of salts"

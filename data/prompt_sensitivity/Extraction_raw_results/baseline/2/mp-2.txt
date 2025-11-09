@@ -1,0 +1,13 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+malachite green,Aspergillus flavus,10 µM,unknown,static,37.5°C,6 days,7.3 ± 0.2,> 96%,whole fungi,Complete decolorization observed.
+malachite green,Aspergillus flavus,20 µM,unknown,static,37.5°C,6 days,7.3 ± 0.2,> 96%,whole fungi,Complete decolorization observed.
+malachite green,Aspergillus flavus,30 µM,unknown,static,37.5°C,6 days,7.3 ± 0.2,> 96%,whole fungi,Complete decolorization observed.
+malachite green,Aspergillus flavus,40 µM,unknown,static,37.5°C,6 days,7.3 ± 0.2,> 96%,whole fungi,Complete decolorization observed.
+malachite green,Aspergillus flavus,50 µM,unknown,static,37.5°C,6 days,7.3 ± 0.2,97.43%,whole fungi,Figures and detailed results included.
+malachite green,Alternaria solani,10 µM,unknown,static,37.5°C,6 days,7.3 ± 0.2,> 96%,whole fungi,Complete decolorization observed.
+malachite green,Alternaria solani,20 µM,unknown,static,37.5°C,6 days,7.3 ± 0.2,> 96%,whole fungi,Complete decolorization observed.
+malachite green,Alternaria solani,30 µM,unknown,static,37.5°C,6 days,7.3 ± 0.2,> 96%,whole fungi,Complete decolorization observed.
+malachite green,Alternaria solani,40 µM,unknown,static,37.5°C,6 days,7.3 ± 0.2,> 96%,whole fungi,Complete decolorization observed.
+malachite green,Alternaria solani,50 µM,unknown,static,37.5°C,6 days,7.3 ± 0.2,96.91%,whole fungi,Figures and detailed results included.
+malachite green,Aspergillus flavus,30 µM,unknown,static,37.5°C,6 days,7.3 ± 0.2,99.78%,whole fungi,Used dye as sole source of C and energy.
+malachite green,Alternaria solani,30 µM,unknown,static,37.5°C,6 days,7.3 ± 0.2,91.72%,whole fungi,Used dye as sole source of C and energy.

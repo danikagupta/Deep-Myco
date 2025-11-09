@@ -1,0 +1,11 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+malachite green,Aspergillus flavus,10 µM,not specified,static,37.5 °C,6 days,not specified,97.43%,whole fungi,
+malachite green,Aspergillus flavus,20 µM,not specified,static,37.5 °C,6 days,not specified,97.43%,whole fungi,
+malachite green,Aspergillus flavus,30 µM,not specified,static,37.5 °C,6 days,not specified,99.78%,whole fungi,
+malachite green,Aspergillus flavus,40 µM,not specified,static,37.5 °C,6 days,not specified,97.43%,whole fungi,
+malachite green,Aspergillus flavus,50 µM,not specified,static,37.5 °C,6 days,not specified,97.43%,whole fungi,
+malachite green,Alternaria solani,10 µM,not specified,static,37.5 °C,6 days,not specified,96.91%,whole fungi,
+malachite green,Alternaria solani,20 µM,not specified,static,37.5 °C,6 days,not specified,96.91%,whole fungi,
+malachite green,Alternaria solani,30 µM,not specified,static,37.5 °C,6 days,not specified,91.72%,whole fungi,
+malachite green,Alternaria solani,40 µM,not specified,static,37.5 °C,6 days,not specified,96.91%,whole fungi,
+malachite green,Alternaria solani,50 µM,not specified,static,37.5 °C,6 days,not specified,96.91%,whole fungi,

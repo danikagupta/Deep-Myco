@@ -1,0 +1,19 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Basic fuchsin,Fomitopsis feei,0.001%,not specified,shaking (150 rpm),28 °C,7 days,2.15,73.8%,not specified,"Laccase activity: 12 U/mL, Lignin peroxidase: 24 U/mL"
+Basic fuchsin,Fomitopsis feei,0.001%,not specified,shaking (150 rpm),28 °C,14 days,2.12,81.7%,not specified,"Laccase activity: 14 U/mL, Lignin peroxidase: 30 U/mL"
+Basic fuchsin,Fomitopsis feei,0.001%,not specified,shaking (150 rpm),28 °C,21 days,1.99,98.0%,not specified,"Laccase activity: 46 U/mL, Lignin peroxidase: 36 U/mL"
+Methyl violet,Fomitopsis feei,0.001%,not specified,shaking (150 rpm),28 °C,7 days,6.23,85.3%,not specified,Lignin peroxidase: 8 U/mL at 21 days
+Methyl violet,Fomitopsis feei,0.001%,not specified,shaking (150 rpm),28 °C,14 days,5.18,88.7%,not specified,No laccase activity
+Methyl violet,Fomitopsis feei,0.001%,not specified,shaking (150 rpm),28 °C,21 days,2.12,91.5%,not specified,Lignin peroxidase: 6 U/mL
+Ethyl violet,Fomitopsis feei,0.001%,not specified,shaking (150 rpm),28 °C,7 days,6.36,63.1%,not specified,Lignin peroxidase: 2 U/mL at 7 days
+Ethyl violet,Fomitopsis feei,0.001%,not specified,shaking (150 rpm),28 °C,14 days,6.19,79.8%,not specified,No laccase activity
+Ethyl violet,Fomitopsis feei,0.001%,not specified,shaking (150 rpm),28 °C,21 days,5.91,83.1%,not specified,No laccase activity
+Malachite green,Fomitopsis feei,0.001%,not specified,shaking (150 rpm),28 °C,7 days,4.54,81.8%,not specified,Lignin peroxidase: 0 U/mL
+Malachite green,Fomitopsis feei,0.001%,not specified,shaking (150 rpm),28 °C,14 days,2.18,85.1%,not specified,Lignin peroxidase: 16 U/mL
+Malachite green,Fomitopsis feei,0.001%,not specified,shaking (150 rpm),28 °C,21 days,2.04,89.6%,not specified,Lignin peroxidase: 34 U/mL
+Bromophenol blue,Fomitopsis feei,0.001%,not specified,shaking (150 rpm),28 °C,7 days,2.42,88.1%,not specified,Lignin peroxidase: 4 U/mL
+Bromophenol blue,Fomitopsis feei,0.001%,not specified,shaking (150 rpm),28 °C,14 days,2.14,92.4%,not specified,Lignin peroxidase: 14 U/mL
+Bromophenol blue,Fomitopsis feei,0.001%,not specified,shaking (150 rpm),28 °C,21 days,1.98,96.8%,not specified,Lignin peroxidase: 42 U/mL
+Methyl green,Fomitopsis feei,0.001%,not specified,shaking (150 rpm),28 °C,7 days,5.75,34.2%,not specified,"No laccase activity, no lignin peroxidase"
+Methyl green,Fomitopsis feei,0.001%,not specified,shaking (150 rpm),28 °C,14 days,2.34,65.1%,not specified,"No laccase activity, no lignin peroxidase"
+Methyl green,Fomitopsis feei,0.001%,not specified,shaking (150 rpm),28 °C,21 days,2.20,88.3%,not specified,"No laccase activity, no lignin peroxidase"

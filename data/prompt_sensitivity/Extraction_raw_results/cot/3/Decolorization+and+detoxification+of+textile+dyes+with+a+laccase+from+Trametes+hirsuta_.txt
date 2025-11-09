@@ -1,0 +1,15 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Reactive Blue 221,Trametes hirsuta,0.25 mM,1.5 g,shaking,30°C,10 h,5.0,not specified,mycelium,"Initial decolorization rates: 6.7 nmol s⁻¹ml⁻¹ (laccase), 19.4 pmol s⁻¹ml⁻¹ (T. hirsuta)"
+Reactive Black 5,Trametes hirsuta,0.25 mM,1.5 g,shaking,30°C,10 h,5.0,not specified,mycelium,"Initial decolorization rates: 1.3 nmol s⁻¹ml⁻¹ (laccase), 15.9 pmol s⁻¹ml⁻¹ (T. hirsuta)"
+Direct Blue 71,Trametes hirsuta,0.25 mM,1.5 g,shaking,30°C,10 h,5.0,not specified,mycelium,"Initial decolorization rates: 3.7 nmol s⁻¹ml⁻¹ (laccase), 16.2 pmol s⁻¹ml⁻¹ (T. hirsuta)"
+Basic Red 9 Base,Trametes hirsuta,0.25 mM,1.5 g,shaking,30°C,10 h,5.0,not specified,mycelium,"Initial decolorization rates: 3.3 nmol s⁻¹ml⁻¹ (laccase), 44.5 pmol s⁻¹ml⁻¹ (T. hirsuta)"
+Reactive Blue 19,Trametes hirsuta,0.25 mM,1.5 g,shaking,30°C,10 h,5.0,not specified,mycelium,"Initial decolorization rates: 8.8 nmol s⁻¹ml⁻¹ (laccase), 29.1 pmol s⁻¹ml⁻¹ (T. hirsuta)"
+Acid Blue 225,Trametes hirsuta,0.25 mM,1.5 g,shaking,30°C,10 h,5.0,not specified,mycelium,"Initial decolorization rates: 10.6 nmol s⁻¹ml⁻¹ (laccase), 30.9 pmol s⁻¹ml⁻¹ (T. hirsuta)"
+Acid Blue 74,Trametes hirsuta,0.25 mM,1.5 g,shaking,30°C,10 h,5.0,not specified,mycelium,"Initial decolorization rates: 9.3 nmol s⁻¹ml⁻¹ (laccase), 41.7 pmol s⁻¹ml⁻¹ (T. hirsuta)"
+Reactive Blue 221,Trametes hirsuta,not specified,not specified,not specified,not specified,not specified,not specified,4.1%,not specified,% Detoxification of textile dyes with an immobilized laccase from T. hirsuta
+Reactive Black 5,Trametes hirsuta,not specified,not specified,not specified,not specified,not specified,not specified,11.4%,not specified,% Detoxification of textile dyes with an immobilized laccase from T. hirsuta
+Direct Blue 71,Trametes hirsuta,not specified,not specified,not specified,not specified,not specified,not specified,39.0%,not specified,% Detoxification of textile dyes with an immobilized laccase from T. hirsuta
+Basic Red 9 Base,Trametes hirsuta,not specified,not specified,not specified,not specified,not specified,not specified,62.2%,not specified,% Detoxification of textile dyes with an immobilized laccase from T. hirsuta
+Reactive Blue 19,Trametes hirsuta,not specified,not specified,not specified,not specified,not specified,not specified,84.4%,not specified,% Detoxification of textile dyes with an immobilized laccase from T. hirsuta
+Acid Blue 225,Trametes hirsuta,not specified,not specified,not specified,not specified,not specified,not specified,78.0%,not specified,% Detoxification of textile dyes with an immobilized laccase from T. hirsuta
+Acid Blue 74,Trametes hirsuta,not specified,not specified,not specified,not specified,not specified,not specified,53.7%,not specified,% Detoxification of textile dyes with an immobilized laccase from T. hirsuta

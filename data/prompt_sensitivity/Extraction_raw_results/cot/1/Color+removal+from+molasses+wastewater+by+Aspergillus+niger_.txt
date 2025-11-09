@@ -1,0 +1,33 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+molasses wastewater,Citeromyces siamensis,1% glucose,not specified,shaking,30 °C,7 days,not specified,excellent,mycelium,Figure 1: color intensity measured
+molasses wastewater,Citeromyces siamensis,2% glucose,not specified,shaking,30 °C,7 days,not specified,not specified,mycelium,not specified
+molasses wastewater,Citeromyces siamensis,3% glucose,not specified,shaking,30 °C,7 days,not specified,not specified,mycelium,not specified
+molasses wastewater,Citeromyces siamensis,1% sucrose,not specified,shaking,30 °C,7 days,not specified,not specified,mycelium,not specified
+molasses wastewater,Citeromyces siamensis,2% sucrose,not specified,shaking,30 °C,7 days,not specified,not specified,mycelium,not specified
+molasses wastewater,Citeromyces siamensis,3% sucrose,not specified,shaking,30 °C,7 days,not specified,not specified,mycelium,not specified
+molasses wastewater,Citeromyces siamensis,1% lactose,not specified,shaking,30 °C,7 days,not specified,not specified,mycelium,not specified
+molasses wastewater,Citeromyces siamensis,2% lactose,not specified,shaking,30 °C,7 days,not specified,not specified,mycelium,not specified
+molasses wastewater,Citeromyces siamensis,3% lactose,not specified,shaking,30 °C,7 days,not specified,not specified,mycelium,not specified
+molasses wastewater,Issatchenkia orientalis,1% glucose,not specified,shaking,30 °C,7 days,not specified,not specified,mycelium,Figure 2: color intensity measured
+molasses wastewater,Issatchenkia orientalis,2% glucose,not specified,shaking,30 °C,7 days,not specified,not specified,mycelium,not specified
+molasses wastewater,Issatchenkia orientalis,3% glucose,not specified,shaking,30 °C,7 days,not specified,not specified,mycelium,not specified
+molasses wastewater,Issatchenkia orientalis,1% sucrose,not specified,shaking,30 °C,7 days,not specified,not specified,mycelium,not specified
+molasses wastewater,Issatchenkia orientalis,2% sucrose,not specified,shaking,30 °C,7 days,not specified,not specified,mycelium,not specified
+molasses wastewater,Issatchenkia orientalis,3% sucrose,not specified,shaking,30 °C,7 days,not specified,not specified,mycelium,not specified
+molasses wastewater,Issatchenkia orientalis,1% lactose,not specified,shaking,30 °C,7 days,not specified,not specified,mycelium,not specified
+molasses wastewater,Issatchenkia orientalis,2% lactose,not specified,shaking,30 °C,7 days,not specified,not specified,mycelium,not specified
+molasses wastewater,Issatchenkia orientalis,3% lactose,not specified,shaking,30 °C,7 days,not specified,not specified,mycelium,not specified
+molasses wastewater,Saccharomyces cerevisiae,1% glucose,not specified,shaking,30 °C,7 days,not specified,not specified,mycelium,Figure 3: color intensity measured
+molasses wastewater,Saccharomyces cerevisiae,2% glucose,not specified,shaking,30 °C,7 days,not specified,not specified,mycelium,not specified
+molasses wastewater,Saccharomyces cerevisiae,3% glucose,not specified,shaking,30 °C,7 days,not specified,not specified,mycelium,not specified
+molasses wastewater,Saccharomyces cerevisiae,1% sucrose,not specified,shaking,30 °C,7 days,not specified,not specified,mycelium,not specified
+molasses wastewater,Saccharomyces cerevisiae,2% sucrose,not specified,shaking,30 °C,7 days,not specified,not specified,mycelium,not specified
+molasses wastewater,Saccharomyces cerevisiae,3% sucrose,not specified,shaking,30 °C,7 days,not specified,not specified,mycelium,not specified
+molasses wastewater,Saccharomyces cerevisiae,1% lactose,not specified,shaking,30 °C,7 days,not specified,not specified,mycelium,not specified
+molasses wastewater,Saccharomyces cerevisiae,2% lactose,not specified,shaking,30 °C,7 days,not specified,not specified,mycelium,not specified
+molasses wastewater,Saccharomyces cerevisiae,3% lactose,not specified,shaking,30 °C,7 days,not specified,not specified,mycelium,not specified
+molasses wastewater,Citeromyces siamensis,1% peptone,not specified,shaking,30 °C,7 days,not specified,not specified,mycelium,not specified
+molasses wastewater,Citeromyces siamensis,2% peptone,not specified,shaking,30 °C,7 days,not specified,not specified,mycelium,not specified
+molasses wastewater,Citeromyces siamensis,3% peptone,not specified,shaking,30 °C,7 days,not specified,not specified,mycelium,not specified
+molasses wastewater,Citeromyces siamensis,1% urea,not specified,shaking,30 °C,7 days,not specified,not specified,mycelium,not specified
+molasses wastewater,Citeromyces siamensis,2% urea,not specified,shaking,30 °C,7 days,not specified,not specified,,

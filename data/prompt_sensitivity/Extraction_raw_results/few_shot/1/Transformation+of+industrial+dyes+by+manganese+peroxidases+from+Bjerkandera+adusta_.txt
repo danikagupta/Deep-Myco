@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+lignin,Bjerkandera sp. (B33/3),0.005 g in 100 mM NaOH,not specified,stirring (90 rpm),30 °C,2.0 h,4.0,57.5%,not specified,"controlled at pH 4.0, presence of 20 mM hydrogen peroxide added every 60 min"
+lignin,Bjerkandera sp. (B33/3),0.005 g in 100 mM NaOH,not specified,stirring (90 rpm),30 °C,2.0 h,5.3,55.7% (1st replicate),not specified,"controlled at pH 5.3, presence of 20 mM hydrogen peroxide added every 60 min"
+lignin,Bjerkandera sp. (B33/3),0.005 g in 100 mM NaOH,not specified,stirring (90 rpm),30 °C,2.0 h,5.3,61.2% (2nd replicate),not specified,"controlled at pH 5.3, presence of 20 mM hydrogen peroxide added every 60 min"
+lignin,Bjerkandera sp. (B33/3),0.005 g in 100 mM NaOH,not specified,stirring (90 rpm),30 °C,4.0 h,4.0,66.7% (1st replicate),not specified,"controlled at pH 4.0, presence of 20 mM hydrogen peroxide added every 60 min"
+lignin,Bjerkandera sp. (B33/3),0.005 g in 100 mM NaOH,not specified,stirring (90 rpm),30 °C,4.0 h,5.3,74.9% (1st replicate),not specified,"controlled at pH 5.3, presence of 20 mM hydrogen peroxide added every 60 min"
+lignin,Bjerkandera sp. (B33/3),0.005 g in 100 mM NaOH,not specified,stirring (90 rpm),30 °C,4.0 h,5.3,50.6% (2nd replicate),not specified,"controlled at pH 5.3, presence of 20 mM hydrogen peroxide added every 60 min"
+lignin,Bjerkandera sp. (B33/3),0.005 g in 100 mM NaOH,not specified,stirring (90 rpm),30 °C,4.0 h,4.0,0.0%,not specified,"controlled at pH 4.0, presence of 20 mM hydrogen peroxide added every 60 min"
+lignin,Bjerkandera sp. (B33/3),0.005 g in 100 mM NaOH,not specified,stirring (90 rpm),30 °C,4.0 h,4.0,11.8%,not specified,"controlled at pH 4.0, presence of 20 mM hydrogen peroxide added every 60 min"

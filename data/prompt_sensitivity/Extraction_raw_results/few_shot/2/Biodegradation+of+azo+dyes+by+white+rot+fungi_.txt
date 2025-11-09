@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Ponceau 2R,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static,not specified,10 days,5.0,complete,mycelium,degradation was achieved under nitrogen-limiting conditions
+Orange G,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static,not specified,7 days,5.0,complete,mycelium,degradation was achieved under nitrogen-limiting conditions
+Direct Blue 71,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static,not specified,> 21 days (incomplete),5.0,incomplete,mycelium,degradation was achieved under nitrogen-limiting conditions
+Biebrich Scarlet,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static,not specified,12 days,5.0,complete,mycelium,degradation was significant under nitrogen-limiting conditions
+Ponceau 2R,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static,not specified,not specified,not specified,degradation observable,mycelium,observed under carbon-limiting conditions
+Orange G,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static,not specified,not specified,not specified,degradation observable,mycelium,observed under carbon-limiting conditions
+Direct Blue 71,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static,not specified,12 days,not specified,degradation observable,mycelium,observed under carbon-limiting conditions
+Biebrich Scarlet,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static,not specified,12 days,not specified,degradation observable,mycelium,observed under nitrogen-limiting conditions

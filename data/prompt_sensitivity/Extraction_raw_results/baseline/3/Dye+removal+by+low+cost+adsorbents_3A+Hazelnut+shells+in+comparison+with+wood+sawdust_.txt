@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Congo Red,Phanerochaete chrysosporium,5000 mg/L,5 x 10^10/L,static,30°C,48h,not specified,27.5%,whole fungi,Maximum amount of adsorbed Congo Red was 13.75 mg/g shells.
+Congo Red,Phanerochaete chrysosporium,500 mg/L,5 x 10^10/L,static,30°C,48h,5.5,37.5%,whole fungi,Maximum amount of adsorbed dye was 1.87 mg/g shells.
+Congo Red,Phanerochaete chrysosporium,50 mg/L,5 x 10^10/L,static,30°C,48h,5.5,not specified,whole fungi,Cultures showed earlier maximum enzymatic activity at lower dye concentration.
+Congo Red,Phanerochaete chrysosporium,500 mg/L,5 x 10^10/L,static,30°C,more than 400 hours,not specified,43%,whole fungi,Methanol extraction confirmed that more than 43% of adsorbed dye was degraded.

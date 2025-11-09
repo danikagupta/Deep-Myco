@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Congo Red,Pha. chrysosporium,100 mg/L,not specified,not specified,not specified,not specified,not specified,not specified,mycelium,Cited in reference 72
+Reactive Orange 16,Irpex lacteus,not specified,not specified,not specified,not specified,not specified,not specified,80%,not specified,Cited in reference 73
+Congo Red,Fusarium oxysporum,not specified,not specified,not specified,not specified,not specified,not specified,not specified,not specified,Cited in reference 75
+Cresol Red,Absidia spinosa,not specified,not specified,not specified,not specified,not specified,not specified,65%,not specified,Cited in reference 81
+Malachite Green,Aspergillus flavus,not specified,not specified,not specified,not specified,not specified,not specified,not specified,not specified,Intermediate metabolites identified
+Reactive Red 31,Aspergillus bombycis,not specified,not specified,not specified,not specified,not specified,not specified,not specified,not specified,Cited in reference 83
+Congo Red,Aspergillus niger,200 mg/L,not specified,not specified,not specified,6 days,not specified,not specified,not specified,Cited in reference 84
+Direct Blue-1,Aspergillus terreus,not specified,not specified,not specified,not specified,not specified,not specified,not specified,not specified,Cited in reference 86
+Reactive Orange 16,Bacillus stratosphericus,not specified,not specified,not specified,not specified,not specified,not specified,100%,not specified,Cited in reference 108

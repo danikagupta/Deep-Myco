@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Reactive Blue 19,Trametes versicolor,0.036 mM,not specified,not specified,23 °C,48 h,not specified,97.5%,not specified,Dye removal was mainly enzymatic; ethanolamine treatment reduced dye adsorption by 40%
+ABTS,Trametes versicolor,0.5 mM,120 nM,not specified,22 °C,not specified,5.0,not specified,not specified,Kinetics followed Michaelis-Menten kinetics across pH range; slight effect of Merpol on oxidation rate
+Reactive Blue 19,Trametes versicolor,0.036 mM,120 nM,not specified,22 °C,not specified,not specified,inhibited with increasing Merpol concentration,not specified,Merpol binds to Reactive Blue 19; proposed inhibition by substrate depletion model
+"2,2'-Azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)",Trametes versicolor,not specified,not specified,not specified,22 °C,not specified,5.0,inhibited with increasing chloride concentrations,not specified,Inhibition type was hyperbolic non-competitive with ABTS

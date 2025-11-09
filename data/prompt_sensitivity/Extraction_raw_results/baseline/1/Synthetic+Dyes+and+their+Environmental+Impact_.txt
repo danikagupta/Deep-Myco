@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Reactive Red 198,P. simplicissimum,Not specified,Not specified,Not specified,Not specified,1 day,Not specified,Not specified,Not specified,Visual observation at increasing incubation times
+Reactive Blue 21,P. simplicissimum,Not specified,Not specified,Not specified,Not specified,1 day,Not specified,Not specified,Not specified,Visual observation at increasing incubation times
+Reactive Blue 21,P. simplicissimum,Not specified,Not specified,Not specified,Not specified,2 days,Not specified,Not specified,Not specified,Visual observation at increasing incubation times
+Reactive Blue 21,P. simplicissimum,Not specified,Not specified,Not specified,Not specified,5 days,Not specified,Not specified,Not specified,Visual observation at increasing incubation times
+Reactive Blue 21,P. simplicissimum,Not specified,Not specified,Not specified,Not specified,7 days,Not specified,Not specified,Not specified,Visual observation at increasing incubation times
+Reactive Blue 21,P. simplicissimum,Not specified,Not specified,Not specified,Not specified,14 days,Not specified,Not specified,Not specified,Visual observation at increasing incubation times
+Reactive Blue 214,P. simplicissimum,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Visual observation at various time intervals
+Mixture of dyes,P. simplicissimum,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Visual observation at various time intervals

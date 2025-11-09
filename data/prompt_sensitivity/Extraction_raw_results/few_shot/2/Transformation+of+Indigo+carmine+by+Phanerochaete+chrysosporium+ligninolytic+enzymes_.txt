@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Acid orange 7,Phanerochaete chrysosporium,50 µM,not specified,shaking,30 °C,4 days,not specified,94.8%,mycelium,maximum decolorization after 4 days
+Acid orange 7,Schizophyllum commune,50 µM,not specified,shaking,30 °C,4 days,not specified,96.7%,mycelium,maximum decolorization after 4 days
+Acid orange 7,Lenzites eximia,50 µM,not specified,shaking,30 °C,4 days,not specified,95.5%,mycelium,maximum decolorization after 4 days
+Methyl red,Phanerochaete chrysosporium,50 µM,not specified,shaking,30 °C,4 days,not specified,92.2%,mycelium,maximum decolorization after 4 days
+Methyl red,Schizophyllum commune,50 µM,not specified,shaking,30 °C,4 days,not specified,98.5%,mycelium,maximum decolorization after 4 days
+Methyl red,Lenzites eximia,50 µM,not specified,shaking,30 °C,4 days,not specified,96.0%,mycelium,maximum decolorization after 4 days
+Evans blue,Phanerochaete chrysosporium,50 µM,not specified,shaking,30 °C,4 days,not specified,90.2%,mycelium,maximum decolorization after 4 days
+Evans blue,Schizophyllum commune,50 µM,not specified,shaking,30 °C,4 days,not specified,97.4%,mycelium,maximum decolorization after 4 days
+Evans blue,Lenzites eximia,50 µM,not specified,shaking,30 °C,4 days,not specified,95.5%,mycelium,maximum decolorization after 4 days

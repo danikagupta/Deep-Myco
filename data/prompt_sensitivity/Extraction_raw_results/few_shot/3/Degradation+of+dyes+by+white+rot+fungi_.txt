@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Methyl Orange,KV10,1 mg/ml,not specified,static,28°C,96 h,5.4,76%,whole fungi,tested in absence of dye with no significant effect on mycelial growth
+Methyl Orange,KV12,1 mg/ml,not specified,static,28°C,96 h,5.4,79%,whole fungi,showed high laccase production correlated with decolorization
+Rhodamine B,KV10,1 mg/ml,not specified,static,28°C,96 h,5.4,just more than 60%,whole fungi,showed decolorization efficiency lower compared to Methyl Orange
+Rhodamine B,KV12,1 mg/ml,not specified,static,28°C,96 h,5.4,not specified,whole fungi,showed negative correlation with Methyl Orange decolorization

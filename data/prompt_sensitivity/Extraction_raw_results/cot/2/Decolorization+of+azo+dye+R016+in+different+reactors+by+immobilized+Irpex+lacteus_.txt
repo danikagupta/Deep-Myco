@@ -1,0 +1,17 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+reactive Blue 21,Pleurotus eryngii,50 mg/L,not specified,150 rpm,30°C,72 h,not specified,98.4%,mycelium,
+reactive Yellow 160,Pleurotus eryngii,50 mg/L,not specified,150 rpm,30°C,72 h,not specified,96.8%,mycelium,
+reactive Orange 122,Pleurotus eryngii,50 mg/L,not specified,150 rpm,30°C,72 h,not specified,97.1%,mycelium,
+direct Congo red,Pleurotus eryngii,50 mg/L,not specified,150 rpm,30°C,72 h,not specified,97.8%,mycelium,
+direct Yellow 5G,Pleurotus eryngii,50 mg/L,not specified,150 rpm,30°C,72 h,not specified,76%,mycelium,
+acid Methyl orange,Pleurotus eryngii,50 mg/L,not specified,150 rpm,30°C,72 h,not specified,61.1%,mycelium,
+acid Eriochrome black T,Pleurotus eryngii,50 mg/L,not specified,150 rpm,30°C,72 h,not specified,96.9%,mycelium,
+reactive Blue 21,Pleurotus eryngii,50 mg/L,not specified,not specified,not specified,4 h,not specified,57.5%,mycelium,
+reactive Blue 21,Pleurotus eryngii,50 mg/L,not specified,not specified,not specified,6 h,not specified,not specified,mycelium,
+reactive Blue 21,Pleurotus eryngii,50 mg/L,not specified,not specified,not specified,8 h,not specified,not specified,mycelium,
+reactive Blue 21,Pleurotus eryngii,50 mg/L,not specified,not specified,not specified,24 h,not specified,not specified,mycelium,
+reactive Blue 21,Pleurotus eryngii,50 mg/L,not specified,not specified,not specified,48 h,not specified,not specified,mycelium,
+reactive Blue 21,Pleurotus eryngii,50 mg/L,not specified,not specified,not specified,72 h,not specified,not specified,mycelium,
+reactive Blue 21,Pleurotus eryngii,50 mg/L,not specified,not specified,not specified,96 h,not specified,not specified,mycelium,
+textile effluent,Pleurotus eryngii,not specified,not specified,not specified,not specified,not specified,10,96%,mycelium,85 to 90% reductions in BOD and COD.
+reactive Blue 21,Pleurotus eryngii,50 mg/L,not specified,not specified,not specified,not specified,not specified,50.8%,mycelium,free form of fungi.

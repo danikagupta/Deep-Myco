@@ -1,0 +1,24 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Congo red,Fusarium oxysporum,0.01%,not specified,tube overlay method,25°C,4 weeks,not specified,36.7%,whole fungi,First observed under tube overlay method.
+Congo red,Aspergillus niger,0.01%,not specified,tube overlay method,25°C,4 weeks,not specified,34.21%,whole fungi,First observed under tube overlay method.
+Congo red,Trichoderma lignorum,0.01%,not specified,tube overlay method,25°C,4 weeks,not specified,19.73%,whole fungi,First observed under tube overlay method.
+Crystal violet,Trichoderma lignorum,0.01%,not specified,tube overlay method,25°C,4 weeks,not specified,55.26%,whole fungi,First observed under tube overlay method.
+Crystal violet,Fusarium oxysporum,0.01%,not specified,tube overlay method,25°C,4 weeks,not specified,28.1%,whole fungi,First observed under tube overlay method.
+Crystal violet,Aspergillus niger,0.01%,not specified,tube overlay method,25°C,4 weeks,not specified,23.68%,whole fungi,First observed under tube overlay method.
+Methylene blue,Trichoderma lignorum,0.01%,not specified,tube overlay method,25°C,4 weeks,not specified,21.5%,whole fungi,First observed under tube overlay method.
+Methylene blue,Fusarium oxysporum,0.01%,not specified,tube overlay method,25°C,4 weeks,not specified,14.9%,whole fungi,First observed under tube overlay method.
+Methylene blue,Aspergillus niger,0.01%,not specified,tube overlay method,25°C,4 weeks,not specified,13.15%,whole fungi,First observed under tube overlay method.
+Congo red,Fusarium oxysporum,0.01%,not specified,stationary,25°C,10 days,not specified,78.9%,whole fungi,Observed during stationary conditions.
+Congo red,Aspergillus niger,0.01%,not specified,stationary,25°C,10 days,not specified,74.07%,whole fungi,Observed during stationary conditions.
+Congo red,Trichoderma lignorum,0.01%,not specified,stationary,25°C,10 days,not specified,35.25%,whole fungi,Observed during stationary conditions.
+Crystal violet,Trichoderma lignorum,0.01%,not specified,stationary,25°C,10 days,not specified,92.7%,whole fungi,Observed during stationary conditions.
+Crystal violet,Fusarium oxysporum,0.01%,not specified,stationary,25°C,10 days,not specified,53.4%,whole fungi,Observed during stationary conditions.
+Crystal violet,Aspergillus niger,0.01%,not specified,stationary,25°C,10 days,not specified,33.82%,whole fungi,Observed during stationary conditions.
+Methylene blue,Trichoderma lignorum,0.01%,not specified,stationary,25°C,10 days,not specified,48.3%,whole fungi,Observed during stationary conditions.
+Methylene blue,Fusarium oxysporum,0.01%,not specified,stationary,25°C,10 days,not specified,48.5%,whole fungi,Observed during stationary conditions.
+Methylene blue,Aspergillus niger,0.01%,not specified,stationary,25°C,10 days,not specified,22.44%,whole fungi,Observed during stationary conditions.
+Congo red,Fusarium oxysporum,0.01%,not specified,shaking,25°C,10 days,not specified,91.4%,whole fungi,Observed during shaking conditions.
+Congo red,Aspergillus niger,0.01%,not specified,shaking,25°C,10 days,not specified,84.7%,whole fungi,Observed during shaking conditions.
+Congo red,Trichoderma lignorum,0.01%,not specified,shaking,25°C,10 days,not specified,84.7%,whole fungi,Observed during shaking conditions.
+Crystal violet,Trichoderma lignorum,0.01%,not specified,shaking,25°C,10 days,not specified,96.6%,whole fungi,Observed during shaking conditions.
+Crystal violet,Aspergillus niger,0.01%,not specified,shaking,25°C,10 days,not specified,,,

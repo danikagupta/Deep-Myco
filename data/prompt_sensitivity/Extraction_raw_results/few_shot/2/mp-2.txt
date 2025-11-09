@@ -1,0 +1,12 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Malachite Green,Aspergillus flavus,10 µM,not specified,static,37.5 °C,6 days,7.3,> 96%,not specified,used different dye concentrations for testing
+Malachite Green,Aspergillus flavus,20 µM,not specified,static,37.5 °C,6 days,7.3,> 96%,not specified,used different dye concentrations for testing
+Malachite Green,Aspergillus flavus,30 µM,not specified,static,37.5 °C,6 days,7.3,> 96%,not specified,used different dye concentrations for testing
+Malachite Green,Aspergillus flavus,40 µM,not specified,static,37.5 °C,6 days,7.3,> 96%,not specified,used different dye concentrations for testing
+Malachite Green,Aspergillus flavus,50 µM,not specified,static,37.5 °C,6 days,7.3,97.43%,not specified,
+Malachite Green,Alternaria solani,10 µM,not specified,static,37.5 °C,6 days,7.3,> 96%,not specified,used different dye concentrations for testing
+Malachite Green,Alternaria solani,20 µM,not specified,static,37.5 °C,6 days,7.3,> 96%,not specified,used different dye concentrations for testing
+Malachite Green,Alternaria solani,30 µM,not specified,static,37.5 °C,6 days,7.3,> 96%,not specified,used different dye concentrations for testing
+Malachite Green,Alternaria solani,40 µM,not specified,static,37.5 °C,6 days,7.3,> 96%,not specified,used different dye concentrations for testing
+Malachite Green,Alternaria solani,50 µM,not specified,static,37.5 °C,6 days,7.3,96.91%,not specified,
+Malachite Green,Alternaria solani,30 µM,not specified,static,37.5 °C,6 days,not specified,91.72% when used as sole C source,not specified,the dye was used as sole source of carbon

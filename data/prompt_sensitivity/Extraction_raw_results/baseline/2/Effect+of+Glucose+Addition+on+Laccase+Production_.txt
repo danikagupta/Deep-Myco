@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Solid lignin,Trametes versicolor,0.40 g/L,0.102 ± 0.002 g,rotatory shaker,28ºC,10 days,not specified,1240 U/L,mycelium,
+Ligninosulphonates,Trametes versicolor,0.34 g/L,0.102 ± 0.002 g,rotatory shaker,28ºC,10 days,not specified,270 U/L,mycelium,
+Veratryl alcohol,Trametes versicolor,2 mM,0.102 ± 0.002 g,rotatory shaker,28ºC,10 days,not specified,345 U/L,mycelium,
+Xylidine,Trametes versicolor,30 µM,0.102 ± 0.002 g,rotatory shaker,28ºC,10 days,not specified,1583 U/L,mycelium,
+Glucose suppression with Solid lignin,Trametes versicolor,0.40 g/L,0.102 ± 0.002 g,rotatory shaker,28ºC,10 days,not specified,1174 U/L,mycelium,
+Glucose suppression with Ligninosulphonates,Trametes versicolor,0.34 g/L,0.102 ± 0.002 g,rotatory shaker,28ºC,10 days,not specified,inhibition of laccase production,mycelium,
+Glucose suppression with Veratryl alcohol,Trametes versicolor,2 mM,0.102 ± 0.002 g,rotatory shaker,28ºC,10 days,not specified,1110 U/L,mycelium,
+Glucose suppression with Xylidine,Trametes versicolor,30 µM,0.102 ± 0.002 g,rotatory shaker,28ºC,10 days,not specified,1583 U/L,mycelium,

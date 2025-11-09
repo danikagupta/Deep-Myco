@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Remazol Brilliant Blue R,Ceriporiopsis subvermispora,50 mg L−1,not specified,shaking (150 rpm),30 °C,8 h,4.5,80%,whole fungi,Faster decolorization compared to CuP; Lac plays a crucial role.
+Copper(II) phthalocyanine,Ceriporiopsis subvermispora,50 mg L−1,not specified,shaking (150 rpm),30 °C,12 h,4.5,60%,whole fungi,Initially faster decolorization than RBBR due to higher MnP activities.
+Remazol Brilliant Blue R,Ceriporiopsis subvermispora,50 mg L−1,not specified,shaking (150 rpm),30 °C,14 h,4.5,60%,whole fungi,Combined result for filtrate mixture from BWCM and OLM.
+Copper(II) phthalocyanine,Ceriporiopsis subvermispora,50 mg L−1,not specified,shaking (150 rpm),30 °C,14 h,4.5,60%,whole fungi,Combined result for filtrate mixture from BWCM and OLM.
+Various,Ceriporiopsis subvermispora,not specified,not specified,not specified,30 °C,8 days,not specified,"150 U L−1 for Lac with BWCM, 135 U L−1 for Lac with PWCM, significant reduction with PUFCM.",not specified,Maximal enzyme activities after 8 days. Free mycelium in OLM resulted in 108 U L−1 for MnP.

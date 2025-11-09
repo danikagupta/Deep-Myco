@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+malachite green,Pleurotus eryngii,10 mg/L,10.0 g/L (wet weight),shaking,25°C,120 min,7.0,47.2%,mycelium,Decolorization rate decreases with increasing MG concentration.
+malachite green,Pleurotus eryngii,50 mg/L,10.0 g/L (wet weight),shaking,25°C,120 min,7.0,4.0%,mycelium,Decolorization rate decreases with increasing MG concentration.
+malachite green,Pleurotus eryngii,150 mg/L,10.0 g/L (wet weight),shaking,25°C,120 min,7.0,2.32%,mycelium,Decolorization rate decreases with increasing MG concentration.
+malachite green,Pleurotus eryngii,20 mg/L,10.0 g/L (wet weight),shaking,20°C,120 min,7.0,increased,mycelium,Decolorization increased initially with temperature.
+malachite green,Pleurotus eryngii,20 mg/L,10.0 g/L (wet weight),shaking,30°C,120 min,4.0,none,mycelium,No obvious decolorization effect appeared.
+malachite green,Pleurotus eryngii,20 mg/L,10.0 g/L (wet weight),shaking,30°C,120 min,9.0,93.6%,mycelium,High pH increased decolorization rate.
+malachite green,Pleurotus eryngii,20 mg/L,"0.05 mg/mL,
+      ",,,,,,,

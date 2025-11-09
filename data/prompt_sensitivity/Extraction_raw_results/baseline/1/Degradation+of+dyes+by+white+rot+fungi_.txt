@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Methyl Orange,KV10,1 mg/ml,N/A,static,28°C,96 hours,5.4,76%,whole fungi,High laccase production observed with decolorization.
+Methyl Orange,KV12,1 mg/ml,N/A,static,28°C,96 hours,5.4,79%,whole fungi,High laccase production observed with decolorization.
+Rhodamine-B,KV10,1 mg/ml,N/A,static,28°C,96 hours,5.4,>60%,whole fungi,Minimal decolorization compared to Methyl Orange.
+Rhodamine-B,KV12,1 mg/ml,N/A,static,28°C,96 hours,5.4,>60%,whole fungi,Minimal decolorization compared to Methyl Orange.
+Methyl Orange,AKCH,1 mg/ml,N/A,static,28°C,96 hours,5.4,N/A,whole fungi,Showed lower efficiency in decolorization.
+Rhodamine-B,AKCH,1 mg/ml,N/A,static,28°C,96 hours,5.4,N/A,whole fungi,Showed lower efficiency in decolorization.

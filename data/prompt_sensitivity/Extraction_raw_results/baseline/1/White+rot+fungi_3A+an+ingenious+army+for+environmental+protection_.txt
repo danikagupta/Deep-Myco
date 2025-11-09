@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Reactive brilliant red K-2BP,Phanerochaete chrysosporium,30 mg/L,2.5 × 10^6 spores,reciprocating shaker,37 °C,3 days,4.0–5.0,93.5%,mycellium,Compared to suspension culture (decolorization efficiency of 15%)
+Reactive brilliant red K-2BP,Phanerochaete chrysosporium,30 mg/L,2.5 × 10^6 spores,reciprocating shaker,37 °C,6 days,n.a.,15%,mycellium,Observed under non-sterile condition
+Reactive brilliant red K-2BP,Phanerochaete chrysosporium,30 mg/L,2.5 × 10^6 spores,reciprocating shaker,37 °C,2 days,n.a.,73% and 95% at 1 and 3 days respectively,mycellium,Under sterile culture condition and sterile degradation condition
+Reactive brilliant red K-2BP,Phanerochaete chrysosporium,30 mg/L,2.5 × 10^6 spores,reciprocating shaker,37 °C,only incubated 2 days before dye was added,n.a.,94% on day 3,mycellium,Under non-sterile degradation condition
+Reactive brilliant red K-2BP,Phanerochaete chrysosporium,30 mg/L,2.5 × 10^6 spores,reciprocating shaker,37 °C,3 days,4.0–5.0,69% on day 1 and 93.5% on day 3,mycellium,Immobilized cultures under non-sterile condition showed high efficiency
+Reactive brilliant red K-2BP,Phanerochaete chrysosporium,30 mg/L,2.5 × 10^6 spores,reciprocating shaker,37 °C,3 days,n.a.,18%,mycellium,Suspended culture under non-sterile condition

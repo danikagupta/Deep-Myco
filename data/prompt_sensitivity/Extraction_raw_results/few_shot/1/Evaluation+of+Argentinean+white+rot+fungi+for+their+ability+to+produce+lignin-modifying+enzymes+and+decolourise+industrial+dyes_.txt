@@ -1,0 +1,13 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+indigo carmine,Coriolus antarcticus,100 µM,not specified,not specified,not specified,5 h,5.2,93%,not specified,highest ability to decolorize among tested fungi
+malachite green,Coriolus antarcticus,100 µM,not specified,not specified,not specified,5 h,5.2,86%,not specified,highest ability to decolorize among tested fungi
+azure B,Coriolus antarcticus,100 µM,not specified,not specified,not specified,5 h,5.2,82%,not specified,highest ability to decolorize among tested fungi
+remazol brilliant blue R,Coriolus antarcticus,100 µM,not specified,not specified,not specified,5 h,5.2,82%,not specified,highest ability to decolorize among tested fungi
+crystal violet,Coriolus antarcticus,100 µM,not specified,not specified,not specified,5 h,5.2,77%,not specified,highest ability to decolorize among tested fungi
+xylidine,Coriolus antarcticus,100 µM,not specified,not specified,not specified,5 h,5.2,58%,not specified,highest ability to decolorize among tested fungi
+indigo carmine,Trametes trogii,100 µM,not specified,not specified,not specified,5 h,5.2,26.4%,not specified,lower decolorization compared to C. antarcticus
+malachite green,Trametes trogii,100 µM,not specified,not specified,not specified,5 h,5.2,3.6%,not specified,lower decolorization compared to C. antarcticus
+azure B,Trametes trogii,100 µM,not specified,not specified,not specified,5 h,5.2,14.7%,not specified,lower decolorization compared to C. antarcticus
+xylidine,Stereum hirsutum,100 µM,not specified,not specified,not specified,5 h,5.2,7.3%,not specified,lowest among the fungi tested
+malachite green,Stereum hirsutum,100 µM,not specified,not specified,not specified,5 h,5.2,24.5%,not specified,lower decolorization compared to C. antarcticus
+indigo carmine,Stereum hirsutum,100 µM,not specified,not specified,not specified,5 h,5.2,29.3%,not specified,lower decolorization compared to C. antarcticus

@@ -1,0 +1,4 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Malachite Green,Pseudopestalotiopsis theae,100 ppm,0.5 g,shaking (100 rpm),25 ± 2 °C,14 days,not specified,89.22%,mycelium,Highest decolorization efficiency among the tested fungi.
+Malachite Green,Trichoderma asperellum,100 ppm,0.5 g,shaking (100 rpm),25 ± 2 °C,14 days,not specified,76.19%,mycelium,Non-endolichenic control fungus.
+Malachite Green,Astrocystis bambusae,100 ppm,0.5 g,shaking (100 rpm),25 ± 2 °C,14 days,not specified,67.69%,mycelium,Lowest decolorization efficiency among the tested fungi.

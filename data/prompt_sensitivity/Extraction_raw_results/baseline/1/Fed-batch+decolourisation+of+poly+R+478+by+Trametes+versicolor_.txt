@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+azure B,BBEL0970,0.1 g/l,3 mm agar plugs (10 plugs),shaking,28 °C,14 days,not specified,deep decolorization,mycelium,Positive for azure B decolorization in plates
+Poly R4478,BBEL0970,0.1 g/l,3 mm agar plugs (10 plugs),shaking,28 °C,14 days,not specified,deep decolorization,mycelium,Positive for Poly R4478 decolorization in plates
+guaiacol,BBEL0970,not specified,3 mm agar plugs (10 plugs),shaking,28 °C,14 days,not specified,reddish-brown halo,mycelium,Color reaction indicating oxidization by laccase
+guaiacol,BBEL0970,not specified,inoculated into BLM (100 ml),150 rpm shaking,28 °C,2 days,4.5,3.14 U/ml of laccase activity,mycelium,Laccase production measured every two days
+guaiacol,BBEL0970,not specified,washed mycelia,shaking,28 °C,24 days,not specified,max laccase activity reached 10.3 U/ml,mycelium,Pretreated barley straw used as substrate
+none,BBEL0970,not applicable,not specified,not specified,not applicable,not specified,not specified,enhancement in laccase production,mycelium,Changes in activity analyzed by TG analysis

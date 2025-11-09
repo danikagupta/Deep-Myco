@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+sulfophenylazo dye,Pyricularia oryzae,not specified,not specified,not specified,not specified,not specified,not specified,oxidative cleavage observed,not specified,nitro or chloro substituents showed no degradation
+sulfophenylazo dye,Trametes villosa,not specified,not specified,not specified,not specified,not specified,not specified,oxidative coupling/polymerization also observed,not specified,included electron-poor meta-benzenesulfonic moiety
+Reactive Yellow 81,CotA-Laccase (Bacillus subtilis),not specified,not specified,not specified,not specified,not specified,not specified,not degraded,not specified,lacks electron-rich moieties
+Sudan Orange G,CotA-Laccase (Bacillus subtilis),not specified,not specified,not specified,not specified,not specified,not specified,degraded into various products,not specified,also retains the azo moiety
+hydroxyanthraquinones,Pleurotus ostreatus,not specified,not specified,not specified,not specified,not specified,not specified,good substrate for laccase,not specified,higher secretion level compared to Phanerochaete chrysosporium
+Reactive Blue 25,Aspergillus ochraceus,not specified,not specified,not specified,not specified,not specified,not specified,bleached,not specified,presence of lignin peroxidase noted
+Reactive Blue 25,Phanerochaete chrysosporium,not specified,not specified,not specified,not specified,not specified,not specified,demetallated,not specified,laccase action observed
+Reactive Red 11,CotA-Laccase from Bacillus pumilus,not specified,not specified,not specified,not specified,not specified,not specified,successfully bleached,not specified,utilized methyl syringate as mediator
+various including azo and anthraquinone dyes,Lentinus sp.,not specified,not specified,not specified,not specified,not specified,not specified,efficient,not specified,modeling calculations of substrate interactions at active site were done.

@@ -1,0 +1,3 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Crystal violet,Trichoderma asperellum,50 ppm,0.5 U/ml,static,room temperature,60 min,4,degradation amount calculated,mycelium,Experiments performed in triplicates.
+Crystal violet,Trichoderma asperellum,1000 ppm (stock solution),0.5 U/ml,static,room temperature,60 min,4,measure at 580 nm,mycelium,Residual dye concentration measured spectrophotometrically.

@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+none,Laccaria trichodermophora,N/A,N/A,"shaking (orbital shaker, 100 rpm)",25 ± 2°C,10 days,5.50 ± 0.05,N/A,mycelium,Pre-inoculum prepared from agar plates
+none,Laccaria trichodermophora,N/A,2% v/v from inoculum,"shaking (orbital shaker, 100 rpm)",25 ± 2°C,10 days,5.5 ± 0.1,N/A,mycelium,Final culture medium with carbon:nitrogen ratio of 16:1
+none,Laccaria trichodermophora,N/A,N/A,N/A,N/A,"7, 14, and 21 days (for volume fraction determination)",N/A,N/A,N/A,Volume fraction determined using images from confocal microscopy
+none,Laccaria trichodermophora,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Hydrodynamic and structural analysis performed with varying conditions
+none,Laccaria trichodermophora,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Microscopic imaging performed to assess structure and flow

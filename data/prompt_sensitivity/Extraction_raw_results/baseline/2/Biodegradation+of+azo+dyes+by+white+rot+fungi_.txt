@@ -1,0 +1,13 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Ponceau 2R,Coriolopsis sp. strain arf5,0.2 g/L,Not specified,static,27.5°C,10 days,4.5,complete,mycelium,Significant degradation observed.
+Orange G,Coriolopsis sp. strain arf5,0.2 g/L,Not specified,static,27.5°C,7 days,4.5,complete,mycelium,Significant degradation observed.
+Direct Blue 71,Coriolopsis sp. strain arf5,0.2 g/L,Not specified,static,27.5°C,12 days,4.5,complete,mycelium,Significant degradation observed.
+Biebrich Scarlet,Coriolopsis sp. strain arf5,0.2 g/L,Not specified,static,27.5°C,12 days,4.5,incomplete,mycelium,Significant degradation observed.
+Ponceau 2R,Coriolopsis sp. strain arf5,0.2 g/L,Not specified,static,30°C,variable,5.0,complete,mycelium,Variable degradation rate observed.
+Orange G,Coriolopsis sp. strain arf5,0.2 g/L,Not specified,static,30°C,variable,5.0,complete,mycelium,Variable degradation rate observed.
+Direct Blue 71,Coriolopsis sp. strain arf5,0.2 g/L,Not specified,static,30°C,variable,5.0,complete,mycelium,Variable degradation rate observed.
+Biebrich Scarlet,Coriolopsis sp. strain arf5,0.2 g/L,Not specified,static,30°C,variable,5.0,incomplete,mycelium,Variable degradation rate observed.
+Ponceau 2R,Coriolopsis sp. strain arf5,0.2 g/L,Not specified,static,35°C,variable,5.5,complete,mycelium,Variable degradation rate observed.
+Orange G,Coriolopsis sp. strain arf5,0.2 g/L,Not specified,static,35°C,variable,5.5,complete,mycelium,Variable degradation rate observed.
+Direct Blue 71,Coriolopsis sp. strain arf5,0.2 g/L,Not specified,static,35°C,variable,5.5,complete,mycelium,Variable degradation rate observed.
+Biebrich Scarlet,Coriolopsis sp. strain arf5,0.2 g/L,Not specified,static,35°C,variable,5.5,incomplete,mycelium,Variable degradation rate observed.

@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Cadmium,Trametes pubescens,10 mg/L,not specified,not specified,28 °C,not specified,not specified,53.13%,mycelium,maximum removal rate recorded
+Cadmium,Trametes pubescens,100 mg/L,not specified,not specified,28 °C,7 days,not specified,6.565 mg/g,mycelium,highest adsorption capacity in the experiment
+Cadmium,Trametes pubescens,10 mg/L,not specified,hydroponic system,25 °C,15 days,not specified,"53.54% reduction in roots, 86.38% reduction in shoots",not specified,colonization significantly reduced cadmium accumulation
+Cadmium,Trametes pubescens,10 mg/L,not specified,not specified,25 °C,15 days,not specified,significantly promoted growth,not specified,showed healthier growth state and larger roots

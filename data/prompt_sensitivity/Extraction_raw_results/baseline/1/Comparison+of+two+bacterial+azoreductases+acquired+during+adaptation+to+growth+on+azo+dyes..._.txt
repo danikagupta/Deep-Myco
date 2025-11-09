@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Azo dye,Candida zeylanoides,0.2 mM,1.0 g dry cell/L,Shaking,25°C,40-60 h,Acidic,Total decolorization observed,Whole fungi,"Decolorization followed by detection of metabolites (sulfanilic acid, metanilic acid)"
+Azo dye,Issatchenkia occidentalis,0.2 mM,1.0 g dry cell/L,Shaking,25°C,15 h,Acidic,More than 80% decolorization,Whole fungi,Metabolites detected in supernatant
+Azo dye,Saccharomyces cerevisiae,0.2 mM,1.0 g dry cell/L,Shaking,25°C,8.5 h,Acidic,Complete decolorization,Whole fungi,Comparison of azoreductase activity shows dependence on Fre1p
+Reactive azo dye,Bacterial consortium,0.2 mM,Dependent on growth conditions,Continuous flow,55°C,24 h,9,91.5% color removal,Bacterial mass,High salt tolerance observed

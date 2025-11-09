@@ -1,0 +1,11 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Phenol,Trametes versicolor,20%,Not specified,Static,Not specified,16 days,Not specified,Complete removal,Fungal mass,Initial concentration was 13.8 mM.
+p-Cresol,Trametes versicolor,20%,Not specified,Static,Not specified,16 days,Not specified,Complete removal,Fungal mass,Initial concentration was 6.25 mM.
+m-Cresol,Trametes versicolor,20%,Not specified,Static,Not specified,16 days,Not specified,Complete removal,Fungal mass,Initial concentration was 6.7 mM.
+o-Cresol,Trametes versicolor,20%,Not specified,Static,Not specified,16 days,Not specified,Complete removal,Fungal mass,Initial concentration was 87.65 mM.
+Stripped gas liquor effluent,Trametes pubescens,2.5%,10% (wt %),Airlift Loop Reactor,Not specified,8 days,Not specified,Complete removal of phenolic monomers.,Whole fungi,Daily 2.5% effluent addition.
+Stripped gas liquor effluent,Trametes pubescens,5%,10% (wt %),Airlift Loop Reactor,Not specified,8 days,Not specified,Complete removal of phenolic monomers.,Whole fungi,Daily 5% effluent addition.
+Stripped gas liquor effluent,Trametes pubescens,10%,10% (wt %),Airlift Loop Reactor,Not specified,8 days,Not specified,Complete removal of phenolic monomers.,Whole fungi,Daily 10% effluent addition.
+Cresylic effluent,Trametes pubescens,2%,10%,Sequential additions in Airlift Loop Reactor,Not specified,8 days,Not specified,Increased laccase activity.,Whole fungi,Added sequentially; maximum laccase of 11.8 U/mL.
+Cresylic effluent,Trametes pubescens,5%,10%,Sequential additions in Airlift Loop Reactor,Not specified,8 days,Not specified,Partial,Whole fungi,Concentration led to decreased laccase activity.
+Cresylic effluent,Trametes pubescens,10%,10%,Sequential additions in Airlift Loop Reactor,Not specified,8 days,Not specified,Limited; culture died out.,Whole fungi,Highest concentration inhibited growth.

@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Basic fuchsin,Fomitopsis feei,0.001%,10 mm diameter disk,shaking,28°C,21 days,2.15 to 1.99,98%,whole fungi,Laccase activity at 46 U/mL
+Methyl violet,Fomitopsis feei,0.001%,10 mm diameter disk,shaking,28°C,21 days,6.23 to 2.12,91.5%,whole fungi,Lignin peroxidase observed at 6 U/mL after 21 days
+Ethyl violet,Fomitopsis feei,0.001%,10 mm diameter disk,shaking,28°C,21 days,6.36 to 5.91,83.1%,whole fungi,2 U/mL lignin peroxidase recorded at 7 days
+Methyl green,Fomitopsis feei,0.001%,10 mm diameter disk,shaking,28°C,21 days,4.54 to 2.04,88.3%,whole fungi,No observable laccase activity
+Bromophenol blue,Fomitopsis feei,0.001%,10 mm diameter disk,shaking,28°C,21 days,2.42 to 1.98,96.8%,whole fungi,Laccase activity peaked at 42 U/mL after 21 days
+Malachite green,Fomitopsis feei,0.001%,10 mm diameter disk,shaking,28°C,21 days,4.54 to 2.04,89.6%,whole fungi,Laccase and lignin peroxidase not detected initially

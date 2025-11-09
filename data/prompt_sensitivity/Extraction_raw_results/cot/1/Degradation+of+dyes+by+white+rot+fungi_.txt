@@ -1,0 +1,11 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Methyl orange,KV10,1 mg/ml,not specified,static,28°C,96 h,5.4,76%,mycelium,
+Methyl orange,KV12,1 mg/ml,not specified,static,28°C,96 h,5.4,79%,mycelium,
+Rhodamine-B,KV10,1 mg/ml,not specified,static,28°C,96 h,5.4,60%,mycelium,
+Rhodamine-B,KV12,1 mg/ml,not specified,static,28°C,96 h,5.4,not specified,mycelium,
+Methyl orange,KV11,1 mg/ml,not specified,static,28°C,96 h,5.4,not specified,mycelium,
+Rhodamine-B,KV11,1 mg/ml,not specified,static,28°C,96 h,5.4,not specified,mycelium,
+Methyl orange,KVA5,1 mg/ml,not specified,static,28°C,96 h,5.4,not specified,mycelium,
+Rhodamine-B,KVA5,1 mg/ml,not specified,static,28°C,96 h,5.4,not specified,mycelium,
+Methyl orange,AKCH,1 mg/ml,not specified,static,28°C,96 h,5.4,not specified,mycelium,
+Rhodamine-B,AKCH,1 mg/ml,not specified,static,28°C,96 h,5.4,not specified,mycelium,

@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Orange II,Phaner ochaete chrysosporium,50 mg/l,not specified,shaking,30°C,7 days,3.0,39.84%,mycelium,Optimum decolorization found at pH 5.0.
+Orange II,Phaner ochaete chrysosporium,50 mg/l,not specified,shaking,30°C,7 days,4.0,71.56%,mycelium,Decolorization increased with pH.
+Orange II,Phaner ochaete chrysosporium,50 mg/l,not specified,shaking,30°C,7 days,5.0,86.34%,mycelium,Maximum decolorization observed.
+Orange II,Phaner ochaete chrysosporium,50 mg/l,not specified,shaking,30°C,7 days,6.0,69.56%,mycelium,Performance declined after optimal pH.
+Orange II,Phaner ochaete chrysosporium,50 mg/l,not specified,shaking,30°C,7 days,7.0,51.42%,mycelium,Further decrease in decolorization at pH 7.
+Orange II,Phaner ochaete chrysosporium,100 mg/l,not specified,shaking,30°C,7 days,5.0,85%,mycelium,Decolorization decreased with higher concentration.
+Orange II,Phaner ochaete chrysosporium,50 mg/l,not specified,shaking,24°C,7 days,5.0,not specified,mycelium,"Temperature effect observed, max degradation at 28-30°C."
+Orange II,Phaner ochaete chrysosporium,50 mg/l,not specified,shaking,30°C,7 days,5.0,79%,mycelium,Observed in real textile wastewater.
+Orange II,Phaner ochaete chrysosporium,not specified,not specified,shaking,30°C,7 days,not specified,265 U/l,mycelium,MnP activity recorded.

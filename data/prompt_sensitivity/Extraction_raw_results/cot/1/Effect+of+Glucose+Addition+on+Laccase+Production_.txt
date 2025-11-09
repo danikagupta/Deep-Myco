@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+not specified,Trametes versicolor,not specified,0.102 ± 0.002 g,rotatory shaker,28°C,10 days,not specified,not specified,mycelium,Growth curves were tracked; glucose suppression applied.
+not specified,Trametes versicolor,not specified,0.102 ± 0.002 g,rotatory shaker,35°C,10 days,not specified,not specified,mycelium,No significant growth observed.
+not specified,Trametes versicolor,not specified,0.102 ± 0.002 g,rotatory shaker,28°C,10 days,not specified,not specified,mycelium,Induction tests with glucose suppression.
+not specified,Trametes versicolor,10 µM,not specified,not specified,not specified,not specified,not specified,not specified,not specified,Laccase activity: 573 U/L
+not specified,Trametes versicolor,15 µM,not specified,not specified,not specified,not specified,not specified,not specified,not specified,Laccase activity: 912 U/L
+not specified,Trametes versicolor,30 µM,not specified,not specified,not specified,not specified,not specified,not specified,not specified,Laccase activity: 1583 U/L
+not specified,Trametes versicolor,50 µM,not specified,not specified,not specified,not specified,not specified,not specified,not specified,Laccase activity: 1040 U/L
+not specified,Trametes versicolor,not specified,not specified,not specified,not specified,not specified,not specified,not specified,not specified,Laccase activity for various concentrations of lignin reported.
+not specified,Trametes versicolor,not specified,not specified,not specified,not specified,not specified,not specified,not specified,not specified,Combined effects with glucose suppression studied.

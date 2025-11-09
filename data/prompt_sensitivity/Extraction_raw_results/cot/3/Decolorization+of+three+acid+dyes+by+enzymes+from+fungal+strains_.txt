@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Novacron Red,Leptosphaerulina sp.,200 ppm,not specified,agitation,25 °C,21 days,5,>90%,mycelium,N/A
+Remazol Black,Leptosphaerulina sp.,200 ppm,not specified,agitation,25 °C,21 days,5,>90%,mycelium,N/A
+Turquoise Blue,Leptosphaerulina sp.,200 ppm,not specified,agitation,25 °C,21 days,5,>90%,mycelium,N/A
+Novacron Red,Leptosphaerulina sp.,200 ppm,not specified,unagitated,20-25 °C,15 days,not specified,85%,mycelium,N/A
+Remazol Black,Leptosphaerulina sp.,200 ppm,not specified,unagitated,20-25 °C,15 days,not specified,85%,mycelium,N/A
+Turquoise Blue,Leptosphaerulina sp.,200 ppm,not specified,unagitated,20-25 °C,15 days,not specified,70%,mycelium,N/A
+Dyeing effluent,Leptosphaerulina sp.,200 ppm,not specified,agitation,25 °C,21 days,12,90%,mycelium,N/A
+Discharge effluent,Leptosphaerulina sp.,not specified,not specified,agitation,21 days,21 days,as received,<30%,mycelium,N/A

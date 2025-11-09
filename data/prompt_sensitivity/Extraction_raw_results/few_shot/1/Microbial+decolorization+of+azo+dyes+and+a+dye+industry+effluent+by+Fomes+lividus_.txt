@@ -1,0 +1,16 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Orange G,Daldenia concentrica,50 µM,10^5 spores/ml,shaking,30 °C,12 days,not specified,35.88%,mycelium,mycelial growth observed was 56 mg
+Orange G,Lepiota sp.,50 µM,10^5 spores/ml,shaking,30 °C,12 days,not specified,43.00%,mycelium,mycelial growth observed was 55 mg
+Orange G,Trametes serialis,50 µM,10^5 spores/ml,shaking,30 °C,12 days,not specified,32.00%,mycelium,mycelial growth observed was 51 mg
+Methyl Orange,Daldenia concentrica,50 µM,10^5 spores/ml,shaking,30 °C,8 days,not specified,60.00%,mycelium,mycelial growth increased from 47.0 mg to 54 mg
+Methyl Orange,Lepiota sp.,50 µM,10^5 spores/ml,shaking,30 °C,16 days,not specified,58.65%,mycelium,mycelial growth reached 56 mg
+Methyl Orange,Trametes serialis,50 µM,10^5 spores/ml,shaking,30 °C,8 days,not specified,53.28%,mycelium,mycelial growth observed was 54 mg
+Congo Red,Daldenia concentrica,50 µM,10^5 spores/ml,shaking,30 °C,8 days,not specified,91.54%,mycelium,mycelial growth observed was 60 mg
+Congo Red,Lepiota sp.,50 µM,10^5 spores/ml,shaking,30 °C,8 days,not specified,90.07%,mycelium,mycelial growth observed was 56 mg
+Congo Red,Trametes serialis,50 µM,10^5 spores/ml,shaking,30 °C,8 days,not specified,95.48%,mycelium,mycelial growth observed was 54 mg
+Dye Industry Effluent,Daldenia concentrica,not specified,10^5 spores/ml,not specified,39 °C,7 days,not specified,84.52%,mycelium,treated in batch mode
+Dye Industry Effluent,Lepiota sp.,not specified,10^5 spores/ml,not specified,39 °C,7 days,not specified,66.67%,mycelium,treated in batch mode
+Dye Industry Effluent,Trametes serialis,not specified,10^5 spores/ml,not specified,39 °C,7 days,not specified,89.28%,mycelium,treated in batch mode
+Dye Industry Effluent,Lepiota sp.,not specified,10^5 spores/ml,not specified,39 °C,5 days,not specified,55.95%,mycelium,treated in continuous mode
+Dye Industry Effluent,Daldenia concentrica,not specified,10^5 spores/ml,not specified,39 °C,5 days,not specified,52.38%,mycelium,treated in continuous mode
+Dye Industry Effluent,Trametes serialis,not specified,10^5 spores/ml,not specified,39 °C,5 days,not specified,54.76%,mycelium,treated in continuous mode

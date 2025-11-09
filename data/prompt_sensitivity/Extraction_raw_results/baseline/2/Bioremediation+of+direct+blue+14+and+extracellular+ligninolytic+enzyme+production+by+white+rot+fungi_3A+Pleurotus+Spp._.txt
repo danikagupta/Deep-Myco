@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Methyl orange,P. citrinopileatus,Not specified,Not specified,incubated,25°C,20 days,Not specified,96.98%,whole fungi,Fastest decolorization
+Congo red,P. flabellatus,Not specified,Not specified,incubated,25°C,25 days,Not specified,97.42%,whole fungi,Performed well among species
+Methyl red,P. flabellatus,Not specified,Not specified,incubated,25°C,25 days,Not specified,90.67%,whole fungi,Among the five studied dyes
+Acid black,P. flabellatus,Not specified,Not specified,incubated,25°C,25 days,Not specified,84.52%,whole fungi,
+Phenol red,P. citrinopileatus,Not specified,Not specified,incubated,25°C,25 days,Not specified,93.33%,whole fungi,
+PSP,Poc 9X6,0.02%,Not specified,stagnant condition,25°C,20 days,5.5,Maximum,whole fungi,Best result at this pH
+PSP,Pof 6X9,0.03%,5 ml 10 days old culture,incubated,25°C,Not specified,Not specified,Better than others,whole fungi,High tolerance level
+Acid black,Poc 9X6,0.03%,5 ml 15 days old culture,incubated,Not specified,Not specified,Not specified,Maximum,whole fungi,
+Methyl orange and Acid black,Improved dikaryons,Not specified,"2.0 µM of Tryptophan, Tyrosine",incubated,27°C,Not specified,Not specified,Higher activity,whole fungi,Study on effect of aromatic amino acids

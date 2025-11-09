@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+4-(4'-sulfophenylazo)-phenol,Phanerochaete chrysosporium,not specified,not specified,not specified,not specified,not specified,not specified,not specified,not specified,"oxidized by horseradish peroxidase, manganese peroxidase, and lignin peroxidase"
+2-(4'-sulfophenylazo)-phenol,Phanerochaete chrysosporium,not specified,not specified,not specified,not specified,not specified,not specified,not specified,not specified,not oxidized by peroxidases
+Orange I1,Phanerochaete chrysosporium,200 pM,not specified,not specified,25 °C,10 min,7.0,90%,not specified,oxidation by Fenton reagent
+Crocein Orange G,not specified,not specified,not specified,shaking,not specified,not specified,not specified,varied with initial concentration and mixing rate,not specified,first-order kinetics
+4-hydroxyazobenzene,not specified,not specified,not specified,not specified,not specified,not specified,not specified,not specified,not specified,reduction products identified

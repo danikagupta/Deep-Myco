@@ -1,0 +1,13 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Orange II,Phanerochaete chrysosporium,50 mg/l,not specified,shaking,30°C,7 days,5.0,86.34%,mycelium,Optimum decolorization at 5th day.
+Orange II,Phanerochaete chrysosporium,100 mg/l,not specified,shaking,30°C,7 days,5.0,85%,mycelium,Removal remained almost the same as with 50 mg/l.
+Orange II,Phanerochaete chrysosporium,150 mg/l,not specified,shaking,30°C,7 days,5.0,not specified,mycelium,Higher concentration started to decrease dye removal.
+Orange II,Phanerochaete chrysosporium,200 mg/l,not specified,shaking,30°C,7 days,5.0,not specified,mycelium,Higher concentration started to decrease dye removal.
+Orange II,Phanerochaete chrysosporium,250 mg/l,not specified,shaking,30°C,7 days,5.0,not specified,mycelium,Higher concentration started to decrease dye removal.
+Orange II,Phanerochaete chrysosporium,50 mg/l,not specified,shaking,28°C,7 days,4.0,71.56%,mycelium,Decolorization was 39.84% at pH 3.0.
+Orange II,Phanerochaete chrysosporium,50 mg/l,not specified,shaking,30°C,7 days,6.0,69.56%,mycelium,Decolorization was optimum at pH 5.0.
+Orange II,Phanerochaete chrysosporium,50 mg/l,not specified,shaking,30°C,7 days,7.0,51.42%,mycelium,Decolorization was optimum at pH 5.0.
+Orange II,Phanerochaete chrysosporium,50 mg/l,not specified,shaking,24°C,7 days,5.0,not specified,mycelium,"Temperature effect studied, maximum at 28-30°C."
+Orange II,Phanerochaete chrysosporium,50 mg/l,not specified,shaking,32°C,7 days,5.0,not specified,mycelium,"Temperature effect studied, maximum at 28-30°C."
+Orange II,Phanerochaete chrysosporium,50 mg/l,not specified,shaking,34°C,7 days,5.0,not specified,mycelium,"Temperature effect studied, maximum at 28-30°C."
+Orange II,Phanerochaete chrysosporium,not specified,not specified,shaking,not specified,not specified,9.0,79%,mycelium,Textile industry wastewater.

@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+melanoidins,Phanerochaete chrysosporium,undiluted,not specified,static,not specified,12,not specified,85%,whole fungi,
+melanoidins,Phanerochaete chrysosporium,6.25%,not specified,agitated,not specified,8,not specified,85%,whole fungi,
+melanoidins,Flavodon flavus,undiluted,not specified,agitated,not specified,10,not specified,80%,whole fungi,
+melanoidins,Trametes sp. I-62,20%,not specified,agitated,not specified,7,not specified,73%,whole fungi,
+sugarcane molasses,Coriolus versicolor,undiluted,not specified,agitated,not specified,12,not specified,53%,whole fungi,
+sugarcane molasses,Aspergillus terreus,undiluted,not specified,agitated,not specified,2-3,not specified,80%,whole fungi,

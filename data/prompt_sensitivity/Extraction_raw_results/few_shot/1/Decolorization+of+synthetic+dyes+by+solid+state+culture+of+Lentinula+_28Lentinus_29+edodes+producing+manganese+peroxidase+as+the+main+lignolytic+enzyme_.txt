@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+not specified,Lentinula boryana,not specified,not specified,not specified,20 °C,25 days,4.10±0.07,70 UI.L-1,not specified,greatest MnP expression observed
+not specified,Lentinula edodes,not specified,not specified,not specified,25 °C,25 days,3.59±0.16,20 UI.L-1,not specified,MnP activity showed no statistical difference from L. boryana at 30 days
+not specified,Lentinula edodes,not specified,not specified,not specified,25 °C,10 days,not specified,approximately 110 UI.L-1,not specified,maximum MnP activity for this species
+not specified,Lentinula boryana,not specified,not specified,not specified,20 °C,between 20 and 25 days,not specified,approximately 110 UI.L-1,not specified,maximum MnP activity for this species

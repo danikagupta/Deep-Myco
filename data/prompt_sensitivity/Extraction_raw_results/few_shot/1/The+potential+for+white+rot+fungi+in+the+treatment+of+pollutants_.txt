@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+not specified,Phanerochaete chrysosporium,not specified,not specified,not specified,not specified,27 days,not specified,70-100%,not specified,performed in nitrogen-limited cultures
+14C-benzo(u)pyrene,Phanerochaete chrysosporium,not specified,not specified,not specified,not specified,1 week,not specified,15% mineralized to CO2,not specified,58% transformed into water-soluble products
+PCP,Phanerochaete chrysosporium,not specified,not specified,static,not specified,not specified,not specified,20-50% mineralized,not specified,in nitrogen-limited static cultures
+"2,4-D",Phanerochaete chrysosporium,not specified,not specified,not specified,not specified,4 days,not specified,48% decrease,not specified,K-labeled in the ethyl position mineralized to 14CO2
+"2,4-D and 2,4,5-T mixture",Phanerochaete chrysosporium,not specified,not specified,not specified,not specified,not specified,not specified,higher rate when mixed,not specified,not observed mutual inhibition of degradation
+various Azo dyes,Phanerochaete chrysosporium,not specified,not specified,not specified,not specified,not specified,not specified,23-48% mineralized,not specified,LIPS more important than MNPs in decolorizing

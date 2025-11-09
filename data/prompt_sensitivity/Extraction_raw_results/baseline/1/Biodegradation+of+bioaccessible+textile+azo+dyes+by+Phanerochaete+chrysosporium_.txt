@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Sm-g,Phanerochaete chrysosporium,50 mg l−1,5 plugs of 8 mm,rotary shaker,30 °C,28 days,4.5,83%,whole fungi,Best result obtained with PAM as pre-growth medium.
+Sm-g,Phanerochaete chrysosporium,50 mg l−1,5 plugs of 8 mm,rotary shaker,30 °C,14 days,4.5,75%,whole fungi,Strong biodegradation observed on day 7.
+Sm-g,Phanerochaete chrysosporium,50 mg l−1,5 plugs of 8 mm,rotary shaker,30 °C,14 days,4.5,64%,whole fungi,Biodegradation in MEA medium.
+Sm-g,Phanerochaete chrysosporium,50 mg l−1,5 plugs of 8 mm,rotary shaker,30 °C,28 days,4.5,80%,whole fungi,Average percentages for eight synthesized dyes.
+Sm-s,Phanerochaete chrysosporium,50 mg l−1,5 plugs of 8 mm,rotary shaker,30 °C,28 days,4.5,85%,whole fungi,Dye with better biodegradation performance.
+Sp-g,Phanerochaete chrysosporium,50 mg l−1,5 plugs of 8 mm,rotary shaker,30 °C,28 days,4.5,89%,whole fungi,Best biodegradation result.

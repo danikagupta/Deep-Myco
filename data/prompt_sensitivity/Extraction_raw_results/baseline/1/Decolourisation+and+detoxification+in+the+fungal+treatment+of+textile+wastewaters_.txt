@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Acid Dyes,Bjerkandera adusta,"100 ppm each of AY49, AR266, Abu62",5 agar plugs,shaking,28°C,7 days,5,88.0% ± 1.4,whole fungi,Measured at day 7
+Acid Dyes,Bjerkandera adusta,"100 ppm each of AY49, AR266, Abu62",5 agar plugs in 30 ml,shaking,28°C,7 days,5.8,96.5% ± 0.5,whole fungi,"GLY medium used, measured at day 3"
+Reactive Dyes,Bjerkandera adusta,"1250 ppm each of RY145, RR195, Rbu222, Rbk5",5 agar plugs in 30 ml,shaking,28°C,7 days,10,29.2% ± 2.3,whole fungi,Measured at day 1
+Reactive Dyes,Bjerkandera adusta,"1250 ppm each of RY145, RR195, Rbu222, Rbk5",5 agar plugs in 30 ml,shaking,28°C,7 days,6.3,55.8% ± 4.1,whole fungi,"GLY medium used, measured at day 15"
+Direct Dyes,Bjerkandera adusta,"1000 ppm each of DrY106, DrR80, DrBu71",5 agar plugs in 30 ml,shaking,28°C,7 days,7.4,50.2% ± 7.0,whole fungi,Measured at day 1
+Simulated Real Wastewater,Bjerkandera adusta,N/A,10 fungal plugs in 500 ml,shaking,28°C,24 hours,7.3,40.8% ± 6.8,whole fungi,Compared with ozonation

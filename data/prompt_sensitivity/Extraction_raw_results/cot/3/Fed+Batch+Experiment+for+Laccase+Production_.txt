@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+ABTS,Melanocarpus albomyces,5 mM,not specified,shaking,25 °C,not specified,4.5,not applicable,mycelium,not applicable
+syringaldazine,Melanocarpus albomyces,0.06 mM,not specified,shaking,25 °C,not specified,not specified,not applicable,mycelium,not applicable
+guaiacol,Melanocarpus albomyces,1.5 mM,not specified,shaking,25 °C,not specified,not specified,not applicable,mycelium,not applicable
+"2,6-DMP",Melanocarpus albomyces,0.8 mM,not specified,shaking,25 °C,not specified,not specified,not applicable,mycelium,not applicable
+not specified,Melanocarpus albomyces,not specified,not specified,not specified,60 °C,5 h,not specified,50% activity retention,not specified,activity characterization
+not specified,Melanocarpus albomyces,not specified,not specified,not specified,60 °C,2 h,not specified,not specified,not specified,thermostability noted

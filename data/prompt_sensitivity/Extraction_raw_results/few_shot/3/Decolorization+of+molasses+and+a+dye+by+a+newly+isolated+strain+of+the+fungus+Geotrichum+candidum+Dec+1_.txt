@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+not specified,Geotrichum candidum Dec 1,not specified,not specified,shaking (120 rpm),30 °C,10 days,5.0,78%,not specified,effluent supplemented with glucose at 30g/L
+not specified,Geotrichum candidum Dec 1,not specified,not specified,reciprocal shaker,30 °C,6 days,5.0,78%,not specified,E-effluent containing glucose 30g/L
+not specified,Geotrichum candidum Dec 1,not specified,not specified,not specified,not specified,3 days,not specified,47%,not specified,E-effluent containing glucose 5g/L
+not specified,Geotrichum candidum Dec 1,not specified,not specified,not specified,not specified,not specified,3.2,not specified,not specified,"absorbance at 465 nm measured at different pH levels: 0.474 (pH 3.2), 0.494 (pH 4.5), 0.512 (pH 5.0)"

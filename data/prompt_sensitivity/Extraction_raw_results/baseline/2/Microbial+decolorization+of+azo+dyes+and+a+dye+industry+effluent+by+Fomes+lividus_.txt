@@ -1,0 +1,13 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",additional information
+orange G,Daldenia concentrica,50 µM,105 spores/ml,shaking,30°C,12 days,6.5,35.88%,mycelium,Mycelial dry weight was 56 mg after 12 days.
+orange G,Lepiota sp.,50 µM,105 spores/ml,shaking,30°C,12 days,6.5,43.00%,mycelium,Mycelial dry weight was 55 mg after 12 days.
+orange G,Trametes serialis,50 µM,105 spores/ml,shaking,30°C,12 days,6.5,32.00%,mycelium,Mycelial dry weight was 51 mg after 12 days.
+methyl orange,Daldenia concentrica,50 µM,105 spores/ml,shaking,30°C,8 days,6.5,60.00%,mycelium,Mycelial dry weight increased from 47.0 mg to 54 mg.
+methyl orange,Lepiota sp.,50 µM,105 spores/ml,shaking,30°C,16 days,6.5,58.65%,mycelium,Maximum mycelial growth was reached at 56 mg.
+methyl orange,Trametes serialis,50 µM,105 spores/ml,shaking,30°C,8 days,6.5,53.28%,mycelium,Mycelial dry weight was 54 mg at 8 days.
+congo red,Daldenia concentrica,50 µM,105 spores/ml,shaking,30°C,8 days,6.5,91.54%,mycelium,Mycelial dry weight was 60 mg at 8 days.
+congo red,Lepiota sp.,50 µM,105 spores/ml,shaking,30°C,8 days,6.5,90.07%,mycelium,Mycelial dry weight was 56 mg at 8 days.
+congo red,Trametes serialis,50 µM,105 spores/ml,shaking,30°C,8 days,6.5,95.48%,mycelium,Mycelial dry weight was increased at 8 days.
+textile effluent,Daldenia concentrica,N/A,105 spores/ml,batch mode,39°C,7 days,N/A,84.52%,mycelium,Maximum removal observed on the seventh day.
+textile effluent,Lepiota sp.,N/A,105 spores/ml,batch mode,39°C,7 days,N/A,66.67%,mycelium,Maximum removal observed on the seventh day.
+textile effluent,Trametes serialis,N/A,105 spores/ml,batch mode,39°C,7 days,N/A,89.28%,mycelium,Maximum removal observed on the seventh day.

@@ -1,0 +1,11 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Neolane yellow,Trametes trogii,50 mg/l,not specified,static,30°C,1 day,5.5,18%,mycelium,
+Neolane yellow,Trametes trogii,50 mg/l,not specified,static,30°C,4 days,5.5,39.6%,mycelium,
+Maxillon blue,Trametes trogii,50 mg/l,not specified,static,30°C,1 day,5.5,0%,mycelium,
+Maxillon blue,Trametes trogii,50 mg/l,not specified,static,30°C,4 days,5.5,0%,mycelium,
+Neolane pink,Trametes trogii,50 mg/l,not specified,static,30°C,1 day,5.5,63.6%,mycelium,
+Neolane pink,Trametes trogii,50 mg/l,not specified,static,30°C,4 days,5.5,86.4%,mycelium,
+Bezaktiv S-BF turquoise,Trametes trogii,50 mg/l,not specified,static,30°C,1 day,5.5,54%,mycelium,
+Bezaktiv S-BF turquoise,Trametes trogii,50 mg/l,not specified,static,30°C,4 days,5.5,71%,mycelium,
+Neolane blue,Trametes trogii,50 mg/l,not specified,static,30°C,1 day,5.5,91.5%,mycelium,
+Neolane blue,Trametes trogii,50 mg/l,not specified,static,30°C,4 days,5.5,91.2%,mycelium,

@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+kraft brown bags,Aspergillus niger strain 13A,1%,3 ml of 1 × 10^6 spores,shaking,35 °C,14 days,6.0,highest cellulase production,whole fungi,"In both SSF and SmF, kraft brown bags produced CMC-ase at 0.813 ± 0.067 IU/ml."
+cardboard,Aspergillus niger strain 13A,1%,3 ml of 1 × 10^6 spores,shaking,35 °C,14 days,6.0,good cellulase production,whole fungi,Optimum enzymatic activity was reported.
+foolscap,Aspergillus niger strain 13A,1%,3 ml of 1 × 10^6 spores,shaking,35 °C,14 days,6.0,moderate cellulase production,whole fungi,Effective in enzyme production.
+printout paper,Aspergillus niger strain 13A,1%,3 ml of 1 × 10^6 spores,shaking,35 °C,14 days,6.0,low cellulase production,whole fungi,Suboptimal for enzyme production.
+newspapers,Aspergillus niger strain 13A,1%,3 ml of 1 × 10^6 spores,shaking,35 °C,14 days,6.0,very low cellulase production,whole fungi,Considered less effective.
+coated cardboard,Aspergillus niger strain 13A,1%,3 ml of 1 × 10^6 spores,shaking,35 °C,14 days,6.0,very low cellulase production,whole fungi,Using these leads to lower enzyme yields.
+"mixture of kraft, cardboard, foolscap, printout papers",Aspergillus niger strain 13A,1:1:1:1,1 × 10^6 spores,n/a,optimal growth conditions,42 days,n/a,complete degradation,mycelium,Produced bioorganic materials used for soil treatment.
+n/a,Aspergillus niger strain 13A,n/a,1 × 10^6 spores,n/a,n/a,10 days,n/a,78.5% inhibition of Fusarium oxysporum,whole fungi,Effectiveness as a biocontrol agent assessed.

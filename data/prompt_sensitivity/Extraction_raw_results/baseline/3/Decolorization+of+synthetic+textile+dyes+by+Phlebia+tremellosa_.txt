@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Reactive blue,Polyporus rubidus,1000 mg/L,1 g (wet weight),shaking,28 ± 2 °C,5 days,5.5,"63% color remaining on day 1, 46% on day 3, 39% on day 5",mycelium,Used in a bioreactor
+Reactive blue,Polyporus rubidus,400 mg/L,1 g (wet weight),shaking,28 ± 2 °C,5 days,5.5,20% color remaining after five days,mycelium,Used in a bioreactor
+Reactive blue,Polyporus rubidus,100 mg/L,1 g (wet weight),shaking,28 ± 2 °C,5 days,5.5,90% decolorisation achieved after five days,mycelium,Used in a bioreactor
+Reactive orange,Polyporus rubidus,1000 mg/L,1 g (wet weight),shaking,28 ± 2 °C,5 days,5.5,40% color remaining after five days,mycelium,Used in a bioreactor
+Reactive orange,Polyporus rubidus,100 mg/L,1 g (wet weight),shaking,28 ± 2 °C,5 days,5.5,92% decolorisation achieved after five days,mycelium,Used in a bioreactor
+Ramazol black,Polyporus rubidus,1000 mg/L,1 g (wet weight),shaking,28 ± 2 °C,5 days,5.5,26% color remaining on day 5,mycelium,Used in a bioreactor
+Ramazol black,Polyporus rubidus,100 mg/L,1 g (wet weight),shaking,28 ± 2 °C,5 days,5.5,Complete decolorisation observed within 3 days,mycelium,Used in a bioreactor
+Congo red,Polyporus rubidus,100 mg/L,1 g (wet weight),shaking,28 ± 2 °C,5 days,5.5,Complete decolorisation observed within 3 days,mycelium,Used in a bioreactor
+Congo red,Polyporus rubidus,1000 mg/L,1 g (wet weight),shaking,28 ± 2 °C,5 days,5.5,Effective when treated with laccase,mycelium,Used in a bioreactor

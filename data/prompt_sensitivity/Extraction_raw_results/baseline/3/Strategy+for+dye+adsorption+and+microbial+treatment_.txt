@@ -1,0 +1,11 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Cibacron Red C-2G-reactive dye,Coriolus versicolor,500 mg/L,unknown,solid-state fermentation,ambient,unknown,unknown,not reported,mycelial growth,Figure indicating growth of fungi.
+Remazol Navy Blue GG-diazo dye,Coriolus versicolor,500 mg/L,unknown,solid-state fermentation,ambient,unknown,unknown,not reported,mycelial growth,Figure indicating growth of fungi.
+Remazol Red RB-diazo dye,Coriolus versicolor,500 mg/L,unknown,solid-state fermentation,ambient,unknown,unknown,not reported,mycelial growth,Figure indicating growth of fungi.
+Cibacron Orange CG-reactive dye,Coriolus versicolor,500 mg/L,unknown,solid-state fermentation,ambient,unknown,unknown,not reported,mycelial growth,Figure indicating growth of fungi.
+Remazol Golden Yellow RNL-azo dye,Coriolus versicolor,500 mg/L,unknown,solid-state fermentation,ambient,unknown,unknown,not reported,mycelial growth,Figure indicating growth of fungi.
+Hisperse Navy D2GR-disperse dye,Coriolus versicolor,500 mg/L,unknown,solid-state fermentation,ambient,unknown,unknown,not reported,mycelial growth,Figure indicating growth of fungi.
+Remazol Blue B-diazo dye,Coriolus versicolor,500 mg/L,unknown,solid-state fermentation,ambient,unknown,unknown,not reported,mycelial growth,Figure indicating growth of fungi.
+Remazol Turquoise Blue G 133 -phthalocyanine dye,Coriolus versicolor,500 mg/L,unknown,solid-state fermentation,ambient,unknown,unknown,not reported,mycelial growth,Figure indicating growth of fungi.
+Remazol Black B-diazo dye,Bjerkandera adusta,unknown,unknown,solid-state fermentation,80-85% moisture content,unknown,unknown,53%,mycelial growth,Fermented mass enriched with protein.
+Remazol Black B,Kluyveromyces marxianus,unknown,unknown,anaerobic cultivation,37°C,unknown,3.0-5.5,98%,yeast,No appreciable color removal in anaerobic condition.

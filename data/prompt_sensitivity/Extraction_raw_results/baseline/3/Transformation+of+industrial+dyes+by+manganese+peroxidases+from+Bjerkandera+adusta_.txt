@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+lignin,Bjerkandera sp. (strain B33/3),sulphur-free lignin from soda straw pulping,not specified,stirring at 90 rpm,30 °C,2.0 h,4.0,57.5%,whole fungi,1st replicate result.
+lignin,Bjerkandera sp. (strain B33/3),sulphur-free lignin from soda straw pulping,not specified,stirring at 90 rpm,30 °C,2.0 h,5.3,55.7%,whole fungi,2nd replicate result.
+lignin,Bjerkandera sp. (strain B33/3),sulphur-free lignin from soda straw pulping,not specified,stirring at 90 rpm,30 °C,4.0 h,4.0,66.7%,whole fungi,1st replicate result.
+lignin,Bjerkandera sp. (strain B33/3),sulphur-free lignin from soda straw pulping,not specified,stirring at 90 rpm,30 °C,4.0 h,5.3,74.9%,whole fungi,2nd replicate result.
+lignin,Bjerkandera sp. (strain B33/3),sulphur-free lignin from soda straw pulping,not specified,stirring at 90 rpm,30 °C,2.0 h,4.0 (800:1 ratio),0.0%,whole fungi,Not successful.
+lignin,Bjerkandera sp. (strain B33/3),sulphur-free lignin from soda straw pulping,not specified,stirring at 90 rpm,30 °C,4.0 h,4.0 (1500:1 ratio),10.1%,whole fungi,Not successful.
+lignin,Bjerkandera sp. (strain B33/3),sulphur-free lignin from soda straw pulping,not specified,stirring at 90 rpm,30 °C,4.0 h,5.3 (800:1 ratio),44.7%,whole fungi,First replicate.
+lignin,Bjerkandera sp. (strain B33/3),sulphur-free lignin from soda straw pulping,not specified,stirring at 90 rpm,30 °C,4.0 h,5.3 (1500:1 ratio),50.6%,whole fungi,Second replicate.

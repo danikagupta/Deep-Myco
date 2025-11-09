@@ -1,0 +1,13 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+acid dyes,Bjerkandera adusta,100 ppm,not specified,shaking,28°C,7 days,5.7,88.0%,mycelium,DP values obtained from Table 1
+acid dyes,Bjerkandera adusta,100 ppm,not specified,shaking,28°C,7 days,5.8,96.5%,mycelium,DP values obtained from Table 1
+acid dyes,Bjerkandera adusta,100 ppm,not specified,shaking,28°C,7 days,7.5,67.5%,mycelium,DP values obtained from Table 1
+reactive dyes,Bjerkandera adusta,1250 ppm,not specified,shaking,28°C,7 days,6.8,29.2%,mycelium,DP values obtained from Table 1
+reactive dyes,Bjerkandera adusta,1250 ppm,not specified,shaking,28°C,7 days,6.3,55.8%,mycelium,DP values obtained from Table 1
+reactive dyes,Bjerkandera adusta,1250 ppm,not specified,shaking,28°C,7 days,6.2,61.0%,mycelium,DP values obtained from Table 1
+direct dyes,Bjerkandera adusta,1000 ppm,not specified,shaking,28°C,7 days,7.4,50.2%,mycelium,DP values obtained from Table 1
+direct dyes,Bjerkandera adusta,1000 ppm,not specified,shaking,28°C,7 days,6.5,89.7%,mycelium,DP values obtained from Table 1
+direct dyes,Bjerkandera adusta,1000 ppm,not specified,shaking,28°C,7 days,8.6,75.0%,mycelium,DP values obtained from Table 1
+acid dyes,Bjerkandera adusta,100 ppm,not specified,shaking,28°C,7 days,6.6,82.7%,mycelium,DP values obtained from Table 1
+acid dyes,Bjerkandera adusta,100 ppm,not specified,shaking,28°C,7 days,7.3,91.4%,mycelium,DP values obtained from Table 1
+acid dyes,Bjerkandera adusta,100 ppm,not specified,shaking,28°C,7 days,8.2,74.6%,mycelium,DP values obtained from Table 1

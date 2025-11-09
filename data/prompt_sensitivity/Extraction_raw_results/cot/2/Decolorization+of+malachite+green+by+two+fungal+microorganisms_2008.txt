@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Acid Black 194,Aspergillus flavus Link,0.05 g/L,1 disc (1 cm in diameter),not specified,24°C,8 days,7,85%,mycelium,Figure 2: Determination of the highest decolorization rate
+Acid Black 194,Aspergillus tamarii Kita,0.05 g/L,1 disc (1 cm in diameter),not specified,24°C,8 days,7,91.15%,mycelium,Figure 2: Determination of the highest decolorization rate
+Acid Black 194,Aspergillus parasiticus Speare,0.05 g/L,1 disc (1 cm in diameter),not specified,24°C,8 days,7,85%,mycelium,Figure 2: Determination of the highest decolorization rate
+Acid Black 194,Aspergillus flavus Link,50 mg/L,10 discs,not specified,24°C,8 days,not specified,not specified,mycelium,not specified
+Acid Black 194,Aspergillus tamarii Kita,50 mg/L,10 discs,not specified,24°C,8 days,not specified,not specified,mycelium,not specified
+Acid Black 194,Aspergillus parasiticus Speare,50 mg/L,10 discs,not specified,24°C,8 days,not specified,not specified,mycelium,not specified

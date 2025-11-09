@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Orange II,Pleurotus ostreatus,100 ppm,10 mM buffer,"static for 3 days, then shaking at 150 rpm",30 °C,4 days,"varied (3, 4, 5, 6, 7)",90% after 4 days,fungal mass,
+Acid Red 29,Pleurotus ostreatus,100 ppm,10 mM buffer,"static for 3 days, then shaking at 150 rpm",30 °C,4 days,"varied (3, 4, 5, 6, 7)",30% after 7 days,fungal mass,
+Remazol Brilliant Blue R,Pleurotus ostreatus,100 ppm,10 mM buffer,"static for 3 days, then shaking at 150 rpm",30 °C,4 days,"varied (3, 4, 5, 6, 7)",fastest with 20 mM buffer,fungal mass,
+Disperse Red 1,Pleurotus ostreatus,"initial 50, 100, 200 ppm",NA,shaking at 150 rpm,30 °C,4 days,NA,"production of nitrobenzene, 4-nitrophenol, 4-nitroaniline",NA,Different concentrations affect degradation results
+Disperse Red 19,Pleurotus ostreatus,"initial 50, 100, 200 ppm",NA,shaking at 150 rpm,30 °C,4 days,NA,similar products as Disperse Red 1,NA,
+Disperse Orange 1,Pleurotus ostreatus,initial 50 ppm,NA,shaking at 150 rpm,30 °C,4 days,NA,"nitrobenzene, 4-nitrophenol, 4-nitroaniline produced",NA,
+Disperse Orange 25,Pleurotus ostreatus,initial 50 ppm,NA,shaking at 150 rpm,30 °C,4 days,NA,produced 4-nitroanisole among others,NA,
+Disperse Red 13,Pleurotus ostreatus,initial 50 ppm,NA,shaking at 150 rpm,30 °C,4 days,NA,"1-chloro-3-nitrobenzene, 2-chloro-4-nitroaniline produced",NA,

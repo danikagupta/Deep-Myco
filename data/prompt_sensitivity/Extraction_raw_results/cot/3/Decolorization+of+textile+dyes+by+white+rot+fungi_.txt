@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Amaranth,Trametes versicolor,50 ppm,not specified,shaking,30 °C,1 day,not specified,100%,mycelium,
+Remazol Black B,Trametes versicolor,60 ppm,not specified,shaking,30 °C,1 day,not specified,100%,mycelium,
+Tropaeolin O,Trametes versicolor,20 ppm,not specified,shaking,30 °C,3 days,not specified,100%,mycelium,
+Remazol Orange,Trametes versicolor,60 ppm,not specified,shaking,30 °C,3 days,not specified,100%,mycelium,
+Reactive Blue,Trametes versicolor,20 ppm,not specified,shaking,30 °C,1 day,not specified,100%,mycelium,
+Amaranth,Bjerkandera sp. BOS55,50 ppm,not specified,shaking,30 °C,1 day,not specified,100%,mycelium,
+Remazol Black B,Bjerkandera sp. BOS55,60 ppm,not specified,shaking,30 °C,3 days,not specified,96%,mycelium,
+Amaranth,Phanerochaete chrysosporium,50 ppm,not specified,shaking,37 °C,1 day,not specified,100%,mycelium,
+Remazol Black B,Phanerochaete chrysosporium,60 ppm,not specified,shaking,37 °C,3 days,not specified,100%,mycelium,

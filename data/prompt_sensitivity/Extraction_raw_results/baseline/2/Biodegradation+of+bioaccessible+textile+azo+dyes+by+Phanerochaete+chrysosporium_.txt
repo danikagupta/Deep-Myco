@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,additional information
+Sm-g,whole fungi,50 mg l−1,8 mm plug in 100 ml LCM,shaking,30 °C,14 days,4.5,"75% at day 7, 83% at day 14",Pre-growth medium PAM used.
+Sm-g,whole fungi,50 mg l−1,8 mm plug in 100 ml LCM,shaking,30 °C,28 days,4.5,83%,Experiments conducted in LCM medium with sucrose.
+S m-s,whole fungi,50 mg l−1,8 mm plug in 100 ml LCM,shaking,30 °C,28 days,4.5,85% at day 14,Initial adaptation to dye S m-g.
+S p-g,whole fungi,50 mg l−1,8 mm plug in 100 ml LCM,shaking,30 °C,28 days,4.5,89%,"Pre-adapted to S m-g, then tested with S p-g."
+C m-s,whole fungi,50 mg l−1,8 mm plug in 100 ml LCM,shaking,30 °C,28 days,4.5,88%,Dye structure comparison with previously tested dyes.
+C m-g,whole fungi,50 mg l−1,8 mm plug in 100 ml LCM,shaking,30 °C,28 days,4.5,88%,Comparison of degradation efficiency with different coupling agents.

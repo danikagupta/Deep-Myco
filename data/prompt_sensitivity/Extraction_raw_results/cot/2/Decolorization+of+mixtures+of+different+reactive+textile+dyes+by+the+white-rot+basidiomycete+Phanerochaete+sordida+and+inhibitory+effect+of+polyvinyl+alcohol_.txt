@@ -1,0 +1,13 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Remazol Brilliant Blue R (RBBR),KRUS-G,100 ppm,not specified,shaking,28°C,6 days,4,79%,mycelium,Comparative study with P. chrysosporium and C. subvermispora.
+Remazol Brilliant Blue R (RBBR),KRUS-G,500 ppm,not specified,shaking,28°C,6 days,4,93.32%,mycelium,Comparative study with P. chrysosporium and C. subvermispora.
+Remazol Brilliant Blue R (RBBR),KRUS-G,1000 ppm,not specified,shaking,28°C,6 days,4,not specified,mycelium,Decolorization occurred even at high dye concentrations.
+Remazol Brilliant Blue R (RBBR),KRUS-G,1500 ppm,not specified,shaking,28°C,6 days,4,not specified,mycelium,Decolorization occurred even at high dye concentrations.
+Remazol Brilliant Blue R (RBBR),P. chrysosporium,100 ppm,not specified,shaking,28°C,6 days,4,21-23%,mycelium,Comparative study with KRUS-G and C. subvermispora.
+Remazol Brilliant Blue R (RBBR),C. subvermispora,100 ppm,not specified,shaking,28°C,6 days,4,63-68%,mycelium,Comparative study with KRUS-G and P. chrysosporium.
+Remazol Brilliant Blue R (RBBR),KRUS-G,500 ppm,not specified,not specified,28°C,6 days,5,not specified,mycelium,Effect of different pH levels.
+Remazol Brilliant Blue R (RBBR),KRUS-G,1000 ppm,not specified,not specified,28°C,6 days,5,not specified,mycelium,Effect of different pH levels.
+Remazol Brilliant Blue R (RBBR),KRUS-G,1500 ppm,not specified,not specified,28°C,6 days,5,not specified,mycelium,Effect of different pH levels.
+Remazol Brilliant Blue R (RBBR),KRUS-G,500 ppm,not specified,not specified,28°C,6 days,6,not specified,mycelium,Effect of different pH levels.
+Remazol Brilliant Blue R (RBBR),KRUS-G,1000 ppm,not specified,not specified,28°C,6 days,6,not specified,mycelium,Effect of different pH levels.
+Remazol Brilliant Blue R (RBBR),KRUS-G,1500 ppm,not specified,not specified,28°C,6 days,6,not specified,mycelium,Effect of different pH levels.

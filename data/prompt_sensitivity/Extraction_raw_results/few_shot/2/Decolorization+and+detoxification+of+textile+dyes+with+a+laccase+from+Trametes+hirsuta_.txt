@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Triarylmethane,Trametes hirsuta,0.25 mM,1.5 g (wet weight),static,30 °C,8 days,5.0,not specified,mycelium,decolorization achieved without biological activity due to antibiotics
+Indigoid,Trametes hirsuta,0.25 mM,1.5 g (wet weight),static,30 °C,8 days,5.0,not specified,mycelium,decolorization achieved without biological activity due to antibiotics
+Azo,Trametes hirsuta,0.25 mM,1.5 g (wet weight),static,30 °C,8 days,5.0,not specified,mycelium,decolorization achieved without biological activity due to antibiotics
+Anthraquinonic,Trametes hirsuta,0.25 mM,1.5 g (wet weight),static,30 °C,8 days,5.0,not specified,mycelium,decolorization achieved without biological activity due to antibiotics
+Direct Blue 71,Trametes hirsuta,0.25 mM,1.5 g (wet weight),static,30 °C,8 days,5.0,40%,mycelium,treatment with antibiotics inhibited growth
+Basic Red 9 Base,Trametes hirsuta,0.25 mM,1.5 g (wet weight),static,30 °C,8 days,5.0,62.2%,mycelium,reported highest adsorption to mycelium at 7%
+Reactive Blue 19,Trametes hirsuta,0.25 mM,1.5 g (wet weight),static,30 °C,8 days,5.0,84.4%,mycelium,
+Reactive Blue 221,Trametes hirsuta,0.25 mM,1.5 g (wet weight),static,30 °C,8 days,5.0,4.1%,mycelium,
+Reactive Black 5,Trametes hirsuta,0.25 mM,1.5 g (wet weight),static,30 °C,8 days,5.0,11.4%,mycelium,

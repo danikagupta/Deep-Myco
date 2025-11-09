@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+kraft brown bags,Aspergillus niger strain 13A,1%,1 x 10^6 spores/mL,shaking,35 °C,14 days,6.0,Highest cellulase production,whole fungi,Fermentation under solid-state fermentation and submerged fermentation
+cardboard,Aspergillus niger strain 13A,1%,1 x 10^6 spores/mL,shaking,35 °C,14 days,6.0,High cellulase production,whole fungi,Fermentation under solid-state fermentation and submerged fermentation
+foolscap,Aspergillus niger strain 13A,1%,1 x 10^6 spores/mL,shaking,35 °C,14 days,6.0,Moderate cellulase production,whole fungi,Fermentation under solid-state fermentation and submerged fermentation
+printout paper,Aspergillus niger strain 13A,1%,1 x 10^6 spores/mL,shaking,35 °C,14 days,6.0,Lower cellulase production,whole fungi,Fermentation under solid-state fermentation and submerged fermentation
+newspapers,Aspergillus niger strain 13A,1%,1 x 10^6 spores/mL,shaking,35 °C,14 days,6.0,Lowest cellulase production,whole fungi,Fermentation under solid-state fermentation and submerged fermentation
+coated cardboard,Aspergillus niger strain 13A,1%,1 x 10^6 spores/mL,shaking,35 °C,14 days,6.0,Lowest cellulase production,whole fungi,Fermentation under solid-state fermentation and submerged fermentation
+mixed paper waste,Aspergillus niger strain 13A,1%,1 x 10^6 spores/mL,shaking,35 °C,42 days,N/A,Complete degradation,whole fungi,For producing bioorganic materials used to control Fusarium wilt

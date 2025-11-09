@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+not specified,Aspergillus niger,not specified,1 × 10^6 spores,not specified,35 °C,6 days,6.0,not applicable,whole fungi,Enzyme production using paper wastes.
+kraft brown bags,Aspergillus niger,not specified,1 × 10^6 spores,shaking,35 °C,14 days,not specified,not specified,whole fungi,Maximum cellulase production in solid-state fermentation.
+cardboard,Aspergillus niger,not specified,1 × 10^6 spores,shaking,35 °C,14 days,not specified,not specified,whole fungi,Second highest cellulase production under SSF.
+foolscap,Aspergillus niger,not specified,1 × 10^6 spores,shaking,35 °C,14 days,not specified,not specified,whole fungi,Cellulase production measured.
+printout paper,Aspergillus niger,not specified,1 × 10^6 spores,shaking,35 °C,14 days,not specified,not specified,whole fungi,Cellulase production measured.
+newspapers,Aspergillus niger,not specified,1 × 10^6 spores,shaking,35 °C,14 days,not specified,not specified,whole fungi,Cellulase production measured.
+coated cardboard,Aspergillus niger,not specified,1 × 10^6 spores,shaking,35 °C,14 days,not specified,not specified,whole fungi,Cellulase production measured.
+not specified,Aspergillus niger,not specified,1 × 10^6 spores,not specified,"temperature varied (20, 25, 30, 35, 40, 45, 50 °C)",6 days,6.0,not applicable,whole fungi,Result showed maximum cellulase production at 35 °C.
+not specified,Aspergillus niger,not specified,1 × 10^6 spores,not specified,not specified,42 days,not specified,not applicable,whole fungi,Used for biocontrol of Fusarium wilt.

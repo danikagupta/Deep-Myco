@@ -1,0 +1,19 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+red dye,Aspergillus niger,50 ppm,not specified,not specified,25 °C,24 h,not specified,62.85%,mycelium,not specified
+red dye,Aspergillus niger,50 ppm,not specified,not specified,25 °C,48 h,not specified,83.52%,mycelium,not specified
+red dye,Aspergillus niger,50 ppm,not specified,not specified,25 °C,72 h,not specified,99.77%,mycelium,not specified
+red dye,Aspergillus niger,100 ppm,not specified,not specified,25 °C,24 h,not specified,50.96%,mycelium,not specified
+red dye,Aspergillus niger,100 ppm,not specified,not specified,25 °C,48 h,not specified,77.87%,mycelium,not specified
+red dye,Aspergillus niger,100 ppm,not specified,not specified,25 °C,72 h,not specified,96.02%,mycelium,not specified
+red dye,Aspergillus niger,300 ppm,not specified,not specified,25 °C,24 h,not specified,38.87%,mycelium,not specified
+red dye,Aspergillus niger,300 ppm,not specified,not specified,25 °C,48 h,not specified,60.55%,mycelium,not specified
+red dye,Aspergillus niger,300 ppm,not specified,not specified,25 °C,72 h,not specified,92.19%,mycelium,not specified
+yellow dye,Aspergillus niger,50 ppm,not specified,not specified,25 °C,24 h,not specified,62.09%,mycelium,not specified
+yellow dye,Aspergillus niger,50 ppm,not specified,not specified,25 °C,48 h,not specified,80.94%,mycelium,not specified
+yellow dye,Aspergillus niger,50 ppm,not specified,not specified,25 °C,72 h,not specified,94.11%,mycelium,not specified
+yellow dye,Aspergillus niger,100 ppm,not specified,not specified,25 °C,24 h,not specified,48.31%,mycelium,not specified
+yellow dye,Aspergillus niger,100 ppm,not specified,not specified,25 °C,48 h,not specified,76.88%,mycelium,not specified
+yellow dye,Aspergillus niger,100 ppm,not specified,not specified,25 °C,72 h,not specified,93.65%,mycelium,not specified
+yellow dye,Aspergillus niger,300 ppm,not specified,not specified,25 °C,24 h,not specified,38.68%,mycelium,not specified
+yellow dye,Aspergillus niger,300 ppm,not specified,not specified,25 °C,48 h,not specified,58.01%,mycelium,not specified
+yellow dye,Aspergillus niger,300 ppm,not specified,not specified,25 °C,72 h,not specified,88.9%,mycelium,not specified

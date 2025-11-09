@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Methyl tert-butyl ether (MTBE),Phanerochaete chrysosporium,unknown,unknown,shaking,37°C,21 days,4.56,37% degradation,mycelium,Laccase from Rhus vemificera used.
+Naphthalene,Phanerochaete chrysosporium,unknown,unknown,shaking,37°C,21 days,4.56,27% degradation,mycelium,Laccase from Rhus vemificera used.
+Methyl tert-butyl ether (MTBE),Phanerochaete chrysosporium,144 Units/L,unknown,shaking,37°C,5 days,unknown,36% degradation at 144 Units/L,mycelium,Partially purified laccase used.
+Naphthalene,Phanerochaete chrysosporium,unknown,unknown,shaking,37°C,5 days,unknown,unknown,mycelium,Naphthalene degradation observed.
+Methyl tert-butyl ether (MTBE),Rhus vemificera,72 Units/L,unknown,shaking,25°C,unknown,unknown,27% degradation,mycelium,Comparative study with different enzyme concentrations.
+Methyl tert-butyl ether (MTBE),Rhus vemificera,36 Units/L,unknown,shaking,25°C,unknown,unknown,26% degradation,mycelium,Syringaldazine used as mediating substrate.

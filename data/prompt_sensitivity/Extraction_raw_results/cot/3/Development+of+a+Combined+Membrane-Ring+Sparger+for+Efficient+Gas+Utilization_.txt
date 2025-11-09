@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Phenol,Trametes versicolor,13.8 mM,not specified,not specified,not specified,1 day,not specified,0.125 g/g/d,mycelium,highest total removal of toxic phenols reported
+p-cresol,Trametes versicolor,4.17 mM,not specified,not specified,not specified,1 day,not specified,0.075 g/g/d,mycelium,highest total removal of toxic phenols reported
+m-cresol,Trametes versicolor,4.3 mM,not specified,not specified,not specified,1 day,not specified,0.077 g/g/d,mycelium,highest total removal of toxic phenols reported
+o-cresol,Trametes versicolor,12.84 mM,not specified,not specified,not specified,1 day,not specified,0.231 g/g/d,mycelium,highest total removal of toxic phenols reported
+Phenol,Trametes pubescens,31 mM,not specified,not specified,not specified,8 days,not specified,0.0 g/g/d,mycelium,removal completed after 8 days exposure to SGL effluent
+p-cresol,Trametes pubescens,6.25 mM,not specified,not specified,not specified,8 days,not specified,0.0 g/g/d,mycelium,removal completed after 8 days exposure to SGL effluent
+m-cresol,Trametes pubescens,6.7 mM,not specified,not specified,not specified,8 days,not specified,0.0 g/g/d,mycelium,removal completed after 8 days exposure to SGL effluent
+o-cresol,Trametes pubescens,87.65 mM,not specified,not specified,not specified,8 days,not specified,0.0 g/g/d,mycelium,removal completed after 8 days exposure to SGL effluent

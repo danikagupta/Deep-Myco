@@ -1,0 +1,13 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Molasses wastewater,Citeromyces siamensis,1% glucose,not specified,shaking,30,7 days,not specified,not specified,not specified,OD recorded at 574 nm
+Molasses wastewater,Citeromyces siamensis,2% glucose,not specified,shaking,30,7 days,not specified,not specified,not specified,OD recorded at 574 nm
+Molasses wastewater,Citeromyces siamensis,3% glucose,not specified,shaking,30,7 days,not specified,not specified,not specified,OD recorded at 574 nm
+Molasses wastewater,Issuedchenkia orientalis,1% glucose,not specified,shaking,30,7 days,not specified,not specified,not specified,OD recorded at 574 nm
+Molasses wastewater,Issuedchenkia orientalis,2% glucose,not specified,shaking,30,7 days,not specified,not specified,not specified,OD recorded at 574 nm
+Molasses wastewater,Issuedchenkia orientalis,3% glucose,not specified,shaking,30,7 days,not specified,not specified,not specified,OD recorded at 574 nm
+Molasses wastewater,Saccharomyces cerevisiae,1% glucose,not specified,shaking,30,7 days,not specified,not specified,not specified,OD recorded at 574 nm
+Molasses wastewater,Saccharomyces cerevisiae,2% glucose,not specified,shaking,30,7 days,not specified,not specified,not specified,OD recorded at 574 nm
+Molasses wastewater,Saccharomyces cerevisiae,3% glucose,not specified,shaking,30,7 days,not specified,not specified,not specified,OD recorded at 574 nm
+Molasses wastewater,Citeromyces siamensis,1% peptone,not specified,shaking,30,7 days,not specified,not specified,not specified,OD recorded at 574 nm
+Molasses wastewater,Issatchenkia orientalis,1% peptone,not specified,shaking,30,7 days,not specified,not specified,not specified,OD recorded at 574 nm
+Molasses wastewater,Saccharomyces cerevisiae,1% yeast extract,not specified,shaking,30,7 days,not specified,not specified,not specified,OD recorded at 574 nm

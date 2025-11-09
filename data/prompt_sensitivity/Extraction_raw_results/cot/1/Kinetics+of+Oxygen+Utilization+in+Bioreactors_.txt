@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+bentazon,Trametes versicolor,10 ppm,3.5 g DW⋅L⁻¹,stirring,25 °C,6 h,4.5,complete removal,pellets,maximum performance at 30% DO
+tributyl phosphate,Trametes versicolor,5 ppm,3.5 g DW⋅L⁻¹,stirring,25 °C,32 h,4.5,complete removal,pellets,maximum performance at 30% DO
+bentazon,Trametes versicolor,10 ppm,3.5 g DW⋅L⁻¹,stirring,25 °C,~24/48 h (3 cycles),4.5,moderate,pellets,degradation rate decreased with lower DO
+tributyl phosphate,Trametes versicolor,5 ppm,3.5 g DW⋅L⁻¹,stirring,25 °C,~24/48 h (3 cycles),4.5,moderate,pellets,degradation rate decreased with lower DO

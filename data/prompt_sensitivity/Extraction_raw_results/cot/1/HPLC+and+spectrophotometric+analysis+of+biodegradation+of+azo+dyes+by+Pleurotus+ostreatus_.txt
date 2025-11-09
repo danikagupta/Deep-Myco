@@ -1,0 +1,11 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Orange II,Pleurotus ostreatus,100 ppm,not specified,shaking,30 °C,3 days,5,90%,mycelium,not specified
+Acid Red 29,Pleurotus ostreatus,100 ppm,not specified,shaking,30 °C,3 days,5,51.4%,mycelium,not specified
+Remazol Brilliant Blue R,Pleurotus ostreatus,100 ppm,not specified,shaking,30 °C,3 days,5,~42.1%,mycelium,not specified
+Disperse Red 1,Pleurotus ostreatus,100 ppm,not specified,shaking,30 °C,4-7 days,5,not specified,mycelium,"Produces nitrobenzene, 4-nitrophenol, and 4-nitroaniline."
+Disperse Red 19,Pleurotus ostreatus,100 ppm,not specified,shaking,30 °C,4-7 days,5,not specified,mycelium,"Produces nitrobenzene, 4-nitrophenol, and 4-nitroaniline."
+Disperse Orange 1,Pleurotus ostreatus,100 ppm,not specified,shaking,30 °C,4-7 days,5,not specified,mycelium,"Produces nitrobenzene, 4-nitrophenol, and 4-nitroaniline."
+Disperse Orange 25,Pleurotus ostreatus,100 ppm,not specified,shaking,30 °C,4-7 days,5,not specified,mycelium,"Produces nitrobenzene, 4-nitrophenol, and 4-nitroaniline."
+Disperse Red 13,Pleurotus ostreatus,100 ppm,not specified,shaking,30 °C,4-7 days,5,not specified,mycelium,"Produces 1-chloro-3-nitrobenzene, 2-chloro-4-nitroaniline, and 2-chloro-4-nitroanisole."
+4-nitrophenol,Pleurotus ostreatus,25 ppm,not specified,shaking,30 °C,7 days,5,~90%,mycelium,Further degradation produces 4-nitroanisole and others.
+4-nitroaniline,Pleurotus ostreatus,25 ppm,not specified,shaking,30 °C,7 days,5,not specified,mycelium,Degrades into nitrobenzene and 4-nitrophenol.

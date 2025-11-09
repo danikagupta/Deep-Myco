@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Olive Mill Wastewater,Trametes versicolor,not specified,not specified,not specified,40.5 - 41.5 °C,15 min,3,76.12%,whole fungi,Laccase enzyme activity measured.
+Olive Mill Wastewater,Trametes versicolor,0%,not specified,not specified,not specified,not specified,not specified,0%,whole fungi,Control condition.
+Olive Mill Wastewater,Trametes versicolor,1%,not specified,not specified,not specified,not specified,not specified,14.50%,whole fungi,Measured absorbance at 425nm.
+Olive Mill Wastewater,Trametes versicolor,2%,not specified,not specified,not specified,not specified,not specified,20.34%,whole fungi,Measured absorbance at 425nm.
+Olive Mill Wastewater,Trametes versicolor,5%,not specified,not specified,not specified,not specified,not specified,22.85%,whole fungi,Measured absorbance at 425nm.

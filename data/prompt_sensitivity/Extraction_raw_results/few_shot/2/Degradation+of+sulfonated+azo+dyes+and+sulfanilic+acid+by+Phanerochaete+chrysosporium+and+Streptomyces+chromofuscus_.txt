@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+4-(4'-sulfopheny1azo)-phenol,Phanerochaete chrysosporium,not specified,not specified,static,not specified,not specified,not specified,complete,not specified,oxidized by peroxidases
+2-(4'-sulfopheny1azo)-phenol,Phanerochaete chrysosporium,not specified,not specified,static,not specified,not specified,not specified,not oxidized,not specified,poor substrate for peroxidases
+Orange I,not specified,200 µM,not specified,shaking,25 °C,10 min,not specified,complete (100%),not applicable,reduction by zero-valent iron
+Orange II,not specified,200 µM,not specified,shaking,25 °C,10 min,not specified,complete (100%),not applicable,reduction by zero-valent iron
+4-hydroxyazobenzene,not specified,200 µM,not specified,shaking,25 °C,10 min,not specified,not specified,not applicable,suggested to produce aniline as reduction product
+Allura Red,not specified,100 µM,not specified,not specified,25 °C,not specified,not specified,93%,not applicable,reduction by NADH
+Sunset Yellow FCF,not specified,100 µM,not specified,not specified,25 °C,not specified,not specified,58%,not applicable,reduction by NADH

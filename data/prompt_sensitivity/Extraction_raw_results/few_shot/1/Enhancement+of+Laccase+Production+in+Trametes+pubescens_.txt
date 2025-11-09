@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+not specified,Trametes hirsuta,not specified,not specified,shaking (150 rpm),25 °C,20 days,5.8,7614 U/L,mycelium,maximum laccase activity observed on the 20th day
+not specified,Trametes hirsuta,not specified,not specified,shaking (150 rpm),25 °C,5 days,5.8,17074 U/L,mycelium,1 mM copper sulfate introduced on the third day
+not specified,Trametes hirsuta,not specified,not specified,shaking (150 rpm),25 °C,5 days,5.8,23543 U/L,mycelium,"1 mM 2,5 xylidine introduced on the third day"
+not specified,Trametes hirsuta,not specified,not specified,shaking (150 rpm),25 °C,5 days,5.8,25889 U/L,mycelium,optimized using Plakett-Burman design
+not specified,Trametes hirsuta,not specified,20 g/L,not specified,not specified,not specified,not specified,9300 U/L,whole fungi,test on wheat bran
+not specified,Trametes hirsuta,not specified,not specified,not specified,not specified,not specified,not specified,7032 U/L,whole fungi,tested combining wheat bran and orange peeling

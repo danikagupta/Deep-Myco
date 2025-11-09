@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Congo red,Pha. chrysosporium,not specified,not specified,not specified,not specified,not specified,not specified,not specified,mycelium,Reported in Gill et al.
+Reactive Orange 16,Irpex lacteus,not specified,not specified,not specified,not specified,not specified,not specified,up to 80%,whole fungi,Reported in Svobodová et al.
+Congo red,Ganoderma lucidum,100 mg/L,not specified,not specified,not specified,not specified,not specified,not specified,whole fungi,Reported with several other fungal strains.
+Blue 21,Fusarium oxysporum,not specified,not specified,not specified,not specified,not specified,not specified,not specified,fungal mass,Reported in multiple studies.
+Cresol Red,Absidia spinosa,not specified,not specified,not specified,not specified,not specified,not specified,up to 65%,whole fungi,Reported in Kristanti et al.
+Malachite Green,Aspergillus flavus,not specified,not specified,not specified,not specified,not specified,not specified,intermediate N-demethylated and N-oxidized metabolites identified,whole fungi,Figure 1 shows biodegradation pathway.
+Reactive Red 31,Aspergillus bombycis,not specified,not specified,not specified,not specified,not specified,not specified,not specified,whole fungi,Reported in multiple studies.
+Congo red,Aspergillus niger,200 mg/L,not specified,not specified,not specified,6 days,not specified,not specified,whole fungi,Reported in Asses et al.
+Reactive Blue-1,Aspergillus terreus,not specified,not specified,not specified,not specified,not specified,not specified,not specified,whole fungi,Reported in multiple studies.

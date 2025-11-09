@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Amaranth,Trametes versicolor,50 ppm,not specified,static,30 °C,48 hours,5,100%,mycelium,6-8 hour lag before decolorization commenced
+Amaranth,Trametes versicolor,50 ppm,not specified,agitated (200 rpm),30 °C,24 hours,5,100%,mycelial pellets,significantly improved decolorization compared to static culture
+Remazol Black B,Trametes versicolor,60 ppm,not specified,agitated (200 rpm),30 °C,48 hours,5,100%,mycelial pellets,no visual sorption of dye to pellets
+Remazol Orange,Trametes versicolor,60 ppm,not specified,agitated (200 rpm),30 °C,48 hours,5,100%,mycelial pellets,was added as a second dye after Amaranth
+Tropaeolin O,Trametes versicolor,20 ppm,not specified,agitated (200 rpm),30 °C,not specified,5,100%,mycelial pellets,no decolorization when added as a first dye
+Reactive Blue,Trametes versicolor,20 ppm,not specified,agitated (200 rpm),30 °C,not specified,5,100%,mycelial pellets,decolorization occurred when added as a second dye
+Remazol Black + Remazol Orange + Reactive Blue,Trametes versicolor,30 ppm + 30 ppm + 20 ppm,not specified,agitated (200 rpm),30 °C,not specified,5,100%,mycelial pellets,added after complete decolorization of individual dyes

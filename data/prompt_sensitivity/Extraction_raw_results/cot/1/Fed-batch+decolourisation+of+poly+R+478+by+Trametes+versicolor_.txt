@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Poly R4478,Trametes versicolor,0.1 g/l,not specified,not specified,28 °C,14 days,not specified,complete,whole fungi,none
+Azure B,Trametes versicolor,0.1 g/l,not specified,not specified,28 °C,14 days,not specified,complete,whole fungi,none
+Guaiacol,Trametes versicolor,0.1 g/l,not specified,not specified,28 °C,14 days,not specified,high oxidation,whole fungi,none
+Polyanthraquinone,Trametes versicolor,not specified,not specified,not specified,not specified,not specified,not specified,not specified,not specified,none

@@ -1,0 +1,4 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Reactive Yellow 4GL,Aspergillus niger D2-1,100 ppm,not specified,shaking,room temperature,7 days,9,98.62%,mycelium,confirmed by UV-Vis spectrum analysis
+Reactive Red 4BL,Aspergillus niger D2-1,100 ppm,not specified,shaking,room temperature,7 days,9,92.42%,mycelium,confirmed by UV-Vis spectrum analysis
+textile wastewater,Aspergillus niger D2-1,not applicable,not specified,not specified,not specified,7 days,not specified,59%,not specified,decrease in COD and TDS after treatment

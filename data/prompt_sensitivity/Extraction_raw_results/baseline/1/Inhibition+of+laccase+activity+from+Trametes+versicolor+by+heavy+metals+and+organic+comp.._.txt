@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+None,Trametes versicolor,None,Not specified,Submerged culture,Not specified,Not specified,3-6,High laccase production,Whole fungi,Laccase production was significant under submerged fermentation conditions.
+Textile dye eﬄuents,Coriolus versicolor,Not specified,Not specified,Submerged culture,Not specified,Not specified,Not specified,Decolorization of textile dyes,Whole fungi,Laccase activity facilitated dye decolorization.
+TNT (Trinitrotoluene),Trametes versicolor,Not specified,Not specified,Submerged culture,Not specified,Not specified,Not specified,High laccase production,Whole fungi,High levels of laccase production when supplemented with TNT.
+None,Agaricus bisporus,None,Residual compost,Not specified,Not specified,Not specified,Not specified,Effective for phenolic compounds,Whole fungi,Residual compost was used for laccase activity against phenolic compounds.

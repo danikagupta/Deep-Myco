@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Reactive Red 198 (RR198),Penicillium simplicissimum,200 mg L-1,n/a,shaking (rotary shaker at 140 rpm),28°C,7 days,n/a,100%,mycelium,Adsorption followed by degradation observed.
+Reactive Blue 21 (RB21),Penicillium simplicissimum,200 mg L-1,n/a,shaking (rotary shaker at 140 rpm),28°C,2 days,n/a,100%,mycelium,The biomass was completely free from the dye after 14 days.
+Reactive Blue 214 (RB214),Penicillium simplicissimum,200 mg L-1,n/a,shaking (rotary shaker at 140 rpm),28°C,7 days,n/a,100%,mycelium,Reduction of color on biomass was slower compared to RR198 and RB21.
+Mixture of dyes (MXD),Penicillium simplicissimum,66.6 mg L-1 for each dye (total of 200 mg L-1),n/a,shaking (rotary shaker at 140 rpm),28°C,5 days,n/a,100%,mycelium,Gradual reduction of color on biomass until complete disappearance.
+Reactive Red 198 (RR198),Penicillium simplicissimum,200 mg L-1,n/a,n/a,24°C,24 hours,n/a,EC50 increased from 30.8% to 9.5%,n/a,Toxicity increased after treatment.
+Reactive Blue 214 (RB214),Penicillium simplicissimum,200 mg L-1,n/a,n/a,24°C,24 hours,n/a,EC50 increased from 31.4% to 34.8%,n/a,Remained minor acutely toxic after treatment.
+Reactive Blue 21 (RB21),Penicillium simplicissimum,200 mg L-1,n/a,n/a,24°C,24 hours,n/a,EC50 decreased from 1.1% to 20.3%,n/a,Moderately acutely toxic before treatment and minor acutely toxic after treatment.
+Mixture of dyes (MXD),Penicillium simplicissimum,66.6 mg L-1 for each dye,n/a,n/a,24°C,24 hours,n/a,EC50 increased from 42.2% to 49.8%,n/a,Remained minor acutely toxic after treatment.

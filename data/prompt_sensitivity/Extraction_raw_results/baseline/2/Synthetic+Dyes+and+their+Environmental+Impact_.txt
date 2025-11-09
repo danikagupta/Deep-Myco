@@ -1,0 +1,21 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Reactive Red 198,Penicillium simplicissimum,,,,,1 day,,Observed,whole fungi,Visual observation of decolourisation
+Reactive Red 198,Penicillium simplicissimum,,,,,2 days,,Observed,whole fungi,Visual observation of decolourisation
+Reactive Red 198,Penicillium simplicissimum,,,,,5 days,,Observed,whole fungi,Visual observation of decolourisation
+Reactive Red 198,Penicillium simplicissimum,,,,,7 days,,Observed,whole fungi,Visual observation of decolourisation
+Reactive Red 198,Penicillium simplicissimum,,,,,14 days,,Observed,whole fungi,Visual observation of decolourisation
+Reactive Blue 21,Penicillium simplicissimum,,,,,1 day,,Observed,whole fungi,Visual observation of decolourisation
+Reactive Blue 21,Penicillium simplicissimum,,,,,2 days,,Observed,whole fungi,Visual observation of decolourisation
+Reactive Blue 21,Penicillium simplicissimum,,,,,5 days,,Observed,whole fungi,Visual observation of decolourisation
+Reactive Blue 21,Penicillium simplicissimum,,,,,7 days,,Observed,whole fungi,Visual observation of decolourisation
+Reactive Blue 21,Penicillium simplicissimum,,,,,14 days,,Observed,whole fungi,Visual observation of decolourisation
+Reactive Blue 214,Penicillium simplicissimum,,,,,1 day,,Observed,whole fungi,Visual observation of decolourisation
+Reactive Blue 214,Penicillium simplicissimum,,,,,2 days,,Observed,whole fungi,Visual observation of decolourisation
+Reactive Blue 214,Penicillium simplicissimum,,,,,5 days,,Observed,whole fungi,Visual observation of decolourisation
+Reactive Blue 214,Penicillium simplicissimum,,,,,7 days,,Observed,whole fungi,Visual observation of decolourisation
+Reactive Blue 214,Penicillium simplicissimum,,,,,14 days,,Observed,whole fungi,Visual observation of decolourisation
+Mixture,Penicillium simplicissimum,,,,,1 day,,Observed,whole fungi,Visual observation of decolourisation
+Mixture,Penicillium simplicissimum,,,,,2 days,,Observed,whole fungi,Visual observation of decolourisation
+Mixture,Penicillium simplicissimum,,,,,5 days,,Observed,whole fungi,Visual observation of decolourisation
+Mixture,Penicillium simplicissimum,,,,,7 days,,Observed,whole fungi,Visual observation of decolourisation
+Mixture,Penicillium simplicissimum,,,,,14 days,,Observed,whole fungi,Visual observation of decolourisation

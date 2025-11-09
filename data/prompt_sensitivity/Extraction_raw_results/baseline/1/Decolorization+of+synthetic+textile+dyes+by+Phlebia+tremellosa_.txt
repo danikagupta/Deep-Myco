@@ -1,0 +1,14 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,fungi type,additional information
+Reactive blue,Polyporus rubidus,1000 mg/l,1 g (wet weight),shaking,28 + 2 °C,5 days,4-7,39% color remaining after 5 days,mycelium,Percentage color remaining monitored spectrophotometrically
+Reactive blue,Polyporus rubidus,400 mg/l,1 g (wet weight),shaking,28 + 2 °C,5 days,4-7,20% color remaining after 5 days,mycelium,Percentage color remaining monitored spectrophotometrically
+Reactive blue,Polyporus rubidus,100 mg/l,1 g (wet weight),shaking,28 + 2 °C,5 days,4-7,90% decolorization achieved after 5 days,mycelium,Percentage color remaining monitored spectrophotometrically
+Reactive orange,Polyporus rubidus,1000 mg/l,1 g (wet weight),shaking,28 + 2 °C,5 days,4-7,40% color remaining after 5 days,mycelium,Percentage color remaining monitored spectrophotometrically
+Reactive orange,Polyporus rubidus,100 mg/l,1 g (wet weight),shaking,28 + 2 °C,5 days,4-7,92% decolorization achieved after 5 days,mycelium,Percentage color remaining monitored spectrophotometrically
+Ramazol black,Polyporus rubidus,1000 mg/l,1 g (wet weight),shaking,28 + 2 °C,5 days,4-7,26% color remaining after 5 days,mycelium,Percentage color remaining monitored spectrophotometrically
+Ramazol black,Polyporus rubidus,100 mg/l,1 g (wet weight),shaking,28 + 2 °C,5 days,4-7,Complete decolorization observed within 3 days,mycelium,Percentage color remaining monitored spectrophotometrically
+Congo red,Polyporus rubidus,1000 mg/l,1 g (wet weight),shaking,28 + 2 °C,5 days,4-7,Complete decolorization observed within 3 days,mycelium,Percentage color remaining monitored spectrophotometrically
+Congo red,Polyporus rubidus,100 mg/l,1 g (wet weight),shaking,28 + 2 °C,5 days,4-7,Complete decolorization observed within 3 days,mycelium,Percentage color remaining monitored spectrophotometrically
+Textile effluent sample 1,Polyporus rubidus,N/A,N/A,shaking,28 + 2 °C,4 days,after neutralization,100% decolorization after 4 days,mycelium,Effluent treated in a bioreactor
+Textile effluent sample 2,Polyporus rubidus,N/A,N/A,shaking,28 + 2 °C,5 days,after neutralization,20% color remaining after 5 days,mycelium,Effluent treated in a bioreactor
+Textile effluent sample 3,Polyporus rubidus,N/A,N/A,shaking,28 + 2 °C,4 days,after neutralization,100% decolorization after 4 days,mycelium,Effluent treated in a bioreactor
+Textile effluent sample 4,Polyporus rubidus,N/A,N/A,shaking,28 + 2 °C,5 days,after neutralization,30% color remaining after 5 days,mycelium,Effluent treated in a bioreactor

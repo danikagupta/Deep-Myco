@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Poly R4478,Trametes versicolor,0.1 g/L,not specified,static,28 °C,14 days,not specified,complete,whole fungi,"dye decolorization observed, specific strains BBEL0901, BBEL0902, BBEL0958, and BBEL0973 showed a complete and homogeneous decolorization pattern"
+Azure B,Trametes versicolor,0.1 g/L,not specified,static,28 °C,14 days,not specified,complete,whole fungi,azure B was more easily degraded; essentially all strains decolorized azure B
+Guaiacol,Trametes versicolor,0.1 g/L,not specified,static,28 °C,2 weeks,not specified,presence of reddish-brown halo,whole fungi,higher laccase activity correlated with guaiacol oxidation
+Azure B,BBEL0970 (Trametes versicolor),32 µM,not specified,static,28 °C,including every two days monitoring,4.5,not specified,mycelium,laccase activity measured
+Poly R4478,BBEL0970 (Trametes versicolor),0.1 g/L,not specified,static,not specified,not specified,not specified,not specified,mycelium,"not directly specified, similar enzyme activity measured"

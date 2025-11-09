@@ -1,0 +1,13 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Neolane yellow,Trametes trogii,50 mg/l,not specified,static,30°C,1 day,not specified,18%,whole fungi,Decolorization observed without HBT; complete decolorization with HBT.
+Neolane yellow,Trametes trogii,50 mg/l,not specified,static,30°C,4 days,not specified,39.6%,whole fungi,Decolorization observed without HBT; complete decolorization with HBT.
+Maxillon blue,Trametes trogii,50 mg/l,not specified,static,30°C,1 day,not specified,0%,whole fungi,Decolorization observed without HBT.
+Maxillon blue,Trametes trogii,50 mg/l,not specified,static,30°C,4 days,not specified,0%,whole fungi,No decolorization detected after 4 days.
+Neolane pink,Trametes trogii,50 mg/l,not specified,static,30°C,1 day,not specified,63.6%,whole fungi,Decolorization not determined with HBT.
+Neolane pink,Trametes trogii,50 mg/l,not specified,static,30°C,4 days,not specified,86.4%,whole fungi,Decolorization not determined with HBT.
+Neolane blue,Trametes trogii,50 mg/l,not specified,static,30°C,1 day,not specified,91.5%,whole fungi,Decolorization not determined with HBT.
+Neolane blue,Trametes trogii,50 mg/l,not specified,static,30°C,4 days,not specified,91.2%,whole fungi,Decolorization not determined with HBT.
+Bezaktiv yellow,Trametes trogii,50 mg/l,not specified,static,30°C,1 day,not specified,54%,whole fungi,Decolorization not determined with HBT.
+Bezaktiv yellow,Trametes trogii,50 mg/l,not specified,static,30°C,4 days,not specified,71%,whole fungi,Decolorization not determined with HBT.
+Basacryl yellow,Trametes trogii,50 mg/l,not specified,static,30°C,10 days,not specified,0%,whole fungi,No decolorization obtained.
+Maxillon blue,Trametes trogii,50 mg/l,not specified,static,30°C,4 days,not specified,35.3%,whole fungi,Decolorization with mediator increased decolorization.

@@ -1,0 +1,25 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Ponceau 2R,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static,not specified,10 days,5.0,complete,mycelium,Under nitrogen-limiting conditions.
+Orange G,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static,not specified,7 days,5.0,complete,mycelium,Under nitrogen-limiting conditions.
+Direct Blue 71,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static,not specified,12 days,5.0,complete,mycelium,Under nitrogen-limiting conditions.
+Biebrich Scarlet,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static,not specified,12 days,5.0,complete,mycelium,Under nitrogen-limiting conditions.
+Ponceau 2R,Coriolopsis sp. strain arf5,0.2 g/L,not specified,not specified,27.5 °C,not specified,4.5,not specified,mycelium,DT 50: 57.5 hours.
+Orange G,Coriolopsis sp. strain arf5,0.2 g/L,not specified,not specified,27.5 °C,not specified,4.5,not specified,mycelium,DT 50: 56.0 hours.
+Direct Blue 71,Coriolopsis sp. strain arf5,0.2 g/L,not specified,not specified,27.5 °C,not specified,4.5,not specified,mycelium,DT 50: 48.0 hours.
+Biebrich Scarlet,Coriolopsis sp. strain arf5,0.2 g/L,not specified,not specified,27.5 °C,not specified,4.5,not specified,mycelium,DT 50: 112.0 hours.
+Ponceau 2R,Coriolopsis sp. strain arf5,0.2 g/L,not specified,not specified,30 °C,not specified,5.0,not specified,mycelium,DT 50: 61.3 hours.
+Orange G,Coriolopsis sp. strain arf5,0.2 g/L,not specified,not specified,30 °C,not specified,5.0,not specified,mycelium,DT 50: 46.7 hours.
+Direct Blue 71,Coriolopsis sp. strain arf5,0.2 g/L,not specified,not specified,30 °C,not specified,5.0,not specified,mycelium,DT 50: 48.0 hours.
+Biebrich Scarlet,Coriolopsis sp. strain arf5,0.2 g/L,not specified,not specified,30 °C,not specified,5.0,not specified,mycelium,DT 50: 98.6 hours.
+Ponceau 2R,Coriolopsis sp. strain arf5,0.2 g/L,not specified,not specified,35 °C,not specified,5.0,not specified,mycelium,DT 50: 51.3 hours.
+Orange G,Coriolopsis sp. strain arf5,0.2 g/L,not specified,not specified,35 °C,not specified,5.0,not specified,mycelium,DT 50: 29.3 hours.
+Direct Blue 71,Coriolopsis sp. strain arf5,0.2 g/L,not specified,not specified,35 °C,not specified,5.0,not specified,mycelium,DT 50: 34.6 hours.
+Biebrich Scarlet,Coriolopsis sp. strain arf5,0.2 g/L,not specified,not specified,35 °C,not specified,5.0,not specified,mycelium,DT 50: 69.3 hours.
+Ponceau 2R,Coriolopsis sp. strain arf5,0.2 g/L,not specified,not specified,40 °C,not specified,5.0,not specified,mycelium,DT 50: 52.5 hours.
+Orange G,Coriolopsis sp. strain arf5,0.2 g/L,not specified,not specified,40 °C,not specified,5.0,not specified,mycelium,DT 50: 29.3 hours.
+Direct Blue 71,Coriolopsis sp. strain arf5,0.2 g/L,not specified,not specified,40 °C,not specified,5.0,not specified,mycelium,DT 50: 32.0 hours.
+Biebrich Scarlet,Coriolopsis sp. strain arf5,0.2 g/L,not specified,not specified,40 °C,not specified,5.0,not specified,mycelium,DT 50: 69.3 hours.
+Ponceau 2R,Coriolopsis sp. strain arf5,0.2 g/L,not specified,not specified,45 °C,not specified,5.0,not specified,mycelium,DT 50: >120 hours.
+Orange G,Coriolopsis sp. strain arf5,0.2 g/L,not specified,not specified,45 °C,not specified,5.0,not specified,mycelium,DT 50: 70.6 hours.
+Direct Blue 71,Coriolopsis sp. strain arf5,0.2 g/L,not specified,not specified,45 °C,not specified,5.0,not specified,mycelium,DT 50: 88.0 hours.
+Biebrich Scarlet,Coriolopsis sp. strain arf5,0.2 g/L,not specified,not specified,45 °C,not specified,5.0,not specified,mycelium,DT 50: >120 hours.

@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Reactive Blue 221,Trametes hirsuta,0.25 mM,1.5 g (wet weight),shaking,30°C,10 days,5.0,"6.7 nmol s-1ml-1 (laccase), 19.4 pmol s-1ml-1 (T. hirsuta)",mycelium,"Initial decolorization rates, spectrophotometrically measured."
+Reactive Black 5,Trametes hirsuta,0.25 mM,1.5 g (wet weight),shaking,30°C,10 days,5.0,"1.3 nmol s-1ml-1 (laccase), 15.9 pmol s-1ml-1 (T. hirsuta)",mycelium,"Initial decolorization rates, spectrophotometrically measured."
+Direct Blue 71,Trametes hirsuta,0.25 mM,1.5 g (wet weight),shaking,30°C,10 days,5.0,"3.7 nmol s-1ml-1 (laccase), 16.2 pmol s-1ml-1 (T. hirsuta)",mycelium,"Initial decolorization rates, spectrophotometrically measured."
+Basic Red 9 Base,Trametes hirsuta,0.25 mM,1.5 g (wet weight),shaking,30°C,10 days,5.0,"3.3 nmol s-1ml-1 (laccase), 44.5 pmol s-1ml-1 (T. hirsuta)",mycelium,"Initial decolorization rates, spectrophotometrically measured."
+Reactive Blue 19,Trametes hirsuta,0.25 mM,1.5 g (wet weight),shaking,30°C,10 days,5.0,"8.8 nmol s-1ml-1 (laccase), 29.1 pmol s-1ml-1 (T. hirsuta)",mycelium,"Initial decolorization rates, spectrophotometrically measured."
+Acid Blue 225,Trametes hirsuta,0.25 mM,1.5 g (wet weight),shaking,30°C,10 days,5.0,"10.6 nmol s-1ml-1 (laccase), 30.9 pmol s-1ml-1 (T. hirsuta)",mycelium,"Initial decolorization rates, spectrophotometrically measured."
+Acid Blue 74,Trametes hirsuta,0.25 mM,1.5 g (wet weight),shaking,30°C,10 days,5.0,"9.3 nmol s-1ml-1 (laccase), 41.7 pmol s-1ml-1 (T. hirsuta)",mycelium,"Initial decolorization rates, spectrophotometrically measured."

@@ -1,0 +1,4 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+None,Aspergillus niger,Not applicable,Not specified,Shaking,30°C,7 days,7,95% decolorization,whole fungi,Figure 2 shows efficacy compared to other treatments.
+Crystal Violet,Aspergillus niger,100 mg/L,10 g/L,Stirring,25°C,24 hours,5,85% decolorization,fungal mass,Figure 3 outlines the time-course of decolorization.
+Acid Red 88,Achaetomium strumarium,50 mg/L,5 g/L,Static,28°C,5 days,6.5,78% decolorization,mycelium,Table 2 summarizes dye degradation pathways.

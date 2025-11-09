@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Cadmium,Trametes pubescens,10 mg/L,Not Specified,Shaking,28 °C,15 days,4.5,53.13% removal of Cd2+,mycelium,Biosorption process; SEM and FTIR analyses conducted
+Cadmium,Trametes pubescens,100 mg/L,Not Specified,Shaking,28 °C,7 days,4.5,6.565 mg/g adsorption,mycelium,Maximum adsorption observed; SEM analysis indicated structural changes in cells
+Cadmium,Trametes pubescens,200 mg/L,Not Specified,Shaking,28 °C,6 days,4.5,Growth inhibited; no hyphae observed,Not applicable,Inhibition levels monitored
+Cadmium,Trametes pubescens,10 mg/L,Not Specified,Not Specified,25 ± 2 °C,15 days,Not Specified,53.54% less Cd in roots; 86.38% less in shoots,Not specified,Plant growth observed in pot experiments
+Cadmium,Trametes pubescens,Not Specified,Not Specified,Not Specified,Not Specified,Not Specified,Not Specified,Healthy root cells with enhanced nutrient absorption,Not specified,Protective effect on plant roots documented in observations

@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+not specified,Lentinula edodes,not specified,not specified,not specified,25 °C,10 days,not specified,110 UI.L-1,mycelium,MnP activity peak for L. edodes.
+not specified,Lentinula boryana,not specified,not specified,not specified,20 °C,20-25 days,not specified,110 UI.L-1,mycelium,MnP activity peak for L. boryana.
+not specified,Lentinula edodes,not specified,not specified,shaking,20 °C,30 days,not specified,20 UI.L-1,mycelium,MnP activity measured.
+not specified,Lentinula boryana,not specified,not specified,shaking,20 °C,30 days,not specified,70 UI.L-1,mycelium,MnP activity measured.

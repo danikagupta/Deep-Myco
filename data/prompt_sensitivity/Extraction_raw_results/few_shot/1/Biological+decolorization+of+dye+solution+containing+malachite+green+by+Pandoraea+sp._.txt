@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Malachite Green,Pleurotus eryngii,10 mg/L,10.0 g/L (wet weight),shaking (150 r/min),25°C,120 min,7.0,47.2%,mycelium,decolorization rate decreases with increase in MG concentration
+Malachite Green,Pleurotus eryngii,50 mg/L,10.0 g/L (wet weight),shaking (150 r/min),25°C,120 min,7.0,x%,mycelium,initial velocity increases as the dye concentration increases from 10 to 50 mg/L
+Malachite Green,Pleurotus eryngii,100 mg/L,10.0 g/L (wet weight),shaking (150 r/min),25°C,120 min,7.0,decreased,mycelium,decolorization rates remain steady after 3 hours
+Malachite Green,Pleurotus eryngii,20 mg/L,10.0 g/L (wet weight),shaking (150 r/min),30°C,120 min,6.0,97.4%,mycelium,optimal pH selected due to high decolorization rate
+Malachite Green,Pleurotus eryngii,20 mg/L,10.0 g/L (wet weight),shaking (150 r/min),25°C,120 min,4.0,no significant effect,mycelium,no significant decolorization observed
+Malachite Green,Pleurotus eryngii,20 mg/L,10.0 g/L (wet weight),shaking (150 r/min),50°C,120 min,7.0,decreased,mycelium,decolorization rate decreased above 50°C
+Malachite Green,Pleurotus eryngii,100 µg/L,not specified,not specified,28 ± 0.5°C,96 h,not specified,>99% decolorized,not specified,toxicity reduced in zebrafish model compared to non-degraded MG
+Malachite Green,Pleurotus eryngii,10 mg/L,not specified,not specified,30°C,2 h,7.0,97.5%,not specified,demonstrated capability of purified DyP-PE to decolorize MG

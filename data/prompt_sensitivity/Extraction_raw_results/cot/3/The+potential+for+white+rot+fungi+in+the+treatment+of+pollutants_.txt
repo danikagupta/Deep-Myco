@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Congo red,Phanerochaete chrysosporium,not specified,not specified,not specified,not specified,not specified,not specified,extensively degrades,mycelium,not specified
+orange II,Phanerochaete chrysosporium,not specified,not specified,not specified,not specified,not specified,not specified,extensively degrades,mycelium,not specified
+azure B,Phanerochaete chrysosporium,not specified,not specified,not specified,not specified,not specified,not specified,extensively degrades,mycelium,not specified
+tropaeolin O,Phanerochaete chrysosporium,not specified,not specified,not specified,not specified,not specified,not specified,extensively degrades,mycelium,not specified
+amaranth,Phanerochaete chrysosporium,not specified,not specified,not specified,not specified,not specified,not specified,extensively degrades,mycelium,not specified
+orange G,Phanerochaete chrysosporium,not specified,not specified,not specified,not specified,not specified,not specified,extensively degrades,mycelium,not specified

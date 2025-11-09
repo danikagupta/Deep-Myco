@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Acid Black 194,Aspergillus flavus,0.05 g/L,1 disc (1 cm in diameter),shaking,24°C,8 days,7,85%,mycelium,Decolorization percentage represents the mean of three replicates.
+Acid Black 194,Aspergillus tamarii,0.05 g/L,1 disc (1 cm in diameter),shaking,24°C,8 days,7,91.15%,mycelium,Decolorization percentage represents the mean of three replicates.
+Acid Black 194,Aspergillus parasiticus,0.05 g/L,1 disc (1 cm in diameter),shaking,24°C,8 days,7,85.25%,mycelium,Decolorization percentage represents the mean of three replicates.
+Acid Black 194,Aspergillus flavus,0.05 g/L,2 discs (1 cm in diameter),shaking,24°C,8 days,7,87.4%,mycelium,Decolorization observed with increased inoculum size.
+Acid Black 194,Aspergillus tamarii,0.05 g/L,10 discs (1 cm in diameter),shaking,24°C,8 days,7,85%,mycelium,Decolorization observed with increased inoculum size.
+Acid Black 194,Aspergillus parasiticus,0.05 g/L,1 disc (1 cm in diameter),shaking,24°C,8 days,7,95.2%,mycelium,Optimized inoculum size for maximum decolorization.
+Acid Black 194,Aspergillus flavus,150 mg/L,1 disc (1 cm in diameter),shaking,24°C,8 days,7,21.9%,mycelium,Indicates decreased effectiveness at high dye concentration.
+Acid Black 194,Aspergillus tamarii,150 mg/L,1 disc (1 cm in diameter),shaking,24°C,8 days,7,42.7%,mycelium,Indicates decreased effectiveness at high dye concentration.
+Acid Black 194,Aspergillus parasiticus,150 mg/L,1 disc (1 cm in diameter),shaking,24°C,8 days,7,62.6%,mycelium,Indicates relative resilience to high dye concentration.

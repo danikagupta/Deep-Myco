@@ -1,0 +1,23 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+not applicable,Agaricus blazei U2-4,not applicable,2.8 g/L nitrogen,static,28 °C,21 days,not specified,43.8 U/mL,mycelium,with 150 µM copper
+not applicable,Agaricus blazei U2-4,not applicable,0.28 g/L nitrogen,static,28 °C,21 days,not specified,5.1 U/mL,mycelium,no copper added
+not applicable,Agaricus blazei U2-4,not applicable,0.28 g/L nitrogen,static,28 °C,21 days,not specified,44.2 U/mL,mycelium,with 50 µM copper
+not applicable,Agaricus blazei U2-4,not applicable,0.28 g/L nitrogen,static,28 °C,21 days,not specified,45.2 U/mL,mycelium,with 100 µM copper
+not applicable,Agaricus blazei U2-4,not applicable,0.28 g/L nitrogen,static,28 °C,21 days,not specified,45.7 U/mL,mycelium,with 150 µM copper
+not applicable,Agaricus blazei U2-4,not applicable,0.28 g/L nitrogen,static,28 °C,21 days,not specified,45.5 U/mL,mycelium,with 200 µM copper
+not applicable,Agaricus blazei U2-4,not applicable,0.28 g/L nitrogen,static,28 °C,21 days,not specified,44.7 U/mL,mycelium,with 250 µM copper
+not applicable,Agaricus blazei U2-4,not applicable,0.28 g/L nitrogen,static,28 °C,21 days,not specified,43.3 U/mL,mycelium,with 300 µM copper
+not applicable,Agaricus blazei U2-1,not applicable,2.8 g/L nitrogen,static,not specified,21 days,not specified,7.6 U/mL,mycelium,Control (no inducer)
+not applicable,Agaricus blazei U2-1,not applicable,2.8 g/L nitrogen,static,not specified,21 days,not specified,5.8 U/mL,mycelium,0.5 mM guaiacol
+not applicable,Agaricus blazei U2-1,not applicable,2.8 g/L nitrogen,static,not specified,21 days,not specified,9.0 U/mL,mycelium,1.0 mM pyrogallol
+not applicable,Agaricus blazei U2-1,not applicable,2.8 g/L nitrogen,static,not specified,21 days,not specified,6.2 U/mL,mycelium,1.5 mM vanillin
+not applicable,Agaricus blazei U2-2,not applicable,2.8 g/L nitrogen,static,not specified,21 days,not specified,4.8 U/mL,mycelium,Control (no inducer)
+not applicable,Agaricus blazei U2-2,not applicable,2.8 g/L nitrogen,static,not specified,21 days,not specified,10.5 U/mL,mycelium,1.0 mM guaiacol
+not applicable,Agaricus blazei U2-2,not applicable,2.8 g/L nitrogen,static,not specified,21 days,not specified,6.5 U/mL,mycelium,1.0 mM veratryl alcohol
+not applicable,Agaricus blazei U2-3,not applicable,2.8 g/L nitrogen,static,not specified,21 days,not specified,10.3 U/mL,mycelium,Control (no inducer)
+not applicable,Agaricus blazei U2-3,not applicable,2.8 g/L nitrogen,static,not specified,21 days,not specified,11.3 U/mL,mycelium,0.5 mM guaiacol
+not applicable,Agaricus blazei U2-3,not applicable,2.8 g/L nitrogen,static,not specified,21 days,not specified,15.0 U/mL,mycelium,1.0 mM ethanol
+not applicable,Agaricus blazei U2-3,not applicable,2.8 g/L nitrogen,static,not specified,21 days,not specified,13.7 U/mL,mycelium,1.0 mM veratryl alcohol
+not applicable,Agaricus blazei U2-4,not applicable,2.8 g/L nitrogen,static,not specified,21 days,not specified,25.4 U/mL,mycelium,Control (no inducer)
+not applicable,Agaricus blazei U2-4,not applicable,2.8 g/L nitrogen,static,not specified,21 days,not specified,28.7 U/mL,mycelium,0.5 mM guaiacol
+not,,,,,,,,,,

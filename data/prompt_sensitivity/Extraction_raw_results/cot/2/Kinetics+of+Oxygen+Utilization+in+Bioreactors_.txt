@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+bentazon,Trametes versicolor,10 ppm,80 g/L (wet weight),stirring,25 °C,6 h,4.5,complete removal,whole fungi,
+TBP,Trametes versicolor,5 ppm,80 g/L (wet weight),stirring,25 °C,32 h,4.5,complete removal,whole fungi,
+bentazon,Trametes versicolor,10 ppm,80 g/L (wet weight),stirring,25 °C,24 h,4.5,moderate removal,whole fungi,degradation kinetics study
+TBP,Trametes versicolor,5 ppm,80 g/L (wet weight),stirring,25 °C,24 h,4.5,moderate removal,whole fungi,degradation kinetics study
+acetate,Trametes versicolor,2 g/L,3.5 g DW/L,stirring,25 °C,130 h,4.5,complete consumption,whole fungi,COD reduction of 55%

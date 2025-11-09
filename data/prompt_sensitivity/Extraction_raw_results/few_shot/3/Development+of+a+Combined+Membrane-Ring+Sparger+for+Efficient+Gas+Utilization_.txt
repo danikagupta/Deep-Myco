@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+phenol,Trametes versicolor,not specified,not specified,static,28 °C,7 days,not specified,70%,mycelium,Measured at varying concentrations
+p-cresol,Trametes versicolor,not specified,not specified,static,not specified,7 days,not specified,100%,mycelium,Complete removal after treatment
+m-cresol,Trametes versicolor,not specified,not specified,static,not specified,7 days,not specified,100%,mycelium,Complete removal after treatment
+o-cresol,Trametes versicolor,not specified,not specified,static,not specified,7 days,not specified,100%,mycelium,Complete removal after treatment
+cresylic effluent,Trametes pubescens,not specified,not specified,airlift,not specified,8 days,not specified,0.1 g/g biomass/day,whole fungi,Sustained removal of phenolic monomers
+cresylic effluent,Trametes pubescens,not specified,not specified,airlift,not specified,16 days,not specified,complete removal,whole fungi,Effluent concentrations of 2.5-10% v/v were used

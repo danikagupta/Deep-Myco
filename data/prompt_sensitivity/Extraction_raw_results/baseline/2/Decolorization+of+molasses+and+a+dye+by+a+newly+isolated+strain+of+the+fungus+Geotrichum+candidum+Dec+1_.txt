@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+lignin,Geotrichum candidum Dec 1,1 g/l,unknown,reciprocal shaker,30°C,2 weeks,unknown,successful,mycelium,Figure 1 shows decolorization after 2 weeks.
+E-effluent,Geotrichum candidum Dec 1,"E-effluent (glucose concentrations 5, 10, 20, 30 g/l)",unknown,reciprocal shaker,30°C,5 days,5.0,"78% after 5 days (20 g/l glucose), 78% after 6 days (30 g/l glucose)",mycelium,Figures 2 and 3 show time course for color removal and residual glucose concentrations.
+E-effluent,Geotrichum candidum Dec 1,"E-effluent (glucose 0.75, 1.5, 3.0, 4.5 g/l)",unknown,reciprocal shaker,30°C,10 days,5.0,varied results depending on glucose concentration,mycelium,Control without cells showed maximum color removal of 15%.
+E-effluent,Geotrichum candidum Dec 1,E-effluent (glucose 5 g/l),unknown,reciprocal shaker,30°C,3 days,5.0,"47% after 3 days, 0% after 4 days",mycelium,Results indicated color removal due to color adsorption to the cells.
+E-effluent,Geotrichum candidum Dec 1,E-effluent (glucose 10 g/l),unknown,reciprocal shaker,30°C,4 days,5.0,71% based on color removal and decomposed substances,mycelium,Table2 details the relation between color removal and decomposed substances.
+E-effluent,Geotrichum candidum Dec 1,E-effluent (glucose 30 g/l),unknown,reciprocal shaker,30°C,4 days,5.0,achieved >70% color removal,mycelium,Color removal maintained after 4 days.

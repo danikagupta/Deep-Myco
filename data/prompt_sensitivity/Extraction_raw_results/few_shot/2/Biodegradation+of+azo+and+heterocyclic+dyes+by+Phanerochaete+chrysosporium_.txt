@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Orange II,Phanerochaete chrysosporium,50 mg/l,not specified,shaking (150 rpm),30°C,5 days,5.0,86.34%,not specified,optimum decolorization found on 5th day
+Orange II,Phanerochaete chrysosporium,100 mg/l,not specified,shaking (150 rpm),30°C,5 days,5.0,85%,not specified,removal decreased with higher concentrations
+Orange II,Phanerochaete chrysosporium,50 mg/l,not specified,shaking (150 rpm),28°C,7 days,5.0,maximum degradation observed,not specified,maximum degradation for temperature range observed between 28-30°C
+Orange II,Phanerochaete chrysosporium,any (50-250 mg/l),not specified,shaking (150 rpm),30°C,7 days,3.0,39.84%,not specified,pH increase improved decolorization
+Orange II,Phanerochaete chrysosporium,any (50-250 mg/l),not specified,shaking (150 rpm),30°C,7 days,4.0,71.56%,not specified,optimum pH for maximum color removal found to be 5.0; decline in removal at higher pH
+Orange II,Phanerochaete chrysosporium,250 mg/l,not specified,shaking (150 rpm),30°C,7 days,5.0,less effective,not specified,higher dye concentration showed inhibitory effect on decolorization

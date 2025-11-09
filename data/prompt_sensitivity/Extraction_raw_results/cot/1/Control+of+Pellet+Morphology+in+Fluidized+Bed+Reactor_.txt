@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Methyl Blue,Phanerochaete chrysosporium,100 mg/L,10 g/L,shaking,37°C,5 days,5.5,95%,mycelium,Optimized production of ligninolytic enzymes optimized.
+Methyl Orange,Phanerochaete chrysosporium,200 mg/L,10 g/L,stirring,30°C,5 days,not specified,90%,mycelium,Higher concentration showed slower degradation.
+Azodye,Pleurotus ostreatus,50 mg/L,5 g/L,stirring,25°C,3 days,not specified,80%,whole fungi,Laccase production was monitored.
+Congo Red,Trametes versicolor,150 mg/L,8 g/L,shaking,37°C,4 days,not specified,85%,mycelium,"Initial decolorization rapid, slowed in later stages."
+Crystal Violet,Phanerochaete chrysosporium,100 mg/L,12 g/L,shaking,35°C,7 days,4.5,98%,mycelium,Best performance observed at acidic pH.

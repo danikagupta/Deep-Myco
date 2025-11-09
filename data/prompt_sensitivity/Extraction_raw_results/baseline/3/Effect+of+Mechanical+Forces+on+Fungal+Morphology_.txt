@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+BFA,Laccaria trichodermophora,10 g L−1,Not specified,Orbital shaker,25 ± 2°C,10 days,5.50 ± 0.05,Not applicable,Mycelium,Pre-inoculum and inoculum were used for growing cultures.
+BFA,Laccaria trichodermophora,Not specified,2% v/v,Orbital shaker,25 ± 2°C,10 days,5.5 ± 0.1,Not applicable,Mycelium,Defined culture medium with specific nutrients.
+None,Laccaria trichodermophora,Not applicable,Not specified,Not specified,Not specified,Not specified,Not specified,Not applicable,Not specified,Volume fraction of the extracellular phase was tested; varying sizes of averaging surfaces.
+None,Laccaria trichodermophora,Not applicable,Not specified,Not specified,Not specified,Not specified,Not specified,Not applicable,Not specified,"Measurements of hyphae length, width at different sections."
+None,Laccaria trichodermophora,Not applicable,Not specified,Not specified,Not specified,Not specified,Not specified,Not applicable,Not specified,Visualization of dolipore structures in transmission electron microscopy.

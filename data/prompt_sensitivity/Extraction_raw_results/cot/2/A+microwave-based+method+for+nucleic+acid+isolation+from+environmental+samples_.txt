@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+not specified,Clitopilus scyphoides,not specified,not specified,not specified,27±2°C,7-10 days,not specified,not specified,mycelium,Identified as AGUM004 (MH172163)
+not specified,Ganoderma rasinaceum,not specified,not specified,not specified,27±2°C,7-10 days,not specified,not specified,mycelium,Identified as AGUM007 (MH172163)
+not specified,Schizophyllum sp,not specified,not specified,not specified,27±2°C,7-10 days,not specified,not specified,mycelium,"Identified as KONA001 (MH172164), AGUM011 (MH172165), AGUM021 (MH172166)"
+not specified,Coprinellus disseminatus,not specified,not specified,not specified,27±2°C,7-10 days,not specified,not specified,mycelium,Identified as BANG001 (MH172167)
+not specified,Lentinus squarrosulus,not specified,not specified,not specified,27±2°C,7-10 days,not specified,not specified,mycelium,Identified as TAMI004 (MH172167)

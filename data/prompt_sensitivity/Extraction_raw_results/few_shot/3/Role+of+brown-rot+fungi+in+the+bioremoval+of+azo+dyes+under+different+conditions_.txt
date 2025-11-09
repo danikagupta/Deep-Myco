@@ -1,0 +1,12 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Acid Red 151,Aspergillus flavus SA2,20 mg l-1,0.001% (w/v),static,30°C,192 h,5.6,67%,mycelium,
+Acid Red 151,Aspergillus tereus SA3,20 mg l-1,0.001% (w/v),static,30°C,192 h,5.6,22.43%,mycelium,
+Acid Red 151,Alternaria spp. SA4,20 mg l-1,0.001% (w/v),static,30°C,192 h,5.6,65.42%,mycelium,
+Acid Red 151,Penicillium spp. SA5,20 mg l-1,0.001% (w/v),static,30°C,192 h,5.6,60.68%,mycelium,
+Orange II,Aspergillus flavus SA2,20 mg l-1,0.001% (w/v),static,30°C,192 h,5.6,25.75%,mycelium,
+Orange II,Alternaria spp. SA4,20 mg l-1,0.001% (w/v),static,30°C,192 h,5.6,29.32%,mycelium,
+Orange II,Penicillium spp. SA5,20 mg l-1,0.001% (w/v),static,30°C,192 h,5.6,34.22%,mycelium,
+Acid Red 151,Aspergillus flavus SA2,20 mg l-1,0.001% (w/v),shaking,30°C,192 h,5.6,97.70%,mycelium,
+Acid Red 151,Alternaria spp. SA4,20 mg l-1,0.001% (w/v),shaking,30°C,192 h,5.6,98.47%,mycelium,
+Orange II,Aspergillus flavus SA2,20 mg l-1,0.001% (w/v),shaking,30°C,192 h,5.6,47.98%,mycelium,
+Orange II,Alternaria spp. SA4,20 mg l-1,0.001% (w/v),shaking,30°C,192 h,5.6,58.66%,mycelium,

@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Enrofloxacin,Trametes versicolor,50 mg L−1,6 U mL−1 (free laccase),shaking,45 °C,6 h,5,75%,whole fungi,Comparison with immobilized laccase shows higher efficiency.
+Enrofloxacin,Trametes versicolor,50 mg L−1,6 U mL−1 (immobilized laccase),shaking,45 °C,6 h,5,81%,whole fungi,Comparison with free laccase shows higher efficiency.
+Flumequine,Trametes versicolor,50 mg L−1,6 U mL−1 (free laccase),shaking,45 °C,6 h,4.5,68%,whole fungi,Comparison with immobilized laccase shows higher efficiency.
+Flumequine,Trametes versicolor,50 mg L−1,6 U mL−1 (immobilized laccase),shaking,45 °C,6 h,4.5,72%,whole fungi,Comparison with free laccase shows higher efficiency.
+Enrofloxacin,Trametes versicolor,50 mg L−1,6 U mL−1 (immobilized laccase),shaking,45 °C,6 h,5,90%,whole fungi,Increased by the presence of HBT at 0.5 mM.
+Flumequine,Trametes versicolor,50 mg L−1,6 U mL−1 (immobilized laccase),shaking,45 °C,6 h,4.5,90%,whole fungi,Increased by the presence of HBT at 0.5 mM.
+Enrofloxacin,Trametes versicolor,50 mg L−1,6 U mL−1 (immobilized laccase),shaking,45 °C,6 h,5,92%,whole fungi,Increased by the presence of HBT at 2 mM.
+Flumequine,Trametes versicolor,50 mg L−1,6 U mL−1 (immobilized laccase),shaking,45 °C,6 h,4.5,96%,whole fungi,Increased by the presence of HBT at 2 mM.

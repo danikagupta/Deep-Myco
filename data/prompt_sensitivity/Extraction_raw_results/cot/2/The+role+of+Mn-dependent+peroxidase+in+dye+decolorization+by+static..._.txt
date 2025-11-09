@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+reactive black 5,Phanerochaete sordida,100 mg/L,not specified,shaking,30°C,72 h,7,100%,mycelium,N/A
+reactive black 5,Phanerochaete sordida,200 mg/L,not specified,shaking,30°C,not specified,7,not specified,mycelium,decoloration slowed at this concentration
+reactive black 5,Phanerochaete sordida,100 mg/L,not specified,still,30°C,72 h,7,100%,mycelium,N/A
+reactive black 5,Phanerochaete chrysosporium,100 mg/L,not specified,still,30°C,not specified,7,93%,mycelium,N/A
+reactive black 5,Phanerochaete chrysosporium,200 mg/L,not specified,still,30°C,not specified,7,not specified,mycelium,N/A
+reactive black 5,Phanerochaete sordida,100 mg/L,not specified,shaking,25°C,96 h,7,not specified,mycelium,N/A
+reactive black 5,Phanerochaete sordida,100 mg/L,not specified,shaking,35°C,72 h,7,100%,mycelium,N/A

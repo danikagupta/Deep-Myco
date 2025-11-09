@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+not specified,Trametes versicolor,not specified,not specified,not specified,40.5-41.5 °C,15 minutes,3,76.12%,whole fungi,highest activity observed at pH 3
+not specified,Trametes versicolor,not specified,not specified,not specified,not specified,not specified,4,47.01%,whole fungi,phenol removal decreased with pH increase
+not specified,Trametes versicolor,not specified,not specified,not specified,not specified,not specified,5,45.52%,whole fungi,higher pH resulted in lower decolorization
+not specified,Trametes versicolor,not specified,not specified,not specified,not specified,not specified,6,38.80%,whole fungi,continued decrease in removal efficiency
+not specified,Trametes versicolor,not specified,not specified,not specified,not specified,not specified,7,1.46%,whole fungi,minimal decolorization at pH 7
+not specified,Trametes versicolor,not specified,not specified,not specified,not specified,not specified,not specified,inhibition increased with concentration,whole fungi,laccase activity decreased from 0% to 5% wastewater concentration

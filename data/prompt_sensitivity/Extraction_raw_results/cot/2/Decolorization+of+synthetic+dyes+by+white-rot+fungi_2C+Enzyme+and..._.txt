@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Crystal Violet,T. maxima LE130,200 ppm,not specified,shaking,28 °C,24 h,not specified,41.05%,mycelium,
+Reactive Black 5,T. maxima LE130,200 ppm,not specified,shaking,28 °C,24 h,not specified,61.01%,mycelium,
+Remazol Brilliant Blue R,T. maxima LE130,200 ppm,not specified,shaking,28 °C,24 h,not specified,54.94%,mycelium,
+Crystal Violet,Trametes sp. LA1,200 ppm,not specified,shaking,28 °C,24 h,not specified,79.70%,mycelium,
+Reactive Black 5,Trametes sp. LA1,200 ppm,not specified,shaking,28 °C,24 h,not specified,54.80%,mycelium,
+Remazol Brilliant Blue R,Trametes sp. LA1,200 ppm,not specified,shaking,28 °C,24 h,not specified,49.60%,mycelium,

@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+not specified,Trametes vesicolor,not specified,not specified,static,40.5°C to 41.5°C,15 min,3,76.12%,not specified,highest laccase activity for phenolic degradation
+not specified,Trametes vesicolor,not specified,not specified,static,28 °C,14 days,not specified,not specified,not specified,solid-state fermentation to produce crude enzyme
+not specified,not specified,not specified,not specified,not specified,not specified,5 min,not specified,decreased absorbance with OMW concentration,not specified,laccase inhibition activity tested with various OMW concentrations
+not specified,not specified,not specified,not specified,not specified,not specified,not specified,3,14.50%,not specified,OMW concentrations from 0% to 5% tested
+not specified,not specified,not specified,not specified,not specified,not specified,not specified,not specified,20.34%,not specified,2% OMW concentration
+not specified,not specified,not specified,not specified,not specified,not specified,not specified,not specified,22.85%,not specified,5% OMW concentration

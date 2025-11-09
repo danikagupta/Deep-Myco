@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+not applicable,Agaricus blazei U2-4,not applicable,not specified,not specified,28°C,21 days,not specified,43.8 U/mL,mycelium,high laccase production with 2.8 g/L nitrogen and 150 µM copper
+not applicable,Agaricus blazei U2-4,not applicable,not specified,not specified,28°C,21 days,not specified,5.1 U/mL,mycelium,lowest laccase activity with 0.28 g/L nitrogen and no copper
+not applicable,Agaricus blazei U2-4,not applicable,not specified,not specified,28°C,21 days,not specified,45.7 U/mL,mycelium,copper concentration increased laccase activity
+not applicable,Agaricus blazei U2-4,not applicable,not specified,not specified,28°C,21 days,not specified,0.5 mM pyrogallol resulted in initial inhibition then regained activity,mycelium,highest peak after 21 days
+not applicable,Agaricus blazei U2-4,not applicable,not specified,not specified,28°C,21 days,not specified,higher laccase activity observed with veratryl alcohol,mycelium,veratryl alcohol significantly increased maximum laccase activity
+not applicable,Agaricus blazei U2-3,not applicable,not specified,not specified,28°C,21 days,not specified,11.3 U/mL,mycelium,highest laccase activity with 0.5 mM ethanol
+not applicable,Agaricus blazei U2-2,not applicable,not specified,not specified,28°C,21 days,not specified,10.5 U/mL,mycelium,maximal activity at 1.0 mM guaiacol
+not applicable,Agaricus blazei U2-1,not applicable,not specified,not specified,28°C,21 days,not specified,8.0 U/mL,mycelium,best induction with 1.0 mM vinillan

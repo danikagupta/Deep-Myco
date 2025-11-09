@@ -1,0 +1,11 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Congo red,Aspergillus niger,0.01%,inoculated as plugs,stationary,25°C,10 days,not specified,74.07%,mycelium,maximum decolorization under stationary conditions
+Crystal violet,Aspergillus niger,0.01%,inoculated as plugs,stationary,25°C,10 days,not specified,33.82%,mycelium,measured after 10 days
+Methylene blue,Aspergillus niger,0.01%,inoculated as plugs,stationary,25°C,10 days,not specified,22.44%,mycelium,measured after 10 days
+Congo red,Fusarium oxysporum,0.01%,inoculated as plugs,stationary,25°C,10 days,not specified,78.9%,mycelium,maximum under stationary conditions
+Crystal violet,Trichoderma lignorum,0.01%,inoculated as plugs,stationary,25°C,10 days,not specified,92.7%,mycelium,maximum decolorization reported
+Congo red,Trichoderma lignorum,0.01%,inoculated as plugs,stationary,25°C,10 days,not specified,35.25%,mycelium,reported first time in this study
+Methylene blue,Trichoderma lignorum,0.01%,inoculated as plugs,stationary,25°C,10 days,not specified,48.3%,mycelium,observed under diverse conditions
+Congo red,Fusarium oxysporum,0.01%,inoculated as plugs,shaking,25°C,10 days,not specified,84.7-91.4%,mycelium,higher decolorization observed under shaking
+Crystal violet,Trichoderma lignorum,0.01%,inoculated as plugs,shaking,25°C,10 days,not specified,96.6%,mycelium,highest percentage under shaking conditions
+Methylene blue,Trichoderma lignorum,0.01%,inoculated as plugs,shaking,25°C,10 days,not specified,85.2%,mycelium,observed significant decolorization

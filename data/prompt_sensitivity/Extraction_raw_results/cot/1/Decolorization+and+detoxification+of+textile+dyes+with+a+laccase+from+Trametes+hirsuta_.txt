@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Triarylmethane,Trametes hirsuta,0.25 mM,1.5 g (wet weight),shaking,30°C,8 days,5.0,not specified,mycelium,"Initial decolorization rates: laccase (6.7 nmol s21ml21), T. hirsuta (19.4 pmol s21ml21)."
+Indigoid,Trametes hirsuta,0.25 mM,1.5 g (wet weight),shaking,30°C,8 days,5.0,not specified,mycelium,"Initial decolorization rates: laccase (6.7 nmol s21ml21), T. hirsuta (19.4 pmol s21ml21)."
+Azo,Trametes hirsuta,0.25 mM,1.5 g (wet weight),shaking,30°C,8 days,5.0,not specified,mycelium,"Initial decolorization rates: laccase (6.7 nmol s21ml21), T. hirsuta (19.4 pmol s21ml21)."
+Anthraquinonic,Trametes hirsuta,0.25 mM,1.5 g (wet weight),shaking,30°C,8 days,5.0,not specified,mycelium,"Initial decolorization rates: laccase (6.7 nmol s21ml21), T. hirsuta (19.4 pmol s21ml21)."
+Reactive Blue 221,Trametes hirsuta,0.25 mM,1.5 g (wet weight),shaking,30°C,8 days,5.0,not specified,mycelium,"Initial decolorization rates: laccase (6.7 nmol s21ml21), T. hirsuta (19.4 pmol s21ml21)."
+Reactive Black 5,Trametes hirsuta,0.25 mM,1.5 g (wet weight),shaking,30°C,8 days,5.0,not specified,mycelium,"Initial decolorization rates: laccase (1.3 nmol s21ml21), T. hirsuta (15.9 pmol s21ml21)."
+Direct Blue 71,Trametes hirsuta,0.25 mM,1.5 g (wet weight),shaking,30°C,8 days,5.0,not specified,mycelium,"Initial decolorization rates: laccase (3.7 nmol s21ml21), T. hirsuta (16.2 pmol s21ml21)."
+Basic Red 9 Base,Trametes hirsuta,0.25 mM,1.5 g (wet weight),shaking,30°C,8 days,5.0,not specified,mycelium,"Initial decolorization rates: laccase (3.3 nmol s21ml21), T. hirsuta (44.5 pmol s21ml21)."

@@ -1,0 +1,19 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+red,Aspergillus niger,50,unknown,static,25,24,unknown,62.85,mycelium,Absorbance measured using a spectrophotometer at 487 nm.
+red,Aspergillus niger,50,unknown,static,25,48,unknown,83.52,mycelium,Absorbance measured using a spectrophotometer at 487 nm.
+red,Aspergillus niger,50,unknown,static,25,72,unknown,99.77,mycelium,Absorbance measured using a spectrophotometer at 487 nm.
+red,Aspergillus niger,100,unknown,static,25,24,unknown,50.96,mycelium,Absorbance measured using a spectrophotometer at 487 nm.
+red,Aspergillus niger,100,unknown,static,25,48,unknown,77.87,mycelium,Absorbance measured using a spectrophotometer at 487 nm.
+red,Aspergillus niger,100,unknown,static,25,72,unknown,96.02,mycelium,Absorbance measured using a spectrophotometer at 487 nm.
+red,Aspergillus niger,300,unknown,static,25,24,unknown,38.87,mycelium,Absorbance measured using a spectrophotometer at 487 nm.
+red,Aspergillus niger,300,unknown,static,25,48,unknown,60.55,mycelium,Absorbance measured using a spectrophotometer at 487 nm.
+red,Aspergillus niger,300,unknown,static,25,72,unknown,92.19,mycelium,Absorbance measured using a spectrophotometer at 487 nm.
+yellow,Aspergillus niger,50,unknown,static,25,24,unknown,62.09,mycelium,Absorbance measured using a spectrophotometer at 487 nm.
+yellow,Aspergillus niger,50,unknown,static,25,48,unknown,80.94,mycelium,Absorbance measured using a spectrophotometer at 487 nm.
+yellow,Aspergillus niger,50,unknown,static,25,72,unknown,94.11,mycelium,Absorbance measured using a spectrophotometer at 487 nm.
+yellow,Aspergillus niger,100,unknown,static,25,24,unknown,48.31,mycelium,Absorbance measured using a spectrophotometer at 487 nm.
+yellow,Aspergillus niger,100,unknown,static,25,48,unknown,76.88,mycelium,Absorbance measured using a spectrophotometer at 487 nm.
+yellow,Aspergillus niger,100,unknown,static,25,72,unknown,93.65,mycelium,Absorbance measured using a spectrophotometer at 487 nm.
+yellow,Aspergillus niger,300,unknown,static,25,24,unknown,38.68,mycelium,Absorbance measured using a spectrophotometer at 487 nm.
+yellow,Aspergillus niger,300,unknown,static,25,48,unknown,58.01,mycelium,Absorbance measured using a spectrophotometer at 487 nm.
+yellow,Aspergillus niger,300,unknown,static,25,72,unknown,88.90,mycelium,Absorbance measured using a spectrophotometer at 487 nm.

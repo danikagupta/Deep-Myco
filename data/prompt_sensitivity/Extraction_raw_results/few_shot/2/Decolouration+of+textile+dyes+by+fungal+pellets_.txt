@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Poly R478,Trametes trogii,50 mg/l,not specified,static,30 °C,3 weeks,5.5,observed,not specified,Used solid media for testing.
+Neolane blue,Trametes trogii,50 mg/l,not specified,static,30 °C,1 day,5,91.5%,not specified,Complete decolorization after 24 h with puriﬁed laccase.
+Neolane pink,Trametes trogii,50 mg/l,not specified,static,30 °C,1 day,5,63.6%,not specified,Complete decolorization after 24 h with puriﬁed laccase.
+Neolane yellow,Trametes trogii,50 mg/l,not specified,static,30 °C,4 days,5,39.6%,not specified,Complete decolorization achieved with laccase mediator.
+Maxilon blue,Trametes trogii,50 mg/l,not specified,static,30 °C,1 day,5,0%,not specified,No decolorization observed.
+Basacryl yellow,Trametes trogii,50 mg/l,not specified,static,30 °C,4 days,5,0%,not specified,No decolorization observed.
+Bezaktiv S-BF turquoise,Trametes trogii,50 mg/l,not specified,static,30 °C,1 day,5,54%,not specified,Partial decolorization observed.

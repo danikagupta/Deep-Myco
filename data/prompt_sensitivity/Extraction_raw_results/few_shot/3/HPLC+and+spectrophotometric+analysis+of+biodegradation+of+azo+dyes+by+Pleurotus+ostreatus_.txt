@@ -1,0 +1,12 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Disperse Red 1,Pleurotus ostreatus,not specified,not specified,shaking (150 rpm),30 °C,1 day,not specified,not specified,not specified,"nitrobenzene, 4-nitrophenol, and 4-nitroaniline produced"
+Disperse Red 1,Pleurotus ostreatus,not specified,not specified,shaking (150 rpm),30 °C,4 days,not specified,not specified,not specified,"produced nitrobenzene, 4-nitrophenol, 4-nitroaniline, 4-nitroanisole"
+Disperse Red 1,Pleurotus ostreatus,not specified,not specified,shaking (150 rpm),30 °C,7 days,not specified,not specified,not specified,"detected addition of 1,2-dimethoxy-4-nitrobenzene"
+Disperse Red 19,Pleurotus ostreatus,not specified,not specified,shaking (150 rpm),30 °C,1 day,not specified,not specified,not specified,produced 4-nitroaniline
+Disperse Red 19,Pleurotus ostreatus,not specified,not specified,shaking (150 rpm),30 °C,4 days,not specified,not specified,not specified,"produced nitrobenzene, 4-nitrophenol, and 4-nitroanisole"
+Disperse Orange 1,Pleurotus ostreatus,not specified,not specified,shaking (150 rpm),30 °C,1 day,not specified,not specified,not specified,produced only 4-nitroaniline
+Disperse Orange 1,Pleurotus ostreatus,not specified,not specified,shaking (150 rpm),30 °C,4 days,not specified,not specified,not specified,produced nitrobenzene and 4-nitrophenol
+Disperse Orange 25,Pleurotus ostreatus,not specified,not specified,shaking (150 rpm),30 °C,1 day,not specified,not specified,not specified,produced only veratryl alcohol
+Disperse Orange 25,Pleurotus ostreatus,not specified,not specified,shaking (150 rpm),30 °C,4 days,not specified,not specified,not specified,"produced nitrobenzene, 4-nitrophenol, and very little 4-nitroanisole"
+Disperse Red 13,Pleurotus ostreatus,not specified,not specified,shaking (150 rpm),30 °C,1 day,not specified,not specified,not specified,produced veratryl alcohol and another unknown metabolite
+4-nitrophenol,Pleurotus ostreatus,25 ppm,not specified,shaking (150 rpm),not specified,7 days,not specified,90%,not specified,"produced 4-nitroanisole, 1,2-dimethoxy-4-nitrobenzene, 2,4-dinitrophenol, and 2,4-dinitroanisole"

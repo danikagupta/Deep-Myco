@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Carmoisine Red,Pleurotus ostreatus,10 ppm,5 g/L,shaking,not specified,5 days,6.5,81.34%,dried biomass,Figure 1: visual transformation of Carmoisine Red
+Tartrazine Yellow,Pleurotus ostreatus,10 ppm,5 g/L,shaking,not specified,5 days,6.5,45.36%,dried biomass,Figure 1: visual transformation of Tartrazine Yellow
+Brilliant Blue FCF,Pleurotus ostreatus,10 ppm,5 g/L,shaking,not specified,5 days,6.5,19.82%,dried biomass,Figure 1: visual transformation of Brilliant Blue FCF
+Fast Green FCF,Pleurotus ostreatus,10 ppm,5 g/L,shaking,not specified,5 days,6.5,28.99%,dried biomass,Figure 1: visual transformation of Fast Green FCF

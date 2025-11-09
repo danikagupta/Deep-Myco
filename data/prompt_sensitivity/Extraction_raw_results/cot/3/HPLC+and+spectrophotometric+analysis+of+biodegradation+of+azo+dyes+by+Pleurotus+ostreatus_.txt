@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Orange II,Pleurotus ostreatus,100 ppm,not specified,not specified,30 °C,3 days,not specified,90%,mycelium,pH dropped to around 3.0 without buffer.
+Acid Red 29,Pleurotus ostreatus,100 ppm,not specified,not specified,30 °C,3 days,not specified,90%,mycelium,pH dropped substantially without buffer.
+Remazol Brilliant Blue R,Pleurotus ostreatus,100 ppm,not specified,not specified,30 °C,3 days,not specified,not specified,mycelium,pH dropped to about 3.0 after incubation without buffer.
+Disperse Red 1,Pleurotus ostreatus,not specified,not specified,not specified,30 °C,not specified,not specified,not specified,not specified,primary products include nitrobenzene and 4-nitrophenol.
+Disperse Red 19,Pleurotus ostreatus,not specified,not specified,not specified,30 °C,not specified,not specified,not specified,not specified,produces nitrobenzene and 4-nitrophenol.
+Disperse Orange 1,Pleurotus ostreatus,not specified,not specified,not specified,30 °C,not specified,not specified,not specified,not specified,produces similar products to Disperse Red 1.
+Disperse Orange 25,Pleurotus ostreatus,not specified,not specified,not specified,30 °C,not specified,not specified,not specified,not specified,produces nitrobenzene and 4-nitrophenol.
+Disperse Red 13,Pleurotus ostreatus,not specified,not specified,not specified,30 °C,not specified,not specified,not specified,not specified,produces 1-chloro-3-nitrobenzene and 2-chloro-4-nitrophenol.

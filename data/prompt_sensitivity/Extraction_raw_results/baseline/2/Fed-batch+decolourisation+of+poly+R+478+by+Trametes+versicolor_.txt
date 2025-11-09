@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+azure B,Trametes versicolor BBEL0970,0.1 g/l,N/A,shaking,28 °C,2 weeks,4.5,Yes,mycelium,Dye decolorization seen during primary screening.
+Poly R4478,Trametes versicolor BBEL0970,0.1 g/l,N/A,shaking,28 °C,2 weeks,4.5,Yes,mycelium,Dye decolorization seen during primary screening.
+guaiacol,Trametes versicolor BBEL0970,0.1 g/l,N/A,shaking,28 °C,2 weeks,4.5,Yes,mycelium,Guaiacol oxidation detected during primary screening.
+azure B,Trametes versicolor BBEL0970,N/A,N/A,shaking,28 °C,14 days,4.5,3.14 U/ml,mycelium,Laccase activity levels observed.
+Poly R4478,Trametes versicolor BBEL0970,N/A,N/A,shaking,28 °C,14 days,N/A,6.5 U/ml,mycelium,Peak laccase activity observed before glucose exhaustion.
+barley straw,Trametes versicolor BBEL0970,N/A,N/A,shaking,28 °C,24 days,N/A,10.3 U/ml,mycelium,Barley straw used for biological pretreatment.

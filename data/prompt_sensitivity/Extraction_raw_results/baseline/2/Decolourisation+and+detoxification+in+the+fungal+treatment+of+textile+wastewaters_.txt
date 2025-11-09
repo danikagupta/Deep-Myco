@@ -1,0 +1,14 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+"acid dyes AY49, AR266, Abu62",Bjerkandera adusta,100 ppm each,not specified,agitated (130 rpm),28°C,7 days,5,88.0 ± 1.4%,mycelium,Measured decolorization percentage on day 7
+"acid dyes AY49, AR266, Abu62",Bjerkandera adusta,100 ppm each,not specified,agitated (130 rpm),28°C,7 days,5.8,96.5 ± 0.5%,mycelium,Used glucose and yeast extract (GLY)
+"acid dyes AY49, AR266, Abu62",Bjerkandera adusta,100 ppm each,not specified,agitated (130 rpm),28°C,7 days,7.5,67.5 ± 1.9%,mycelium,Used glucose and yeast extract (GHY)
+"reactive dyes RY145, RR195, Rbu222, Rbk5",Bjerkandera adusta,1250 ppm each,not specified,agitated (130 rpm),28°C,1 day,6.8,29.2 ± 2.3%,mycelium,Wastewater diluted (1/3)
+"reactive dyes RY145, RR195, Rbu222, Rbk5",Bjerkandera adusta,1250 ppm each,not specified,agitated (130 rpm),28°C,15 days,6.3,55.8 ± 4.1%,mycelium,Used glucose and yeast extract (GLY)
+"reactive dyes RY145, RR195, Rbu222, Rbk5",Bjerkandera adusta,1250 ppm each,not specified,agitated (130 rpm),28°C,10 days,6.2,61.0 ± 3.3%,mycelium,Used glucose and yeast extract (GHY)
+"direct dyes DrY106, DrR80, DrBu71",Bjerkandera adusta,1000 ppm each,not specified,agitated (130 rpm),28°C,1 day,7.4,50.2 ± 7.0%,mycelium,No nutrient addition
+"direct dyes DrY106, DrR80, DrBu71",Bjerkandera adusta,1000 ppm each,not specified,agitated (130 rpm),28°C,7 days,6.5,89.7 ± 1.5%,mycelium,Used glucose and yeast extract (GLY)
+"direct dyes DrY106, DrR80, DrBu71",Bjerkandera adusta,1000 ppm each,not specified,agitated (130 rpm),28°C,4 days,8.6,75.0 ± 0.3%,mycelium,Used glucose and yeast extract (GHY)
+"acid dyes ABk194, Abk210, AY194",Bjerkandera adusta,100 ppm each,not specified,agitated (130 rpm),28°C,1 day,6.6,82.7 ± 7.8%,mycelium,No nutrient addition
+"acid dyes ABk194, Abk210, AY194",Bjerkandera adusta,100 ppm each,not specified,agitated (130 rpm),28°C,4 days,7.3,91.4 ± 2.5%,mycelium,Used glucose and yeast extract (GLY)
+"acid dyes ABk194, Abk210, AY194",Bjerkandera adusta,100 ppm each,not specified,agitated (130 rpm),28°C,2 days,8.2,74.6 ± 2.8%,mycelium,Used glucose and yeast extract (GHY)
+real wastewater,Bjerkandera adusta,not specified,not specified,not specified,24°C,24 hours,7.3,40.8 ± 6.8%,mycelium,Measured absorbance before and after treatment

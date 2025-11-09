@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Diamond Black PV 200,Trametes modesta,0.56 g/L,100 nkat/mL,not specified,25 °C,3 hours,5,not completely decolorized (brownish hue),mycelium,observed at least nine transformation products via HPLC/MS analysis
+Diamond Black PV 200,Trametes modesta,0.01 mM,not specified,not specified,25 °C,not specified,4,varies with concentration and pH,mycelium,kinetic profiles analyzed for different pH values
+Diamond Black PV 200,Trametes modesta,0.01 mM,not specified,not specified,25 °C,not specified,5,highest reaction rate at this pH,mycelium,specificity constant highest at pH 5
+Diamond Black PV 200,Trametes modesta,0.01 mM,not specified,not specified,25 °C,not specified,6,reaction rate diminished significantly,mycelium,rapid enzyme activity drop beyond pH 6
+3-Sulfophenyl-azo-dye,Trametes modesta,not specified,not specified,not specified,25 °C,not specified,4-5,no enzymatic transformation at lower pH,mycelium,reactivity lower than Diamond Black PV 200
+4-Sulfophenyl-azo-dye,Trametes modesta,not specified,not specified,not specified,25 °C,not specified,4-5,no enzymatic transformation at lower pH,mycelium,reactivity lower than Diamond Black PV 200
+Naphthyl-azo-dye,Trametes modesta,not specified,not specified,not specified,25 °C,not specified,4-5,no enzymatic transformation at higher pH,mycelium,reactivity lower than Diamond Black PV 200
+Nitro-substituted azo-dye,Trametes modesta,not specified,not specified,not specified,25 °C,not specified,4-5,no enzymatic transformation,mycelium,lowest reactivity observed

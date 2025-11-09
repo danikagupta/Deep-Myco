@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Novacron Red,Leptosphaerulina sp.,200 ppm,not specified,shaking,25 °C,21 days,5,>90%,mycelium,best treatment with ammonium tartrate 5 g/L
+Remazol Black,Leptosphaerulina sp.,200 ppm,not specified,shaking,25 °C,21 days,5,>90%,mycelium,best treatment with ammonium tartrate 5 g/L
+Turquoise Blue,Leptosphaerulina sp.,200 ppm,not specified,shaking,25 °C,21 days,5,>90%,mycelium,best treatment with ammonium tartrate 5 g/L
+Novacron Red,Leptosphaerulina sp.,200 ppm,not specified,unagitated,20-25 °C,15 days,not specified,85%,mycelium,high decolorization in non-agitated conditions
+Remazol Black,Leptosphaerulina sp.,200 ppm,not specified,unagitated,20-25 °C,15 days,not specified,>90%,mycelium,high decolorization in non-agitated conditions
+Turquoise Blue,Leptosphaerulina sp.,200 ppm,not specified,unagitated,20-25 °C,15 days,not specified,70-90%,mycelium,high decolorization in non-agitated conditions

@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Amaranth,Trametes versicolor,50 ppm,not specified,agitated,30°C,1 day,5.0,complete,mycelial pellets,first aliquot decolorized within 24 hours
+Remazol Black,Trametes versicolor,60 ppm,not specified,agitated,30°C,1 day,5.0,complete,mycelial pellets,first aliquot decolorized within 24 hours
+Remazol Orange,Trametes versicolor,60 ppm,not specified,agitated,30°C,1 day,5.0,complete,mycelial pellets,first aliquot decolorized within 24 hours
+Reactive Blue,Trametes versicolor,20 ppm,not specified,agitated,30°C,1 day,5.0,complete,mycelial pellets,first aliquot decolorized within 24 hours
+Tropaeolin O,Trametes versicolor,20 ppm,not specified,agitated,30°C,1 day,5.0,complete,mycelial pellets,first aliquot decolorized within 24 hours
+Remazol Orange,Trametes versicolor,60 ppm,not specified,agitated,30°C,1 day,5.0,complete,mycelial pellets,decolorization sustained through multiple additions
+Amaranth and Remazol Black B,Trametes versicolor,50 ppm Amaranth; 60 ppm Remazol Black B,not specified,agitated,30°C,48 hours,5.0,decolorization of first aliquot,mycelial pellets,decolorization rates decrease with glucose depletion

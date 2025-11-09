@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+poly R-478,Bjerkandera sp. strain B33/3,0.05 mM,not specified,not specified,30 °C,not specified,not specified,excellent,whole fungi,not specified
+Remazol Brilliant Blue R (RBBR),Bjerkandera sp. strain B33/3,0.05 mM,not specified,not specified,30 °C,not specified,5.0,excellent,whole fungi,not specified
+"2,6-dimethoxyphenol (DMP)",Bjerkandera sp. strain B33/3,1 mM,not specified,not specified,30 °C,not specified,3.0 and 5.0,not specified,whole fungi,absorbance measured at 469 nm
+veratryl alcohol (VA),Bjerkandera sp. strain B33/3,4.0 mM,not specified,not specified,30 °C,not specified,3.0 and 5.0,not specified,whole fungi,absorbance measured at 310 nm
+manganese(II),Bjerkandera sp. strain B33/3,0.1 mM,not specified,not specified,30 °C,not specified,5.0,not specified,whole fungi,absorbance measured at 238 nm
+ABTS,Bjerkandera sp. strain B33/3,0.5 mM,not specified,not specified,25 °C,not specified,5.0,not specified,whole fungi,absorbance measured at 420 nm

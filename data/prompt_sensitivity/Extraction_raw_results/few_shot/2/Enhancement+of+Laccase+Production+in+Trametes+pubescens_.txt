@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+not specified,Trametes hirsuta,not specified,not specified,shaking (150 rpm),25 °C,20 days,5.8,not applicable,mycelium,laccase production reached 7614 U/L on the 20th day
+not specified,Trametes hirsuta,not specified,not specified,shaking (150 rpm),25 °C,not specified,5.8,not applicable,mycelium,1 mM copper sulfate added on the 3rd day increased laccase production to 23543 U/L
+not specified,Trametes hirsuta,not specified,not specified,shaking (150 rpm),25 °C,not specified,5.8,not applicable,mycelium,various concentrations of copper sulfate were tested; 1 mM was optimal
+not specified,Trametes hirsuta,not specified,not specified,shaking (150 rpm),25 °C,not specified,5.8,not applicable,mycelium,"various concentrations of 2,5 xylidine were tested; 1mM was optimal, resulting in 23543 U/L laccase"
+not specified,Trametes hirsuta,not specified,20 g/l of lignocellulosic material,shaking (150 rpm),25 °C,not specified,5.8,not applicable,mycelium,wheat bran resulted in maximum laccase activity of 9300 U/L
+not specified,Trametes hirsuta,not specified,not specified,shaking (150 rpm),25 °C,not specified,not specified,not applicable,mycelium,screened various nitrogen sources; peptone produced maximum laccase activity of 17390 U/L
+not specified,Trametes hirsuta,not specified,not specified,shaking (150 rpm),25 °C,not specified,5.8,not applicable,mycelium,"2,5 xylidine and other inducers were tested; high activity observed with 2,5 xylidine (23456 U/L)"

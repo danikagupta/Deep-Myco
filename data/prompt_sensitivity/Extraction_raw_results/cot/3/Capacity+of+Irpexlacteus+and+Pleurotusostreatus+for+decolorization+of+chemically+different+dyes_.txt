@@ -1,0 +1,13 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),not specified,shaking,30 °C,3 days,4,100%,whole fungi,Optimal conditions with maltose and ammonium sulfate.
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),not specified,shaking,30 °C,4 days,4,89.2%,whole fungi,Maximum LiP activity recorded as 625 U/mL.
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),not specified,shaking,30 °C,7 days,4.5,84.8%,whole fungi,Maximum recorded LiP activity at 507 U/mL.
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),not specified,shaking,45 °C,10 days,4,not specified,whole fungi,Decolorization efficiency decreased at higher temperatures.
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),not specified,shaking,25 °C,10 days,4,not specified,whole fungi,Temperature below 25 °C inhibits decolorization.
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),not specified,shaking,35 °C,10 days,4,not specified,whole fungi,Optimal temperature observed for dye decolorization.
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),not specified,shaking,not specified,10 days,not specified,not specified,whole fungi,Varying volumes of spore inoculum (1-7 mL) tested.
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),not specified,shaking,30 °C,3 days,4,91.5%,whole fungi,Combination of maltose and ammonium sulfate.
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),not specified,shaking,30 °C,3 days,4,77.9%,whole fungi,Using glucose as carbon source.
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),not specified,shaking,30 °C,3 days,4,82.9%,whole fungi,Using ammonium dihydrogen phosphate as nitrogen source.
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),not specified,shaking,30 °C,3 days,4,69.5%,whole fungi,Using peptone as nitrogen source.
+Solar brilliant red 80,Schizophyllum commune IBL-06,0.01% (w/v),not specified,shaking,30 °C,3 days,4,58.3%,whole fungi,Using urea as nitrogen source.

@@ -1,0 +1,13 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Cibacron Red C-2G,Coriolus versicolor,500 mg/L,N/A,solid-state fermentation,N/A,N/A,N/A,70-75%,mycelium,Used as part of a mixture of nine dyes.
+Remazol Navy Blue GG,Coriolus versicolor,500 mg/L,N/A,solid-state fermentation,N/A,N/A,N/A,70-75%,mycelium,Used as part of a mixture of nine dyes.
+Remazol Red RB,Coriolus versicolor,500 mg/L,N/A,solid-state fermentation,N/A,N/A,N/A,70-75%,mycelium,Used as part of a mixture of nine dyes.
+Cibacron Orange CG,Coriolus versicolor,500 mg/L,N/A,solid-state fermentation,N/A,N/A,N/A,70-75%,mycelium,Used as part of a mixture of nine dyes.
+Remazol Golden Yellow RNL,Coriolus versicolor,500 mg/L,N/A,solid-state fermentation,N/A,N/A,N/A,70-75%,mycelium,Used as part of a mixture of nine dyes.
+Hisperse Navy D2GR,Coriolus versicolor,500 mg/L,N/A,solid-state fermentation,N/A,N/A,N/A,70-75%,mycelium,Used as part of a mixture of nine dyes.
+Remazol Blue B,Coriolus versicolor,500 mg/L,N/A,solid-state fermentation,N/A,N/A,N/A,70-75%,mycelium,Used as part of a mixture of nine dyes.
+Remazol Turquoise Blue G 133,Coriolus versicolor,500 mg/L,N/A,solid-state fermentation,N/A,N/A,N/A,70-75%,mycelium,Used as part of a mixture of nine dyes.
+Remazol Black B,Coriolus versicolor,500 mg/L,N/A,solid-state fermentation,N/A,N/A,N/A,70-75%,mycelium,Used as part of a mixture of nine dyes.
+Cibacron Red,Bjerkandera adusta,N/A,N/A,solid-state fermentation,80-85%,N/A,N/A,53%,mycelium,Moisture content of SSF.
+Cibacron Red,Bjerkandera adusta,500 mg/L,N/A,solid-state fermentation,N/A,5-6 days,N/A,76%,mycelium,Used in continuous-flow system.
+Remazol-Red,Bacterial Consortium (PDC 1 to 5),500 mg/L,N/A,anaerobic fermentation,N/A,24-48 hours,N/A,Complete,N/A,Bacterial isolates capable of decolorising under anaerobic conditions.

@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+ethanol,Agaricus blazei U2-1,1.0 mM,not specified,not specified,not specified,21 days,not specified,not specified,mycelium,maximum laccase activity: 8.0 ± 1.9 U/mL
+guaiacol,Agaricus blazei U2-1,0.5 mM,not specified,not specified,not specified,21 days,not specified,not specified,mycelium,maximum laccase activity: 3.5 ± 1.2 U/mL
+vanillin,Agaricus blazei U2-1,1.0 mM,not specified,not specified,not specified,21 days,not specified,not specified,mycelium,maximum laccase activity: 9.0 ± 1.2 U/mL
+ethyl alcohol,Agaricus blazei U2-2,1.0 mM,not specified,not specified,not specified,21 days,not specified,not specified,mycelium,maximum laccase activity: 10.5 ± 4.4 U/mL
+pyrogallol,Agaricus blazei U2-4,1.0 mM,not specified,not specified,not specified,21 days,not specified,not specified,mycelium,maximum laccase activity: 27.3 ± 0.4 U/mL
+xylidine,Agaricus blazei U2-4,0.5 mM,not specified,not specified,not specified,21 days,not specified,not specified,mycelium,maximum laccase activity: 28.6 ± 0.4 U/mL
+veratryl alcohol,Agaricus blazei U2-3,1.0 mM,not specified,not specified,not specified,21 days,not specified,not specified,mycelium,maximum laccase activity: 8.9 ± 0.9 U/mL
+vanillin,Agaricus blazei U2-3,0.5 mM,not specified,not specified,not specified,21 days,not specified,not specified,mycelium,maximum laccase activity: 15.0 ± 1.4 U/mL

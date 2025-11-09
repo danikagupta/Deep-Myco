@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Reactive Blue 21,Pleurotus eryngii,50 mg/L,not specified,shaking (150 rpm),30 °C,10 days,not specified,98.4%,mycelium,highest decolorization percentage among tested dyes
+Reactive Blue 21,Pleurotus eryngii (free),50 mg/L,not specified,not specified,30 °C,72 h,not specified,50.8%,not specified,measured the decolorization efficiency of free P. eryngii
+Reactive Blue 21,Pleurotus eryngii (immobilized on wheat straw),50 mg/L,not specified,not specified,30 °C,72 h,not specified,57.5%,fungal mass,using immobilized mycelium on different substrates
+Reactive Blue 21,Pleurotus eryngii (immobilized on rice straw),50 mg/L,not specified,not specified,30 °C,72 h,not specified,32.5%,fungal mass,using immobilized mycelium on different substrates
+Reactive Blue 21,Pleurotus eryngii (immobilized on sugar cane waste),50 mg/L,not specified,not specified,30 °C,72 h,not specified,83.5%,fungal mass,most efficient immobilization substrate
+Reactive Blue 21,Pleurotus eryngii (immobilized on wheat bran),50 mg/L,not specified,not specified,30 °C,72 h,not specified,62.2%,fungal mass,using immobilized mycelium on different substrates
+textile effluent,Pleurotus eryngii (immobilized on sugar cane waste),not specified,not specified,not specified,not specified,not specified,10,96%,mycelium,reduction of BOD and COD by 85-90%

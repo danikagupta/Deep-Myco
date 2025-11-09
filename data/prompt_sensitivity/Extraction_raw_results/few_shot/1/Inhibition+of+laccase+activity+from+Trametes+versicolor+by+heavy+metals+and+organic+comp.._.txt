@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+not specified,Coriolopsis rigida,not specified,not specified,solid state fermentation,not specified,not specified,not specified,not specified,whole fungi,25-fold increase in laccase production.
+not specified,Trametes versicolor,not specified,not specified,solid state fermentation,not specified,not specified,not specified,not specified,whole fungi,High laccase production levels were achieved.
+not specified,Agaricus bisporus,not specified,not specified,not specified,not specified,not specified,not specified,not specified,whole fungi,Residual compost used demonstrated potential for laccase production.
+not specified,Pleurotus ostreatus,not specified,not specified,submerged fermentation,not specified,not specified,not specified,not specified,whole fungi,Laccase production observed was affected by carbon sources.
+not specified,Coriolus versicolor,not specified,not specified,not specified,not specified,not specified,not specified,not specified,whole fungi,Laccase production improved by the use of nut shell and cyanobacteria.
+not specified,Trametes versicolor,not specified,not specified,not specified,not specified,not specified,not specified,not specified,whole fungi,Increased production upon introduction of inducers.
+not specified,Pleurotus ostreatus,not specified,not specified,not specified,not specified,not specified,not specified,not specified,whole fungi,Significant increase in laccase production when cultured with copper and lignin.

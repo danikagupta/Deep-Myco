@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+remazol brilliant blue R,Pleurotus pulmonarius,200 ppm,not specified,not specified,28 °C,10 days,6.0,3.0%,mycelium,none
+Congo red,Pleurotus pulmonarius,200 ppm,not specified,not specified,28 °C,10 days,6.0,25.4%,mycelium,none
+methylene blue,Pleurotus pulmonarius,200 ppm,not specified,not specified,28 °C,10 days,6.0,51.0%,mycelium,none
+ethyl violet,Pleurotus pulmonarius,200 ppm,not specified,not specified,28 °C,10 days,6.0,43.1%,mycelium,none
+poly R-478,Pleurotus pulmonarius,200 ppm,not specified,not specified,28 °C,10 days,6.0,78.1%,mycelium,none

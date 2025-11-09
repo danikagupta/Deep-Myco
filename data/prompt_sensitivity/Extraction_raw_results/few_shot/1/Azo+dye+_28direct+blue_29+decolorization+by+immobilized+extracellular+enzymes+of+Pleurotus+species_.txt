@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Phenol Red,Pleurotus flabellatus,300 mg/L,not specified,stagnant,25 °C,20 days,5.0,not specified,not specified,assessed for decolorization with three species of Pleurotus.
+Phenol Red,Pleurotus flabellatus,300 mg/L,not specified,stagnant,25 °C,20 days,5.5,not specified,not specified,best decolorization result.
+Phenol Red,Pleurotus flabellatus,300 mg/L,not specified,stagnant,25 °C,20 days,6.0,not specified,not specified,assessed for decolorization across multiple pH levels.
+Phenol Red,Pfo 6X9,300 mg/L,not specified,stagnant,25 °C,20 days,5.5,not specified,not specified,improved dikaryon showed highest decolorization efficiency.
+Phenol Red,Poc 9X6,300 mg/L,not specified,stagnant,25 °C,20 days,5.5,not specified,not specified,improved dikaryon; assessed for surfactant effects.
+Phenol Red,Poc 9X6,300 mg/L,not specified,stagnant,25 °C,20 days,5.5,not specified,not specified,sodium dodecyl sulfate (0.5 mM) and Tween-80 (0.1%) supported maximum decolorization.
+Phenol Red,Poc 9X6,300 mg/L,not specified,stagnant,25 °C,20 days,5.5,not specified,not specified,"experiment tested pH, age, and surfactant concentration."
+Phenol Red,P. ostreatus,300 mg/L,not specified,stagnant,25 °C,20 days,5.5,not specified,not specified,assessed across multiple fungal species.

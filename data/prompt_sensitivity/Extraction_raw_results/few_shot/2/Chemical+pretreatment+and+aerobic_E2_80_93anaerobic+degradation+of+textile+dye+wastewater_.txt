@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Acid Red 131,Aspergillus niger,100 mg/L,not specified,shaking,30 °C,60 min,not specified,not specified,not specified,maximum decolorization occurred
+Acid Red 131,Aspergillus niger,100 mg/L,not specified,shaking,40 °C,60 min,not specified,not specified,not specified,decolorization rates observed
+Acid Red 131,Aspergillus niger,100 mg/L,not specified,shaking,50 °C,60 min,not specified,not specified,not specified,reaction rates decreased at higher temperature
+Acid Red 131,Aspergillus niger,75 mg/L,not specified,shaking,30 °C,60 min,not specified,not specified,not specified,maximum decolorization at 75 mg/L
+Acid Red 131,Aspergillus niger,100 mg/L,not specified,shaking,38 °C,60 min,7,not specified,not specified,tested at an optimum pH of 7

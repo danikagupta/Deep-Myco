@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Congo Red,Irpex lacteus KUC8958,100 mg/L,not specified,static,27 °C,6 days,not specified,82.1%,not specified,highest decolorization of this strain
+Congo Red,Irpex lacteus KUC8958,100 mg/L,not specified,shaking (150 rpm),27 °C,14 days,not specified,more than 95%,not specified,compared with static conditions
+Reactive Blue 4,Irpex lacteus KUC8958,100 mg/L,not specified,static,27 °C,6 days,not specified,100%,not specified,highest decolorization of this strain
+Reactive Blue 4,Irpex lacteus KUC8958,100 mg/L,not specified,shaking (150 rpm),27 °C,14 days,not specified,more than 95%,not specified,compared with static conditions
+Orange II,Irpex lacteus KUC8958,100 mg/L,not specified,static,27 °C,6 days,not specified,76.4%,not specified,highest decolorization of this strain
+Orange II,Irpex lacteus KUC8958,100 mg/L,not specified,shaking (150 rpm),27 °C,14 days,not specified,53%,not specified,compared with static conditions

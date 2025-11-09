@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Reactive Blue 19,Trametes versicolor,0.036 mM,not specified,recirculated packed bed,23 °C,120 h,not specified,90%,not specified,Interaction with Merpol reduced dye adsorption by 40%
+ABTS,Trametes versicolor,0.5 mM,not specified,static,23 °C,not specified,5,not specifically tested,not specified,Kinetics showed Michaelis-Menten behavior; slight inhibition with Merpol
+Reactive Blue 19,Trametes versicolor,0.036 mM,not specified,static,22 °C,not specified,4,not specified directly,not specified,Optimal pH for decolorization
+ABTS,Trametes versicolor,not specified,not specified,static,22 °C,not specified,5,not specified,not specified,Inhibition characteristics determined

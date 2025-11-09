@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+None,Trametes pubescens MB89,N/A,0.87 ± 0.28 g/L,shaking,28 °C,15 days,"variable, optimal at pH 5.0",N/A,mycelium,Experiment assessed the effect of pH on laccase synthesis.
+None,Trametes pubescens MB89,N/A,1.27 ± 0.31 g/L,shaking,28 °C,15 days,5.0,N/A,mycelium,Assessment of different carbon sources for laccase production.
+None,Trametes pubescens MB89,N/A,1.27 ± 0.31 g/L,shaking,28 °C,15 days,5.0,N/A,mycelium,Assessment of different nitrogen sources for laccase production.
+None,Trametes pubescens MB89,N/A,1.27 ± 0.31 g/L,shaking,28 °C,15 days,5.0,N/A,mycelium,Assessment of different lignin/cellulose sources as well as phosphorus supplementation.
+None,Trametes pubescens MB89,N/A,1.27 ± 0.31 g/L,shaking,28 °C,15 days,5.0,N/A,mycelium,Evaluation of reported inducers prior to and four days after inoculation.
+None,Trametes pubescens MB89,N/A,0.76 ± 0.25 g/L,shaking,28 °C,14 days,5.0,N/A,mycelium,Laccase synthesis in modified wine-related wastewaters with various supplements.
+None,Trametes pubescens MB89,N/A,0.76 ± 0.25 g/L,shaking,28 °C,14 days,5.0,N/A,mycelium,"Study of combined effect of glucose, copper, and 2,5-xylidine."

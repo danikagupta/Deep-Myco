@@ -1,0 +1,11 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Reactive Blue 21,Pleurotus eryngii,50 mg/l,not specified,150 rpm shaking,30°C,10 days,not specified,98.4%,whole fungi,
+Reactive Blue 21,P. eryngii immobilized on sugar cane waste,50 mg/l,not specified,150 rpm shaking,30°C,10 days,not specified,83.5%,fungal mass,
+Reactive Blue 21,Free Pleurotus eryngii,50 mg/l,not specified,150 rpm shaking,30°C,10 days,not specified,50.8%,whole fungi,
+Reactive Yellow 160,Pleurotus eryngii,50 mg/l,not specified,150 rpm shaking,30°C,10 days,not specified,96.8%,whole fungi,
+Orange 122,Pleurotus eryngii,50 mg/l,not specified,150 rpm shaking,30°C,10 days,not specified,97.1%,whole fungi,
+Direct Congo Red,Pleurotus eryngii,50 mg/l,not specified,150 rpm shaking,30°C,10 days,not specified,97.8%,whole fungi,
+Direct Yellow 5G,Pleurotus eryngii,50 mg/l,not specified,150 rpm shaking,30°C,10 days,not specified,76%,whole fungi,
+Acid Methyl Orange,Pleurotus eryngii,50 mg/l,not specified,150 rpm shaking,30°C,10 days,not specified,61.1%,whole fungi,
+Acid Eriochrome Black T,Pleurotus eryngii,50 mg/l,not specified,150 rpm shaking,30°C,10 days,not specified,96.9%,whole fungi,
+Textile effluent,P. eryngii immobilized on sugar cane waste,not specified,not specified,not specified,not specified,unspecified,10,96%,fungal mass,"Conductivity, BOD, COD, TSS, TDS measured"

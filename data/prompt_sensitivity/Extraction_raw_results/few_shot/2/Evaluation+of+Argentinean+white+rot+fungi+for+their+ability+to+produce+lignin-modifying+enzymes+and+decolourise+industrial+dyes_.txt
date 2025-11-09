@@ -1,0 +1,12 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+indigo carmine,Coriolus antarcticus,100 µM,not specified,static,not specified,5 h,5.2,93%,not specified,highest decolorization percentage
+malachite green,Coriolus antarcticus,100 µM,not specified,static,not specified,5 h,5.2,86%,not specified,highest decolorization percentage
+azure B,Coriolus antarcticus,100 µM,not specified,static,not specified,5 h,5.2,82%,not specified,high decolorization capacity
+RBBR,Coriolus antarcticus,100 µM,not specified,static,not specified,5 h,5.2,82%,not specified,consistent with enzyme activity
+crystal violet,Coriolus antarcticus,100 µM,not specified,static,not specified,5 h,5.2,77%,not specified,consistent with enzyme activity
+xylidine,Coriolus antarcticus,100 µM,not specified,static,not specified,5 h,5.2,58%,not specified,consistent with enzyme activity
+indigo carmine,Trametes trogii,20 µM,not specified,static,not specified,2 h,not specified,75.8%,not specified,in vitro decolorization test
+malachite green,Trametes trogii,20 µM,not specified,static,not specified,2 h,not specified,89.1%,not specified,in vitro decolorization test
+azure B,Trametes trogii,30 µM,not specified,static,not specified,2 h,not specified,29.1%,not specified,in vitro decolorization test
+indigo carmine,Stereum hirsutum,30 µM,not specified,static,not specified,2 h,not specified,78.7%,not specified,in vitro decolorization test
+crystal violet,Stereum hirsutum,30 µM,not specified,static,not specified,2 h,not specified,76.9%,not specified,in vitro decolorization test

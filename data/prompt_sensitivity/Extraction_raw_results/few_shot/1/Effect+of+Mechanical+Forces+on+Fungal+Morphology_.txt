@@ -1,0 +1,4 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+not specified,Laccaria trichodermophora,not specified,not specified,shaking (100 rpm),25 ± 2 °C,10 days,5.50 ± 0.05,not applicable,whole fungi (clumps and pellets),Used BFA culture medium; Imaging performed with confocal microscopy.
+not specified,Laccaria trichodermophora,not specified,not specified,not applicable,not applicable,"7, 14, and 21 days",not specified,not applicable,whole fungi (pellets),Analyzed pellets for volume fraction and visualized structures via microscopy.
+not specified,Laccaria trichodermophora,not specified,not specified,not applicable,not applicable,not applicable,not specified,not applicable,not applicable,Examined dolipore structures in transmission electron micrographs.

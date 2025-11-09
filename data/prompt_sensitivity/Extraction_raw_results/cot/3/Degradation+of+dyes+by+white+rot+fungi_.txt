@@ -1,0 +1,11 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Methyl Orange,KV10,1 mg/ml,not specified,not specified,28°C,96 h,5.4,76%,mycelium,Linear increase in laccase production observed.
+Methyl Orange,KV12,1 mg/ml,not specified,not specified,28°C,96 h,5.4,79%,mycelium,Linear increase in laccase production observed.
+Rhodamine B,KV10,1 mg/ml,not specified,not specified,28°C,not specified,not specified,more than 60%,mycelium,Linear increase in laccase production observed.
+Rhodamine B,KV12,1 mg/ml,not specified,not specified,28°C,not specified,not specified,more than 60%,mycelium,Linear increase in laccase production observed.
+Methyl Orange,KV11,1 mg/ml,not specified,not specified,28°C,not specified,not specified,not specified,mycelium,Linear increase in laccase production observed.
+Rhodamine B,KV11,1 mg/ml,not specified,not specified,28°C,not specified,not specified,not specified,mycelium,Linear increase in laccase production observed.
+Methyl Orange,KVA5,1 mg/ml,not specified,not specified,28°C,not specified,not specified,not specified,mycelium,Linear increase in laccase production observed.
+Rhodamine B,KVA5,1 mg/ml,not specified,not specified,28°C,not specified,not specified,not specified,mycelium,Linear increase in laccase production observed.
+Methyl Orange,AKCH,1 mg/ml,not specified,not specified,28°C,not specified,not specified,not specified,mycelium,Linear increase in laccase production observed.
+Rhodamine B,AKCH,1 mg/ml,not specified,not specified,28°C,not specified,not specified,not specified,mycelium,Linear increase in laccase production observed.

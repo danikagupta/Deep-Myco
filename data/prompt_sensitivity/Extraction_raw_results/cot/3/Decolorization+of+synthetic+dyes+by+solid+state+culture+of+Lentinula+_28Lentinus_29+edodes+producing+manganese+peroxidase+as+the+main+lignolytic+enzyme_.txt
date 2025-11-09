@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+not specified,Lentinula edodes,not specified,not specified,not specified,25 °C,10 days,not specified,110 UI.L-1,mycelium,best results in SSF
+not specified,Lentinula boryana,not specified,not specified,not specified,20 °C,25 days,not specified,110 UI.L-1,mycelium,best results in SSF
+not specified,Lentinula edodes,not specified,not specified,not specified,25 °C,25 days,not specified,20 UI.L-1,mycelium,maximum levels in SS
+not specified,Lentinula boryana,not specified,not specified,not specified,20 °C,25 days,not specified,70 UI.L-1,mycelium,maximum levels in SS

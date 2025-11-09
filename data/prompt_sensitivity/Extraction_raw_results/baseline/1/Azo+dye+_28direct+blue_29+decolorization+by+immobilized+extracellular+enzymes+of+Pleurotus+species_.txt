@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Phenol Red,P. ostreatus,300 mg/l,1 mm agar pieces,stagnant,25°C,20 days,5.5,specific results not mentioned,whole fungi,5 ml of 10 days old culture used for maximum decolorization
+Phenol Red,P. flabellatus,300 mg/l,1 mm agar pieces,stagnant,25°C,20 days,5.5,specific results not mentioned,whole fungi,5 ml of 10 days old culture used for maximum decolorization
+Phenol Red,P. citrinopileatus,300 mg/l,1 mm agar pieces,stagnant,25°C,20 days,5.5,specific results not mentioned,whole fungi,5 ml of 10 days old culture used for maximum decolorization
+Phenol Red,Pfo 6X9 (improved dikaryon),300 mg/l,1 mm agar pieces,stagnant,25°C,20 days,5.5,specific results not mentioned,whole fungi,5 ml of 10 days old culture used for maximum decolorization
+Phenol Red,Poc 9X6 (improved dikaryon),300 mg/l,1 mm agar pieces,stagnant,25°C,20 days,5.5,specific results not mentioned,whole fungi,5 ml of 10 days old culture used for maximum decolorization
+Phenol Red,Poc 9X6 (improved dikaryon),300 mg/l,3 ml and 5 ml in 30 ml medium,150 rpm in orbitary shaker,25°C,10 days,5.5,maximum decolorization observed,whole fungi,maximum decolorization at 5 ml of 10 days culture
+Phenol Red,Poc 9X6 (improved dikaryon),300 mg/l,1 mm agar pieces,none (stagnant),25°C,N/A,5.5,maximum decolorization achieved by 0.1% Tween-80,whole fungi,compared with SDS effect
+Phenol Red,Poc 9X6 (improved dikaryon),300 mg/l,N/A,none (stagnant),25°C,N/A,N/A,0.5 mM SDS supported maximum decolorization,whole fungi,compared with Tween-80 effect

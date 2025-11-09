@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+azo,Pyricularia oryzae,not specified,not specified,not specified,not specified,not specified,not specified,cleavage observed,not specified,electron-rich aromatic ring targeted
+azo,Trametes villosa,not specified,not specified,not specified,not specified,not specified,not specified,substantial fraction polymerizes,not specified,retains azo group
+azo,Bacillus subtilis,not specified,not specified,not specified,not specified,not specified,not specified,efficiently degrade the majority tested,not specified,exception of reactive Yellow 81
+azo,not specified,Sudan Orange G,not specified,not specified,not specified,not specified,not specified,hydroxy-p-benzoquinone and others produced,not specified,debates about bioremediating power
+anthraquinone,Pleurotus ostreatus,not specified,not specified,not specified,not specified,not specified,not specified,efficient in bleaching,not specified,higher laccase secretion
+cyanine,not specified,Methylene Blue,not specified,not specified,not specified,not specified,not specified,not ideal substrate,not specified,no -OH or -NH2 groups
+triphenylmethane,Trametes versicolor,not specified,not specified,not specified,not specified,not specified,not specified,acid dyes quickly decolorized,not specified,presence of fungal enzymes
+phthalocyanine,Phanerochaete chrysosporium,Reactive Blue 25,not specified,not specified,not specified,not specified,not specified,demetallated and degraded,not specified,laccase breaks down macrocycle
+multiple,various,various,not specified,various,not specified,not specified,not specified,improved with RM presence,not specified,ABTS widely studied

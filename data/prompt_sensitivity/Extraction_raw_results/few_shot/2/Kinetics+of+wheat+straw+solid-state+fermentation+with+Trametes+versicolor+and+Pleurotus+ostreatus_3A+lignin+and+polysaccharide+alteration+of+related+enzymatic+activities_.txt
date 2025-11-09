@@ -1,0 +1,24 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Congo red,Fusarium oxysporum,0.01% (w/v),not specified,tube overlay,25 °C,not specified,not specified,36.7%,not specified,maximum decolorization in tube overlay method
+Congo red,Aspergillus niger,0.01% (w/v),not specified,tube overlay,25 °C,not specified,not specified,34.21%,not specified,second maximum decolorization in tube overlay method
+Congo red,Trichoderma lignorum,0.01% (w/v),not specified,tube overlay,25 °C,not specified,not specified,19.73%,not specified,minimum decolorization in tube overlay method
+Crystal violet,Trichoderma lignorum,0.01% (w/v),not specified,tube overlay,25 °C,not specified,not specified,55.26%,not specified,maximum decolorization among the tested fungi in tube overlay method
+Crystal violet,Fusarium oxysporum,0.01% (w/v),not specified,tube overlay,25 °C,not specified,not specified,28.1%,not specified,second in dye decolorization performance
+Crystal violet,Aspergillus niger,0.01% (w/v),not specified,tube overlay,25 °C,not specified,not specified,23.68%,not specified,least effective in tube overlay method
+Methylene blue,Trichoderma lignorum,0.01% (w/v),not specified,tube overlay,25 °C,not specified,not specified,21.5%,not specified,maximum performance among tested fungi
+Methylene blue,Fusarium oxysporum,0.01% (w/v),not specified,tube overlay,25 °C,not specified,not specified,14.9%,not specified,second in dye decolorization for Methylene blue
+Methylene blue,Aspergillus niger,0.01% (w/v),not specified,tube overlay,25 °C,not specified,not specified,13.15%,not specified,least in dye decolorization for Methylene blue
+Congo red,Fusarium oxysporum,0.01% (w/v),not specified,stationary,25 °C,10 days,not specified,78.9%,not specified,
+Congo red,Aspergillus niger,0.01% (w/v),not specified,stationary,25 °C,10 days,not specified,74.07%,not specified,
+Congo red,Trichoderma lignorum,0.01% (w/v),not specified,stationary,25 °C,10 days,not specified,35.25%,not specified,
+Crystal violet,Trichoderma lignorum,0.01% (w/v),not specified,stationary,25 °C,10 days,not specified,92.7%,not specified,
+Crystal violet,Fusarium oxysporum,0.01% (w/v),not specified,stationary,25 °C,10 days,not specified,53.4%,not specified,
+Crystal violet,Aspergillus niger,0.01% (w/v),not specified,stationary,25 °C,10 days,not specified,33.82%,not specified,
+Methylene blue,Trichoderma lignorum,0.01% (w/v),not specified,stationary,25 °C,10 days,not specified,48.3%,not specified,
+Methylene blue,Fusarium oxysporum,0.01% (w/v),not specified,stationary,25 °C,10 days,not specified,48.5%,not specified,
+Methylene blue,Aspergillus niger,0.01% (w/v),not specified,stationary,25 °C,10 days,not specified,22.44%,not specified,
+Congo red,Fusarium oxysporum,0.01% (w/v),not specified,shaking,25 °C,10 days,not specified,91.4%,not specified,highest range in shaking conditions
+Congo red,Aspergillus niger,0.01% (w/v),not specified,shaking,25 °C,10 days,not specified,84.7%,not specified,second best in shaking conditions
+Congo red,Trichoderma lignorum,0.01% (w/v),not specified,shaking,25 °C,10 days,not specified,87.6%,not specified,third best in shaking conditions
+Crystal violet,Trichoderma lignorum,0.01% (w/v),not specified,shaking,25 °C,10 days,not specified,96.6%,not specified,maximum decolorization in shaking conditions
+,,,,,,,,,,

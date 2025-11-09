@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Acid Blue 62,Pleurotus ostreatus,0.10 g/L,not specified,shaking,28 °C,1 day,5,40%,whole fungi,Shows laccase as main agent in decoulorization.
+Acid Blue 62,Pleurotus ostreatus,0.10 g/L,not specified,shaking,28 °C,7 days,5,66%,whole fungi,Higher decolorization in presence of nutrients.
+Direct Blue 71,Phanerochaete chrysosporium,1.00 g/L,not specified,shaking,28 °C,1 day,9,46%,whole fungi,Significant degradation of dye structure observed.
+Direct Blue 71,Phanerochaete chrysosporium,1.00 g/L,not specified,shaking,28 °C,7 days,9,87%,whole fungi,Optimally effective treatment with nutrients.
+Remazol Brilliant Blue R,Pleurotus ostreatus laccase mixtures,not specified,not specified,shaking,not specified,24 h,4.5,30%,not specified,Laccase effective in acid dye decolorization.
+Remazol Brilliant Blue R,P. ostreatus (immobilized laccase),not specified,not specified,fluidized bed reactor,not specified,1 month,4.5,up to 80%,not specified,Reactor allowed multiple stepwise dye additions.
+Acid dye wastewater,P. ostreatus,not specified,not specified,shaking,28 °C,2 h,not specified,94%,not specified,Biosorption capabilities tested.
+Reactive Orange 16,Cunninghamella elegans,not specified,not specified,not specified,not specified,not specified,not specified,65%,not specified,Good sorption results observed.

@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+4-(4'-sulfophenylazo)-phenol,Phanerochaete chrysosporium,50 µM,not applicable,shaking,25°C,10 min,6.0,high,whole fungi,
+2-(4'-sulfophenylazo)-phenol,Phanerochaete chrysosporium,50 µM,not applicable,shaking,25°C,10 min,6.0,none,whole fungi,
+Orange I,not applicable,200 µM,not applicable,shaking,25°C,10 min,2.5,95%,not applicable,
+Crocein Orange G,not applicable,300 µM,not applicable,shaking,25°C,10 min,7.0,90%,not applicable,
+Orange II,not applicable,200 µM,not applicable,shaking,25°C,60 min,3.5,93%,not applicable,Product was analyzed using HPLC.
+4-hydroxyazobenzene,not applicable,50 µM,not applicable,shaking,25°C,15 min,6.0,partial,not applicable,"Product was analyzed using HPLC and identified as 1,4-benzoquinone."

@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Novacron Red,Leptosphaerulina sp.,200 ppm,not specified,agitated,25 °C,21 days,low pH,>90%,not specified,high decolorization achieved using 5 g/L and 10 g/L of ammonium tartrate
+Remazol Black,Leptosphaerulina sp.,200 ppm,not specified,agitated,25 °C,21 days,low pH,>90%,not specified,produced laccase (650 U/L) and manganese peroxidase (100 U/L)
+Turquoise Blue,Leptosphaerulina sp.,200 ppm,not specified,agitated,25 °C,21 days,low pH,>90%,not specified,"high initial removal by adsorption, then enzymatic process took over"
+Novacron Red,Leptosphaerulina sp.,6.8 g/L,8 cylinders,agitated,25 °C,21 days,12 dilution,90%,not specified,medium supplementation with glucose and ammonium tartrate
+Dyeing effluent,Leptosphaerulina sp.,6.8 g/L,4 cylinders,agitated,25 °C,21 days,as received,<50%,not specified,did not achieve significant decolorization without dilution

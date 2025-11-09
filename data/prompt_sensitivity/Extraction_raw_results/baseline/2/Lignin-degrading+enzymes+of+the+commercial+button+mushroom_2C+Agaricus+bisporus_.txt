@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,fungi type,additional information
+N/A,Agaricus heterocystis,N/A,7 mm agar plug,static,30 ± 1 °C,17 days,N/A,MnP activity of 45.19 ± 1.08 U/ml,mycelium,Temperature influence on MnP production
+N/A,Agaricus heterocystis,N/A,7 mm agar plug,static,30 ± 1 °C,19 days,N/A,MnP activity of 53.86 ± 1.09 U/ml,mycelium,Nitrogen source optimization (peptone)
+N/A,Agaricus heterocystis,N/A,7 mm agar plug,static,30 ± 1 °C,19 days,5.5,MnP activity of 52.17 ± 0.97 U/ml,mycelium,Carbon source optimization (fructose)
+N/A,Agaricus heterocystis,N/A,7 mm agar plug,static,30 ± 1 °C,17 days,N/A,MnP activity of 54.39 ± 0.87 U/ml,mycelium,Amino acid optimization (tryptophan)

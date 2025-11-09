@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+molasses wastewater,Citeromyces siamensis,N/A,N/A,shaking,30°C,7 days,N/A,best removal with 1% glucose and 1% peptone,whole fungi,Results measured at OD 574 nm
+molasses wastewater,Issatchenkia orientalis,N/A,N/A,shaking,30°C,7 days,N/A,best removal with 1% glucose and 1% peptone,whole fungi,Results measured at OD 574 nm
+molasses wastewater,Saccharomyces cerevisiae,N/A,N/A,shaking,30°C,7 days,N/A,best removal with 1% glucose and 1% yeast extract,whole fungi,Results measured at OD 574 nm
+molasses wastewater,Citeromyces siamensis,N/A,1% yeast extract,shaking,30°C,7 days,N/A,best removal with 1% peptone,whole fungi,Results measured at OD 574 nm
+molasses wastewater,Issatchenkia orientalis,N/A,1% yeast extract,shaking,30°C,7 days,N/A,best removal with 1% peptone,whole fungi,Results measured at OD 574 nm
+molasses wastewater,Saccharomyces cerevisiae,N/A,1% peptone,shaking,30°C,7 days,N/A,best removal with 1% yeast extract,whole fungi,Results measured at OD 574 nm

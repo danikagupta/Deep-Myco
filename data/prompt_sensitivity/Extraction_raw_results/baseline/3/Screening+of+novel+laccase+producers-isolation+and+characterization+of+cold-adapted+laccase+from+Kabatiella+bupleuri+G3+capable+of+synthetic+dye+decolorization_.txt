@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Crystal Violet,Kabatiella bupleuri,250 mg/L,200 mL (equivalent 0.1 U),Shaking (150 rpm),30°C,60 min,3.5,40.4 ± 7.0%,Whole fungi,Uses ABTS as a redox mediator
+Alkaline Fuchsin,Kabatiella bupleuri,250 mg/L,200 mL (equivalent 0.1 U),Shaking (150 rpm),30°C,60 min,3.5,31.7 ± 3.3%,Whole fungi,Uses ABTS as a redox mediator
+Coomassie Brilliant Blue R-250,Kabatiella bupleuri,250 mg/L,200 mL (equivalent 0.1 U),Shaking (150 rpm),30°C,60 min,3.5,19.8 ± 5.8%,Whole fungi,Uses ABTS as a redox mediator
+Methylene Blue,Kabatiella bupleuri,250 mg/L,200 mL (equivalent 0.1 U),Shaking (150 rpm),30°C,60 min,3.5,18.2 ± 2.5%,Whole fungi,Uses ABTS as a redox mediator

@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Azo-dye,Trametes versicolor,not specified,not specified,shaking,not specified,not specified,not specified,varied levels of decolorization,mycelium,Reported varying results based on type of dye
+dyes,Pleurotus ostreatus,not specified,not specified,not specified,not specified,not specified,not specified,high decolorization,mycelium,Uses aqueous wood extracts for induction
+TNT,Trametes versicolor,not specified,not specified,not specified,not specified,not specified,not specified,not specified,mycelium,Reported increased laccase production with TNT
+various,Coriolus versicolor,not specified,not specified,not specified,not specified,not specified,not specified,not specified,mycelium,Examined using various substrates
+none specified,Agaricus bisporus,not specified,not specified,not specified,not specified,not specified,not specified,potential source of laccase,whole fungi,Residual compost evaluated for laccase production

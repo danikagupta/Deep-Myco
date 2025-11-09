@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+red dye,Aspergillus niger,50 ppm,not specified,not specified,25 °C,72 h,not specified,99.77%,mycelium,Figure 1 - Removal efficiency % of red dye
+red dye,Aspergillus niger,100 ppm,not specified,not specified,25 °C,72 h,not specified,96.02%,mycelium,Figure 1 - Removal efficiency % of red dye
+red dye,Aspergillus niger,300 ppm,not specified,not specified,25 °C,72 h,not specified,92.19%,mycelium,Figure 1 - Removal efficiency % of red dye
+yellow dye,Aspergillus niger,50 ppm,not specified,not specified,25 °C,72 h,not specified,94.11%,mycelium,Figure 2 - Removal efficiency % of yellow dye
+yellow dye,Aspergillus niger,100 ppm,not specified,not specified,25 °C,72 h,not specified,93.65%,mycelium,Figure 2 - Removal efficiency % of yellow dye
+yellow dye,Aspergillus niger,300 ppm,not specified,not specified,25 °C,72 h,not specified,88.9%,mycelium,Figure 2 - Removal efficiency % of yellow dye

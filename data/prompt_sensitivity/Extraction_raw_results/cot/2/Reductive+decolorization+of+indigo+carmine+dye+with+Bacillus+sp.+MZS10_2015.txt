@@ -1,0 +1,11 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+indigo carmine,Pseudomonas aeruginosa,50 mg/L,not specified,static,30 °C,4 h,6.0,92%,whole fungi,Effect of agitation on biodecolorization
+indigo carmine,Pseudomonas aeruginosa,100 mg/L,not specified,static,30 °C,4 h,6.0,91%,whole fungi,Effect of agitation on biodecolorization
+indigo carmine,Pseudomonas aeruginosa,50 mg/L,not specified,agitated (150 rpm),30 °C,4 h,6.0,92%,whole fungi,Effect of incubation time on biodecolorization
+indigo carmine,Pseudomonas aeruginosa,100 mg/L,not specified,static,40 °C,4 h,6.0,90%,whole fungi,Effect of temperature on biodecolorization
+indigo carmine,Pseudomonas aeruginosa,50 mg/L,not specified,static,not specified,2 h,not specified,20%,whole fungi,Dead pellets decolorization ability
+indigo carmine,Pseudomonas aeruginosa,50 mg/L,not specified,static,not specified,2 h,not specified,91%,whole fungi,Live pellets decolorization ability
+indigo carmine,Funalia trogii,100 mg/L,not specified,150 rpm,30 °C,300 s,3.0,57%,whole fungi,Crude laccase decolorization activity
+indigo carmine,Funalia trogii,100 mg/L,not specified,150 rpm,30 °C,60 s,3.0,26%,whole fungi,Crude laccase decolorization activity
+indigo carmine,Funalia trogii,100 mg/L,not specified,150 rpm,60 °C,300 s,3.0,45%,whole fungi,Crude laccase decolorization activity
+indigo carmine,Funalia trogii,100 mg/L,not specified,150 rpm,70 °C,300 s,3.0,38%,whole fungi,Crude laccase decolorization activity

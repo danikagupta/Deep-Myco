@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Reactive brilliant red K-2BP,Phanerochaete chrysosporium,30 mg/L,2.5 /C210^6 spores,shaking (160 rpm),37 °C,3 days,not specified,93.5%,not specified,compared with suspension culture which achieved 15% decolorization under the same conditions
+Reactive brilliant red K-2BP,Phanerochaete chrysosporium,30 mg/L,2.5 /C210^6 spores,shaking (160 rpm),37 °C,6 days,not specified,15%,not specified,suspension culture highly contaminated with bacteria
+Reactive brilliant red K-2BP,Phanerochaete chrysosporium,30 mg/L,2.5 /C210^6 spores,static,37 °C,not specified,not specified,not specified,not specified,sterile incubation led to higher enzyme activity
+Reactive brilliant red K-2BP,Phanerochaete chrysosporium,30 mg/L,2.5 /C210^6 spores,shaking (160 rpm),37 °C,2 days,not specified,not specified,not specified,dye added after incubation for 2 days for optimal decolorization
+Reactive brilliant red K-2BP,Phanerochaete chrysosporium,30 mg/L,2.5 /C210^6 spores,shaking (160 rpm),37 °C,3 days,4.0-5.0,93.5%,not specified,high decolorization efficiency observed under optimal conditions
