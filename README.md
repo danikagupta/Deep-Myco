@@ -192,7 +192,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Research supported by [Grant/Institution]
 - Special thanks to the mycoremediation research community
 - Built with Python, scikit-learn, pandas, and other open-source tools
 
