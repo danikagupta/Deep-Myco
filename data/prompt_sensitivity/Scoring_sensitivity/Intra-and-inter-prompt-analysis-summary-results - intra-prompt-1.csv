@@ -1,0 +1,10 @@
+construct,prompt,mean_of_means,median_of_means,mean_std_dev,median_std_dev,p90_std_dev,p95_std_dev,mean_variance,min_score,max_score,total_evals,num_files
+mycoremediation,baseline,0.2994,0.1444,0.0965,0.0612,0.196,0.2724,0.0154,0,1,8850,2951
+mycoremediation,few_shot,0.4159,0.3,0.0582,0.0577,0.1155,0.1732,0.0073,0,1,8850,2951
+mycoremediation,chain_of_thought,0.313,0.2,0.0593,0.0577,0.1528,0.2082,0.0088,0,1,8850,2951
+textile_dye,baseline,0.6711,0.9667,0.0404,0,0.1155,0.2517,0.01,0,1,8850,2951
+textile_dye,few_shot,0.6204,0.8333,0.0459,0.0577,0.1,0.1528,0.0056,0,1,8850,2951
+textile_dye,chain_of_thought,0.5994,0.8,0.0408,0,0.1155,0.1732,0.0066,0,1,8850,2951
+new_experiments,baseline,0.7017,1,0.0414,0,0.0642,0.1283,0.0076,0,1,8850,2951
+new_experiments,few_shot,0.6736,0.9,0.0207,0,0.0577,0.0577,0.004,0,1,8850,2951
+new_experiments,chain_of_thought,0.6956,0.9259,0.05,0.0642,0.1111,0.1697,0.0082,0,1,8850,2951
