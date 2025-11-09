@@ -79,7 +79,7 @@ The DeepMyco dataset contains:
 
 - **812 mycoremediation experiments** extracted from peer-reviewed literature
 - **168 time-series samples** tracking degradation over time  
-- **45+ fungal species** with taxonomic and enzymatic information
+- **166+ fungal species** with taxonomic and enzymatic information
 - **25+ pollutant types** including synthetic dyes, heavy metals, and organic compounds
 - **Experimental conditions** including pH, temperature, concentration, and duration
 
