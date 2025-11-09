@@ -127,12 +127,9 @@ Validation protocols are documented in `experiments/lab_protocols/`.
 
 ## Documentation
 
-Comprehensive documentation is available:
+Comprehensive documentation will be available shortly!:
 
-- **[Getting Started Guide](docs/tutorials/getting_started.md)**: Step-by-step tutorials
-- **[API Reference](docs/api/)**: Detailed function documentation  
-- **[Methodology](docs/methodology/)**: LLM extraction and experimental protocols
-- **[Jupyter Notebooks](experiments/notebooks/)**: Interactive analysis examples
+ractive analysis examples
 
 ## Contributing
 
@@ -149,25 +146,18 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 # Install development dependencies
 pip install -e ".[dev]"
 
-# Run tests
-pytest tests/
-
-# Run code formatting
-black src/
-flake8 src/
 ```
 
 ## Project Structure
 
 ```
 DeepMyco/
-├── src/deepmyco/           # Main package source code
+├── src/ 	            # Main package source code
 ├── data/                   # Datasets and processing
-├── scripts/                # Executable scripts  
 ├── experiments/            # Notebooks and results
 ├── models/                 # Trained model artifacts
 ├── docs/                   # Documentation
-└── tests/                  # Unit tests
+└──
 ```
 
 ## Citation
