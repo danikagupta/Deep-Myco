@@ -1,1 +1,1 @@
-#TODO
+Code for training models on the timeseries data. The data can be found in the data folder in this repo.
