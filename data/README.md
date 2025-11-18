@@ -1,1 +1,3 @@
-#TODO
+
+This folder contains data from this study. The subfolders contain the following
+external - complementary data on enzymes etc.growth-studies - data from the plant growth study referenced in the AI-SI paperlarge-dataset - work in progress for extracting data fro 405 papers instead of the original subset of 100processed - processed data from the exraction of the original 100 papgersprompt_sensitivity - data from the prompt sensitity studiesvalidation - data from experimental validations
