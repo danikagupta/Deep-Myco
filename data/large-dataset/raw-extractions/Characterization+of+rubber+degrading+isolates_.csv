@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+amido black,Amycolatopsis orientalis SY6,10 µg/ml,not specified,shaking,30°C,2 days,not specified,visible color change from blue to violet,mycelial,No significant decolorization beyond 30 µg/ml
+brilliant green,Amycolatopsis orientalis SY6,10 µg/ml,not specified,shaking,37°C,less than 1 hour,not specified,decolorized to colorless,mycelial,Rapid decolorization observed
+crystal violet,Amycolatopsis orientalis SY6,10 µg/ml,not specified,shaking,37°C,60 min,not specified,significant decrease in absorbance,mycelial,Thin layer chromatography showed rapid degradation
+crystal violet,Mycobacterium smegmatis mc2 155,10 µg/ml,not specified,not specified,not specified,60 min,not specified,similar banding patterns on TLC with strain SY6,whole fungi,TLC analysis showed low molecular weight products
+combined triphenylmethane dyes,Amycolatopsis orientalis SY6,10 µg/ml each,not specified,shaking,37°C,not specified,not specified,complete biodegradation,mycelial,All clones needed for dye breakdown
+amido black,Rhodococcus erythropolis SQ1,10 µg/ml,not specified,shaking,not specified,not specified,not specified,not decolorized,whole fungi,Expression of the gene did not induce decolorization

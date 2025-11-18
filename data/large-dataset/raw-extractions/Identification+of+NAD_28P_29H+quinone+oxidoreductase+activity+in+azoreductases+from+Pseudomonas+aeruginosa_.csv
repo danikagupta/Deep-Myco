@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+methyl red,N/A,50 µM,N/A,shaking,18°C,16 hours,8,reduced by paArsH and paMdaB using NADPH,N/A,Fig 2C and 2D
+Menadione,N/A,50 µM,N/A,shaking,18°C,16 hours,8,improved rate of reduction using paYieF,N/A,Fig 2B
+azo compounds,N/A,variable,N/A,shaking,N/A,N/A,8,paMdaB and paArsH reduced azo dyes,N/A,Fig 3
+Phb (Phenol blue),N/A,100 µM,N/A,shaking,N/A,N/A,8,measured reduction rates varies with FMN and FAD,N/A,Fig 6
+nitrofurazone,N/A,N/A,N/A,N/A,N/A,N/A,N/A,all enzymes reduced nitrofurazone; rates measured,N/A,Fig 8

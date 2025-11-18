@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+crystal violet,Amycolatopsis orientalis SY6,10 µg/ml,30 µg/ml,shaking,30°C,60 min,not specified,complete,whole fungi,Decolorization monitored spectrophotometrically and TLC used to analyze metabolites.
+crystal violet,Amycolatopsis orientalis SY6,up to 30 µg/ml,not specified,not specified,not specified,acclimatization process,not specified,none beyond 30 µg/ml,whole fungi,Clear zones observed at specified concentrations.
+malachite green,Amycolatopsis orientalis SY6,10 µg/ml,not specified,not specified,not specified,not specified,not specified,complete,whole fungi,Tested with multiple triphenylmethane dyes.
+brilliant green,Amycolatopsis orientalis SY6,10 µg/ml,not specified,not specified,not specified,not specified,not specified,complete,whole fungi,Tested with multiple triphenylmethane dyes.
+basic fuchsin,Amycolatopsis orientalis SY6,10 µg/ml,not specified,not specified,not specified,not specified,not specified,complete,whole fungi,Tested with multiple triphenylmethane dyes.
+multiple triphenylmethane dyes,Amycolatopsis orientalis SY6,10 µg/ml,not specified,not specified,not specified,not specified,not specified,complete,whole fungi,Combined triphenylmethane dyes decolorized effectively.
+crystal violet,E. coli,not specified,stationary phase (OD600 = 1),on a rotating wheel,37°C,2 hours,not specified,complete detoxification,not applicable,CFU/ml measured to assess toxicity.

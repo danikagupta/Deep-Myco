@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Poly R-478,Phanerochaete chrysosporium,5 g/l,10% (v/v) inoculum,orbital agitation,38°C,4 days (initial immobilization),4.5,62%,mycelium,Measured in repeated-batch tests using polyurethane foam.
+Poly S-119,Phanerochaete chrysosporium,2 g/l,10% (v/v) inoculum,orbital agitation,38°C,4 days (initial immobilization),4.5,60%,mycelium,Measured in repeated-batch tests using scouring web.
+Disperse dye (Red-553),Phanerochaete chrysosporium,unknown,unknown,fixed-film bioreactor,unknown,10-20 days,unknown,80%,whole fungi,Continuous operation in a fixed-film bioreactor.
+Azo dye (Orange II),Coriolus versicolor,unknown,unknown,packed-bed reactor,unknown,unknown,unknown,97%,whole fungi,Continuous decolorization in packed-bed reactor.
+Polyethylene dye,Phanerochaete chrysosporium,0.2 g/m3,unknown,pulsed flow bioreactor,unknown,several months,unknown,over 90%,whole fungi,Efficiency reported over several months.
+Heat-treatment liquor of waste sludge,white-rot fungus,unknown,unknown,bioreactor with ultra filtration membrane,unknown,unknown,unknown,70%,whole fungi,Used polyurethane foam-immobilized fungi.
+dye wastewater,Phanerochaete chrysosporium,unknown,unknown,rotating biological contactor (RBC),38°C,36 days,unknown,55%,mycelium,"Total phenols reduced by 63%, COD reduced by 48%."

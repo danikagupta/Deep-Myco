@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Remazol Black B,Bacillus spp.,100 mg/L,10% inoculum,static,37°C,24 hours,unspecified,99.00%,whole fungi,Decolorization monitored at λmax 595 nm
+Remazol Black B,Bacillus spp.,50 mg/L,10% inoculum,static,37°C,48 hours,unspecified,increased with concentration,whole fungi,Decolorization efficiency increased with dye concentration
+Remazol Black B,Bacillus spp.,100 mg/L,10% inoculum,static,28°C,unspecified,7.5,complete,whole fungi,Control set included
+Remazol Black B,Bacillus spp.,100 mg/L,10% inoculum,static,40°C,unspecified,7.5,complete,whole fungi,Control set included
+Remazol Black B,Bacillus spp.,100 mg/L,10% inoculum,static,45°C,unspecified,7.5,incomplete,whole fungi,Control set included
+Remazol Black B,Bacillus spp.,100 mg/L,10% inoculum,static,50°C,unspecified,7.5,none,whole fungi,Control set included
+Remazol Black B,Bacillus spp.,100 mg/L,10% inoculum,static,unspecified,third dye aliquot addition,unspecified,100%,whole fungi,Repeated addition of dye aliquots (up to third aliquot)
+Remazol Black B,Bacillus spp.,100 mg/L,10% inoculum,static,unspecified,unspecified,5,constant decolorization,whole fungi,Decolorization at different pH levels
+Remazol Black B,Bacillus spp.,100 mg/L,10% inoculum,static,unspecified,unspecified,6,maximum decolorization,whole fungi,Decolorization observed at pH 6

@@ -1,0 +1,11 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Triphenylmethane,Bacillus sp.,variable,not specified,shaking,25-50°C,not specified,6.0-8.0,not specified,whole fungi,Clear zones indicated growth on dye agar plates.
+Triphenylmethane,Bacillus sp.,400 ppm,0.5 g cell mass,not specified,not specified,120 hours,not specified,dye decolorization observed,whole fungi,Magenta was least toxic.
+Crystal Violet,Bacillus sp.,100 ppm,not specified,not specified,35-55°C,not specified,6.0-8.0,maximum decolorization at pH 7.0; 50°C; aeration 0.5 L/min; agitation 200 rpm,whole fungi,Optimized in a batch reactor.
+Malachite Green,Bacillus sp.,100 ppm,not specified,not specified,35-55°C,not specified,6.0-8.0,maximum decolorization at pH 7.0; 50°C; aeration 0.5 L/min; agitation 200 rpm,whole fungi,Optimized in a batch reactor.
+Magenta,Bacillus sp.,100 ppm,not specified,not specified,35-55°C,not specified,6.0-8.0,maximum decolorization at pH 7.0; 50°C; aeration 0.5 L/min; agitation 200 rpm,whole fungi,Optimized in a batch reactor.
+Crystal Violet,Pleurotus ostreatus,not specified,not specified,not specified,not specified,8 days,not specified,decolorized rapidly under static conditions,whole fungi,Laccase was responsible for the decolorization.
+Malachite Green,Pleurotus ostreatus,not specified,not specified,not specified,not specified,8 days,not specified,decolorized efficiently,whole fungi,Laccase activity observed.
+Magenta,Pleurotus ostreatus,not specified,not specified,not specified,not specified,8 days,not specified,very slow rate,whole fungi,Decolorization attributed to laccase.
+Crystal Violet,Bacillus sp.,5 µg/mL,not specified,not specified,not specified,not specified,not specified,specific growth rates decreased,whole fungi,Toxicity tests indicated thedecolorized dye was non-toxic.
+Malachite Green,Bacillus sp.,5 µg/mL,not specified,not specified,not specified,not specified,not specified,specific growth rates decreased,whole fungi,Toxicity tests indicated thedecolorized dye was non-toxic.

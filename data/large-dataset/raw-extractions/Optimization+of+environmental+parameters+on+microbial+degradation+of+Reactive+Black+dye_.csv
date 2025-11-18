@@ -1,0 +1,11 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Reactive Black,Klebsiella oxytoca,500 mg L-1,N/A,static,32°C,6 h,7,100%,Whole fungi,"Most efficient strain, complete dye removal"
+Reactive Black,Klebsiella oxytoca,250 mg L-1,N/A,static,32°C,24 h,7,100%,Whole fungi,Highest decolorization in liquid broth
+Reactive Black,Bacillus subtilis,500 mg L-1,N/A,static,32°C,6 h,7,98%,Whole fungi,Second most efficient strain
+Reactive Black,Klebsiella oxytoca,250 mg L-1,N/A,static,35°C,48 h,7,90%,Whole fungi,Decolorization rate with yeast extract
+Reactive Black,Klebsiella oxytoca,250 mg L-1,N/A,static,35°C,48 h,8,60-75%,Whole fungi,Low decolorization at higher pH
+Reactive Black,Bacillus subtilis,250 mg L-1,N/A,static,35°C,48 h,9,20-60%,Whole fungi,Significant decrease in decolorization
+Reactive Black,Klebsiella oxytoca,50 mg L-1,N/A,static,35°C,48 h,7,35-70%,Whole fungi,Moderate performance at low concentration
+Reactive Black,Klebsiella oxytoca,100 mg L-1,N/A,static,35°C,48 h,7,50-80%,Whole fungi,Decolorization rates vary with concentration
+Reactive Black,Klebsiella oxytoca,200 mg L-1,N/A,static,35°C,48 h,7,50-80%,Whole fungi,Concentration effects on decolorization
+Reactive Black,Klebsiella oxytoca,500 mg L-1,N/A,static,35°C,48 h,7,35-50%,Whole fungi,Highest dye concentration tested

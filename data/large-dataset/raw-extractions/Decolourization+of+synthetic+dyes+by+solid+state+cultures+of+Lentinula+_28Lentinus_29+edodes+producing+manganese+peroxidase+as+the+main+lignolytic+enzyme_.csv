@@ -1,0 +1,11 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+remazol brilliant blue R,Pleurotus pulmonarius,200 ppm,5 g,none,28 °C,10 days,not specified,complete,mycelium,
+Congo red,Pleurotus pulmonarius,200 ppm,5 g,none,28 °C,10 days,not specified,partial,mycelium,
+ethyl violet,Pleurotus pulmonarius,200 ppm,5 g,none,28 °C,10 days,not specified,partial,mycelium,
+methylene blue,Pleurotus pulmonarius,200 ppm,5 g,none,28 °C,10 days,not specified,partial,mycelium,
+poly R-478,Pleurotus pulmonarius,200 ppm,5 g,none,28 °C,10 days,not specified,partial,mycelium,
+remazol brilliant blue R,Pleurotus pulmonarius,100 ppm,0.5 mL crude enzyme extract,rotary shaker,40 °C,2 hours,6.5,efficient,crude enzyme extract,
+methylene blue,Pleurotus pulmonarius,100 ppm,0.5 mL crude enzyme extract,rotary shaker,40 °C,2 hours,4.5,efficient,crude enzyme extract,
+ethyl violet,Pleurotus pulmonarius,100 ppm,0.5 mL crude enzyme extract,rotary shaker,40 °C,2 hours,4.5,efficient,crude enzyme extract,
+Congo red,Pleurotus pulmonarius,100 ppm,0.5 mL crude enzyme extract,rotary shaker,40 °C,2 hours,4.5,efficient,crude enzyme extract,
+poly R-478,Pleurotus pulmonarius,100 ppm,0.5 mL crude enzyme extract,rotary shaker,40 °C,2 hours,4.5,efficient,crude enzyme extract,

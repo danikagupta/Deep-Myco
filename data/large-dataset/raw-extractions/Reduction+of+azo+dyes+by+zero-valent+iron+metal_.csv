@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+4-(4'-sulfopheny1azo)-phenol,Phanerochaete chrysosporium,50 pM,N/A,N/A,room temperature,1 h,6.0,N/A,whole fungi,Oxidation by peroxidases
+2-(4'-sulfophenylazo)-phenol,Phanerochaete chrysosporium,50 pM,N/A,N/A,room temperature,1 h,6.0,N/A,whole fungi,Oxidation by peroxidases
+Orange I,N/A,200 pM,N/A,shaking,25°C,10 min,N/A,90.2%,N/A,Decolorization by Fenton's reagent
+Orange I,N/A,200 pM,N/A,shaking,25°C,10 min,2.5,94%,N/A,Decolorization by Fenton's reagent
+Crocein Orange G,N/A,300 pM,N/A,orbital shaking,room temperature,10 min,7.0,100%,N/A,First-order kinetics observed
+Orange I,N/A,60 pM,N/A,N/A,25°C,6 min,N/A,N/A,N/A,Produced sulfanilic acid
+4-hydroxyazobenzene,N/A,200 pM,N/A,N/A,25°C,N/A,N/A,N/A,N/A,Analyzed products via HPLC
+Mordant Orange I,N/A,200 pM,N/A,N/A,25°C,10 min,N/A,47%,N/A,Reduction observed by FeO

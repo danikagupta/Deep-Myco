@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Orange II,Pleurotus ostreatus,100 ppm,unknown,"static for 3 days, then shaking",30°C,7 days,varied (3 to 7),90%,fungal mass,Concentration of buffer impacts decolorization.
+Acid Red 29,Pleurotus ostreatus,100 ppm,unknown,"static for 3 days, then shaking",30°C,7 days,varied (3 to 7),90%,fungal mass,Initial pH and buffer concentration affect decolorization rates.
+Remazol Brilliant Blue R,Pleurotus ostreatus,100 ppm,unknown,"static for 3 days, then shaking",30°C,7 days,varied (3 to 7),70%,fungal mass,Buffer concentration significantly influences decolorization.
+Disperse Red 1,Pleurotus ostreatus,"varied (50 ppm, 100 ppm, 200 ppm)",unknown,shaking,30°C,7 days,5,80-100% depending on concentration,fungal mass,"Primary degradation products identified: nitrobenzene, 4-nitrophenol, 4-nitroaniline."
+Disperse Red 19,Pleurotus ostreatus,"varied (50 ppm, 100 ppm, 200 ppm)",unknown,shaking,30°C,7 days,5,80-90%,fungal mass,Similar primary products to Disperse Red 1.
+Disperse Orange 1,Pleurotus ostreatus,"varied (50 ppm, 100 ppm)",unknown,shaking,30°C,7 days,5,80-90%,fungal mass,Degradation products included nitrobenzene and 4-nitrophenol.
+Disperse Orange 25,Pleurotus ostreatus,"varied (50 ppm, 100 ppm)",unknown,shaking,30°C,7 days,5,80-90%,fungal mass,"Confirmed production of nitrobenzene, 4-nitrophenol, and 4-nitroanisole."
+Disperse Red 13,Pleurotus ostreatus,varied (50 ppm),unknown,shaking,30°C,7 days,5,80-90%,fungal mass,Produced 1-chloro-3-nitrobenzene.

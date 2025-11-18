@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Basic fuchsin,Fomitopsis feei,0.001%,10 mm diameter fungal disk,shaking,28˚C,21 days,2.15 - 1.99,98%,whole fungi,"Max growth 11.16 g/L after 21 days, ligninolytic max enzyme activity 46 U/mL"
+Methyl violet,Fomitopsis feei,0.001%,10 mm diameter fungal disk,shaking,28˚C,21 days,6.23 - 2.12,91.5%,whole fungi,Initial decolorization at 85.3% after 7 days
+Ethyl violet,Fomitopsis feei,0.001%,10 mm diameter fungal disk,shaking,28˚C,21 days,6.36 - 5.91,83.1%,whole fungi,Lignin peroxidase activity 2 U/mL on day 7
+Malachite green,Fomitopsis feei,0.001%,10 mm diameter fungal disk,shaking,28˚C,21 days,4.54 - 2.04,89.6%,whole fungi,Laccase and lignin peroxidase activities were initially absent
+Bromophenol blue,Fomitopsis feei,0.001%,10 mm diameter fungal disk,shaking,28˚C,21 days,2.42 - 1.98,96.8%,whole fungi,Fastest decolorization rate among all dyes
+Methyl green,Fomitopsis feei,0.001%,10 mm diameter fungal disk,shaking,28˚C,21 days,5.75 - 2.20,88.3%,whole fungi,No initial laccase activity

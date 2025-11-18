@@ -1,0 +1,13 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+cotton blue,Bjerkandera adusta SWUSI4,50 mg L-1,4 g,shaking,30 °C,7 days,not specified,94%,mycelium,
+crystal violet,Bjerkandera adusta SWUSI4,50 mg L-1,4 g,shaking,30 °C,7 days,not specified,92%,mycelium,
+malachite green,Bjerkandera adusta SWUSI4,50 mg L-1,4 g,shaking,30 °C,7 days,not specified,97%,mycelium,
+methyl violet,Bjerkandera adusta SWUSI4,50 mg L-1,4 g,shaking,30 °C,7 days,not specified,94%,mycelium,
+cotton blue,Bjerkandera adusta SWUSI4,100 mg L-1,2 g,static,30 °C,14 days,not specified,45%,mycelium,
+malachite green,Bjerkandera adusta SWUSI4,100 mg L-1,2 g,static,30 °C,14 days,not specified,68%,mycelium,
+crystal violet,Bjerkandera adusta SWUSI4,100 mg L-1,2 g,static,30 °C,14 days,not specified,27%,mycelium,
+methyl violet,Bjerkandera adusta SWUSI4,100 mg L-1,2 g,static,30 °C,14 days,not specified,47%,mycelium,
+cotton blue,Bjerkandera adusta SWUSI4,250 mg L-1,2 g,shaking,30 °C,14 days,not specified,34%,mycelium,
+methyl violet,Bjerkandera adusta SWUSI4,250 mg L-1,2 g,shaking,30 °C,14 days,not specified,37%,mycelium,
+malachite green,Bjerkandera adusta SWUSI4,250 mg L-1,2 g,shaking,30 °C,14 days,not specified,67%,mycelium,
+crystal violet,Bjerkandera adusta SWUSI4,250 mg L-1,2 g,shaking,30 °C,14 days,not specified,35%,mycelium,

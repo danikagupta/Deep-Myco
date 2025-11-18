@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Reactive Red 220,Chlorella,1000 ppm,10% (OD600nm = 1),shaking,25 °C,5 days,11,99%,whole fungi,Used in an active consortium with Sphingomonas paucimobilis and Lactobacillus acidophilus.
+Reactive Red 220,Sphingomonas paucimobilis,1000 ppm,10% (OD600nm = 1),shaking,25 °C,5 days,11,99%,whole fungi,Used in an active consortium with Chlorella and Lactobacillus acidophilus.
+Reactive Red 220,Lactobacillus acidophilus,1000 ppm,10% (OD600nm = 1),shaking,25 °C,5 days,11,99%,whole fungi,Used in an active consortium with Chlorella and Sphingomonas paucimobilis.
+Reactive Red 220,"Chlorella, Sphingomonas paucimobilis, Lactobacillus acidophilus",1000 ppm,varied ratios,shaking,25 °C,5 days,11,"85% phenol, 98% COD, 99% color removal",whole fungi,Ratios of consortia varied in different experiments to optimize dye removal.

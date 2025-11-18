@@ -1,0 +1,13 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+acid violet,Bacillus licheniformis,40 mg/L,100 mg/mL,shaking,70°C,1 hour,4.0,78%,whole fungi,
+alphazurine A,Bacillus licheniformis,20 mg/L,100 mg/mL,shaking,70°C,1 hour,4.0,70%,whole fungi,
+methyl orange,Bacillus licheniformis,20 mg/L,100 mg/mL,shaking,70°C,1 hour,4.0,18%,whole fungi,
+acid violet,Bacillus licheniformis,40 mg/L,100 mg/mL,shaking,70°C,1 hour,4.5,78%,whole fungi,
+alphazurine A,Bacillus licheniformis,20 mg/L,100 mg/mL,shaking,70°C,1 hour,4.5,70%,whole fungi,
+methyl orange,Bacillus licheniformis,20 mg/L,100 mg/mL,shaking,70°C,1 hour,4.5,18%,whole fungi,
+acid violet,Bacillus licheniformis,40 mg/L,100 mg/mL,shaking,80°C,1 hour,4.0,78%,whole fungi,
+alphazurine A,Bacillus licheniformis,20 mg/L,100 mg/mL,shaking,80°C,1 hour,4.0,70%,whole fungi,
+methyl orange,Bacillus licheniformis,20 mg/L,100 mg/mL,shaking,80°C,1 hour,4.0,18%,whole fungi,
+acid violet,Bacillus licheniformis,40 mg/L,100 mg/mL,shaking,80°C,1 hour,4.5,78%,whole fungi,
+alphazurine A,Bacillus licheniformis,20 mg/L,100 mg/mL,shaking,80°C,1 hour,4.5,70%,whole fungi,
+methyl orange,Bacillus licheniformis,20 mg/L,100 mg/mL,shaking,80°C,1 hour,4.5,18%,whole fungi,

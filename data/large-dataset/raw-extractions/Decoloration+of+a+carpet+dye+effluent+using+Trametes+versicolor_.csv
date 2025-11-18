@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Reactive blue 19,Trametes versicolor,0.036 mM,n/a,recirculating packed bed reactor,23 ± 1°C,n/a,5,97.5% enzymatic removal,n/a,Ethanolamine treatment reduced dye adsorption.
+Reactive blue 19,Trametes versicolor,0.036 mM,n/a,re-circulating system with CPC-silica-laccase beads,23 ± 1°C,4 months,5,Decolorized to similar extent and rate as freshly prepared beads.,n/a,Dye decolorization was primarily enzymatic; initial rapid dye adsorption occurred.
+Reactive blue 19,Trametes versicolor,0.036 mM,n/a,n/a,n/a,n/a,4,Optimal at pH 4,n/a,Proton release from dye decolorization; chlorides affected enzyme.
+ABTS,Trametes versicolor,500 µM,0.274 nM,n/a,22 ± 1°C,n/a,5,Showed Michaelis-Menten kinetics.,n/a,Inhibited by chloride; kcat increased slightly.
+Reactive blue 19,Trametes versicolor,0.036 mM,0.274 nM,n/a,22 ± 1°C,n/a,5,"Inhibition mixed, proposed model of inhibition.",n/a,Substrate depletion model derived.
+Dispersed blue 3,Trametes versicolor,0.072 mM,n/a,n/a,n/a,n/a,n/a,Decolorized,n/a,Inhibition analyzed.
+Acid blue 74,Trametes versicolor,0.036 mM,n/a,n/a,n/a,n/a,n/a,Decoloration provided.,n/a,Toxicity analyzed for dye and products.
+Acid red 27,Trametes versicolor,0.036 mM,n/a,n/a,n/a,n/a,n/a,80% decolorization,n/a,Toxicity decreased post-enzymatic treatment.
+Reactive black 5,Trametes versicolor,0.036 mM,n/a,n/a,n/a,n/a,n/a,Toxicity analyzed.,n/a,Adsorbed dye negatively affected free enzyme.

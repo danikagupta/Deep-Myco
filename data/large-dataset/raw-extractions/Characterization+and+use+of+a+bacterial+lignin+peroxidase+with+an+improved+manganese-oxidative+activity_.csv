@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Azure B,Rhodococcus jostii RHA1,not specified,0.1 U/mL,shaking,30 °C,24 h,4.0,high level observed,whole fungi,tested alongside Reactive Black 5 and Remazol Brilliant Blue R
+Reactive Black 5,Rhodococcus jostii RHA1,not specified,0.1 U/mL,shaking,30 °C,24 h,4.0,high level observed,whole fungi,tested alongside Azure B and Remazol Brilliant Blue R
+Remazol Brilliant Blue R,Rhodococcus jostii RHA1,not specified,0.1 U/mL,shaking,30 °C,24 h,4.0,high level observed,whole fungi,tested alongside Azure B and Reactive Black 5
+Aflatoxin B1,Rhodococcus jostii RHA1,1 µg/mL,0.1 U/mL,none specified,30 °C,96 h,not specified,96% biotransformation yield,whole fungi,produced less toxic metabolite Aflatoxin Q1
+Vanillin,Escherichia coli (recombinant),1 mM,30 mg,shaking,30 °C,30 h,8.0,0.8 mM ccMA produced,not applicable,produced ccMA via a multi-enzymatic process
+PCA,Escherichia coli (recombinant),1 mM,30 mg,shaking,30 °C,4 h,8.0,0.8 mM ccMA produced,not applicable,conversion into ccMA by CatA enzyme
+vanillin,Escherichia coli (recombinant),3 mM,30 mg (0.01 U),shaking,30 °C,16 h,8.0,>95% yield of ccMA,not applicable,scaled up production from 1 mM vanillin

@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Crystal violet,Amycolatopsis orientalis SY6,10 µg/ml,N/A,Shaking,30°C,60 min,N/A,Rapid decolorization observed,Mycelial,Visual observation showed color change from blue to violet
+Crystal violet,Amycolatopsis orientalis SY6,20 µg/ml,N/A,Shaking,30°C,60 min,N/A,Rapid degradation with visible changes,Mycelial,Thin layer chromatography confirmed degradation
+Crystal violet,Amycolatopsis orientalis SY6,30 µg/ml,N/A,Shaking,30°C,60 min,N/A,Decreased decolorization and not fully degraded,Mycelial,Potential saturation of active sites
+Combined triphenylmethane dyes,Amycolatopsis orientalis SY6,10 µg/ml (each dye),N/A,N/A,N/A,N/A,N/A,66% decolorization,Mycelial,"Dyes included crystal violet, brilliant green, basic fuchsin, malachite green"
+Amido black,Amycolatopsis orientalis SY6,10 µg/ml,N/A,Liquid culture,30°C,48 hours,N/A,"Visible color change, significant reduction",Mycelial,Incubation showed strong reduction in dye color
+Combined dyes (amido black + janus green),Amycolatopsis orientalis SY6,10 µg/ml (each),N/A,Shaking,30°C,N/A,N/A,Effective decolorization without affecting strain ability,Mycelial,Dyes retained original color in media
+Crystal violet,Rhodococcus erythropolis SQ1,10 µg/ml,N/A,Shaking,30°C,60 min,N/A,"Similar results to SY6, rapidly degraded",Mycelial,Thin layer chromatography confirmed similar patterns
+Crystal violet,Mycobacterium smegmatis mc2 155,10 µg/ml,N/A,Shaking,30°C,60 min,N/A,Degradation pattern similar to SY6 observed,Mycelial,Tracking showed degradation across strains
+Crystal violet,"Combined strains (SlivCV2, SlivCV4, SlivCV6)",10 µg/ml,N/A,N/A,37°C,N/A,7.0,Complete mineralization of dye,Mycelial,Combination of clones showed greater decolorization capability

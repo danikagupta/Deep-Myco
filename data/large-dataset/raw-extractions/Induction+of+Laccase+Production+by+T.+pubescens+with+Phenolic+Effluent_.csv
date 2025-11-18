@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+,Trametes pubescens MB89,,0.87 ± 0.28 g/L,shaking,28 °C,15 days,5.0,,mycelium,Use of distillery wastewater as growth medium.
+,Trametes pubescens MB89,,1.27 ± 0.31 g/L,shaking,28 °C,15 days,5.0,,mycelium,Tested different carbon sources including glucose.
+,Trametes pubescens MB89,,0.76 ± 0.25 g/L,shaking,28 °C,14 days,5.0,,mycelium,Laccase activity tested every 48 hours; first synthesis period after glucose addition was 6.1 days.
+"2,5-xylidine",Trametes pubescens MB89,1 mM,0.87 ± 0.28 g/L,shaking,28 °C,20 days,5.0,,mycelium,"2,5-xylidine added before inoculation; highest laccase activity achieved was 8419 units/L."
+copper sulfate,Trametes pubescens MB89,1 mM,0.87 ± 0.28 g/L,shaking,28 °C,20 days,5.0,,mycelium,Tested copper addition for its effect on laccase synthesis.
+"combination of glucose, copper, and 2,5-xylidine",Trametes pubescens MB89,,0.76 ± 0.25 g/L,shaking,28 °C,14 days,5.0,,mycelium,Simultaneous addition resulted in the greatest increase in laccase synthesis.

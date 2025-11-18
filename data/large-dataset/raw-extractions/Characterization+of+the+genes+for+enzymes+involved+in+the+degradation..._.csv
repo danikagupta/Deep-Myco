@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+crystal violet,Amycolatopsis orientalis,10 µg/ml,not specified,shaking,30°C,1 hour,7,observed,mycelial,"Clear zones were detected, indicating successful decolorization."
+crystal violet,Amycolatopsis orientalis,10 µg/ml,not specified,no agitation specified,37°C,varied,6.5,highly effective decolorization,mycelial,DC-4 and DC-C markers were used to monitor decolorization.
+crystal violet,Rhodococcus erythropolis,10 µg/ml,not specified,not specified,37°C,60 min,7,similar band patterns to SY6,not specified,Thin layer chromatography results showed Rf values were consistent with Amycolatopsis.
+crystal violet,amycolatopsis orientalis,10 µg/ml,not specified,none specified,25°C,not specified,6.5,observed color changes from blue to violet,mycelial,used to determine the maximum dye concentration for decolorization.
+"combined dyes (crystal violet, brilliant green, basic fuchsin, malachite green)",Amycolatopsis orientalis,10 µg/ml each,not specified,no agitation specified,37°C,specific time not defined,7,66% decolorization,mycelial,Four triphenylmethane dyes were tested together.
+amido black,Amycolatopsis orientalis,not specified,not specified,not specified,not specified,not specified,not specified,detected as violet substance,mycelial,Complete mineralization was confirmed.
+janus green,Amycolatopsis orientalis,not specified,not specified,not specified,not specified,not specified,not specified,detected as unchanged dye,mycelial,Decolorization proved ineffective with azo or triphenylmethane sources.
+"various  
+      * (including crystal violet, malachite green)","combined clones (SLIVCV2, SLIVCV4, SLIVCV6)",10 µg/ml,not specified,not specified,37°C,3 days,7,observed effective mineralization,whole fungi,Tests included multiple dye combinations.

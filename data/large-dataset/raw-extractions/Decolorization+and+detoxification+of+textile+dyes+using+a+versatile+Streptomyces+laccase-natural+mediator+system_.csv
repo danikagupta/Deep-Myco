@@ -1,0 +1,12 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Indigo Carmine,Bacillus subtilis CotA,50 mM,0.1 UE/mL,shaking,24 °C,1 h,8,84%,whole fungi,Compared with 19% decolorization without mediator
+Indigo Carmine,Bacillus subtilis CotA,50 mM,0.1 UE/mL,shaking,24 °C,1 h,8,>90%,whole fungi,In presence of PhCOOH
+Indigo Carmine,Streptomyces ipomoeae SilA,50 mM,0.1 UE/mL,shaking,24 °C,1 h,8,55%,whole fungi,In presence of PhZ
+Indigo Carmine,Streptomyces ipomoeae SilA,50 mM,0.1 UE/mL,shaking,24 °C,5 h,8,19%,whole fungi,Without redox mediators
+Xylidine Ponceau,Streptomyces ipomoeae SilA,50 mM,1 UE/mL,shaking,50 °C,5 h,8,86%,whole fungi,In presence of PhCOOH
+Remazol Brilliant Blue R,Streptomyces ipomoeae SilA,50 mM,1 UE/mL,shaking,50 °C,5 h,8,42%,whole fungi,In presence of PhCOOH
+Malachite Green,Streptomyces ipomoeae SilA,50 mM,1 UE/mL,shaking,50 °C,30 min,8,93%,whole fungi,In presence of PhCOOH
+Indigo Carmine,Streptomyces ipomoeae SilA,50 mM,1 UE/mL,none,24 °C,5 min,6.8,>80%,whole fungi,In tap water
+Malachite Green,Streptomyces ipomoeae SilA,50 mM,1 UE/mL,none,24 °C,5 h,6.8,92%,whole fungi,In tap water
+Xylidine Ponceau,Streptomyces ipomoeae SilA,50 mM,1 UE/mL,none,24 °C,24 h,6.8,>60%,whole fungi,In tap water
+Remazol Brilliant Blue R,Streptomyces ipomoeae SilA,50 mM,1 UE/mL,none,24 °C,24 h,6.8,>50%,whole fungi,In tap water

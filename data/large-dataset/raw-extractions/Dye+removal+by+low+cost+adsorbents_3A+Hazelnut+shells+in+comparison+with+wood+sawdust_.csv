@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Congo Red,Phanerochaete chrysosporium,50 mg/L,5 x 10^10/L,shaking,30°C,up to 48h,5.5,37.5%,whole fungi,"Dye degradation study, evaluated growth and MnP production."
+Congo Red,Phanerochaete chrysosporium,500 mg/L,5 x 10^10/L,shaking,30°C,up to 48h,5.5,43.75%,whole fungi,"Dye degradation study, evaluated growth and MnP production."
+Congo Red,Phanerochaete chrysosporium,1000 mg/L,5 x 10^10/L,shaking,30°C,up to 48h,5.5,data not specified,whole fungi,"Dye degradation study, evaluated growth and MnP production."
+Congo Red,Phanerochaete chrysosporium,5000 mg/L,5 x 10^10/L,shaking,30°C,up to 48h,5.5,27.5%,whole fungi,"Dye degradation study, evaluated growth and MnP production."

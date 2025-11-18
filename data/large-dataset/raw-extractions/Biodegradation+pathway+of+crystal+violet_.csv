@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Malachite Green,Exiguobacterium sp. MG2,50 mg/l,109 cells/ml,shaking,38°C,2 h,variable (5.0 - 9.0),93.5%,whole fungi,Best growth and decolorization activity observed.
+Malachite Green,Exiguobacterium sp. MG2,1000 mg/l,109 cells/ml,shaking,38°C,3 h,6.0,66% (approx.),whole fungi,Effect of MG concentration on decolorization.
+Malachite Green,Exiguobacterium sp. MG2,1500 mg/l,109 cells/ml,shaking,38°C,3 h,6.0,76% (approx.),whole fungi,Effect of MG concentration on decolorization.
+Malachite Green,Exiguobacterium sp. MG2,2000 mg/l,109 cells/ml,shaking,38°C,3 h,6.0,85% (approx.),whole fungi,Effect of MG concentration on decolorization.
+Malachite Green,Exiguobacterium sp. MG2,2500 mg/l,109 cells/ml,shaking,38°C,2 h,variable (5.0 - 9.0),93.5%,whole fungi,Maintained stable decolorization activity.
+Malachite Green,Exiguobacterium sp. MG2,40 mg/l,N/A,shaking,38°C,90 min,7.0,90%,not applicable,Cells induced into resting stage before experiment.

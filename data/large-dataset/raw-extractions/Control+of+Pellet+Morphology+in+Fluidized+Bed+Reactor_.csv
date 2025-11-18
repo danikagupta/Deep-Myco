@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+N/A,Phanerochaete chrysosporium,N/A,0.6 cm x 1 cm polyurethane foam pellets,shaking,37°C,4 hours,N/A,N/A,mycelium,Increased 90% of bottom covered with mycelium
+N/A,Phanerochaete chrysosporium,N/A,0.6 cm x 1 cm polyurethane foam pellets,stirring,N/A,14 days,N/A,maximum activity of 570 Units/L,mycelium,Higher enzyme productivity than reported by Moreira et al. (1997)
+naphthalene,Rhus vernicifera,10 mg/L,36 Units/L,shaking,room temperature,5 days,N/A,26% degradation,N/A,Used syringaldazine as the mediating substrate
+MTBE,Rhus vernicifera,1000 ppm,72 Units/L,shaking,room temperature,5 days,N/A,38% degradation,N/A,Laccase derived from the fungi used as mediator
+MTBE,Rhus vernicifera,10000 ppm,144 Units/L,shaking,room temperature,5 days,N/A,37% degradation,N/A,Further increase from 72 to 144 Units/L did not increase degradation

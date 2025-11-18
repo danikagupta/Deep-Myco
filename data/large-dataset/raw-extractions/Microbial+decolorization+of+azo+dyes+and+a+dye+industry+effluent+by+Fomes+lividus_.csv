@@ -1,0 +1,13 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+orange G,Daldenia concentrica,50 µM,105 spores/ml,shaking,30°C,12 days,6.5,35.88%,mycelium,Maximum dye removal observed at 12th day of incubation.
+orange G,Lepiota sp.,50 µM,105 spores/ml,shaking,30°C,12 days,6.5,43.00%,mycelium,Maximum dye removal observed at 12th day of incubation.
+orange G,Trametes serialis,50 µM,105 spores/ml,shaking,30°C,12 days,6.5,32.00%,mycelium,Maximum dye removal observed at 12th day of incubation.
+methyl orange,Daldenia concentrica,50 µM,105 spores/ml,shaking,30°C,8 days,6.5,60.00%,mycelium,Maximum dye removal observed at 8th day of incubation.
+methyl orange,Lepiota sp.,50 µM,105 spores/ml,shaking,30°C,16 days,6.5,58.65%,mycelium,Maximum dye removal observed at 16th day of incubation.
+methyl orange,Trametes serialis,50 µM,105 spores/ml,shaking,30°C,8 days,6.5,53.28%,mycelium,Maximum dye removal observed at 8th day of incubation.
+congo red,Daldenia concentrica,50 µM,105 spores/ml,shaking,30°C,8 days,6.5,91.54%,mycelium,Maximum dye removal observed at 8th day of incubation.
+congo red,Lepiota sp.,50 µM,105 spores/ml,shaking,30°C,8 days,6.5,90.07%,mycelium,Maximum dye removal observed at 8th day of incubation.
+congo red,Trametes serialis,50 µM,105 spores/ml,shaking,30°C,8 days,6.5,95.48%,mycelium,Maximum dye removal observed at 8th day of incubation.
+textile industry effluent,Daldenia concentrica,not specified,50 ml of spore suspension (10^5 spores/ml),rotating biological contractor,39°C,7 days,not specified,84.52%,mycelium,Maximum color removal observed at 7th day in batch mode.
+textile industry effluent,Lepiota sp.,not specified,50 ml of spore suspension (10^5 spores/ml),rotating biological contractor,39°C,7 days,not specified,66.67%,mycelium,Maximum color removal observed at 7th day in batch mode.
+textile industry effluent,Trametes serialis,not specified,50 ml of spore suspension (10^5 spores/ml),rotating biological contractor,39°C,7 days,not specified,89.28%,mycelium,Maximum color removal observed at 7th day in batch mode.

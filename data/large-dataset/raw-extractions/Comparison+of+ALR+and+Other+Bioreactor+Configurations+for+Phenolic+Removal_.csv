@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Phenol,Trametes versicolor,20% v/v,3.5 g/L,static culture,28°C,24 hours,7,Complete removal,whole fungi,The study demonstrated the highest total removal of phenolic compounds.
+p-cresol,Trametes versicolor,5% v/v,3.5 g/L,static culture,28°C,24 hours,7,Complete removal,whole fungi,The addition of cresylic effluent enhanced laccase activity.
+m-cresol,Trametes versicolor,5% v/v,3.5 g/L,static culture,28°C,24 hours,7,Complete removal,whole fungi,The addition of cresylic effluent enhanced laccase activity.
+o-cresol,Trametes versicolor,5% v/v,3.5 g/L,static culture,28°C,24 hours,7,Complete removal,whole fungi,The addition of cresylic effluent enhanced laccase activity.
+Phenolic effluent,Trametes pubescens,2.5% v/v,10 g/L,Airlift Loop Reactor,28°C,7 days,neutral,Complete removal,whole fungi,Laccase activity increased to 11.8 U/mL after additions.
+Phenolic effluent,Trametes pubescens,5% v/v,10 g/L,Airlift Loop Reactor,28°C,7 days,neutral,Complete removal,whole fungi,Consistently high laccase production observed.
+Phenolic effluent,Trametes pubescens,10% v/v,10 g/L,Airlift Loop Reactor,28°C,7 days,neutral,"Significant reduction, but biomass observed to settle.",whole fungi,Laccase activity varied with effluent concentration.

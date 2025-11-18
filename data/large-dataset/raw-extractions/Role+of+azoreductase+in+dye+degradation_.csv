@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+amido black,Amycolatopsis orientalis,10 µg/ml,N/A,shaking,30°C,2 days,N/A,yes,mycelium,N/A
+crystal violet,Amycolatopsis orientalis SY6,10 µg/ml,N/A,shaking,30°C,5 minutes,N/A,yes,mycelium,Monitoring of the reduction over time showed a distinct color change.
+crystal violet,Amycolatopsis orientalis SY6,10 µg/ml,N/A,shaking,37°C,60 minutes,N/A,yes,mycelium,TLC showed that all three strains had similar banding patterns.
+combined triphenylmethane dyes,Amycolatopsis orientalis SY6,10 µg/ml each,N/A,shaking,30°C,N/A,N/A,yes,mycelium,Dyes included crystal violet + basic fuchsin + brilliant green + malachite green.
+crystal violet,Paenibacillus spp.,10 µg/ml,N/A,N/A,N/A,long-term,N/A,yes,N/A,"In comparison to freely suspended cells, immobilized cells had lower decolorization rates."
+various azo dyes,combined strains,N/A,N/A,N/A,30°C,N/A,N/A,yes,whole fungi,Strain combinations led to the rapid mineralization of combined triphenylmethane dyes.
+various triphenylmethane dyes,combined strains,10 µg/ml,N/A,N/A,37°C,3 days,N/A,yes,whole fungi,Dye removal from the media was observed without retention on the cell wall.

@@ -1,0 +1,12 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Nitrate,Scenedesmus,10 mg/L,Not specified,Batch reactor,Room temperature,2 days,Not specified,90% removal,Immobilized algal beads,The study evaluated the capability of immobilized algal beads to remove nitrate from synthetic groundwater.
+Atrazine,Scenedesmus,0.1 mg/L,Not specified,Continuous flow reactor,20 °C,29 days,Not specified,100% removal in first 10 days,Immobilized algal beads,Herbicides started to diffuse back into the solution toward the end of the treatment process.
+Nitrate,Scenedesmus,10 mg/L,Not specified,Continuous flow reactor,35 °C,29 days,Not specified,91% removal,Immobilized algal beads,Nitrate removal was lower at higher temperatures.
+Cycloate,Scenedesmus,Not specified,Not specified,Continuous flow reactor,20 °C,10 days,Not specified,100% removal,Immobilized algal beads,
+Triallate,Scenedesmus,Not specified,Not specified,Continuous flow reactor,20 °C,10 days,Not specified,100% removal,Immobilized algal beads,
+Ametryn,Scenedesmus,Not specified,Not specified,Continuous flow reactor,20 °C,10 days,Not specified,Near 100% removal,Immobilized algal beads,
+Simetryn,Scenedesmus,Not specified,Not specified,Continuous flow reactor,20 °C,10 days,Not specified,Near 100% removal,Immobilized algal beads,
+Zinc,Scenedesmus,Not specified,Not specified,Continuous flow reactor,20 °C,29 days,Not specified,Removal efficiency 100%,Immobilized algal beads,Zinc was one of several ions measured for removal efficiency.
+Mercury,Scenedesmus,Not specified,Not specified,Continuous flow reactor,20 °C,29 days,Not specified,Removal efficiency 100%,Immobilized algal beads,
+Sulfate,Scenedesmus,Not specified,Not specified,Continuous flow reactor,20 °C,29 days,Not specified,Removal efficiency 100%,Immobilized algal beads,
+Phosphate,Scenedesmus,Not specified,Not specified,Continuous flow reactor,20 °C,29 days,Not specified,Removal efficiency 100%,Immobilized algal beads,

@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Amido Black,A. orientalis,10 µg/ml,Not specified,Shaking,37°C,Under 2 days,Not specified,Color change from blue to violet,Mycelium,Decolorization monitored spectrophotometrically.
+Brilliant Green,A. orientalis,10 µg/ml,Not specified,Shaking,37°C,Under 1 hour,Not specified,Decolorized to colorless derivatives,Mycelium,Decolorization monitored visually.
+Crystal Violet,A. orientalis,30 µg/ml,Not specified,Not specified,Not specified,Not specified,Not specified,Struggled to mineralize at this concentration,Mycelium,Decolorization monitored on TLC.
+Crystal Violet,A. orientalis,10 µg/ml,Not specified,Not specified,37°C,60 minutes,Not specified,75% decolorization,Mycelium,Monitored using TLC.
+Amido Black,A. orientalis,10 µg/ml,Not specified,Liquid culture,Not specified,Over 2 days,Not specified,Significant decolorization observed,Mycelium,Detoxification assessed using E. coli.
+"Combined Dyes (Crystal Violet, Brilliant Green, Basic Fuchsin, Malachite Green)",A. orientalis,10 µg/ml (each),Not specified,Not specified,37°C,Not specified,Not specified,66% decolorization,Mycelium,Combined dyes effectively decolorized.
+Biebrich Scarlet,A. orientalis,10 µg/ml,Not specified,Liquid culture,37°C,Not specified,Not specified,DC with dead biomass,Mycelium,Inhibition noted in combination with dead S. coelicolor.
+Crystal Violet,"Combined SlivCV clones (CV2, CV4, CV6)",10 µg/ml,Not specified,Not specified,35°C,Not specified,6.8,Complete mineralization observed,Mycelium,Clones showed required combination for effective degradation.

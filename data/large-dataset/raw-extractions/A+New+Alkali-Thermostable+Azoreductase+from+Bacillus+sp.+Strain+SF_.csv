@@ -1,0 +1,11 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Reactive Black 5,Bacillus sp. strain SF,50 mg/liter,Not specified,rotary shaker,65 °C,6 h,9.5,86%,whole fungi,Decolorization started with a slow linear fading of color followed by rapid decolorization.
+Mordant Black 9,Bacillus sp. strain SF,50 mg/liter,Not specified,rotary shaker,65 °C,12 h,9.5,38%,whole fungi,None.
+Direct Blue 71,Bacillus sp. strain SF,20 mg/liter,Not specified,rotary shaker,65 °C,4 h,9.5,75%,whole fungi,None.
+Mordant Brown 96,Bacillus sp. strain SF,50 mg/liter,Not specified,rotary shaker,65 °C,16 h,9.5,28%,whole fungi,None.
+Acid Orange 5,Bacillus sp. strain SF,12.5 mg/liter,Not specified,rotary shaker,65 °C,8 h,9.5,36%,whole fungi,None.
+Acid Blue 225,Bacillus sp. strain SF,50 mg/liter,Not specified,rotary shaker,65 °C,48 h,9.5,0%,whole fungi,None.
+Disperse Red 86,Bacillus sp. strain SF,50 mg/liter,Not specified,rotary shaker,65 °C,48 h,9.5,0%,whole fungi,None.
+Basic Violet 3,Bacillus sp. strain SF,2.5 mg/liter,Not specified,rotary shaker,65 °C,48 h,9.5,0%,whole fungi,None.
+Basic Red 9,Bacillus sp. strain SF,50 mg/liter,Not specified,rotary shaker,65 °C,48 h,9.5,0%,whole fungi,None.
+Acid Blue 74,Bacillus sp. strain SF,50 mg/liter,Not specified,rotary shaker,65 °C,48 h,9.5,0%,whole fungi,None.

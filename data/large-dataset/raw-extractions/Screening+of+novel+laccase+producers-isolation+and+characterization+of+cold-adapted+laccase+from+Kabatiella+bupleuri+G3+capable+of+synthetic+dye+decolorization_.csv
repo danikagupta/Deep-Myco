@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+ABTS,Kabatiella bupleuri,1.0 mM,N/A,shaking,30°C,10 min,3.5,N/A,mycelium,First testing laccase activity
+Crystal violet,Kabatiella bupleuri,250 mg/L,N/A,shaking,30°C,1 h,3.5,40.4 ± 7.0%,mycelium,Used ABTS as a redox mediator
+Alkaline fuchsin,Kabatiella bupleuri,N/A,N/A,shaking,30°C,1 h,3.5,31.7 ± 3.3%,mycelium,Used ABTS as a redox mediator
+Coomassie Brilliant Blue,Kabatiella bupleuri,N/A,N/A,shaking,30°C,1 h,3.5,19.8 ± 5.8%,mycelium,Used ABTS as a redox mediator
+Methylene blue,Kabatiella bupleuri,N/A,N/A,shaking,30°C,1 h,3.5,18.2 ± 2.5%,mycelium,Used ABTS as a redox mediator

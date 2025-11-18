@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Reactive Red 2,N/A,30 mg/L,N/A,Continuous,35˚C,50 days,N/A,54.5% COD removal,N/A,Start of dye addition—stabilization achieved after 50 days.
+Reactive Red 2,N/A,100 mg/L,N/A,Continuous,35˚C,N/A,N/A,Average 87% color removal,N/A,Color removal shown at increased dye concentration.
+Reactive Red 2,N/A,250 mg/L,N/A,Continuous,35˚C,N/A,N/A,Average 85% color removal,N/A,Color removal observed.
+Reactive Red 2,N/A,350 mg/L,N/A,Continuous,35˚C,N/A,N/A,Lowest color removal achieved at 65%,N/A,Followed by increase to 80% in one HRT.
+Reactive Red 2,N/A,N/A,N/A,Continuous,35˚C,50-150 days,N/A,COD removal efficiency between 51%-62% with varying dye concentrations.,N/A,Observations from first three compartments primarily.
+Reactive Red 2,N/A,N/A,N/A,Continuous,35˚C,0-150 days,N/A,Higher efficiencies in the ABR compared to aerobic systems.,N/A,Sequential anaerobic/aerobic process proves effective.

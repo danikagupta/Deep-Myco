@@ -1,0 +1,11 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+amido black,A. orientalis SY6,10 µg/ml,high cell density,shaking,30°C,not specified,not specified,color change from blue to violet,mycelial,"Prolonged incubation observed, not fully mineralized."
+crystal violet,A. orientalis SY6,10 µg/ml,high cell density,not specified,not specified,"20, 40, 60 minutes",not specified,significant decolorization observed at 20 minutes,mycelial,Monitored using TLC.
+crystal violet,A. orientalis SY6,30 µg/ml,high cell density,not specified,not specified,varied,not specified,unable to decolorize beyond this concentration,mycelial,Toxicity increased with dye concentration.
+brilliant green,A. orientalis SY6,10 µg/ml,high cell density,not specified,not specified,under 1 hour,not specified,decolorized to colorless derivatives,mycelial,Rapid decolorization observed.
+combined triphenylmethane dyes (crystal violet + brilliant green + basic fuchsin + malachite green),A. orientalis SY6,10 µg/ml each,high cell density,not specified,not specified,not specified,not specified,66% decolorization,mycelial,Successfully degraded combined dyes.
+amido black,A. orientalis SY6,10 µg/ml,low inoculum,not specified,30°C,not specified,not specified,detoxified,mycelial,Assessing detoxification using E. coli growth.
+crystal violet,SLivCV clones,10 µg/ml,not specified,not specified,37°C,3 days,not specified,mineralization of dye,not specified,Combination of clones leads to complete degradation.
+combined dyed strains SQ1CV clones,R. erythropolis and M. smegmatis,10 µg/ml,not specified,not specified,37°C,not specified,not specified,"decolorized amido black, orange II, biebrich scarlet",not specified,Noted differences in activity between strains.
+combined CV clones,M. smegmatis mc2 155,10 µg/ml,not specified,not specified,37°C,3 days,not specified,"decolorized amido black, bismarck brown, janus green",not specified,Variable gene expressions observed.
+crystal violet,A. orientalis SY6,10 µg/ml,high cell density,not specified,not specified,not specified,not specified,partial decolorization observed,mycelial,Monitoring conducted via TLC analysis.

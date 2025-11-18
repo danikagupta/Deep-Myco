@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Amido black,Amycolatopsis orientalis,10 µg/ml,Not specified,Shaking,30°C,7 days,Not specified,Visible clearing,Mycelial,Dye decolorized in combination with various carbon sources.
+Crystal violet,Amycolatopsis orientalis,10 µg/ml,Not specified,Shaking,37°C,60 min,7.0,68% decolorization,Mycelial,Measured using TLC.
+Brilliant green,Amycolatopsis orientalis,10 µg/ml,Not specified,Shaking,37°C,60 min,7.0,100% decolorization,Mycelial,Measured using TLC.
+Basic fuchsin,Amycolatopsis orientalis,10 µg/ml,Not specified,Shaking,37°C,60 min,7.0,73% decolorization,Mycelial,Measured using TLC.
+Malachite green,Amycolatopsis orientalis,10 µg/ml,Not specified,Shaking,37°C,60 min,7.0,76% decolorization,Mycelial,Measured using TLC.
+Combined triphenylmethane dyes (crystal violet + brilliant green + basic fuchsin + malachite green),Amycolatopsis orientalis,10 µg/ml each,Not specified,Shaking,37°C,3 days,7.0,Complete decolorization observed.,Mycelial,Dyes decolorized simultaneously.
+Amido black,Rhodococcus erythropolis,Not specified,Not specified,Shaking,Not specified,Not specified,Not specified,Tested for effect of pAM1 gene expression.,Not specified,Expression monitored.
+Bismarck brown,Combined Clones (SQ1CV clones),Not specified,Not specified,Shaking,37°C,3 days,7.0,Decolorization occurred.,Not specified,Mixed cultures exhibited additional dye breakdown.
+"Combined dyes (a mixture including amido black, orange II)",Rhodococcus erythropolis,Not specified,Not specified,Shaking,37°C,Not specified,Not specified,Complete mineralization observed.,Not specified,Dyes tested in combination.

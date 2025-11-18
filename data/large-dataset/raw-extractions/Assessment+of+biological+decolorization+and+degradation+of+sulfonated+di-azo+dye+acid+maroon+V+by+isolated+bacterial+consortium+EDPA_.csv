@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Acid Maroon V,Enterobacter dissolvens,100 mg l-1,10% (v/v) inoculum of 0.5 OD 600,static conditions,30 °C,incubated until decolorization,7±0.2,119.34±7.4 U ml-1 azoreductase activity,whole fungi,Crude extracts yielded 528.8 mg of protein.
+Acid Maroon V,Pseudomonas aeruginosa,100 mg l-1,10% (v/v) inoculum of 0.5 OD 600,static conditions,30 °C,incubated until decolorization,7±0.2,51.58±2.8 U ml-1 azoreductase activity,whole fungi,Crude extracts yielded 359 mg of protein.
+Methyl Red,Enterobacter dissolvens,24 µM,N/A,N/A,30 °C,4 minutes pre‑incubation + assay time,7,287.07±12 U ml-1 azoreductase activity,whole fungi,Assessed using UV-visible spectrophotometer.
+Methyl Red,Pseudomonas aeruginosa,24 µM,N/A,N/A,30 °C,4 minutes pre‑incubation + assay time,7,205.33±8 U ml-1 azoreductase activity,whole fungi,Assessed using UV-visible spectrophotometer.
+Methyl Red,Enterobacter dissolvens,24 µM,N/A,N/A,30 °C,1 mM NADH concentration,7,318.57±4.8 U ml-1 azoreductase activity,whole fungi,NADH concentration affected azoreductase activity.
+Acid Maroon V,Enterobacter dissolvens,100 mg l-1,N/A,idling,30°C,multiple assays,7,Various activities noted,whole fungi,Different assay conditions explored.

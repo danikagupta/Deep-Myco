@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Indigo Carmine,Funalia trogii,100 mg/L,N/A,Agitation (150 rpm),30 °C,300 s,3.0,57%,mycelium,
+Indigo Carmine,Funalia trogii,100 mg/L,N/A,Agitation (150 rpm),60 °C,300 s,3.0,45%,mycelium,
+Indigo Carmine,Funalia trogii,100 mg/L,N/A,Agitation (150 rpm),70 °C,300 s,3.0,38%,mycelium,
+Indigo Carmine,Pseudomonas aeruginosa,50 mg/L,N/A,Agitation (150 rpm),30 °C,4 h,6.0,92%,whole fungi,
+Indigo Carmine,Pseudomonas aeruginosa,100 mg/L,N/A,Agitation (150 rpm),30 °C,4 h,6.0,91%,whole fungi,
+Indigo Carmine,Pseudomonas aeruginosa,100 mg/L,N/A,Static,30 °C,4 h,6.0,87%,whole fungi,
+Indigo Carmine,Pseudomonas aeruginosa,50 mg/L,N/A,Static,40 °C,6 h,6.0,72%,whole fungi,
+Indigo Carmine,Pseudomonas aeruginosa,50 mg/L,N/A,Agitation (150 rpm),20 °C,4 h,6.0,Inconsistent with temperature changes,whole fungi,
+Indigo Carmine,Pseudomonas aeruginosa,50 mg/L,N/A,Static,20 °C,4 h,6.0,Inconsistent with temperature changes,whole fungi,

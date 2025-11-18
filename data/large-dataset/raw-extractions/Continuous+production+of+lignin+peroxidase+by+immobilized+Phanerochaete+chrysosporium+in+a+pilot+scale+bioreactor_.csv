@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+"2,4-Dichlorophenoxy acetic acid",Phanerochaete chrysosporium,0.25 µM,not specified,rotary shaker,37°C,15 days,not specified,41.7%,mycelium,Measured by gas chromatography
+"2,4-Dichlorophenoxy acetic acid",Schizophyllum commune,0.25 µM,not specified,rotary shaker,37°C,15 days,not specified,32.6%,mycelium,Measured by gas chromatography
+"2,4-Dichlorophenoxy acetic acid",Lenzites eximia,0.25 µM,not specified,rotary shaker,37°C,15 days,not specified,39.0%,mycelium,Measured by gas chromatography
+not applicable,Phanerochaete chrysosporium,not applicable,68 mg,not specified,not specified,not specified,not specified,not applicable,mycelium,Maximum growth found
+not applicable,Schizophyllum commune,not applicable,66 mg,not specified,not specified,not specified,not specified,not applicable,mycelium,Maximum growth found
+not applicable,Lenzites eximia,not applicable,67 mg,not specified,not specified,not specified,not specified,not applicable,mycelium,Maximum growth found

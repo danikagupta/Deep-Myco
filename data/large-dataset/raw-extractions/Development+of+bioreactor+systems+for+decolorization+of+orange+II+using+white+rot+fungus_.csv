@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Cresylic effluent,Trametes versicolor,20% v/v,N/A,ALR,N/A,16 days,N/A,Complete removal of targeted phenols,Whole fungi,Highest total removal and rate of removal of toxic phenols yet reported.
+Phenol,Trametes versicolor,Unknown,N/A,Flask culture,N/A,12 hours,N/A,90% removal,Whole fungi,Phenol behaved more recalcitrant than cresol isomers.
+p-cresol,Trametes versicolor,Unknown,N/A,Flask culture,N/A,12 hours,N/A,100% removal,Whole fungi,
+m-cresol,Trametes versicolor,Unknown,N/A,Flask culture,N/A,12 hours,N/A,100% removal,Whole fungi,
+o-cresol,Trametes versicolor,Unknown,N/A,Flask culture,N/A,12 hours,N/A,100% removal,Whole fungi,
+p-cresol,Trametes pubescens,5%,N/A,ALR,N/A,N/A,N/A,Complete removal,Whole fungi,
+m-cresol,Trametes pubescens,5%,N/A,ALR,N/A,N/A,N/A,Complete removal,Whole fungi,
+o-cresol,Trametes pubescens,5%,N/A,ALR,N/A,N/A,N/A,Complete removal,Whole fungi,

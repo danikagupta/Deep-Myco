@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+none,Trametes versicolor,not specified,not specified,shaking,29°C,4 days,not specified,up to 20% v/v effluent removed in flask culture,whole fungi,Growth optimization with ‘nutrient sufficient’ medium.
+used as an inducer,Trametes versicolor,2% v/v,not specified,not specified,not specified,not specified,not specified,up to 670% increase in laccase activity,whole fungi,Inducer added after initial growth.
+cresylic effluent,Trametes versicolor,5% v/v,not specified,static,not specified,16 days,not specified,total removal of phenols in the ALR,whole fungi,Highest total and rate of removal of phenolic compounds.
+cresylic effluent,Trametes pubescens,3.5% v/v,not specified,not specified,not specified,not specified,not specified,complete removal from solution,whole fungi,Laccase activity increased.
+none,Trametes pubescens,0.5 g/L,not specified,Airlift Loop Reactor,not specified,14 days,not specified,laccase activity reached 12 U/mL,whole fungi,Sequential additions boosted enzyme activity.
+none,Trametes pubescens,variable,not specified,alr,not specified,8 days,not specified,100% conversion for p-cresol and o-cresol,whole fungi,Comparison to broth samples.

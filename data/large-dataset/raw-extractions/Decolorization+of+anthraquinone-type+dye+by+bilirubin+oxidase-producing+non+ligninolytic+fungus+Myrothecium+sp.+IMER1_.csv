@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+RBBR,Myrothecium sp. IMER1,60 mg L-1,not specified,shaking (rotary shakers at 150 rpm),28°C,6 days,5.0-10.0,>65%,mycelium,Decolorization involved biosorption and biodegradation.
+RBBR,white-rot fungi,60 mg L-1,not specified,shaking,28°C,6 days,5.0-6.0,60-95%,not specified,Decolorization significantly decreased (>30%) in basic pH range (8.0-10.0).
+effluent,Myrothecium sp. IMER1,30% (v/v),not specified,shaking,not specified,not specified,7.0,73%,not specified,Higher decolorization efficiency than white-rot fungi.
+effluent,Myrothecium sp. IMER1,30% (v/v),not specified,shaking,not specified,not specified,9.0,70%,not specified,Higher decolorization efficiency than white-rot fungi.
+Indigo Carmine,Myrothecium sp. IMER1,not specified,not specified,not specified,28°C,6 days,not specified,>78 mm decolorized zone,not specified,Complete decolorization observed.
+Congo Red,Myrothecium sp. IMER1,not specified,not specified,not specified,not specified,not specified,not specified,partial decolorization,not specified,Specific percentages not provided.
+Malachite Green,Myrothecium sp. IMER1,not specified,not specified,not specified,not specified,not specified,not specified,partial decolorization,not specified,Specific percentages not provided.
+Bromophenol Blue,Myrothecium sp. IMER1,not specified,not specified,not specified,not specified,not specified,not specified,little decolorization,not specified,Specific percentages not provided.

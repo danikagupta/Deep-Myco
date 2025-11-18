@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Acid Maroon V,Enterobacter dissolvens,100 mg l-1,10% (v/v),static,30 °C,not specified,7,119.34±7.4 U ml-1,bacterial culture,Crude extracts yielded 528.8 mg of protein.
+Acid Maroon V,Pseudomonas aeruginosa,100 mg l-1,10% (v/v),static,30 °C,not specified,7,51.58±2.8 U ml-1,bacterial culture,Crude extracts yielded 359 mg of protein.
+Methyl Red,Enterobacter dissolvens,24 µM,not specified,not specified,30 °C,4 min pre-incubation,7,287.07±12 U ml-1,bacterial culture,Highest enzyme activity noted with Methyl Red.
+Methyl Red,Pseudomonas aeruginosa,24 µM,not specified,not specified,30 °C,4 min pre-incubation,7,205.33±8 U ml-1,bacterial culture,Highest enzyme activity noted with Methyl Red.
+Methyl Red,Enterobacter dissolvens,varied,0.1 to 2 mM NADH,not specified,30 °C,not specified,7,maximally 312.54±13.5 U ml-1 at 1 mM NADH,bacterial culture,NADH was the most effective electron donor.
+Methyl Red,Pseudomonas aeruginosa,varied,0.1 to 2 mM NADH,not specified,30 °C,not specified,7,maximally 165.87±14.77 U ml-1 at 1 mM NADH,bacterial culture,NADH was the most effective electron donor.
+varied,Enterobacter dissolvens,varied,0.1 M potassium phosphate buffer,not specified,range of 25 to 55 °C,not specified,varied,maximum activity at 30 °C,bacterial culture,Temperature activity profile observed.
+varied,Pseudomonas aeruginosa,varied,0.1 M potassium phosphate buffer,not specified,range of 25 to 55 °C,not specified,varied,maximum activity at 30 °C,bacterial culture,Temperature activity profile observed.

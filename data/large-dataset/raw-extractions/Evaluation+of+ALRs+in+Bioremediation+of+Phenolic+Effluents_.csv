@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+phenol,Trametes versicolor,0.106,0.75,static,not specified,7,not specified,0.75 g/g/d,whole fungi,Removal observed in flask culture.
+p-cresol,Trametes versicolor,0.077,0.45,static,not specified,7,not specified,0.45 g/g/d,whole fungi,Removal observed in flask culture.
+m-cresol,Trametes versicolor,0.081,0.46,static,not specified,7,not specified,0.46 g/g/d,whole fungi,Removal observed in flask culture.
+o-cresol,Trametes versicolor,0.231,1.38,static,not specified,7,not specified,1.38 g/g/d,whole fungi,Removal observed in flask culture.
+phenol,Trametes pubescens,31,not specified,ALR,not specified,8,not specified,0 g,whole fungi,Complete removal noted.
+p-cresol,Trametes pubescens,6.25,not specified,ALR,not specified,8,not specified,0 g,whole fungi,Complete removal noted.
+m-cresol,Trametes pubescens,6.7,not specified,ALR,not specified,8,not specified,0 g,whole fungi,Complete removal noted.
+o-cresol,Trametes pubescens,87.65,not specified,ALR,not specified,8,not specified,0 g,whole fungi,Complete removal noted.

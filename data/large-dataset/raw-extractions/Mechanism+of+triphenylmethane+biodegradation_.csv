@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+amido black,Amycolatopsis orientalis SY6,10 µg/ml,Not specified,shaking,30°C,7 days,Not specified,Significant decolorization observed,Mycelium,Using minimal media broth supplemented with glucose.
+crystal violet,Amycolatopsis orientalis SY6,10 µg/ml,Not specified,shaking,30°C,2 days,Not specified,Visible color change from blue to violet,Mycelium,Decolorization monitored spectrophotometrically.
+brilliant green,Amycolatopsis orientalis SY6,10 µg/ml,Not specified,shaking,30°C,Less than 1 hour,Not specified,Completely decolorized,Mycelium,Decolorization observed in liquid minimal media.
+combined triphenylmethane dyes,Amycolatopsis orientalis SY6,Each at 10 µg/ml,Not specified,shaking,Not specified,Time not specified,Not specified,Complete decolorization observed,Mycelium,"Dyes included crystal violet, brilliant green, basic fuchsin, and malachite green."
+crystal violet,Rhodococcus erythropolis SQ1,10 µg/ml,Not specified,shaking,Not specified,Time not specified,Not specified,"Yes, exhibited decolorization",Whole fungi,Indicated by change in absorbance over time.
+crystal violet,Mycobacterium smegmatis,10 µg/ml,Not specified,shaking,Not specified,Time not specified,Not specified,"Yes, exhibited decolorization",Whole fungi,Indicated by TLC banding patterns.
+"amido black, janus green",Amycolatopsis orientalis SY6,Each dye at 10 µg/ml,Not specified,shaking,Not specified,Time not specified,Not specified,Not specified,Mycelium,Combined with other triphenylmethane dyes.

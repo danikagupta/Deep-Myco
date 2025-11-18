@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Methyl Red,Enterococcus faecalis,0.5 mM,Unknown,gentle shaking,room temperature,10 min,7.5,Observed decolorization,whole fungi,Native PAGE assay showed clearing zones indicating reduction.
+Methyl Red,Enterococcus faecalis,20 μM,Unknown,stirring,25°C,2 min,7.2,Reduction measured by absorbance change,whole fungi,Absorbance reduction was measured at 430 nm.
+Methyl Red,Enterococcus faecalis,20 μM,0.5 mM NADPH,Unknown,25°C,Approx. measurement duration Unknown,7.0,No decolorization without enzyme,whole fungi,Control experiments confirmed reduction associated with enzyme activity.
+Methyl Red,Enterococcus faecalis,20 μM,1-800 μg enzyme,Unknown,Unknown,2 min for activity,7.2,Reduction measured by absorbance,whole fungi,Response monitored during enzyme assays.

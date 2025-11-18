@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+4-(4'-sulfopheny1azo)-phenol,Phanerochaete chrysosporium,50 µM,Not specified,shaking,25°C,10 min,6.0,High oxidation rates,whole fungi,"Oxidized by HRP, MnP, and Lip with varying effectiveness."
+2-(4'-sulfopheny1azo)-phenol,Phanerochaete chrysosporium,Not specified,Not specified,shaking,25°C,Not specified,Not specified,Poor substrates for peroxidases,whole fungi,Oxidized poorly by peroxidases.
+Orange I1,Not applicable,200 µM,Not applicable,shaking,25°C,10 min,2.5,90-95% decolorization,Not applicable,Effect of additives studied.
+4-hydroxyazobenzene,Not applicable,200 µM,Not applicable,shaking,24°C,Not specified,7.0,Reduction products analyzed via HPLC and GC-MS.,Not applicable,Products included substituted anilines.
+NADH,Not applicable,50 µM,Not applicable,shaking,25°C,40 min,3.5,High levels of azo dye reduction,Not applicable,NADH used as a reducing agent.
+Various Azo Dyes,Not applicable,Various concentrations,Not applicable,Not specified,Not specified,Not specified,Not specified,Varied based on structure,Not applicable,Kinetics and QSAR studies carried out.
+Zero-Valent Iron Reduction,Not applicable,"60 µM, 300 µM, 3 mM",Not applicable,shaking,25°C,6 min,7.0,Complete color removal,Not applicable,Produced sulfanilic acid as a product.

@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+OMW,Trametes vesicolor,0%,2ml,none,28°C,15 minutes,3,0%,whole fungi,Absorbance: 0.84
+OMW,Trametes vesicolor,1%,2ml,none,28°C,15 minutes,3,14.50%,whole fungi,Absorbance: 0.72
+OMW,Trametes vesicolor,2%,2ml,none,28°C,15 minutes,3,20.34%,whole fungi,Absorbance: 0.67
+OMW,Trametes vesicolor,5%,2ml,none,28°C,15 minutes,3,22.85%,whole fungi,Absorbance: 0.65

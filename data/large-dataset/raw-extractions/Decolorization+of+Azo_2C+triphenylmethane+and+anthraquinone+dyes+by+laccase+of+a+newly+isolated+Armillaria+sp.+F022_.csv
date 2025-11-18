@@ -1,0 +1,4 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Azo,Aerobic granules,5-85 mg/L,3.4 g/L,Aeration,Ambient,200 days,Not specified,90% - 100%,Fungal mass,Maintained excellent structure stability
+Triphenylmethane,Aerobic granules,5-85 mg/L,3.4 g/L,Aeration,Ambient,200 days,Not specified,100%,Fungal mass,Maintained excellent structure stability
+Anthraquinone,Aerobic granules,5-85 mg/L,3.4 g/L,Aeration,Ambient,200 days,Not specified,50% - 80%,Fungal mass,Partially disintegrated granules observed

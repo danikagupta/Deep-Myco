@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Phenol,Trametes versicolor,20% (v/v),not specified,static culture,28°C,12h,not specified,50% removal,whole fungi,Highest removal rates reported
+p-cresol,Trametes versicolor,20% (v/v),not specified,static culture,28°C,12h,not specified,100% removal,whole fungi,Highest removal rates reported
+m-cresol,Trametes versicolor,20% (v/v),not specified,static culture,28°C,12h,not specified,100% removal,whole fungi,Highest removal rates reported
+o-cresol,Trametes versicolor,20% (v/v),not specified,static culture,28°C,12h,not specified,100% removal,whole fungi,Highest removal rates reported
+stripped gas liquor (SGL),Trametes pubescens,2% (v/v),10%,airlift reactor,not specified,not specified,not specified,removed completely,whole fungi,Best suited for large-scale applications
+p-cresol,Trametes pubescens,5% (v/v),10%,airlift reactor,not specified,8 days,not specified,100% removal,whole fungi,Higher biomass tolerated higher concentrations of effluent
+cresylic effluent,Trametes pubescens,10% (v/v),not specified,airlift reactor,not specified,not specified,not specified,removed completely,whole fungi,Daily dosing with glucose maintained laccase production
+4-chlorophenol,Trametes pubescens,5mM,not specified,not specified,not specified,not specified,not specified,14.3% conversion,whole fungi,Utilized for bioremediation process in ALR
+"2,4-dichlorophenol",Trametes pubescens,5mM,not specified,not specified,not specified,not specified,not specified,24.5% conversion,whole fungi,Results highlight efficacy of whole cell systems

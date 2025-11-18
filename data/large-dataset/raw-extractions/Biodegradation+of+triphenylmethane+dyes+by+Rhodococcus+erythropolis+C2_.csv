@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Amido Black,Amycolatopsis orientalis,10 µg/ml,not specified,shaking,30°C,2 days,7.0,Yes,mycelium,Color changed from blue to violet.
+Brilliant Green,Amycolatopsis orientalis,10 µg/ml,not specified,shaking,37°C,under 1 hour,not specified,Yes,mycelium,Colorless derivatives obtained.
+Crystal Violet,Amycolatopsis orientalis,10 µg/ml,not specified,not specified,not specified,5 minutes to 60 minutes,not specified,Yes,mycelium,Observed a dramatic decrease in crystal violet intensity.
+Mixed Triphenylmethane Dyes,Amycolatopsis orientalis,10 µg/ml (each),not specified,not specified,not specified,Not specified,not specified,Yes,mycelium,Combined triphenylmethane dyes effectively decolorized.
+Combined Dyes,Amycolatopsis orientalis,10 µg/ml (each),not specified,not specified,37°C,3 days,not specified,Yes,mycelium,Complete biodegradation observed.
+Congo Red,Amycolatopsis orientalis,10 µg/ml,not specified,not specified,not specified,Not specified,not specified,No,mycelium,Remained tightly bound to the cell wall.
+Janus Green,Amycolatopsis orientalis,10 µg/ml,not specified,not specified,not specified,Not specified,not specified,No,mycelium,Remained tightly bound to the cell wall.
+Amaranth,Amycolatopsis orientalis,10 µg/ml,not specified,not specified,not specified,Not specified,not specified,No,mycelium,Remained tightly bound to the cell wall.

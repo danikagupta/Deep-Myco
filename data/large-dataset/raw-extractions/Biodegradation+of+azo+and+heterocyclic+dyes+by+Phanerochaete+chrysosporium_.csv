@@ -1,0 +1,11 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Orange II,Phanerochaete chrysosporium,50 mg/l,N/A,shaking,30°C,7 days,5.0,86.34%,mycelium,Optimum decolorization observed on the 5th day.
+Orange II,Phanerochaete chrysosporium,100 mg/l,N/A,shaking,30°C,7 days,5.0,85%,mycelium,Little change in removal compared to 50 mg/l.
+Orange II,Phanerochaete chrysosporium,150 mg/l,N/A,shaking,30°C,7 days,5.0,less than 85% (decreased removal compared to lower concentrations),mycelium,Higher dye concentration showed inhibitory effects.
+Orange II,Phanerochaete chrysosporium,200 mg/l,N/A,shaking,30°C,7 days,5.0,less than 85% (decreased removal compared to lower concentrations),mycelium,Higher dye concentration showed inhibitory effects.
+Orange II,Phanerochaete chrysosporium,250 mg/l,N/A,shaking,30°C,7 days,5.0,less than 85% (decreased removal compared to lower concentrations),mycelium,Higher dye concentration showed inhibitory effects.
+Orange II,Phanerochaete chrysosporium,50 mg/l,N/A,shaking,28°C,7 days,5.0,maximum decolorization,mycelium,Temperature was optimal between 28-30°C.
+Orange II,Phanerochaete chrysosporium,50 mg/l,N/A,shaking,24°C,7 days,5.0,increased degradation compared to higher temperatures,mycelium,Temperature had a major influence on the decolorization.
+Orange II,Phanerochaete chrysosporium,50 mg/l,N/A,shaking,32°C,7 days,5.0,decreased degradation compared to lower temperatures,mycelium,Temperature had a major influence on the decolorization.
+Orange II,Phanerochaete chrysosporium,50 mg/l,N/A,shaking,34°C,7 days,5.0,decreased degradation compared to lower temperatures,mycelium,Temperature had a major influence on the decolorization.
+Orange II,Phanerochaete chrysosporium,unknown,N/A,N/A,N/A,N/A,9.0,79% reduction in dark brown effluent degradation,mycelium,Conducted with real wastewater from textile industry.

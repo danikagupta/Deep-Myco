@@ -1,0 +1,11 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Congo Red,T. virens,50 mg L−1,Fresh,shaking,28 ± 2 °C,8 days,6,93%,mycelium,Results indicated a steady increase from 82.4% to 93%.
+Congo Red,T. virens,50 mg L−1,Dead,shaking,28 ± 2 °C,8 days,6,94%,mycelium,
+Congo Red,T. viride,50 mg L−1,Fresh,shaking,28 ± 2 °C,8 days,6,93%,mycelium,
+Congo Red,T. viride,50 mg L−1,Dead,shaking,28 ± 2 °C,8 days,6,95%,mycelium,
+Malachite Green,T. virens,50 mg L−1,Fresh,shaking,28 ± 2 °C,8 days,6,95%,mycelium,
+Malachite Green,T. virens,50 mg L−1,Dead,shaking,28 ± 2 °C,8 days,6,87%,mycelium,
+Malachite Green,T. viride,50 mg L−1,Fresh,shaking,28 ± 2 °C,8 days,6,75%,mycelium,
+Malachite Green,T. viride,50 mg L−1,Dead,shaking,28 ± 2 °C,8 days,6,82%,mycelium,
+Congo Red,T. virens,0 mg L−1,Dry,stirring,25 °C,48 h,6,88%,fungal mass,Higher than activated carbon.
+Malachite Green,T. virens,60 mg L−1,Dry,stirring,25 °C,48 h,6,Similar to activated carbon,fungal mass,

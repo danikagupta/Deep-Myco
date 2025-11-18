@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,additional information
+azo dye,whole fungi,not specified,not specified,not specified,not specified,not specified,not specified,"cleavage of dye molecules, para-quinone formation",Study indicated that no degradation occurred with chloro- or nitro- substituents.
+azo dye,whole fungi,not specified,not specified,not specified,not specified,not specified,not specified,"substantial polymerization of degradation products, retention of azo group",Degradation pathway indicated oxidative coupling/polymerization.
+azo dye,whole fungi,not specified,not specified,not specified,not specified,not specified,not specified,efficiency in degrading most tested azo dyes except for reactive Yellow 81,Reactive Yellow 81 lacks electron-rich moieties.
+azo dye,whole fungi,not specified,not specified,not specified,not specified,not specified,not specified,produced a mixture of other products from methyl orange,Product linked to a transient 4-dimethylaminophenyl diazene.
+anthraquinone dye,whole fungi,not specified,not specified,not specified,not specified,not specified,not specified,higher bleaching efficiency than Phanerochaete chrysosporium,Efficiency dropped when separated from hyphae.
+cyanine dye,whole fungi,not specified,not specified,not specified,not specified,not specified,not specified,efficient bleaching of Cu-phthalocyanine macrocycle,Laccase activity coupled with lignin peroxidase.
+phthalocyanine dye,whole fungi,not specified,not specified,not specified,not specified,not specified,not specified,"demetallation of dyes, followed by breakdown",Bleaching effect related to laccase production and other enzymes.

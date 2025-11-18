@@ -1,0 +1,11 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Acid Maroon V,Enterobacter dissolvens,100 mg l-1,10% (v/v),static,30 °C,N/A,7±0.2,119.34±7.4 U ml-1,N/A,
+Acid Maroon V,Pseudomonas aeruginosa,100 mg l-1,10% (v/v),static,30 °C,N/A,7±0.2,51.58±2.8 U ml-1,N/A,
+Methyl Red,Enterobacter dissolvens,24 µM,N/A,N/A,30 °C,4 min,7,287.07±12 U ml-1,N/A,
+Methyl Red,Pseudomonas aeruginosa,24 µM,N/A,N/A,30 °C,4 min,7,205.33±8 U ml-1,N/A,
+Methyl Red,Enterobacter dissolvens,24 µM,N/A,N/A,30 °C,N/A,7,312.54±13.5 U ml-1 with NADH,N/A,
+Methyl Red,Pseudomonas aeruginosa,24 µM,N/A,N/A,30 °C,N/A,7,165.87±14.77 U ml-1 with NADH,N/A,
+Acid Maroon V,Enterobacter dissolvens,100 mg l-1,10% (v/v),static,30 °C,N/A,7,315.58±8.4 U ml-1 at pH 7,N/A,Experiment performed at various pH levels
+Acid Maroon V,Pseudomonas aeruginosa,100 mg l-1,10% (v/v),static,30 °C,N/A,7,161.71±2.7 U ml-1 at pH 7,N/A,Experiment performed at various pH levels
+Acid Maroon V,Enterobacter dissolvens,100 mg l-1,10% (v/v),static,30 °C,N/A,7,292.36±13.6 U ml-1 at 30 °C,N/A,Experiment performed at various temperature levels
+Acid Maroon V,Pseudomonas aeruginosa,100 mg l-1,10% (v/v),static,30 °C,N/A,7,152.75±10.1 U ml-1 at 30 °C,N/A,Experiment performed at various temperature levels

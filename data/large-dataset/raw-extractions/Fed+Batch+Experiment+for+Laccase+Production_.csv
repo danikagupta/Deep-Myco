@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+ABTS,Melanocarpus albomyces,5 mM,Culture filtrate,shaking,25°C,varies,4.5,Detected,mycelium,N/A
+Guaiacol,Melanocarpus albomyces,1.5 mM,Culture filtrate,shaking,25°C,varies,6,Detected,mycelium,N/A
+"2,6-Dimethoxyphenol",Melanocarpus albomyces,0.8 mM,Culture filtrate,shaking,25°C,varies,4.5,Detected,mycelium,N/A
+Syringaldazine,Melanocarpus albomyces,0.06 mM,Culture filtrate,shaking,25°C,varies,6,Detected,mycelium,N/A
+Guaiacol,Melanocarpus albomyces,1.5 mM,Culture filtrate,shaking,40-60°C,up to 2 hours,5-8,75% activity retained at pH 8,mycelium,High thermostability observed
+ABTS,Melanocarpus albomyces,5 mM,recombinant laccase,shaking,25°C,2 days,4.5,Very low production before modifications,non-fused enzyme,Production improved after replacing signal sequences
+ABTS,Melanocarpus albomyces,5 mM,recombinant laccase,shaking,28°C,up to 7 days,6,Max activity of 920 mg/l found,non-fused enzyme,Hydrophobin-laccase fusion produced lower activity levels
+varied (cellulose binding study),Melanocarpus albomyces,varied,recombinant laccase,gentle mixing,22°C,1 hour,5,90% initial activity remained,non-fused enzyme,Binding characteristics observed

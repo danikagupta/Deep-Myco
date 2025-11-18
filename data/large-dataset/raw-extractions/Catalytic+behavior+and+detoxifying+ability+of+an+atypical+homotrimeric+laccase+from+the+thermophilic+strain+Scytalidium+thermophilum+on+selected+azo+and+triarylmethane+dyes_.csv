@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+ENR,Trametes versicolor,50 mg L−1,6 U mL−1,shaking,45 °C,6 h,5,80.66%,whole fungi,Free and immobilized laccase used.
+FLU,Trametes versicolor,50 mg L−1,6 U mL−1,shaking,45 °C,6 h,4.5,72.33%,whole fungi,Free and immobilized laccase used.
+ENR,Trametes versicolor,50 mg L−1,6 U mL−1,shaking,45 °C,6 h,5,97%,whole fungi,Presence of HBA mediator.
+FLU,Trametes versicolor,50 mg L−1,6 U mL−1,shaking,45 °C,6 h,4.5,96%,whole fungi,Presence of HBA mediator.
+ENR,Trametes versicolor,50 mg L−1,6 U mL−1,shaking,45 °C,6 h,5,95%,whole fungi,Presence of HBT mediator.
+FLU,Trametes versicolor,50 mg L−1,6 U mL−1,shaking,45 °C,6 h,4.5,96%,whole fungi,Presence of HBT mediator.
+ENR,Trametes versicolor,50 mg L−1,6 U mL−1,shaking,30-55 °C,6 h,5,75.5%,whole fungi,Temperature effect study.
+FLU,Trametes versicolor,50 mg L−1,6 U mL−1,shaking,30-55 °C,6 h,4.5,72%,whole fungi,Temperature effect study.

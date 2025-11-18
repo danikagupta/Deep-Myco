@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Disperse Blue 64,Aspergillus flavus,50 mg/L,not specified,static condition,30°C,48 h,7.0,96.7%,mycelium,
+Disperse Blue 64,Aspergillus flavus,100 mg/L,not specified,static condition,30°C,48 h,7.0,>99%,mycelium,
+Disperse Blue 64,Aspergillus flavus,300 mg/L,not specified,static condition,30°C,48 h,7.0,30.3%,mycelium,
+Acid Yellow 17,Aspergillus flavus,50 mg/L,not specified,static condition,30°C,48 h,7.0,90.1%,mycelium,
+Acid Yellow 17,Aspergillus flavus,100 mg/L,not specified,static condition,30°C,48 h,7.0,>99%,mycelium,
+Acid Yellow 17,Aspergillus flavus,300 mg/L,not specified,static condition,30°C,48 h,7.0,4.6%,mycelium,
+Disperse Blue 64,Aspergillus flavus,50 mg/L,AUMC-10515,static condition,30°C,48 h,7.0,99.8%,mycelium,
+Acid Yellow 17,Aspergillus flavus,50 mg/L,AUMC-10515,static condition,30°C,48 h,7.0,up to 99%,mycelium,

@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+DDT,Pseudomonas sp. DDT-1,0.715 mg kg−1,1.2 × 10^7 cfu g−1,natural light,26/20 °C (day/night),180 days,7.5,decreased by 33.3%,whole fungi,
+DDT,Pseudomonas sp. DDT-1,0.715 mg kg−1,1.0 × 10^6 cfu g−1,natural light,26/20 °C (day/night),18 months,7.5,decreased by 53.6%,whole fungi,
+Cd,Pseudomonas sp. DDT-1,"0.895 mg kg−1 (low-Cd), 3.225 mg kg−1 (high-Cd)",1.2 × 10^7 cfu g−1,natural light,26/20 °C (day/night),180 days,7.5,decreased by 39%,whole fungi,
+Cd,Pseudomonas sp. DDT-1,"0.895 mg kg−1 (low-Cd), 3.225 mg kg−1 (high-Cd)",1.0 × 10^6 cfu g−1,natural light,26/20 °C (day/night),18 months,7.5,decreased by 31.1%,whole fungi,

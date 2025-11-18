@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Methyl Red,E. faecalis,20 µM,mid-log phase,none (anaerobic),37°C,20 min,7.0,complete reduction,whole fungi,Highest reduction rate in anaerobic conditions
+Direct Blue 15,E. faecalis,20 µM,mid-log phase,none (anaerobic),37°C,50 min,7.0,complete reduction,whole fungi,Reduced mainly in anaerobic conditions
+Tartrazine,E. faecalis,20 µM,mid-log phase,none (anaerobic),37°C,40 min,7.0,complete reduction,whole fungi,Reduction occurred extracellularly
+Methyl Red,E. faecalis,20 µM,mid-log phase,200 rpm (aerobic),37°C,3 hr,7.0,incomplete reduction,whole fungi,Three times longer to reduce compared to anaerobic
+Direct Blue 15,E. faecalis,20 µM,mid-log phase,200 rpm (aerobic),37°C,4 hr,7.0,75% reduction,whole fungi,Not completely reduced under aerobic conditions
+Methyl Red,E. faecalis,20 µM,lag phase (PBSG),none,37°C,20 min,7.4,90% reduction,whole fungi,Similar reduction to that in anaerobic BHIS
+Tartrazine,E. faecalis,20 µM,lag phase (PBSG),none,37°C,28 hr,7.4,80% reduction,whole fungi,Reduction took significantly longer than in BHIS

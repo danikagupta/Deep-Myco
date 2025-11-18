@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+4-(4'-sulfophenylazo)-phenol,Phanerochaete chrysosporium,50 pM,N/A,shaking,25°C,10 min,6.0,not oxidized,N/A,None
+2-(4'-sulfophenylazo)-phenol,Phanerochaete chrysosporium,50 pM,N/A,shaking,25°C,10 min,6.0,not oxidized,N/A,None
+Orange II,Phanerochaete chrysosporium,200 pM,N/A,N/A,N/A,10 min,7.0,90%,N/A,Mono and di-substituted dyes were included
+Orange I,N/A,200 pM,N/A,N/A,N/A,10 min,N/A,98%,N/A,None
+Sunset Yellow FCF,N/A,N/A,N/A,N/A,N/A,N/A,N/A,58%,N/A,Part of the series of azo dyes tried
+Various Azo Dyes,N/A,300-3000 pM,N/A,shaking,25°C,Varies (2-10 min),7.0,Various (90%+),N/A,Different azo structures studied
+4-Hydroxyazobenzene,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Mass spectrum identified reduction products
+Azo dyes,N/A,50-100 pM,N/A,N/A,25°C,N/A,3.5-8.0,Varied between dyes,N/A,Different pH levels tested

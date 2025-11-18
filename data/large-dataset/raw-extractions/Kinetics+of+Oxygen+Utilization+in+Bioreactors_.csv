@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+bentazon,Trametes versicolor,10 ppm,80 g L^-1 wet weight of pellets (equivalent to 3.5 g DW⋅L^-1),stirred tank bioreactor,25 °C,6 h,4.5,complete removal,fungal mass,DO levels at 30 % saturation
+TBP,Trametes versicolor,5 ppm,80 g L^-1 wet weight of pellets (equivalent to 3.5 g DW⋅L^-1),stirred tank bioreactor,25 °C,32 h,4.5,complete removal,fungal mass,DO levels at 30 % saturation
+bentazon,Trametes versicolor,10 ppm,80 g L^-1 wet weight of pellets (equivalent to 3.5 g DW⋅L^-1),stirred tank bioreactor,25 °C,6 h,4.5,partial degradation (84% reduction at <15% DO),fungal mass,"degradation kinetics analyzed, limited by DO"
+TBP,Trametes versicolor,5 ppm,80 g L^-1 wet weight of pellets (equivalent to 3.5 g DW⋅L^-1),stirred tank bioreactor,25 °C,32 h,4.5,partial degradation (84% reduction at <15% DO),fungal mass,"degradation kinetics analyzed, limited by DO"
+acetate,Trametes versicolor,2 g L^-1,3.5 g DW⋅L^-1,stirred tank bioreactor,25 °C,130 h,4.5,complete degradation,fungal mass,"compared with glucose consumption, COD measurements before and after"
+acetate,Trametes versicolor,2 g L^-1,3.5 g DW⋅L^-1,stirred tank bioreactor,25 °C,264 h,4.5,complete degradation,fungal mass,"soluble COD reduced significantly, transformation products likely generated"
+DO levels,Trametes versicolor,--,ergosterol content measured: 0.395 ±0.034 mg⋅g DW^-1,fixed-bed bioreactor,--,--,4.5,N/A,whole fungi,DO consumption profiles analyzed in FBB

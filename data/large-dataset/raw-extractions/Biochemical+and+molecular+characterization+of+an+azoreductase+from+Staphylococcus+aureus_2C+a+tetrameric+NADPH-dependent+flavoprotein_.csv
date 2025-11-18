@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Methyl Red,Enterococcus faecalis,0.5 mM,N/A,gentle shaking,room temperature,10 min,7.5,Yes,whole fungi,Assay performed in native gel electrophoresis.
+Methyl Red,Enterococcus faecalis,20 µM,1-800 µg enzyme,UV-Visible spectrophotometer,25°C,2 min,7.2,Yes,whole fungi,Measured absorbance reduction at 430 nm.
+Control reaction NADPH,Enterococcus faecalis,N/A,N/A,N/A,N/A,N/A,N/A,No,N/A,Control reaction showed no spontaneous reduction of the dye.
+Control reaction NADH,Enterococcus faecalis,N/A,N/A,N/A,N/A,N/A,N/A,No,N/A,Control reaction resulted similar to NADPH control.

@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Acid Maroon V,Enterobacter dissolvens,100 mg l-1,10% (v/v) inoculum of 0.5 OD 600,static,30 °C,not specified,7,119.34±7.4 U ml-1,N/A,
+Acid Maroon V,Pseudomonas aeruginosa,100 mg l-1,10% (v/v) inoculum of 0.5 OD 600,static,30 °C,not specified,7,51.58±2.8 U ml-1,N/A,
+Methyl Red,Enterobacter dissolvens,24 µM,N/A,not specified,30 °C,4 min pre-incubation,7,287.07±12 U ml-1,N/A,
+Methyl Red,Pseudomonas aeruginosa,24 µM,N/A,not specified,30 °C,4 min pre-incubation,7,205.33±8 U ml-1,N/A,
+Acid Maroon V,Enterobacter dissolvens,100 mg l-1,10% (v/v) inoculum of 0.5 OD 600,static,30 °C,not specified,7,11.34±2 U ml-1,N/A,
+Methyl Red,Enterobacter dissolvens,24 µM,N/A,not specified,30 °C,not specified,3 to 10,315.58±8.4 U ml-1,N/A,pH sensitive; activity observed optimum at pH 7
+Methyl Red,Pseudomonas aeruginosa,24 µM,N/A,not specified,30 °C,not specified,3 to 10,161.71±2.7 U ml-1,N/A,pH sensitive; activity observed optimum at pH 7
+Methyl Red,Enterobacter dissolvens,24 µM,N/A,not specified,30 °C,not specified,not specified,312.54±13.5 U ml-1,N/A,NADH was added
+Methyl Red,Pseudomonas aeruginosa,24 µM,N/A,not specified,30 °C,not specified,not specified,165.87±14.77 U ml-1,N/A,NADH was added

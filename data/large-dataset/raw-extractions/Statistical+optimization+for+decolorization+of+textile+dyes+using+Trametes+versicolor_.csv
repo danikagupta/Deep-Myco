@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Ponceau 2R,Coriolopsis sp. strain arf5,0.2 g/L,N/A,static,room temperature to 35 ºC,9 days,N/A,complete degradation,fungal mass,Degradation during nitrogen-limiting conditions
+Orange G,Coriolopsis sp. strain arf5,0.2 g/L,N/A,static,room temperature to 35 ºC,8 days,N/A,complete degradation,fungal mass,Degradation during nitrogen-limiting conditions
+Direct Blue 71,Coriolopsis sp. strain arf5,0.2 g/L,N/A,static,room temperature to 35 ºC,> 21 days (incomplete degradation),N/A,incomplete degradation,fungal mass,Degradation occurs under nitrogen-deficient conditions
+Biebrich Scarlet,Coriolopsis sp. strain arf5,0.2 g/L,N/A,static,room temperature to 35 ºC,12 days,N/A,complete degradation,fungal mass,Degradation during nitrogen-limiting conditions
+Ponceau 2R,Coriolopsis sp. strain arf5,0.2 g/L,N/A,static,N/A,10 days,4.5,degradation observed,fungal mass,Initial pH affected degradation rates
+Orange G,Coriolopsis sp. strain arf5,0.2 g/L,N/A,static,N/A,7 days,4.5,degradation observed,fungal mass,Initial pH affected degradation rates
+Direct Blue 71,Coriolopsis sp. strain arf5,0.2 g/L,N/A,static,N/A,12 days,4.5,degradation observed,fungal mass,Initial pH affected degradation rates
+Biebrich Scarlet,Coriolopsis sp. strain arf5,0.2 g/L,N/A,static,N/A,12 days,4.5,degradation observed,fungal mass,Initial pH affected degradation rates

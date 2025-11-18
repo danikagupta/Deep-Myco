@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+malachite green,Saccharomyces cerevisiae,20 mg,not specified,shaking,25ºC,12 days,7.0,48%,whole fungi,Degradation observed in 250 ml dilution
+malachite green,Saccharomyces cerevisiae,20 mg,not specified,shaking,25ºC,12 days,7.0,68%,whole fungi,Degradation observed in 500 ml dilution
+malachite green,Saccharomyces cerevisiae,20 mg,not specified,shaking,25ºC,12 days,7.0,70%,whole fungi,Degradation observed in 750 ml dilution
+malachite green,Candida albicans,20 mg,not specified,shaking,25ºC,12 days,7.0,48%,whole fungi,Degradation observed in 250 ml dilution
+malachite green,Candida albicans,20 mg,not specified,shaking,25ºC,12 days,7.0,65%,whole fungi,Degradation observed in 500 ml dilution
+malachite green,Candida albicans,20 mg,not specified,shaking,25ºC,12 days,7.0,68%,whole fungi,Degradation observed in 750 ml dilution
+malachite green,consortium,20 mg,not specified,shaking,25ºC,12 days,7.0,52%,whole fungi,Degradation observed in 250 ml dilution
+malachite green,consortium,20 mg,not specified,shaking,25ºC,12 days,7.0,70%,whole fungi,Degradation observed in 500 ml dilution
+malachite green,consortium,20 mg,not specified,shaking,25ºC,12 days,7.0,77%,whole fungi,Degradation observed in 750 ml dilution

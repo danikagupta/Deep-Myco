@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+ABTS,Pleurotus ostreatus,120 mM,N/A,unknown,unknown,10 weeks,5.6,Laccase activity 1.1-1.3 U/ml,whole fungi,Three flushes of fruiting body production obtained
+phenol red,Pleurotus ostreatus,N/A,N/A,unknown,unknown,10 weeks,N/A,"MnP 15 U/ml, VP 1.1-1.4 U/ml",whole fungi,"Enzyme activities increased after mushroom harvest, indicating physiological change."
+N/A,Coprinopsis cinerea,N/A,various concentrations used in experiments,shaking and stirring,25 °C and 37 °C,varied during experiments,6 - 8,significant variations in laccase activity observed,whole fungi,Different strains of the fungi were tested.
+various dyes,Trametes versicolor,N/A,N/A,varied depending on study,optimum 28 °C,"varied, typically several days",N/A,effective for decolorizing several dyes,whole fungi,Studies indicate varying efficacy based on dye type.
+lignin,Coprinopsis cinerea,N/A,N/A,unknown,not specified,N/A,not specified,significant lignin degradation observed,whole fungi,Transformation vector used for specific laccase genes.

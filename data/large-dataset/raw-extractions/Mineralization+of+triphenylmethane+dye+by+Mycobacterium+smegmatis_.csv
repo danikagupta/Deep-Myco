@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+crystal violet,Amycolatopsis orientalis SY6,10 µg/ml,Not specified,Not specified,30°C,5 min,Not specified,Dramatic decrease in intensity observed,whole fungi,Observed via TLC
+crystal violet,Amycolatopsis orientalis SY6,10 µg/ml,Not specified,Not specified,30°C,10 min,Not specified,"TLC shows bands at 0.79, 0.68, 0.57, 0.40",whole fungi,Observed via TLC
+crystal violet,Amycolatopsis orientalis SY6,10 µg/ml,Not specified,Not specified,30°C,20 min,Not specified,"TLC shows bands at 0.79, 0.68, 0.57, 0.40",whole fungi,Observed via TLC
+crystal violet,Amycolatopsis orientalis SY6,10 µg/ml,Not specified,Not specified,30°C,30 min,Not specified,"TLC shows bands at 0.79, 0.68",whole fungi,Observed via TLC
+crystal violet,Amycolatopsis orientalis SY6,10 µg/ml,Not specified,Not specified,30°C,60 min,Not specified,TLC shows no visible bands for lower bands,whole fungi,Observed via TLC
+Combined triphenylmethane dyes,Amycolatopsis orientalis SY6,10 µg/ml each,Not specified,Not specified,Not specified,Not specified,Not specified,Decolorized effectively,whole fungi,Data shown in Figure 2
+crystal violet,Rhodococcus erythropolis SQ1,10 µg/ml,Not specified,Not specified,Not specified,Not specified,Not specified,Decolorized effectively,whole fungi,Compared to A. orientalis SY6
+crystal violet,Mycobacterium smegmatis mc2 155,10 µg/ml,Not specified,Not specified,Not specified,Not specified,Not specified,Decolorized effectively,whole fungi,Compared to A. orientalis SY6

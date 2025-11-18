@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",additional information
+Coomassie Brilliant Blue G-250,Salinivibrio kushneri HTSP,<150 mg/L,Not specified,Shaking,37°C,48 hours,Not specified,Complete decolorization,Whole fungi,Decolorization decreased at higher concentrations.
+Coomassie Brilliant Blue G-250,Salinivibrio kushneri HTSP,500-3000 mg/L,Not specified,Not specified,37°C,48 hours,Not specified,90% decolorization within 48 hours,Whole fungi,The rate of decolorization decreased with an increase in dye concentration.
+Congo Red,Salinivibrio kushneri HTSP,50-800 mg/L,Not specified,Not specified,37°C,48 hours,Not specified,Complete decolorization,Whole fungi,The decolorization was highest at lower concentrations.
+Safranin,Salinivibrio kushneri HTSP,50-800 mg/L,Not specified,Not specified,37°C,48 hours,Not specified,Complete decolorization at lower concentrations,Whole fungi,Decolorization decreased at higher dye concentrations.
+Acid Orange 7,Trametes versicolor,100 mg/L,0.3 U/ml,Not specified,37°C,24 hours,4.5,75.6% with immobilized laccase,Whole fungi,Dye degradation improved with the addition of small molecular mediators.
+Bromophenol Blue,Recombinant laccase mutants,100 mg/L,Not applicable,Not specified,37°C,24 hours,Not specified,Significant improvement with lac2-9 over rlac1338,Not applicable,Enhanced degradation due to directed evolution.
+Coomassie Brilliant Blue G250,Recombinant laccase lac2-9,100 mg/L,Not applicable,Shaking,37°C,24 hours,6,Enhanced degradation rates due to added mediators,Not applicable,Degradation improvement was up to 3.4 times compared to original laccase.
+Acid Violet 7,Recombinant laccase mutants,100 mg/L,Not applicable,Not specified,37°C,24 hours,Not specified,Significant improvement with lac2-9,Not applicable,The presence of ABTS improved the degradation ability.

@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+crystal violet,Amycolatopsis orientalis,10 µg/ml,not specified,not specified,30°C,60 min,not specified,complete decolorization visible within 5 min,whole fungi,Four main bands observed in TLC from 5-20 min
+crystal violet,Amycolatopsis orientalis,30 µg/ml,not specified,not specified,30°C,60 min,not specified,no ability to decolorize beyond this concentration,whole fungi,TLC analysis showed no further decolorization
+crystal violet,Rhodococcus erythropolis,10 µg/ml,not specified,not specified,not specified,not specified,not specified,similar to Amycolatopsis orientalis,whole fungi,TLC results similar to Amycolatopsis orientalis
+crystal violet,Mycobacterium smegmatis,10 µg/ml,not specified,not specified,not specified,not specified,not specified,similar to Amycolatopsis orientalis,whole fungi,TLC results similar to Amycolatopsis orientalis
+combined triphenylmethane dyes,Amycolatopsis orientalis,10 µg/ml (for each dye),not specified,not specified,not specified,not specified,not specified,effectively decolorized all tested combined dyes,whole fungi,Effective against amido black and janus green when combined with triphenylmethane dyes

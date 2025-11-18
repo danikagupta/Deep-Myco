@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Amido Black,A. orientalis SY6,10 µg/ml,,shaking,30°C,2 days,,Distinct color change from blue to violet,mycelium,Color change indicated decolorization to colorless derivatives.
+Brilliant Green,A. orientalis SY6,10 µg/ml,,shaking,30°C,Under 1 hour,,Decolorized to colorless derivatives,mycelium,
+Crystal Violet,A. orientalis SY6,30 µg/ml,,shaking,30°C,Under 1 hour,,No ability to decolorize beyond this concentration,mycelium,Monitored on thin layer chromatography.
+"Combined Triphenylmethane Dyes (Crystal Violet, Brilliant Green, Basic Fuchsin, Malachite Green)",A. orientalis SY6,10 µg/ml each,,shaking,30°C,3 days,Neutral,Efficiently decolorized,mycelium,Dyes were combined without affecting activity.
+Amido Black,Mixed strains (A. orientalis SY6 + S. coelicolor A3(2)),10 µg/ml,,shaking,30°C,2 days,,Complete degradation,mycelium,Live strains produced additional degradation.
+Amido Black,E. coli,Variable,,shaking,37°C,2 hours,,Partial detoxification,N/A,Inhibition of growth observed.
+Crystal Violet,S. lividans TK23,10 µg/ml,,shaking,37°C,3 days,,Limited to crystal violet,mycelium,Dye binding confirmed with TLC.
+Crystal Violet,Rhodococcus erythropolis SQ1,10 µg/ml,,shaking,37°C,3 days,,Successful degradation noted,mycelium,

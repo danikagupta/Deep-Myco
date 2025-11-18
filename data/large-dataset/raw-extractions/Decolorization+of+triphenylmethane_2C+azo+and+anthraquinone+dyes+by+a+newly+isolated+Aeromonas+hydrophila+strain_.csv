@@ -1,0 +1,3 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Vat Red 10,Galactomyces geotrichum,0.01%,120 x 10^6 cells/ml,shaking,25°C,23 days,9,45%,whole fungi,Rate of decolorization was high during the first 7 days.
+Vat Red 10,Pseudomonas desmolyticum,0.01%,120 x 10^6 cells/ml,shaking,25°C,23 days,9,55.5%,whole fungi,The decolorization process was aerobic.

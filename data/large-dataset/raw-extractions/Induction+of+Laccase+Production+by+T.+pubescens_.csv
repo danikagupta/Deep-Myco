@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+none,Agaricus blazei U2-4,none,2.8 g/L nitrogen and varying concentrations of CuSO4,shaking,28°C,21 days,5.0,43.8 U/mL laccase activity,mycelium,"CuSO4 concentrations were 0, 50, 100, 150, 200, 250, 300 µM."
+none,Agaricus blazei U2-1,none,2.8 g/L nitrogen and 150 µM CuSO4,shaking,28°C,21 days,5.0,7.6 U/mL laccase activity,mycelium,"Inducers tested were ethanol, guaiacol, pyrogallol, vanillin, veratryl alcohol, xylidine."
+none,Agaricus blazei U2-2,none,2.8 g/L nitrogen and 150 µM CuSO4,shaking,28°C,21 days,5.0,4.8 U/mL laccase activity,mycelium,"Inducers tested were ethanol, guaiacol, pyrogallol, vanillin, veratryl alcohol, xylidine."
+none,Agaricus blazei U2-3,none,2.8 g/L nitrogen and 150 µM CuSO4,shaking,28°C,21 days,5.0,10.3 U/mL laccase activity,mycelium,"Inducers tested were ethanol, guaiacol, pyrogallol, vanillin, veratryl alcohol, xylidine."
+none,Agaricus blazei U2-4,none,2.8 g/L nitrogen and 150 µM CuSO4,shaking,28°C,21 days,5.0,25.4 U/mL laccase activity,mycelium,"Inducers tested were ethanol, guaiacol, pyrogallol, vanillin, veratryl alcohol, xylidine."
+none,Agaricus blazei U2-4,none,2.8 g/L nitrogen and 150 µM CuSO4,shaking,28°C,21 days,5.0,28.0 U/mL laccase activity,mycelium,"Inducers tested were ethanol, guaiacol, pyrogallol, vanillin, veratryl alcohol, xylidine."
+none,Agaricus blazei U2-4,none,2.8 g/L nitrogen and 150 µM CuSO4,shaking,28°C,21 days,5.0,28.4 U/mL laccase activity,mycelium,"Inducers tested were ethanol, guaiacol, pyrogallol, vanillin, veratryl alcohol, xylidine."
+none,Agaricus blazei U2-4,none,2.8 g/L nitrogen and 150 µM CuSO4,shaking,28°C,21 days,5.0,28.4 U/mL laccase activity,mycelium,"Inducers tested were ethanol, guaiacol, pyrogallol, vanillin, veratryl alcohol, xylidine."

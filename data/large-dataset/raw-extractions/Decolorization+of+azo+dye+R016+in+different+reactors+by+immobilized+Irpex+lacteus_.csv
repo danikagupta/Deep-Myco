@@ -1,0 +1,14 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Reactive Blue 21,Pleurotus eryngii,50 mg/l,Not specified,150 rpm,30°C,10 days,Not specified,98.4%,mycelium,
+Reactive Yellow 160,Pleurotus eryngii,50 mg/l,Not specified,150 rpm,30°C,10 days,Not specified,96.8%,mycelium,
+Reactive Orange 122,Pleurotus eryngii,50 mg/l,Not specified,150 rpm,30°C,10 days,Not specified,97.1%,mycelium,
+Direct Congo Red,Pleurotus eryngii,50 mg/l,Not specified,150 rpm,30°C,10 days,Not specified,97.8%,mycelium,
+Direct Yellow 5g,Pleurotus eryngii,50 mg/l,Not specified,150 rpm,30°C,10 days,Not specified,76%,mycelium,
+Acid Methyl Orange,Pleurotus eryngii,50 mg/l,Not specified,150 rpm,30°C,10 days,Not specified,61.1%,mycelium,
+Acid Eriochrome Black T,Pleurotus eryngii,50 mg/l,Not specified,150 rpm,30°C,10 days,Not specified,96.9%,mycelium,
+Reactive Blue 21,Pleurotus eryngii (free),50 mg/l,Not specified,150 rpm,30°C,72 hours,Not specified,50.8%,mycelium,
+Reactive Blue 21,Pleurotus eryngii (immobilized on wheat straw),50 mg/l,Not specified,150 rpm,30°C,72 hours,Not specified,57.5%,mycelium,
+Reactive Blue 21,Pleurotus eryngii (immobilized on rice straw),50 mg/l,Not specified,150 rpm,30°C,72 hours,Not specified,32.5%,mycelium,
+Reactive Blue 21,Pleurotus eryngii (immobilized on sugar cane waste),50 mg/l,Not specified,150 rpm,30°C,72 hours,Not specified,83.5%,mycelium,
+Reactive Blue 21,Pleurotus eryngii (immobilized on wheat bran),50 mg/l,Not specified,150 rpm,30°C,72 hours,Not specified,62.2%,mycelium,
+Textile effluent,Pleurotus eryngii (immobilized),Not specified,Not specified,Not specified,Not specified,Not specified,10,96% color removal,mycelium,Various nutrient reductions including BOD and COD were also recorded.

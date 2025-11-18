@@ -1,0 +1,11 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Reactive Black 5,Bacillus sp. strain SF,50 mg/l,,rotary shaker,65 °C,6 h,9.0,86%,whole fungi,Decolorization started slowly then rapidly after 150s.
+Mordant Black 9,Bacillus sp. strain SF,50 mg/l,,rotary shaker,65 °C,12-4 h,9.0,38%,whole fungi,
+Direct Blue 71,Bacillus sp. strain SF,20 mg/l,,rotary shaker,65 °C,4 h,9.0,75%,whole fungi,
+Mordant Brown 96,Bacillus sp. strain SF,50 mg/l,,rotary shaker,65 °C,16-36 h,9.0,28%,whole fungi,
+Acid Orange 5,Bacillus sp. strain SF,12.5 mg/l,,rotary shaker,65 °C,8 h,9.0,36%,whole fungi,
+Acid Blue 225,Bacillus sp. strain SF,50 mg/l,,rotary shaker,65 °C,48 h,9.0,0%,whole fungi,
+Disperse Red 86,Bacillus sp. strain SF,50 mg/l,,rotary shaker,65 °C,48 h,9.0,0%,whole fungi,
+Basic Violet 3,Bacillus sp. strain SF,2.5 mg/l,,rotary shaker,65 °C,48 h,9.0,0%,whole fungi,
+Basic Red 9,Bacillus sp. strain SF,50 mg/l,,rotary shaker,65 °C,48 h,9.0,0%,whole fungi,
+Acid Blue 74,Bacillus sp. strain SF,50 mg/l,,rotary shaker,65 °C,48 h,9.0,0%,whole fungi,

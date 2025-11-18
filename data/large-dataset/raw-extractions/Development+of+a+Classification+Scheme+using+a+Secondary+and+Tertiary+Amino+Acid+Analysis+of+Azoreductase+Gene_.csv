@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Methyl Red,Enterococcus faecalis,0.5 mM,not specified,gentle shaking,room temperature,10 min,7.5,yes,whole fungi,
+Methyl Red,Enterococcus faecalis,0.5 mM,not specified,not specified,25°C,not specified,7.0,observed with NADH,whole fungi,"Enzyme assays were performed with 0.5 mM NADPH, 10 µM FMN, 20 µM Methyl Red."
+Methyl Red,Enterococcus faecalis,20 µM,not specified,not specified,not specified,2 min,not specified,yes,whole fungi,The reaction was initiated by adding NADPH.
+Direct Blue 15,Enterococcus faecalis,not specified,not specified,not specified,not specified,not specified,not specified,no,whole fungi,No azoreductase activity was observed.
+Tartrazine,Enterococcus faecalis,not specified,not specified,not specified,not specified,not specified,not specified,no,whole fungi,No azoreductase activity was observed.

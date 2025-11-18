@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Amido Black,A. orientalis,10 µg/ml,not specified,shaking,30°C,2 days,not specified,Blue to violet,mycelial,Prolonged incubation at 30 µg/ml yielded no further decolorization.
+Brilliant Green,A. orientalis,10 µg/ml,not specified,shaking,30°C,under 1 hour,not specified,Colorless derivatives,mycelial,Decolorization was rapid.
+Crystal Violet,A. orientalis,10 µg/ml,not specified,shaking,not specified,1 hour,not specified,Colorless derivatives,mycelial,Includes visual color change.
+Combined Triphenylmethane Dyes,A. orientalis,10 µg/ml each,not specified,shaking,not specified,not specified,not specified,66% decolorization,mycelial,Combination included multiple triphenylmethane dyes.
+Crystal Violet,R. erythropolis,10 µg/ml,not specified,shaking,not specified,60 min,not specified,Similar Rf values to A. orientalis,not specified,Thin layer chromatography used.
+Crystal Violet,M. smegmatis,10 µg/ml,not specified,shaking,not specified,60 min,not specified,Similar Rf values to A. orientalis,not specified,Thin layer chromatography used.
+Amido Black,SlivCV clones,10 µg/ml,not specified,shaking,not specified,not specified,not specified,Not decolorized,not specified,Combined clones showed better degradation potential.
+Combined Dyes (including Amido Black),Combined CV cloned strains,10 µg/ml,not specified,shaking,not specified,3 days,not specified,Complete biodegradation,not specified,Dyes decolorized involving multiple genes.

@@ -1,0 +1,13 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Disperse Blue 64,Aspergillus flavus,50 mg/L,unknown,static,30°C,48 hours,7.0,96.7%,mycelium,Individual strain capability
+Disperse Blue 64,Aspergillus flavus,100 mg/L,unknown,static,30°C,48 hours,7.0,>99%,mycelium,Consortium showed higher effectiveness
+Disperse Blue 64,Aspergillus flavus,300 mg/L,unknown,static,30°C,48 hours,7.0,30.3%,mycelium,Individual strain capability
+Acid Yellow 17,Aspergillus flavus,50 mg/L,unknown,static,30°C,48 hours,7.0,90.1%,mycelium,Individual strain capability
+Acid Yellow 17,Aspergillus flavus,100 mg/L,unknown,static,30°C,48 hours,7.0,>99%,mycelium,Consortium showed higher effectiveness
+Acid Yellow 17,Aspergillus flavus,300 mg/L,unknown,static,30°C,48 hours,7.0,4.6%,mycelium,Individual strain capability
+Disperse Blue 64,Aspergillus flavus and Pseudomonas aeruginosa,50 mg/L,unknown,static,30°C,48 hours,7.0,>99%,consortium,Two microorganisms used together
+Disperse Blue 64,Aspergillus flavus and Pseudomonas aeruginosa,300 mg/L,unknown,static,30°C,48 hours,7.0,55.2%,consortium,Two microorganisms used together
+Acid Yellow 17,Aspergillus flavus and Pseudomonas aeruginosa,50 mg/L,unknown,static,30°C,48 hours,7.0,>99%,consortium,Two microorganisms used together
+Acid Yellow 17,Aspergillus flavus and Pseudomonas aeruginosa,300 mg/L,unknown,static,30°C,48 hours,7.0,57.6%,consortium,Two microorganisms used together
+Methyl Red,Aspergillus flavus and Pseudomonas aeruginosa,50 µM,unknown,static,30°C,unknown,7.0,3.14 U/mg protein,consortium,Determining azoreductase specific activity
+Methyl Red,Pseudomonas aeruginosa,50 µM,unknown,static,30°C,unknown,7.0,0.92 U/mg protein,individual,Determining azoreductase specific activity

@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Phenol,Trametes versicolor,20% v/v,Not specified,Shaking,28°C,1 day,Not specified,Removed from solution,Whole fungi,Maximum removal rates achieved.
+p-cresol,Trametes versicolor,5% v/v,Not specified,Shaking,28°C,1 day,Not specified,Removed from solution,Whole fungi,Maximum removal rates achieved.
+m-cresol,Trametes versicolor,5% v/v,Not specified,Shaking,28°C,1 day,Not specified,Removed from solution,Whole fungi,Maximum removal rates achieved.
+o-cresol,Trametes versicolor,5% v/v,Not specified,Shaking,28°C,1 day,Not specified,Removed from solution,Whole fungi,Maximum removal rates achieved.
+Phenol,Trametes versicolor,13.8 mM,Not specified,Not specified,Not specified,Not specified,Not specified,Removed from solution,Whole fungi,Highest total removal reported.
+p-cresol,Trametes pubescens,6.25 mM,Not specified,Not specified,Not specified,Not specified,Not specified,Removed from solution,Whole fungi,Highest total removal reported.
+m-cresol,Trametes pubescens,6.7 mM,Not specified,Not specified,Not specified,Not specified,Not specified,Removed from solution,Whole fungi,Highest total removal reported.
+o-cresol,Trametes pubescens,87.65 mM,Not specified,Not specified,Not specified,Not specified,Not specified,Removed from solution,Whole fungi,Highest total removal reported.
+4-chlorophenol,Trametes pubescens,5.01 mM,Not specified,Not specified,Not specified,Not specified,Not specified,Decreased by 14.3%,Whole fungi,Treatment with crude laccase indicates selectivity.

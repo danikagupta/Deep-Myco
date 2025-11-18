@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Navitan Fast Blue S5R,Pseudomonas aeruginosa,100 mg/l,2×10^8 cells/ml,shaking,28°C,48 hours,not specified,complete degradation observed,whole fungi,"Degradation products were analyzed by TLC, HPLC, and GC-MS"
+Navitan Fast Blue S5R,Pseudomonas aeruginosa,100 mg/l,2×10^8 cells/ml,shaking,28°C,24 hours,not specified,74% of carbon converted to CO2,whole fungi,Presence of salicylic acid detected at 22.8 mg/l
+Navitan Fast Blue S5R,Pseudomonas aeruginosa,100 mg/l,2×10^8 cells/ml,shaking,28°C,48 hours,not specified,32.7 mg/l of peri acid detected,whole fungi,Peri acid detected and quantified after 48 hours
+Navitan Fast Blue S5R,Pseudomonas aeruginosa,100 mg/l,2×10^8 cells/ml,shaking,28°C,72 hours,not specified,disappearance of peri acid,whole fungi,Complete disappearance of peri acid after 72 hours
+Navitan Fast Blue S5R,Pseudomonas aeruginosa,100 mg/l,2×10^8 cells/ml,shaking,28°C,48 hours,not specified,Presence of aniline detected,whole fungi,Analyzed via HPLC and confirmed by standard aniline
+Navitan Fast Blue S5R,Pseudomonas aeruginosa,100 mg/l,2×10^8 cells/ml,shaking,28°C,48 hours,not specified,presence of b-ketoadipic acid suggested,whole fungi,Identified in GC-MS analysis

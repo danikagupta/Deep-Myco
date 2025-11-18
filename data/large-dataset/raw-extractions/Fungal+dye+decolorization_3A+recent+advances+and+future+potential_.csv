@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Congo red,A. niger,0.01%,not specified,stationary,25°C,10 days,not specified,74.07%,mycelium,
+Congo red,F. oxysporum,0.01%,not specified,stationary,25°C,10 days,not specified,78.9%,mycelium,
+Congo red,T. lignorum,0.01%,not specified,stationary,25°C,10 days,not specified,35.25%,mycelium,
+Crystal violet,A. niger,0.01%,not specified,stationary,25°C,10 days,not specified,33.82%,mycelium,
+Crystal violet,F. oxysporum,0.01%,not specified,stationary,25°C,10 days,not specified,53.4%,mycelium,
+Crystal violet,T. lignorum,0.01%,not specified,stationary,25°C,10 days,not specified,92.7%,mycelium,
+Methylene blue,A. niger,0.01%,not specified,stationary,25°C,10 days,not specified,22.44%,mycelium,
+Methylene blue,F. oxysporum,0.01%,not specified,stationary,25°C,10 days,not specified,48.5%,mycelium,
+Methylene blue,T. lignorum,0.01%,not specified,stationary,25°C,10 days,not specified,48.3%,mycelium,

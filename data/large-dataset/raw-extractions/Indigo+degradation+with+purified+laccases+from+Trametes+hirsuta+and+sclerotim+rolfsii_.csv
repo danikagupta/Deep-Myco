@@ -1,0 +1,19 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Congo red,A. niger,0.01%,N/A,stationary,25°C,10 days,N/A,74.07%,mycelium,
+Congo red,F. oxysporum,0.01%,N/A,stationary,25°C,10 days,N/A,78.9%,mycelium,
+Congo red,T. lignorum,0.01%,N/A,stationary,25°C,10 days,N/A,35.25%,mycelium,
+Crystal violet,T. lignorum,0.01%,N/A,stationary,25°C,10 days,N/A,92.7%,mycelium,
+Crystal violet,F. oxysporum,0.01%,N/A,stationary,25°C,10 days,N/A,53.4%,mycelium,
+Crystal violet,A. niger,0.01%,N/A,stationary,25°C,10 days,N/A,33.82%,mycelium,
+Methylene blue,T. lignorum,0.01%,N/A,stationary,25°C,10 days,N/A,48.3%,mycelium,
+Methylene blue,F. oxysporum,0.01%,N/A,stationary,25°C,10 days,N/A,48.5%,mycelium,
+Methylene blue,A. niger,0.01%,N/A,stationary,25°C,10 days,N/A,22.44%,mycelium,
+Congo red,A. niger,0.01%,N/A,shaking,25°C,10 days,N/A,87.5%,mycelium,highest under shaking conditions
+Congo red,F. oxysporum,0.01%,N/A,shaking,25°C,10 days,N/A,85.5%,mycelium,highest under shaking conditions
+Congo red,T. lignorum,0.01%,N/A,shaking,25°C,10 days,N/A,90.0%,mycelium,highest under shaking conditions
+Crystal violet,T. lignorum,0.01%,N/A,shaking,25°C,10 days,N/A,96.6%,mycelium,highest under shaking conditions
+Crystal violet,A. niger,0.01%,N/A,shaking,25°C,10 days,N/A,78.8%,mycelium,highest under shaking conditions
+Crystal violet,F. oxysporum,0.01%,N/A,shaking,25°C,10 days,N/A,56.1%,mycelium,highest under shaking conditions
+Methylene blue,T. lignorum,0.01%,N/A,shaking,25°C,10 days,N/A,85.2%,mycelium,highest under shaking conditions
+Methylene blue,F. oxysporum,0.01%,N/A,shaking,25°C,10 days,N/A,53.4%,mycelium,the least under shaking conditions
+Methylene blue,A. niger,0.01%,N/A,shaking,25°C,10 days,N/A,22.44%,mycelium,

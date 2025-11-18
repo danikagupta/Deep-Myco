@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+amido black,A. orientalis SY6,10 µg/ml,not specified,shaking,37°C,2 days,7.0,visible color change from blue to violet,mycelium,
+brilliant green,A. orientalis SY6,10 µg/ml,not specified,shaking,37°C,under 1 hour,7.0,decolorized to colorless derivatives,mycelium,
+crystal violet,strain SY6,30 µg/ml,not specified,shaking,37°C,not specified,7.0,unable to mineralize at this concentration,mycelium,
+crystal violet,combined clones (SlivCV2 + SlivCV4 + SlivCV6),10 µg/ml,not specified,shaking,37°C,3 days,7.0,complete mineralization,mycelium,
+combined triphenylmethane dyes,strain SY6,each dye at 10 µg/ml,not specified,none specified,37°C,not specified,7.0,successfully decolorized,mycelium,
+ammido black,strain SY6,not specified,not specified,shaking,37°C,not specified,not specified,detoxification indicated through CFU measurements,mycelium,detoxification test indicated
+quaternary ammonium dye,R. erythropolis,not specified,not specified,none specified,not specified,not specified,not specified,successful decolorization test,whole fungi,

@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Amido Black,Amycolatopsis orientalis SY6,10 µg/ml,Not specified,Shaking,30°C,7 days,Not specified,Positive,Whole fungi,Decolorization monitored on agar plates
+Brilliant Green,Amycolatopsis orientalis SY6,10 µg/ml,Not specified,Shaking,30°C,7 days,Not specified,Positive,Whole fungi,Decolorization monitored on agar plates
+Malachite Green,Amycolatopsis orientalis SY6,10 µg/ml,Not specified,Shaking,30°C,7 days,Not specified,Positive,Whole fungi,Decolorization monitored on agar plates
+Crystal Violet,Amycolatopsis orientalis SY6,10 µg/ml,Not specified,Shaking,30°C,7 days,Not specified,Positive,Whole fungi,Decolorization monitored on agar plates
+Combined Triphenylmethane dyes,Amycolatopsis orientalis SY6,10 µg/ml for each dye in the combination,Not specified,Shaking,30°C,Not specified,Not specified,Positive,Whole fungi,"Dyes included Crystal Violet, Brilliant Green, Basic Fuchsin and Malachite Green"

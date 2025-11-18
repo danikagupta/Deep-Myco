@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Crystal violet,Amycolatopsis orientalis,10 µg/ml,High cell density,Shaking,37°C,60 min.,7,Complete,Whole fungi,Decolorization monitored visually and at specific intervals
+Amido black,Amycolatopsis orientalis SY6,10 µg/ml,High cell density,Shaking,30°C,48 h,6.5,Visible reduction,Whole fungi,Addition of glucose increased decolorization
+Brilliant green,Amycolatopsis orientalis SY6,10 µg/ml,High cell density,Shaking,37°C,less than 1 h,7,Complete,Whole fungi,Color change from green to colorless
+Combined triphenylmethane dyes,Amycolatopsis orientalis SY6,10 µg/ml each,High cell density,Shaking,37°C,Not specified,7,Complete,Whole fungi,"Dyes included crystal violet, brilliant green, basic fuchsin, malachite green"
+Crystal violet,Rhodococcus erythropolis SQ1,10 µg/ml,High cell density,Shaking,37°C,60 min.,7,Similar to Amycolatopsis,Whole fungi,Identical Rf values on TLC as Amycolatopsis
+Combined dyes with other clones,Combined Rhodococcus and Mycobacterium clones,10 µg/ml,High cell density,Shaking,37°C,3 days,7,Complete,Whole fungi,Assessment of combined decolorization functionality

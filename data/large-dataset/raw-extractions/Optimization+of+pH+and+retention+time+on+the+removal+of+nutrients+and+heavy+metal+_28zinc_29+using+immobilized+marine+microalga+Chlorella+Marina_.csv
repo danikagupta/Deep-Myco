@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",additional information
+Methylene Blue,Desmodesmus sp.,20 mg.L-1,0.25 g.L-1,none stated,25 °C,6 days,6.8,98.6%,whole fungi,Maximum decolorization with immobilized algae observed.
+Methylene Blue,Desmodesmus sp.,5 mg.L-1,0.25 g.L-1,none stated,25 °C,8 days,6.8,95.7%,whole fungi,Compared with results at 20 mg.L-1.
+Methylene Blue,Desmodesmus sp.,20 mg.L-1,0.25 g.L-1,none stated,25 °C,8 days,6.8,71.6%,whole fungi,Observed lower efficiency compared to 5 mg.L-1.
+Malachite Green,Desmodesmus sp.,5 mg.L-1,0.25 g.L-1,none stated,25 °C,8 days,6.8,63.2%,whole fungi,Free state observed lower efficiency than immobilized state.
+Malachite Green,Desmodesmus sp.,20 mg.L-1,0.25 g.L-1,none stated,25 °C,8 days,6.8,89.1%,whole fungi,Best removal efficiency at this concentration.

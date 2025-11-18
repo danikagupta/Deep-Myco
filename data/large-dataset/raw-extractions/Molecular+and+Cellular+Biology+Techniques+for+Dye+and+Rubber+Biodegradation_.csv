@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+amido black,A. orientalis SY6,10 µg/ml,N/A,shaking,30°C,under 2 days,N/A,significant color change from blue to violet,mycelial,visual observation of decolorization
+crystal violet,A. orientalis SY6,10 µg/ml,N/A,liquid broth,37°C,less than 1 hour,N/A,colorless derivatives,mycelial,photographs showing color change
+crystal violet,A. orientalis SY6,30 µg/ml,N/A,liquid culture,N/A,N/A,N/A,struggled to mineralize,mycelial,10 minute intervals of monitoring
+combined triphenylmethane dyes,A. orientalis SY6,10 µg/ml each,N/A,revived interactions,N/A,N/A,N/A,66% decolorization,mycelial,visual representation of combination
+crystal violet,"SlivCV2, SlivCV4, SlivCV6",10 µg/ml,combined clones,liquid assay,37°C,N/A,6.5,complete mineralization of dye,mycelial,introduction of clones into various media
+triphenylmethane dyes,R. erythropolis SQ1,10 µg/ml,transformed SQ1,liquid culture,37°C,N/A,N/A,specific sulfonated dyes decolorized,whole fungi,each dye incorporated under controlled conditions
+crystal violet,M. smegmatis mc2 155,10 µg/ml,transformed clones,liquid culture,37°C,N/A,N/A,complete mineralization of dye,whole fungi,comparison of different bacterial strains

@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Methyl Red,Enterococcus faecalis,0.5 mM,N/A,gentle shaking,room temperature,10 minutes,7.5,Yes,N/A,Assay was done using NADH and NADPH.
+Methyl Red,Enterococcus faecalis,20 µM,N/A,N/A,25°C,2 minutes,7.2,Yes,N/A,Quantitative assay conducted with NADPH.
+Methyl Red,Enterococcus faecalis,20 µM,N/A,N/A,25°C,N/A,7.0,No,N/A,No azoreductase activity observed with control.
+Methyl Red,Enterococcus faecalis,N/A,N/A,N/A,4°C,N/A,N/A,Yes,N/A,Mobility of the clearing zone calculated.

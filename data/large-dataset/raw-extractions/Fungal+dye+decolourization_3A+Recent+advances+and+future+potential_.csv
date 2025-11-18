@@ -1,0 +1,4 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Malachite Green,Pseudopestalotiopsis theae,100 ppm,0.5 g,shaking,25 ± 2 °C,14 days,,89.22%,mycelium,Decolorization peaked by day 14
+Malachite Green,Trichoderma asperellum,100 ppm,0.5 g,shaking,25 ± 2 °C,14 days,,76.19%,mycelium,Decolorization peaked by day 4
+Malachite Green,Astrocystis bambusae,100 ppm,0.5 g,shaking,25 ± 2 °C,14 days,,67.69%,mycelium,Decolorization peaked by day 5

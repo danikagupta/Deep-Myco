@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Flame Orange,Pycnoporus cinnabarinus,200 mg/l,1 U/ml,stirring,20°C,1h,7.0,1.46%,fungal mass,Complete decolorization not observed.
+Ruby Red,Pycnoporus cinnabarinus,200 mg/l,1 U/ml,stirring,20°C,1h,7.0,13.70%,fungal mass,Complete decolorization not observed.
+Flame Orange,Nematoloma frowardii,200 mg/l,1 U/ml,stirring,20°C,1h,7.0,6.6%,fungal mass,Complete decolorization not observed.
+Ruby Red,Nematoloma frowardii,200 mg/l,1 U/ml,stirring,20°C,1h,7.0,31.62%,fungal mass,Complete decolorization not observed.
+Flame Orange,Agrocybe aegerita,200 mg/l,1 U/ml,stirring,20°C,1h,7.0,conversion not fully specified,fungal mass,Complete decolorization not observed.
+Ruby Red,Agrocybe aegerita,200 mg/l,1 U/ml,stirring,20°C,1h,7.0,48%,fungal mass,Complete decolorization not observed.

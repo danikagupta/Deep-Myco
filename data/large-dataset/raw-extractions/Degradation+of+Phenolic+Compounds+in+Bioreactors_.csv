@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+phenol,Alicyclobacillus acidocaldarius,0.52 mM,not specified,shaking at 120 rpm,60 °C,24 h,4.0,0.18 ± 0.03 mM,whole fungi,Copper concentration: 0 μM
+phenol,Alicyclobacillus acidocaldarius,0.52 mM,not specified,shaking at 120 rpm,60 °C,6 h,4.0,0.10 ± 0.02 mM,whole fungi,Copper concentration: 100 μM
+ferulic acid,Alicyclobacillus acidocaldarius,0.50 mM,not specified,shaking at 120 rpm,60 °C,48 h,4.0,0.29 ± 0.01 mM,whole fungi,Copper concentration: 100 μM
+ρ-coumaric acid,Alicyclobacillus acidocaldarius,not specified,not specified,shaking at 120 rpm,60 °C,48 h,4.0,not specified,whole fungi,Copper concentration: 100 μM
+sinapinic acid,Alicyclobacillus acidocaldarius,not specified,not specified,shaking at 120 rpm,60 °C,48 h,4.0,not specified,whole fungi,Copper concentration: 100 μM
+phenol,Alicyclobacillus acidocaldarius,5 mM,not specified,shaking at 120 rpm,60 °C,24 h,4.0,0.95 ± 0.20 mM,whole fungi,Copper concentration: 50 μM
+ferulic acid,Alicyclobacillus acidocaldarius,250-750 μM,not specified,shaking at 120 rpm,60 °C,36 to 72 h,4.0,25-50% degradation,whole fungi,Copper concentration: 50 μM
+ρ-coumaric acid,Alicyclobacillus acidocaldarius,250-750 μM,not specified,shaking at 120 rpm,60 °C,36 to 72 h,4.0,25-50% degradation,whole fungi,Copper concentration: 50 μM
+sinapinic acid,Alicyclobacillus acidocaldarius,250-750 μM,not specified,shaking at 120 rpm,60 °C,36 to 72 h,4.0,25-50% degradation,whole fungi,Copper concentration: 50 μM

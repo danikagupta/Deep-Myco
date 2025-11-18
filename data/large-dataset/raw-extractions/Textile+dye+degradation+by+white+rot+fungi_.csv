@@ -1,0 +1,19 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Congo red,A. niger,0.01% (w/v),mycelial agar plug (~5 mm²),stationary,25°C,10 days,not specified,74.07%,mycelium,Results obtained through liquid medium method.
+Congo red,F. oxysporum,0.01% (w/v),mycelial agar plug (~5 mm²),stationary,25°C,10 days,not specified,78.9%,mycelium,Results obtained through liquid medium method.
+Congo red,T. lignorum,0.01% (w/v),mycelial agar plug (~5 mm²),stationary,25°C,10 days,not specified,35.25%,mycelium,Results obtained through liquid medium method.
+Crystal violet,A. niger,0.01% (w/v),mycelial agar plug (~5 mm²),stationary,25°C,10 days,not specified,33.82%,mycelium,Results obtained through liquid medium method.
+Crystal violet,F. oxysporum,0.01% (w/v),mycelial agar plug (~5 mm²),stationary,25°C,10 days,not specified,53.4%,mycelium,Results obtained through liquid medium method.
+Crystal violet,T. lignorum,0.01% (w/v),mycelial agar plug (~5 mm²),stationary,25°C,10 days,not specified,92.7%,mycelium,Results obtained through liquid medium method.
+Methylene blue,A. niger,0.01% (w/v),mycelial agar plug (~5 mm²),stationary,25°C,10 days,not specified,22.44%,mycelium,Results obtained through liquid medium method.
+Methylene blue,F. oxysporum,0.01% (w/v),mycelial agar plug (~5 mm²),stationary,25°C,10 days,not specified,48.5%,mycelium,Results obtained through liquid medium method.
+Methylene blue,T. lignorum,0.01% (w/v),mycelial agar plug (~5 mm²),stationary,25°C,10 days,not specified,48.3%,mycelium,Results obtained through liquid medium method.
+Congo red,A. niger,0.01% (w/v),mycelial agar plug (~5 mm²),shaking,25°C,10 days,not specified,91.4%,mycelium,Results obtained through liquid medium method.
+Congo red,F. oxysporum,0.01% (w/v),mycelial agar plug (~5 mm²),shaking,25°C,10 days,not specified,84.7%,mycelium,Results obtained through liquid medium method.
+Congo red,T. lignorum,0.01% (w/v),mycelial agar plug (~5 mm²),shaking,25°C,10 days,not specified,90.2%,mycelium,Results obtained through liquid medium method.
+Crystal violet,A. niger,0.01% (w/v),mycelial agar plug (~5 mm²),shaking,25°C,10 days,not specified,78.8%,mycelium,Results obtained through liquid medium method.
+Crystal violet,F. oxysporum,0.01% (w/v),mycelial agar plug (~5 mm²),shaking,25°C,10 days,not specified,56.1%,mycelium,Results obtained through liquid medium method.
+Crystal violet,T. lignorum,0.01% (w/v),mycelial agar plug (~5 mm²),shaking,25°C,10 days,not specified,96.6%,mycelium,Results obtained through liquid medium method.
+Methylene blue,A. niger,0.01% (w/v),mycelial agar plug (~5 mm²),shaking,25°C,10 days,not specified,22.44%,mycelium,Results obtained through liquid medium method.
+Methylene blue,F. oxysporum,0.01% (w/v),mycelial agar plug (~5 mm²),shaking,25°C,10 days,not specified,53.4%,mycelium,Results obtained through liquid medium method.
+Methylene blue,T. lignorum,0.01% (w/v),mycelial agar plug (~5 mm²),shaking,25°C,10 days,not specified,85.2%,mycelium,Results obtained through liquid medium method.

@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Amido Black,A. orientalis,10 µg/ml,not specified,shaking,30°C,48 hours,7.0,complete decolorization,mycelial,Experimental results indicate clear zones on plates.
+Amido Black,A. orientalis,30 µg/ml,not specified,shaking,30°C,48 hours,7.0,struggled to mineralize,mycelial,Visible color change from blue to violet.
+Brilliant Green,A. orientalis,10 µg/ml,not specified,shaking,30°C,1 hour,7.0,complete decolorization,mycelial,Decolorization observed in brief time.
+Combined Triphenylmethane Dyes,A. orientalis,10 µg/ml each,not specified,shaking,37°C,not specified,7.0,complete mineralization,mycelial,Dyes included clear color change in the presence of multiple strains.
+Crystal Violet,Strain SY6,10 µg/ml,not specified,liquid culture,37°C,not specified,not specified,high efficiency decolorization,mycelial,Rapid degradation with specific dyes.
+Crystal Violet,Strain SY6,10 µg/ml,not specified,not specified,not specified,60 min,7.0,complete,mycelial,Thin layer chromatography showed degradation products.
+Biebrich Scarlet,A. orientalis,10 µg/ml,not specified,shaking,not specified,not specified,not specified,complete decolorization,mycelial,Decolorization by strain shown.

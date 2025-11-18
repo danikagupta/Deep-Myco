@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Flame Orange,Bacillus cereus,200 μg/ml,1 U/ml,rotary shaker,38°C,15 min,7.0,Complete decolorization,whole fungi,UV-visible spectroscopy used for detection
+Ruby Red,Bacillus cereus,200 μg/ml,1 U/ml,rotary shaker,38°C,15 min,7.0,Complete decolorization,whole fungi,UV-visible spectroscopy used for detection
+Indigo Carmine,Bacillus cereus,Not specified,1 U/ml,Not specified,Not specified,1 h,Not specified,Color change from blue to yellow indicating reduction,whole fungi,"NADH required for reduction, oxidized back with H2O2"
+Cibacrone Marine,Bacillus cereus,100 mg/l,Not specified,Not specified,Not specified,Not specified,7.0,Not specified,whole fungi,Enzyme activity monitored spectrophotometrically

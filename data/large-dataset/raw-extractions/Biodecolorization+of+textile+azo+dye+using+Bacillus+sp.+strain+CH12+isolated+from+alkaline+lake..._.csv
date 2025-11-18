@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Acid Maroon V,Enterobacter dissolvens,100 mg l-1,10% (v/v) inoculum of 0.5 OD 600,static,30 °C,not specified,7 ± 0.2,119.34 ± 7.4 U ml-1,N/A,Part of the kinetic study; azoreductase activity noted
+Acid Maroon V,Pseudomonas aeruginosa,100 mg l-1,10% (v/v) inoculum of 0.5 OD 600,static,30 °C,not specified,7 ± 0.2,51.58 ± 2.8 U ml-1,N/A,Part of the kinetic study; azoreductase activity noted
+Methyl Red,Enterobacter dissolvens,24 µM,not specified,not specified,30 °C,4 min pre-incubation,7,287.07 ± 12 U ml-1,N/A,Best substrate for azoreductase; assessed after pre-incubation
+Methyl Red,Pseudomonas aeruginosa,24 µM,not specified,not specified,30 °C,4 min pre-incubation,7,205.33 ± 8 U ml-1,N/A,Best substrate for azoreductase; assessed after pre-incubation
+Methyl Red,Enterobacter dissolvens,24 µM,not specified,not specified,varied (0.1 to 2 mM NADH),not specified,7,maximum enzyme activity at 1 mM NADH: 318.57 ± 4.8 U ml-1,N/A,NADH was the most suitable electron donor
+Methyl Red,Pseudomonas aeruginosa,24 µM,not specified,not specified,varied (0.1 to 2 mM NADH),not specified,7,maximum enzyme activity at 1 mM NADH: 169.34 ± 3.4 U ml-1,N/A,NADH was the most suitable electron donor

@@ -1,0 +1,4 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Methyl Red,Enterococcus faecalis,0.5 mM,Not specified,gentle shaking,room temperature,10 min,7.5,zone of clearing observed,whole fungi,Protein band identified as AzoA using mass spectrometry.
+Methyl Red,Enterococcus faecalis,20 µM,1-800 µg enzyme,not specified,25°C,2 min,7.2,Methyl Red reduced,whole fungi,"The reaction initiated by adding NADPH, absorbance at 430 nm measured."
+Methyl Red,Enterococcus faecalis,20 µM,NADH concentration ranged from 10-80 µM,not specified,not specified,not specified,not specified,Relative kinetic parameters determined,whole fungi,Observed catalytic efficiency was reported.

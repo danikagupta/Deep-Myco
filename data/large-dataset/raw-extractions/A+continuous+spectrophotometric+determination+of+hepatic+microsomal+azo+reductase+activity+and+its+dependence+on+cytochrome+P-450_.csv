@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",additional information
+4-(4'-sulfophenylazo)-phenol,Phanerochaete chrysosporium,50 µM,N/A,N/A,25°C,N/A,6.0,Yes,whole fungi,Tested with horseradish peroxidase (HRP)
+2-(4'-sulfophenylazo)-phenol,Phanerochaete chrysosporium,50 µM,N/A,N/A,25°C,N/A,6.0,No,whole fungi,Not oxidized by peroxidases
+4-(4'-sulfophenylazo)-phenol,whole fungi,N/A,N/A,shaking,25°C,N/A,N/A,Yes,whole fungi,Fenton reagent used
+2-(4'-sulfophenylazo)-phenol,N/A,200 µM,N/A,N/A,25°C,10 min,7.0,N/A,N/A,Tested with Fenton's reagent
+Orange II,N/A,100 µM,N/A,shaking,25°C,10 min,7.0,Yes,N/A,Reduced by zero-valent iron
+Commercial azo dyes,N/A,50 pM,N/A,N/A,25°C,1 hour,4.0,Yes,N/A,Reduction by NADH
+Variety of azo dyes,N/A,200 pM,N/A,shaking,25°C,10 min,7.0,Yes,N/A,Reaction monitored via absorbance
+Orange II,N/A,200 µM,N/A,N/A,25°C,10 min,2.5,Yes,N/A,Enhanced by KNO3

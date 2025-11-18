@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+4-(4'-sulfopheny1azo)-phenol,Phanerochaete chrysosporium,Variable,Not applicable,Not specified,25°C,Not specified,6.0,High oxidation rates with electron-donating substituents,Whole fungi,"Examined using horseradish peroxidase, manganese peroxidase, lignin peroxidase."
+2-(4'-sulfopheny1azo)-phenol,Phanerochaete chrysosporium,Variable,Not applicable,Not specified,25°C,Not specified,4.5,Poor substrates for peroxidases,Whole fungi,All tested dyes were poor substrates.
+Orange I,Not applicable,200 µM,Not applicable,Not specified,25°C,10 min,2.5,Complete oxidation,Not applicable,Oxidation and generation of sulfanilic acid confirmed.
+Orange II,Not applicable,200 µM,Not applicable,Not specified,25°C,10 min,7.0,90% reduction by Fenton's reagent,Not applicable,"In the presence of potassium nitrate, 49% increase in oxidation observed."
+Crocein Orange G,Not applicable,Variable up to 3 mM,Not applicable,Shaking,Room temperature,Not specified,7.0,First-order kinetics observed,Not applicable,Decolorization rates proportional to mixing rates.
+4-Hydroxyazobenzene,Not applicable,50 µM,Not applicable,Not specified,25°C,40 min,3.5,Reduction products include aniline,Not applicable,Identified intermediate products through GC-MS.
+Commercial azo dyes (various),Not applicable,60 pM to 3 mM,Not applicable,Orbital shaking,Room temperature,Variable,7.0,First-order kinetics observed with various rates,Not applicable,Effect of surface area and initial dye concentrations analyzed.

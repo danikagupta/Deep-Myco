@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+amido black,A. orientalis,10 µg/ml,not specified,shaking,30°C,under 2 days,not specified,distinct color change from blue to violet,whole fungi,Prolonged incubation showed struggle to mineralize above 30 µg/ml.
+brilliant green,A. orientalis,10 µg/ml,not specified,shaking,not specified,under 1 hour,not specified,decolorized to colorless derivatives,whole fungi,Fast decolorization observed.
+congo red,not specified,not specified,not specified,not specified,not specified,not specified,not specified,test host did not decolorize,not applicable,No decolorization indicated.
+crystal violet,S. lividans,10 µg/ml,not specified,not specified,not specified,not specified,not specified,detected clones can degrade,whole fungi,3 clones isolated displaying resistance.
+amido black,combined SlivCV clones,10 µg/ml,not specified,not specified,not specified,3 days,not specified,complete mineralization,whole fungi,Combination of three clones needed for effective breakdown.
+bacterial unknown,whole fungi from consortium,not specified,not specified,not specified,not specified,not specified,not specified,enhanced degradation,whole fungi,Used in conjunction with different bacterial strains.
+crystal violet,R. erythropolis,10 µg/ml,not specified,not specified,37°C,3 days,7.0,not effective compared to SY6,whole fungi,Expression of gene had varied results when transformed into other hosts.
+combined triphenylmethane dyes,combined clones,10 µg/ml for each dye,not specified,not specified,37°C,3 days,not specified,complete mineralization observed,whole fungi,"Dyes included crystal violet, brilliant green, basic fuchsin, malachite green."

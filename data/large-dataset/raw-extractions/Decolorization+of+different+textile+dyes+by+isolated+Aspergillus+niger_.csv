@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Reactive yellow (4GL),Aspergillus niger D2-1,100 ppm,3 discs (each 0.7 mm),shaking,room temperature,7 days,9.0,98.62%,whole fungi,Maximum absorption at ~ 425 nm; complete disappearance of peak indicates degradation.
+Reactive red (4BL),Aspergillus niger D2-1,100 ppm,3 discs (each 0.7 mm),shaking,room temperature,7 days,9.0,92.42%,whole fungi,Maximum absorption at ~ 520 nm; complete disappearance of peak indicates degradation.
+Reactive yellow (4GL),Aspergillus niger D2-1,50 ppm,3 discs (each 0.7 mm),shaking,room temperature,6 days,9.0,67.68%,whole fungi,Data expressed as mean values of three replicates.
+Reactive yellow (4GL),Aspergillus niger D2-1,200 ppm,3 discs (each 0.7 mm),shaking,room temperature,6 days,9.0,4.08%,whole fungi,Data expressed as mean values of three replicates.
+Reactive red (4BL),Aspergillus niger D2-1,200 ppm,3 discs (each 0.7 mm),shaking,room temperature,6 days,9.0,4.95%,whole fungi,Data expressed as mean values of three replicates.
+Reactive yellow (4GL),Aspergillus niger D2-1,350 ppm,3 discs (each 0.7 mm),shaking,room temperature,6 days,9.0,0.01%,whole fungi,Data expressed as mean values of three replicates.
+Textile wastewater,Aspergillus niger D2-1,varies,not specified,not specified,not specified,7 days,9.1,59%,whole fungi,Physico-chemical characteristics showed significant reduction.

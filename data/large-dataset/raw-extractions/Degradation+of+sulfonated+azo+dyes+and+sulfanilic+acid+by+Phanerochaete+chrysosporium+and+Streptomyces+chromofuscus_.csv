@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+4-(4'-sulfophenylazo)-phenol,Phanerochaete chrysosporium,50 µM,Not applicable,Shaking,Room temperature,1 hour,6.0,"Yes, significant",Whole fungi,Oxidized by peroxidases.
+2-(4'-sulfophenylazo)-phenol,Phanerochaete chrysosporium,50 µM,Not applicable,Shaking,Room temperature,1 hour,6.0,"No, poor substrate",Whole fungi,Not oxidized by peroxidases.
+Orange II,None,200 µM,Not applicable,Shaking,Room temperature,10 minutes,7.0,90.2%,Not applicable,Reduced by FeO.
+Orange I,None,200 µM,Not applicable,Shaking,Room temperature,10 minutes,7.0,Average 90%,Not applicable,Reduced by zero-valent iron.
+Crocein Orange G,None,300 µM,Not applicable,Shaking,Room temperature,Up to 10 minutes,7.0,"Yes, significant",Not applicable,Kinetics were first-order.
+4-hydroxyazobenzene,None,50 µM,Not applicable,Shaking,25°C,15 minutes,4.0,Not applicable,Not applicable,Identified products included aniline derivative.
+Acid Blue 113,None,60 µM,Not applicable,Shaking,Room temperature,2 hours,7.0,"Yes, significant",Not applicable,Kinetics showed first-order behavior.

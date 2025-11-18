@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Amido Black,Amycolatopsis orientalis SY6,10 µg/ml,not specified,shaking,30°C,2 days,not specified,visible color change from blue to violet,mycelial,Saw improvement in decolorization with glucose supplementation.
+Crystal Violet,Amycolatopsis orientalis SY6,10 µg/ml,not specified,shaking,37°C,1 hour,not specified,decolorized to colorless derivatives,mycelial,Control showed no decolorization.
+Combined Triphenylmethane Dyes (Crystal Violet + Brilliant Green + Basic Fuchsin + Malachite Green),Amycolatopsis orientalis SY6,10 µg/ml for each dye,not specified,shaking,37°C,3 days,not specified,66% decolorization,mycelial,All dyes decolorized without affecting each other.
+Crystal Violet,Streptomyces lividans,10 µg/ml,not specified,shaking,30°C,not specified,not specified,partial decolorization,mycelial,Yellow-colored supernatant observed.
+Amido Black,Streptomyces lividans,10 µg/ml,not specified,not specified,not specified,not specified,not specified,partial decolorization,mycelial,Limited to known conditions specific to this fungi.
+Various Dyes,Streptomyces lividans,10 µg/ml,not specified,shaking,not specified,varied by dye,not specified,dependent on which dye and conditions but some achieved full decolorization,mycelial,Attached dyes on cell wall.

@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Amido Black,A. orientalis SY6,10 µg/ml,High cell density,Shaking,30°C,Under 2 days,7,Distinct color change from blue to violet,Mycelial,None
+Brilliant Green,A. orientalis SY6,10 µg/ml,High cell density,Shaking,30°C,Under 1 hour,7,Decolorized to colorless derivatives,Mycelial,None
+Crystal Violet,A. orientalis SY6,30 µg/ml,High cell density,Shaking,30°C,Under 2 days,7,Struggled to mineralize the dye,Mycelial,Visual analysis conducted
+Crystal Violet,A. orientalis SY6,10 µg/ml,High cell density,Shaking,30°C,60 min.,7,Complete elimination observed,Mycelial,Measured via TLC
+Azo Dye (Amido Black),A. orientalis SY6,10 µg/ml,High cell density,Shaking,30°C,2 hours,7,Clear zone formation,Mycelial,Supplemented with glucose (0.25%)
+Congo Red,A. orientalis SY6,10 µg/ml,High cell density,Shaking,30°C,2 hours,7,Rapid decolorization observed,Mycelial,Cell assays monitored
+Brilliant Green,A. orientalis SY6,10 µg/ml,High cell density,Shaking,30°C,1 hour,7,100% decolorization,Mycelial,Physical examination and TLC used
+Combined Triphenylmethane Dyes,A. orientalis SY6,10 µg/ml each,High cell density,Shaking,30°C,3 days,7,Complete biodegradation,Mycelial,Tested concurrently
+Amido Black,SY6 + live S. coelicolor,Varies,High density,Shaking,30°C,Variable,7,Successful union with no inhibition,Mycelial,Significance noted when combined in consortia analysis

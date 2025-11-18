@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Reactive yellow (4GL),Aspergillus niger D2-1,100 ppm,3 discs (7 mm),shaking,room temperature,7 days,9.0,98.62 %,fungal mass,UV-Vis spectrum analysis showed complete disappearance of peaks at ~425 nm
+Reactive red (4BL),Aspergillus niger D2-1,100 ppm,3 discs (7 mm),shaking,room temperature,7 days,9.0,92.42 %,fungal mass,UV-Vis spectrum analysis showed complete disappearance of peaks at ~520 nm
+Reactive yellow (4GL),Aspergillus niger D2-1,50 ppm,3 discs (7 mm),shaking,room temperature,6 days,9.0,67.68 %,fungal mass,
+Reactive yellow (4GL),Aspergillus niger D2-1,100 ppm,3 discs (7 mm),shaking,room temperature,6 days,9.0,42.14 %,fungal mass,
+Reactive yellow (4GL),Aspergillus niger D2-1,150 ppm,3 discs (7 mm),shaking,room temperature,6 days,9.0,10.19 %,fungal mass,
+Reactive red (4BL),Aspergillus niger D2-1,50 ppm,3 discs (7 mm),shaking,room temperature,6 days,9.0,54.84 %,fungal mass,
+Reactive red (4BL),Aspergillus niger D2-1,100 ppm,3 discs (7 mm),shaking,room temperature,6 days,9.0,29.74 %,fungal mass,
+Textile wastewater,Aspergillus niger D2-1,Not specified,3 discs (7 mm),Not specified,Not specified,7 days,Not specified,59 %,fungal mass,Physico-chemical characteristics of wastewater were analyzed

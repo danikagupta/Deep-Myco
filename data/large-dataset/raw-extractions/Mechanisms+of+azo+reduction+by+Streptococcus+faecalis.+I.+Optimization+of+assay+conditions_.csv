@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Methyl Red,Enterococcus faecalis,20 µM,N/A,shaking (aerobic),37°C,3 hours,7.0,Completed,whole fungi,Highest rate of reduction observed.
+Tartrazine,Enterococcus faecalis,20 µM,N/A,shaking (aerobic),37°C,40 min,7.0,Completed,whole fungi,Reduce rate affected by the environmental factors.
+Direct Blue 15,Enterococcus faecalis,20 µM,N/A,shaking (aerobic),37°C,4 hours,7.0,75% reduction,whole fungi,Incompletely reduced; longer duration required.
+Methyl Red,Enterococcus faecalis,20 µM,N/A,no shaking (anaerobic),37°C,20 min,7.0,Completed,whole fungi,No control reduction.
+Tartrazine,Enterococcus faecalis,20 µM,N/A,no shaking (anaerobic),37°C,28 hours,7.0,80% reduction,whole fungi,Extended time required compared to BHIS.
+Direct Blue 15,Bacteroides stercoris,25 µM,N/A,no shaking (anaerobic),37°C,6 hours,7.0,20% reduction,whole fungi,Observed reduction limited; control test performed.

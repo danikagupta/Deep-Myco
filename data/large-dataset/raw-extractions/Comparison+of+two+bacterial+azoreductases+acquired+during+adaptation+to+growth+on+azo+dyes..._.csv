@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Methyl Orange,Candida zeylanoides,0.2 mM,unknown,shaking,26°C,40 h,varied,complete decolorization,whole fungi,
+Orange II,Candida zeylanoides,0.2 mM,unknown,shaking,26°C,60 h,varied,complete decolorization,whole fungi,
+C.I. Reactive Black 5,unknown bacterial consortium,unknown,unknown,unknown,55°C,unknown,9,91.5 ± 1.3% color removal,bacterial consortium,COD removal was 89.0 ± 0.4%
+unknown,Issatchenkia occidentalis,0.2 mM,unknown,shaking,26°C,15 h,acidic,>80% color removal,whole fungi,essentially under microaerophilic conditions
+unknown,Saccharomyces cerevisiae,0.2 mM,unknown,shaking,26°C,8.5 h,varied,complete decolorization,whole fungi,FRE1 is a major component of the azo reductase activity
+1-amino-2-naphthol,Issatchenkia occidentalis,0.5 mM,unknown,unknown,unknown,unknown,5.2 ± 0.2,can be used as carbon and nitrogen source,unknown,carbon and nitrogen source
+"N,N-dimethyl-p-phenylenediamine",Issatchenkia occidentalis,0.5 mM,unknown,unknown,unknown,unknown,unknown,can be used as nitrogen source,unknown,
+unknown,Saccharomyces cerevisiae,0.2 mM,unknown,shaking,unknown,15 h,unknown,max specific activity of 3.2 µmol/h/g,whole fungi,ferric reductase activity

@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+crystal violet,Amycolatopsis orientalis,10 µg/ml,not specified,shaking,30°C,5 min,not specified,dramatic decrease in intensity observed,whole fungi,TLC used to monitor results
+crystal violet,Amycolatopsis orientalis,30 µg/ml,not specified,shaking,30°C,30 min,not specified,no decolorization beyond this concentration,whole fungi,TLC showed reduction of dye bands
+combined triphenylmethane dyes,Amycolatopsis orientalis,10 µg/ml each,not specified,shaking,not specified,not specified,not specified,decolorized effectively,whole fungi,tested with amido black and janus green
+crystal violet,Mycobacterium smegmatis,not specified,not specified,not specified,not specified,not specified,not specified,close to that of strain SY6,whole fungi,Similar Rf values observed
+crystal violet,Rhodococcus erythropolis,not specified,not specified,not specified,not specified,not specified,not specified,close to that of strain SY6,whole fungi,Similar Rf values observed
+crystal violet,Rhodococcus opacus,not specified,not specified,not specified,not specified,not specified,not specified,capable of decolorization,whole fungi,Similar Rf pattern comparison
+crystal violet,Gordonia rubripertincta,not specified,not specified,not specified,not specified,not specified,not specified,capable of decolorization,whole fungi,Similar Rf patterns observed
+crystal violet,Streptomyces lividans,not specified,not specified,not specified,not specified,not specified,not specified,not a decolorizer,whole fungi,used as a host for genetic work

@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Amido Black,Amycolatopsis orientalis,10 µg/ml,0.25%,shaking,30°C,under 2 days,not specified,distinct color change from blue to violet,mycelial,Used liquid culture to monitor color change.
+Brilliant Green,Amycolatopsis orientalis,10 µg/ml,0.25%,shaking,30°C,under 1 hour,not specified,decolorized to colorless derivatives,mycelial,Rapid decolorization observed.
+Combined Triphenylmethane Dyes,Amycolatopsis orientalis,10 µg/ml each,0.25%,shaking,30°C,not specified,not specified,decolorized effectively,mycelial,Included various combinations; effective decolorization observed.
+Crystal Violet,Amycolatopsis orientalis,30 µg/ml,0.25%,shaking,30°C,not specified,not specified,struggled to mineralize,mycelial,Readings show reduced activity on increasing concentration.
+Crystal Violet,S. lividans TK23,10 µg/ml,not specified,not specified,not specified,not specified,not specified,zone of clearing,not specified,Clone carrying azo dye decolorizing gene fragment.

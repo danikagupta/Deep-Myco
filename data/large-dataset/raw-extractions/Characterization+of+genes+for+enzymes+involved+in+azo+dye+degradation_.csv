@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Amido black,A. orientalis SY6,10 µg/ml,Not specified,Shaking,37°C,Under 48 hours,Not specified,Not specified,Mycelial mass,Combined with other dyes showed decolorization
+Crystal violet,A. orientalis SY6,10 µg/ml,Not specified,Static,37°C,Under 1 hour,Not specified,Color changed from blue to violet,Mycelial mass,Rapid decolorization was observed
+Brilliant green,A. orientalis SY6,10 µg/ml,Not specified,Static,37°C,Under 1 hour,Not specified,Completely decolorized,Mycelial mass,Colorless derivative produced
+Malachite green,A. orientalis SY6,10 µg/ml,Not specified,Static,37°C,Not specified,Not specified,Completely decolorized,Mycelial mass,Colorless derivative produced
+Basic fuchsin,A. orientalis SY6,10 µg/ml,Not specified,Static,37°C,Not specified,Not specified,Completely decolorized,Mycelial mass,Colorless derivative produced
+Crystal violet,R. erythropolis SQ1,10 µg/ml,Not specified,Static,Not specified,60 min,Not specified,Yes,Not specified,Fungus previously known to degrade dye
+"Combined (crystal violet, brilliant green, basic fuchsin, malachite green)","Combined clones (SlivCV2, SlivCV4, SlivCV6)",10 µg/ml each,Not specified,Static,37°C,3 days,7.0,Complete mineralization,Not specified,All strains together required for mineralization
+Amido black,SQ1CV clone,Not specified,Not specified,Static,Not specified,Not specified,Not specified,Yes,Not specified,Notable presence of multiple attempts
+Congo red,SQ1CV clone,Not specified,Not specified,Static,Not specified,Not specified,Not specified,No,Not specified,Attached to cell wall

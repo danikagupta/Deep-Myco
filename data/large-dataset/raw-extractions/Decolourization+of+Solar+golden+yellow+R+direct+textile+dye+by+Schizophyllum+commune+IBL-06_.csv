@@ -1,0 +1,13 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Ponceau 2R,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static,varied,10,not specified,complete degradation,mycelium,degraded in nitrogen-limiting conditions
+Orange G,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static,varied,7,not specified,complete degradation,mycelium,degraded in nitrogen-limiting conditions
+Direct Blue 71,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static,varied,12,not specified,complete degradation,mycelium,degraded in nitrogen-limiting conditions
+Biebrich Scarlet,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static,varied,12,not specified,complete degradation,mycelium,degraded in nitrogen-limiting conditions
+Ponceau 2R,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static,20°C,>21,5.0,incomplete degradation,mycelium,used under nitrogen-sufficient conditions
+Orange G,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static,20°C,>21,5.0,incomplete degradation,mycelium,used under nitrogen-sufficient conditions
+Direct Blue 71,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static,20°C,>21,5.0,incomplete degradation,mycelium,used under nitrogen-sufficient conditions
+Biebrich Scarlet,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static,20°C,>21,5.0,incomplete degradation,mycelium,used under nitrogen-sufficient conditions
+Ponceau 2R,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static,30°C,40,4.5,56.0% degradation,mycelium,initial pH affects degradation rate
+Orange G,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static,30°C,52.6,4.5,58.5% degradation,mycelium,initial pH affects degradation rate
+Direct Blue 71,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static,30°C,32.6,4.5,70.6% degradation,mycelium,initial pH affects degradation rate
+Biebrich Scarlet,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static,30°C,65.6,4.5,60.0% degradation,mycelium,initial pH affects degradation rate

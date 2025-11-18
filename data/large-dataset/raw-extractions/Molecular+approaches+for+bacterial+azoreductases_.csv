@@ -1,0 +1,11 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Reactive Violet 5R,Enterococcus sp. L2,100 mg/L,N/A,static,40 °C,3h,8,>90%,whole fungi,Most effective strain identified.
+Methyl Red,Enterococcus sp. L2,100 mg/L,N/A,N/A,37 °C,6h,N/A,99%,whole fungi,Decolored in 6h.
+Reactive Violet 5R,Klebsiella sp. K1,100 mg/L,N/A,static,40 °C,15h,N/A,91.82%,whole fungi,Influenced by redox mediator.
+Reactive Violet 5R,Klebsiella sp. E2,100 mg/L,N/A,static,40 °C,15h,N/A,87.89%,whole fungi,Influenced by redox mediator.
+Reactive Violet 5R,Acinetobacter sp. L1,100 mg/L,N/A,static,40 °C,15h,N/A,74.46%,whole fungi,Influenced by redox mediator.
+Reactive Violet 5R,Enterococcus sp. L2 (fdh transformant),100 mg/L,N/A,N/A,N/A,6h,N/A,73.45%,whole fungi,3.2 fold increase compared to vector control.
+Reactive Violet 5R,Enterococcus sp. L2 (vector control),100 mg/L,N/A,N/A,N/A,6h,N/A,22.97%,whole fungi,Control for fdh transformant.
+Reactive Violet 5R,Enterococcus sp. L2 (at different NaCl concentrations),100 mg/L,N/A,N/A,N/A,N/A,N/A,Highest decolorization at 0.5-2% NaCl,whole fungi,Salinity studied.
+Reactive Violet 5R,Enterococcus sp. L2 (different pH conditions),100 mg/L,N/A,N/A,N/A,N/A,7-8,Optimum at pH 7-8,whole fungi,pH effect on decolorization.
+Reactive Violet 5R,Enterococcus sp. L2 (temperature study),100 mg/L,N/A,N/A,35-40 °C,N/A,N/A,Complete decolorization between 35 to 40 °C,whole fungi,Temperature effect on decolorization.

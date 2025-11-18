@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Reactive Violet 5R,Enterococcus sp. L2,100 mg/L,not specified,static,40 °C,3h,7-8,>90%,whole fungi,
+Methyl Red,Enterococcus sp. L2,100 mg/L,not specified,not specified,not specified,6h,not specified,99%,whole fungi,
+Reactive Violet 5R,Klebsiella spp. K1,not specified,not specified,not specified,not specified,15h,not specified,91.82%,whole fungi,
+Reactive Violet 5R,Klebsiella spp. E2,not specified,not specified,not specified,not specified,15h,not specified,87.89%,whole fungi,
+Reactive Violet 5R,Acinetobacter sp. L1,not specified,not specified,not specified,not specified,15h,not specified,74.46%,whole fungi,
+Reactive Violet 5R,Klebsiella sp. K1,not specified,not specified,not specified,not specified,not specified,not specified,1.6 fold increase with 1% lawsone,whole fungi,
+Reactive Violet 5R,Enterococcus sp. L2 (fdh transformant),not specified,not specified,not specified,not specified,6h,not specified,73.45%,whole fungi,3.2 fold increase from vector control
+Reactive Violet 5R,Enterococcus sp. L2 (vector control),not specified,not specified,not specified,not specified,6h,not specified,22.97%,whole fungi,

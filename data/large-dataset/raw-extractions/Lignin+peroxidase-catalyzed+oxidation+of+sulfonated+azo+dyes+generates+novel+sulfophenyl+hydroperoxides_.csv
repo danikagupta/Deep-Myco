@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+4-(4'-sulfophenylazo)-phenol,Phanerochaete chrysosporium,50 µM,Not applicable,shaking,25°C,10 min,6.0,Active,whole fungi,HRP showed the highest activity
+2-(4'-sulfophenylazo)-phenol,Phanerochaete chrysosporium,50 µM,Not applicable,shaking,25°C,10 min,6.0,Not active,whole fungi,Poor substrate for HRP and others
+Orange I,Not applicable,100 µM,Not applicable,Not applicable,Not applicable,15 min,3.5,High reduction,Not applicable,Reduction increases with decreasing pH
+Orange II,Not applicable,200 µM,Not applicable,shaking,25°C,10 min,7.0,High reduction,Not applicable,Decolorization and formation of sulfanilic acid
+4-hydroxyazobenzene,Not applicable,50 µM,Not applicable,Not applicable,25°C,1 h,Not applicable,Identified aniline derivative,Not applicable,Reduction product analysis confirmed
+Crocein Orange G,Not applicable,300 µM,Not applicable,shaking,Not applicable,varied,7.0,First-order kinetics,Not applicable,Reduction dependent on mixing rate

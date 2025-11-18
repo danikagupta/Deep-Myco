@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Acid orange 7,P. chrysosporium,50 µM,10^5 spores/ml,shaking,30°C,4 days,6.5,94.8%,mycelium,Control value = OD 0.214 at 497nm
+Acid orange 7,S. commune,50 µM,10^5 spores/ml,shaking,30°C,4 days,6.5,96.7%,mycelium,Control value = OD 0.214 at 497nm
+Acid orange 7,L. eximia,50 µM,10^5 spores/ml,shaking,30°C,4 days,6.5,95.5%,mycelium,Control value = OD 0.214 at 497nm
+Methyl red,P. chrysosporium,50 µM,10^5 spores/ml,shaking,30°C,4 days,6.5,92.2%,mycelium,Control value: OD 0.220 at 465nm
+Methyl red,S. commune,50 µM,10^5 spores/ml,shaking,30°C,4 days,6.5,98.5%,mycelium,Control value: OD 0.220 at 465nm
+Methyl red,L. eximia,50 µM,10^5 spores/ml,shaking,30°C,4 days,6.5,96.0%,mycelium,Control value: OD 0.220 at 465nm
+Evans blue,P. chrysosporium,50 µM,10^5 spores/ml,shaking,30°C,4 days,6.5,90.2%,mycelium,Control value = OD 0.225 at 503 nm
+Evans blue,S. commune,50 µM,10^5 spores/ml,shaking,30°C,4 days,6.5,97.4%,mycelium,Control value = OD 0.225 at 503 nm
+Evans blue,L. eximia,50 µM,10^5 spores/ml,shaking,30°C,4 days,6.5,95.5%,mycelium,Control value = OD 0.225 at 503 nm

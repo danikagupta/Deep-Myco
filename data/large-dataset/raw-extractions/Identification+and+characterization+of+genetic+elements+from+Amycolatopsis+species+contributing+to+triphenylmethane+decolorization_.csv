@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Amido Black,Amycolatopsis orientalis,10 µg/ml,,shaking,30°C,2 days,,Visible color change from blue to violet,mycellium,
+Brilliant Green,Amycolatopsis orientalis,10 µg/ml,,shaking,30°C,under 1 hour,,decolorized to colorless derivatives,mycellium,
+Combined Triphenylmethane Dyes (Crystal Violet + Brilliant Green + Basic Fuchsin + Malachite Green),Amycolatopsis orientalis,10 µg/ml for each dye,,shaking,37°C,3 days,7.0,Complete mineralization,mycellium,Combined clones showed enhanced decolorization.
+Crystal Violet,Amycolatopsis orientalis,10 µg/ml,0.25%,shaking,37°C,60 min,,Visible decrease in intensity on TLC,mycellium,
+Crystal Violet,Unknown (Rhodococcus spp.),10 µg/ml,,shaking,37°C,60 min,,Complete decolorization observed,mycellium,Thin layer chromatography showed similar banding patterns.
+Amido Black,Rhodococcus erythropolis SQ1,10 µg/ml,,shaking,37°C,2 days,,"Partial detoxification, but inhibition detected",mycellium,
+Amido Black,Combined clones (Rhodococcus erythropolis SQ1CV2 + SQ1CV4 + SQ1CV6),varied,,shaking,37°C,varied,,Complete biodegradation observed,mycellium,

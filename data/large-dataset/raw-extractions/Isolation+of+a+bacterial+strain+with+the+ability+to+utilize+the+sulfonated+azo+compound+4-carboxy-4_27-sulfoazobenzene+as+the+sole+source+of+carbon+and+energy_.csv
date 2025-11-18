@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Methyl Red,Enterococcus faecalis,20 µM,Not specified,None,37°C,20 mins,7.0,Complete reduction,Whole fungi,
+Direct Blue 15,Enterococcus faecalis,20 µM,Not specified,None,37°C,50 mins,7.0,Complete reduction (anaerobic),Whole fungi,
+Tartrazine,Enterococcus faecalis,20 µM,Not specified,None,37°C,40 mins,7.0,Complete reduction,Whole fungi,
+Methyl Red,Enterococcus faecalis,20 µM,Not specified,Shaking,37°C,1 hour,7.0,Incompletely reduced,Whole fungi,Under aerobic conditions
+Direct Blue 15,Enterococcus faecalis,20 µM,Not specified,None,37°C,Not completed,7.0,Not completely reduced,Whole fungi,Only 75% reduction in aerobic conditions
+Tartrazine,Enterococcus faecalis,20 µM,Not specified,None,37°C,28 hours,7.0,80% reduction,Whole fungi,In PBSG medium
+Methyl Red,Enterococcus faecalis,20 µM,Not specified,None,37°C,20 mins,7.0,90% reduction,Whole fungi,In PBSG medium
+Methyl Red,Enterococcus faecalis,20 µM,Not specified,None,Not specified,Not specified,Not specified,Activity with NAD(P)H,Whole fungi,Kinetic studies show multiple activities

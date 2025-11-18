@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Ambifix Blue H3R,Polyporus pseudobetulinus,200 mg/L,3 plugs (6 mm diameter),rotary shaker,25°C,8 days,initial pH 5.0,98%,whole fungi,Maximal activity reached within 8 days.
+Ambifix Yellow H3R,Polyporus pseudobetulinus,200 mg/L,3 plugs (6 mm diameter),rotary shaker,25°C,10 days,initial pH 5.0,24%,whole fungi,"Very slow removal process, possibly due to enzyme inhibition or substrate inhibition."
+Ambifix Red HE3B,Polyporus pseudobetulinus,200 mg/L,3 plugs (6 mm diameter),rotary shaker,25°C,18 days,initial pH 5.0,50%,whole fungi,Very slow removal process.
+Malachite Green,Polyporus pseudobetulinus,100 mg/L,N/A (crude enzyme concentration 5 U/ml),N/A,N/A,24 h,initial pH 5.0,80%,N/A (crude enzyme only),High decolorization efficiency by crude laccase.
+Ambifix Blue H3R,N/A (crude laccase only),100 mg/L,N/A (crude enzyme concentration 5 U/ml),N/A,N/A,15 min,initial pH 5.0,65%,N/A (crude enzyme only),High reactivity in short time.

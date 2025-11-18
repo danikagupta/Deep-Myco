@@ -1,0 +1,12 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Direct Blue 15,Clostridium perfringens,20 µM,N/A,shaking,37°C,4 hours,9.0,100%,whole fungi,"Highest azoreductase activity observed, also significant reduction in ΔazoC mutant."
+Methyl Red,Clostridium perfringens,20 µM,N/A,shaking,37°C,24 hours,7.0,Significant reduction (not dependent on AzoC),whole fungi,Not significantly affected by the AzoC knockout.
+Methyl Orange,Clostridium perfringens,20 µM,N/A,shaking,37°C,24 hours,7.0,Significant reduction (not dependent on AzoC),whole fungi,Not significantly affected by the AzoC knockout.
+Tartrazine,Clostridium perfringens,20 µM,N/A,shaking,37°C,24 hours,7.0,Significant reduction (not dependent on AzoC),whole fungi,Not significantly affected by the AzoC knockout.
+Ponceau BS,Clostridium perfringens,20 µM,N/A,shaking,37°C,4 hours,7.0,100% reduction,whole fungi,"Releases AzoC, significant increase in generation time for Wild Type."
+Congo Red,Clostridium perfringens,20 µM,N/A,shaking,37°C,4 hours,7.0,38% reduction,whole fungi,"Significantly reduced by Wild Type, less so with ΔazoC mutant."
+Ponceau S,Clostridium perfringens,20 µM,N/A,shaking,37°C,4 hours,7.0,100% reduction,whole fungi,Releases AzoC and recovery in ΔazoC mutant.
+Trypan Blue,Clostridium perfringens,20 µM,N/A,shaking,37°C,5 hours,7.0,100% reduction,whole fungi,Recovery of dye reduction in ΔazoC mutant.
+Eriochrome Black T,Clostridium perfringens,20 µM,N/A,shaking,37°C,24 hours,7.0,Reduction but not to completion,whole fungi,Suggests additional azoreductases present.
+Direct Blue 15,Clostridium perfringens,20 µM,N/A,shaking,37°C,4 hours,7.0,100% reduction,whole fungi,Significant difference in activity with AzoC knockout.
+Cibacron Brilliant Red 3B-A,Clostridium perfringens,20 µM,N/A,shaking,37°C,2 hours,7.0,100% reduction,whole fungi,Significant reduction occurred via non-enzymatic means.

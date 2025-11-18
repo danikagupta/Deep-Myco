@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Acid Blue 62,Pleurotus ostreatus,0.10 g/l,Not specified,shaking,28°C,7 days,5,"40% after 1 day, 60% after 7 days",whole fungi,Effective reduction of COD and toxicity.
+Acid Red 266,Pleurotus ostreatus,0.10 g/l,Not specified,shaking,28°C,7 days,5,60% after 7 days,whole fungi,Laccases were identified as main agents in decolorization.
+Direct Blue 71,Phanerochaete chrysosporium,1.00 g/l,Not specified,shaking,28°C,1 day,9,"46% after 1 day, 87% after 7 days",whole fungi,A complete depletion of absorbance peaks after treatment.
+Reactive Red 195,Not specified,1.25 g/l,Not specified,Not specified,Not specified,Not specified,10,No decolorization observed,Not specified,Reactive dye wastewater was not effectively treated.
+Chitosan,Mucorales fungi,Not specified,Not specified,shaking,Not specified,Not specified,Not specified,Up to 94%,Not specified,Comparison with biosorption ability of fungal biomasses.
+Reactive Blue 222,Not specified,1.25 g/l,Not specified,Not specified,Not specified,Not specified,10,Not specified,Not specified,Discussion on effectiveness of biosorption techniques.

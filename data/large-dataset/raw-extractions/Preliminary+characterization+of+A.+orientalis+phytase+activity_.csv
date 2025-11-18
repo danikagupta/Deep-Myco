@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+crystal violet,Amycolatopsis orientalis,10 µg/ml,N/A,shaking,30°C,5 min.,N/A,visible color change from blue to violet,mycelial,"Initial color change observed at 10 µg/ml, but struggled at 30 µg/ml."
+crystal violet,Amycolatopsis orientalis,20 µg/ml,N/A,shaking,30°C,60 min.,N/A,dramatic decrease in intensity,mycelial,Observed on TLC showing various degradation products.
+crystal violet,Amycolatopsis orientalis,10 µg/ml,N/A,N/A,N/A,N/A,N/A,63% decolorization,mycelial,Decolorization was influenced by various carbon and nitrogen sources.
+combined triphenylmethane dyes,Amycolatopsis orientalis,10 µg/ml each,N/A,N/A,N/A,N/A,N/A,66% decolorization,mycelial,Effective decolorization indicated synergistic enzyme activity.
+amido black,Amycolatopsis orientalis,10 µg/ml,N/A,shaking,37°C,48 h,6.5,over 45% decolorization,mycelial,Additives like glucose greatly aid decolorization.
+multiple dyes,Amycolatopsis orientalis,10 µg/ml each,N/A,N/A,N/A,N/A,N/A,Complete biodegradation,mycelial,Dye combination effectively mineralized.
+mixed dyes,Streptomyces lividans,N/A,N/A,N/A,N/A,N/A,N/A,Varies,N/A,Combination of mixed cultures showed enhanced degradation.
+crystal violet,S. lividans TK23,10 µg/ml,N/A,N/A,37°C,3 days,N/A,inhibited,mycelial,Inhibition was noted without the addition of supplementary carbon sources.

@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Nylosan yellow E2RL SGR,Trichosporon sp.,60 mg/L,1.5 x 10^3 CFU/mL,static conditions,room temperature,10 days,not specified,approximately 50%,whole fungi,Measured absorbance reflecting color removal.
+Nylosan yellow E2RL SGR,Galactomyces sp.,60 mg/L,2.5 x 10^3 - 3.5 x 10^3 CFU/mL,static conditions,room temperature,10 days,not specified,14%,whole fungi,Measured absorbance reflecting color removal.
+Nylosan yellow E2RL SGR,Elizabethkingia miricola,60 mg/L,not specified,static conditions,room temperature,10 days,not specified,nearly 70%,whole fungi,Measured absorbance reflecting color removal.
+Nylosan yellow E2RL SGR,M. morganii,60 mg/L,not specified,static conditions,room temperature,10 days,not specified,approximately 50%,whole fungi,Measured absorbance reflecting color removal.
+Nylosan yellow E2RL SGR,C. testosteroni,60 mg/L,not specified,static conditions,room temperature,10 days,not specified,approximately 50%,whole fungi,Measured absorbance reflecting color removal.
+Nylosan yellow E2RL SGR,not specified,not specified,not specified,not specified,22-26 °C,not specified,varied,Up to 94% post ultrafiltration,not specified,Ultrafiltration treatment efficiency.
+Nylosan yellow E2RL SGR,not specified,not specified,not specified,"shaking, stirring",22-26 °C,100 days,varied,"Mean efficiency over periods A, B and C varied",not specified,Measured COD and dye concentration change.

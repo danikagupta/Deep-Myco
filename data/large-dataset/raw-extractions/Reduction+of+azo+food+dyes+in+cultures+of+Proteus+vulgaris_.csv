@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Methyl Red,Enterococcus faecalis,20 µM,mid-log phase,none (static incubation),37°C,20 min,7.0,complete reduction,whole fungi,Results were higher under anaerobic conditions.
+Direct Blue 15,Enterococcus faecalis,20 µM,mid-log phase,none (static incubation),37°C,50 min,7.0,complete reduction (anaerobic) / 75% reduction (aerobic),whole fungi,Aerobic conditions showed incomplete reduction.
+Tartrazine,Enterococcus faecalis,20 µM,mid-log phase,none (static incubation),37°C,40 min,7.0,complete reduction,whole fungi,Reducing conditions showed significantly lower generation time.
+Methyl Red,cell extract,20 µM,<10^7 cfu/ml,not specified,37°C,not specified,7.2,9.86 nmol/min/mg,cell extract,NADH as electron donor.
+Direct Blue 15,cell extract,20 µM,<10^7 cfu/ml,not specified,37°C,not specified,7.2,0.21 nmol/min/mg,cell extract,NADH as electron donor.
+Tartrazine,cell extract,20 µM,<10^7 cfu/ml,not specified,37°C,not specified,7.2,2.68 nmol/min/mg,cell extract,NADH as electron donor.
+Methyl Red,cell extract,20 µM,<10^7 cfu/ml,not specified,37°C,not specified,7.2,14.3 U/mg,cell extract,Higher activity with NADH compared to NADPH.

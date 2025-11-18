@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+4-(4'-sulfopheny1azo)-phenol,Phanerochaete chrysosporium,50 pM,Not applicable,shaking,25°C,10 min,6.0,100%,Not applicable,"Substituents included methyl, methoxy, chloro, etc."
+2-(4'-sulfopheny1azo)-phenol,Phanerochaete chrysosporium,50 pM,Not applicable,shaking,25°C,10 min,6.0,0%,Not applicable,"Substituents included methyl, methoxy, chloro, etc."
+Orange I,Not applicable,100 pM,Not applicable,Not applicable,25°C,15 min,4.0,90%,Not applicable,NADH concentration of 1 mM used.
+Orange II,Not applicable,200 pM,Not applicable,shaking,25°C,10 min,7.0,90.2%,Not applicable,Fe^2+/H2O2 system used.
+1-(4'-acetanilidopheny1azo)-2-naphthol,Not applicable,Not specified,Not applicable,Not applicable,25°C,10 min,Not specified,Not specified,Not applicable,Considered in enzymatic oxidation reaction.
+Crocein Orange G,Not applicable,300 μM,Not applicable,shaking,Not specified,10 min,7.0,90%,Not applicable,Reduction with zero-valent iron.
+4-hydroxyazobenzene,Not applicable,100 μM,Not applicable,Not specified,Not specified,10 min,Not specified,74%,Not applicable,Analyzed via HPLC.

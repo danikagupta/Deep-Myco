@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+azure B,T. versicolor BBEL0970,0.1 g/l,10 agar plugs (3 mm diameter) in 100 ml BLM,shaking (150 rpm),28 °C,2 weeks,4.5,Positive,mycelium,Screened 16 strains in liquid culture for laccase production.
+Poly R4478,T. versicolor BBEL0970,0.1 g/l,10 agar plugs (3 mm diameter) in 100 ml BLM,shaking (150 rpm),28 °C,2 weeks,4.5,Positive,mycelium,Screened 16 strains in liquid culture for laccase production.
+guaiacol,T. versicolor BBEL0970,0.1 g/l,3 agar plugs (54 mm diameter) inoculated,stationary culture,28 °C,14 days,4.5,High decolorization,mycelium,Indicated high potential in biological pretreatment.
+barley straw,T. versicolor BBEL0970,NA,Cultured mycelia in PDB replaced glucose with barley straw,shaking (150 rpm),28 °C,24 days,NA,Positive,mycelium,Laccase activity increased to 10.3 U/ml.
+NA,T. versicolor BBEL0970,NA,NA,shaking,28 °C,Duration was specified as two weeks periodically.,optimum pH 2.5,NA,NA,"Laccase activity varied significantly, peak at day 20 with glucose."

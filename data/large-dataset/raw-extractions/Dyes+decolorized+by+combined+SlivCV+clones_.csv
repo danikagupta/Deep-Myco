@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+crystal violet,Amycolatopsis orientalis SY6,10 µg/ml,high cell density,shaking (30 rpm),37°C,under 1 hour,6.5,complete,mycelial,gradual color change observed
+crystal violet,Amycolatopsis orientalis SY6,20 µg/ml,high cell density,shaking (30 rpm),37°C,under 1 hour,6.5,complete,mycelial,gradual color change observed
+amido black,Amycolatopsis orientalis SY6,10 µg/ml,high cell density,shaking (30 rpm),37°C,48 hours,6.5,partial,mycelial,color change to violet observed
+brilliant green,Amycolatopsis orientalis SY6,10 µg/ml,high cell density,shaking (30 rpm),37°C,less than 1 hour,6.5,complete,mycelial,dye decolorized to colorless derivatives
+basic fuchsin,Amycolatopsis orientalis SY6,10 µg/ml,high cell density,shaking (30 rpm),37°C,under 1 hour,6.5,complete,mycelial,effective in decolorization
+malachite green,Amycolatopsis orientalis SY6,10 µg/ml,high cell density,shaking (30 rpm),37°C,under 1 hour,6.5,complete,mycelial,full color removal
+combined triphenylmethane dyes,Amycolatopsis orientalis SY6,10 µg/ml (each dye),high cell density,shaking (30 rpm),37°C,monitoring over 48 hours,6.5,complete,mycelial,multiple dyes effectively decolorized
+amido black,Amycolatopsis orientalis SY6,10 µg/ml,high cell density,shaking (30 rpm),37°C,48 hours,6.5,partial,mycelial,variance in decolorization with surfactants

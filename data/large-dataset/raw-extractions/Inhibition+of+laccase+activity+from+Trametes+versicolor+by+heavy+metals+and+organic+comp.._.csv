@@ -1,0 +1,21 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Corn stover and Banana stalk,Schizophyllum commune,N/A,N/A,Nth,N/A,N/A,N/A,1270000 U,N/A,"Improvement of 11.3-fold, reference: Yasmeen et al. (2013)"
+"Glucose, Yeast extract, Malt extract",Pleurotus ostreatus,N/A,N/A,N/A,N/A,N/A,N/A,906000 U,N/A,"Improvement of 10.8-fold, reference: Periasamy and Palvannan (2010)"
+Nut shell and Cyanobacteria biomass,Coriolous versicolor MTCC138,N/A,N/A,N/A,N/A,N/A,N/A,163000 U,N/A,"Improvement of 12.6-fold, reference: Mishra et al. (2008)"
+"Glucose, Ammonium tartate, Tween 80",Phellinus noxius hpF17,N/A,N/A,N/A,N/A,N/A,N/A,780 U,N/A,"Improvement of 11.4-fold, reference: Poojary and Mugeray (2012)"
+Barley,T. hirusta,N/A,N/A,N/A,N/A,N/A,N/A,25889 U,N/A,"Improvement of 11.8-fold, reference: Bakkiyaraj et al. (2013)"
+"Rice bran, Wheat bran, Corn husk",Rigidoporous sp.,N/A,N/A,N/A,N/A,N/A,N/A,4.25 U g,N/A,"Improvement of 13.5-fold, reference: Sridah et al. (2012)"
+Wheat bran,Fomes fomentarius,N/A,N/A,N/A,N/A,N/A,N/A,150 U g,N/A,"Improvement of 12.3-fold, reference: Neifar et al. (2011)"
+Nut shell and Cyanobacteria biomass,WRF-1,N/A,N/A,N/A,N/A,N/A,N/A,352 U g,N/A,"Improvement of 11.3-fold, reference: Kumar and Mishra (2011)"
+Barley,Coriolus sp.,N/A,N/A,N/A,N/A,N/A,N/A,2661 U g,N/A,"Improvement of 16.5-fold, reference: Mathur et al. (2013)"
+Pyrogallol,Cerrena unicolor,N/A,N/A,N/A,N/A,N/A,N/A,151600 U,N/A,"Improvement of 12.5-fold, reference: Elisashvili et al. (2010)"
+TNT,T. versicolor,N/A,N/A,N/A,N/A,N/A,N/A,8400 U,N/A,Improvement of 12.8-fold
+Copper,Coprinus comatus,N/A,N/A,N/A,N/A,N/A,N/A,150 U,N/A,"Improvement of 13.4-fold, reference: Lu and Ding (2010)"
+Manganese,Coprinus comatus,N/A,N/A,N/A,N/A,N/A,N/A,225 U,N/A,Improvement of 14.4-fold
+Caffeic acid,Coprinus comatus,N/A,N/A,N/A,N/A,N/A,N/A,188 U,N/A,Improvement of 13.3-fold
+Copper,Pleurotus ostreatus,N/A,N/A,N/A,N/A,N/A,N/A,8000 U,N/A,"Improvement of 14.0-fold, reference: Tinoco et al. (2011)"
+Copper + lignin,Pleurotus ostreatus,N/A,N/A,N/A,N/A,N/A,N/A,12000 U,N/A,"Improvement of 110-fold, reference: Tinoco et al. (2011)"
+Ferulic acid and vanillin,P. plumonarius,N/A,N/A,N/A,N/A,N/A,N/A,250000 U,N/A,"Improvement of 110-fold, reference: D’souza (2004)"
+Grey Lanaset (GLG) and Alizarin Red (AR),T. versicolor,N/A,N/A,N/A,N/A,N/A,N/A,1200 U,N/A,"Improvement of 17.0-fold, reference: Casas et al. (2013)"
+Copper,G. applanatum,N/A,N/A,N/A,N/A,N/A,N/A,18830 U,N/A,"Improvement of 149.2-fold, reference: Fonseca et al. (2010)"
+Copper,Peniophora sp.,N/A,N/A,N/A,N/A,N/A,N/A,27132 U,N/A,Improvement of 119.7-fold

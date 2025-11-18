@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Acid Orange 63,Streptomyces ipomoeae,50 mM,0.4 U/mL,not specified,35°C,24 h,8,3.76 ± 0.71 %,whole fungi,Mediator: acetosyringone (AS)
+Acid Orange 63,Streptomyces ipomoeae,50 mM,0.4 U/mL,not specified,35°C,24 h,8,13.96 ± 0.96 %,whole fungi,Mediator: methyl syringate (MeS)
+Acid Orange 63,Streptomyces ipomoeae,50 mM,0.4 U/mL,not specified,60°C,24 h,8,70-fold increase with 0.5 mM MeS,whole fungi,Significant increase in decolorization observed
+Tartrazine,Streptomyces ipomoeae,50 mM,0.4 U/mL,not specified,35°C,24 h,8,19.22 ± 0.20 %,whole fungi,Mediator: acetosyringone (AS)
+Tartrazine,Streptomyces ipomoeae,50 mM,0.4 U/mL,not specified,35°C,24 h,8,20.97 ± 1.38 %,whole fungi,Mediator: methyl syringate (MeS)
+Tartrazine,Streptomyces ipomoeae,50 mM,0.4 U/mL,not specified,60°C,24 h,8,36-fold decrease in toxicity observed,whole fungi,Significant increase in decolorization observed and higher efficacy of MeS at this temperature

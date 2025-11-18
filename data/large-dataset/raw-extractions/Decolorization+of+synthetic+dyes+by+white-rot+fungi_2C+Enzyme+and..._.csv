@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Reactive Blue 19,Trametes sp. LA1,200 ppm,10 mm diameter plugs,static,28°C,30 days,6.0,80%,mycelium,Decolorization measured at different time points.
+Reactive Black 5,Trametes sp. LA1,200 ppm,10 mm diameter plugs,static,28°C,30 days,6.0,54.8%,mycelium,Decolorization measured at different time points.
+Crystal Violet,Trametes sp. LA1,200 ppm,10 mm diameter plugs,static,28°C,30 days,6.0,79.7%,mycelium,Decolorization measured at different time points.
+Reactive Blue 19,T. maxima LE130,200 ppm,10 mm diameter plugs,static,28°C,30 days,6.0,54.94%,mycelium,Decolorization measured at different time points.
+Reactive Black 5,T. maxima LE130,200 ppm,10 mm diameter plugs,static,28°C,30 days,6.0,61.01%,mycelium,Decolorization measured at different time points.
+Crystal Violet,T. maxima LE130,200 ppm,10 mm diameter plugs,static,28°C,30 days,6.0,41.05%,mycelium,Decolorization measured at different time points.
+Crystal Violet,T. maxima LE130,200 ppm,10 mm diameter plugs,static,28°C,30 days,6.0,40.00%,mycelium,Considered for phytotoxicity tests.
+Reactive Blue 19,Phanerochaete chrysosporium ATCC 24725,200 ppm,10 mm diameter plugs,static,28°C,30 days,6.0,difficult to quantify,mycelium,Control for comparison.
+Crystal Violet,Phanerochaete chrysosporium ATCC 24725,200 ppm,10 mm diameter plugs,static,28°C,30 days,6.0,difficult to quantify,mycelium,Control for comparison.

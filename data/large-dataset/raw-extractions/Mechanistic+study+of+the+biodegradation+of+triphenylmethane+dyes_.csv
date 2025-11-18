@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+crystal violet,Amycolatopsis orientalis,10 µg/ml,not specified,not specified,30°C,5 min,not specified,extreme degradation observed,whole fungi,"TLC showed a decrease in intensity, with four main bands observed"
+crystal violet,Amycolatopsis orientalis,10 µg/ml,not specified,not specified,30°C,10 min,not specified,TLC bands remained,whole fungi,Rf values at 10 min: 0.79; 0.68; 0.57; 0.40
+crystal violet,Amycolatopsis orientalis,10 µg/ml,not specified,not specified,30°C,20 min,not specified,TLC bands remained with some decrease,whole fungi,Rf values at 20 min: 0.79; 0.68; 0.57; 0.40
+crystal violet,Amycolatopsis orientalis,10 µg/ml,not specified,not specified,30°C,30 min,not specified,lower bands not detected,whole fungi,Rf values at 30 min: 0.79; 0.68; 0.57
+crystal violet,Amycolatopsis orientalis,10 µg/ml,not specified,not specified,30°C,60 min,not specified,two lowest bands not detected,whole fungi,Rf values at 60 min: 0.79; 0.68
+combined dyes,Amycolatopsis orientalis,not specified,not specified,not specified,not specified,not specified,not specified,effective decolorization observed,whole fungi,capable of degrading multiple triphenylmethane dyes

@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+phenol,Trametes versicolor,20% v/v,unknown,static culture,unknown,7 days,unknown,7.30 mM,whole fungi,Complete removal from solution
+p-cresol,Trametes versicolor,20% v/v,unknown,static culture,unknown,7 days,unknown,0.0 mM,whole fungi,Complete removal from solution
+m-cresol,Trametes versicolor,20% v/v,unknown,static culture,unknown,7 days,unknown,0.0 mM,whole fungi,Complete removal from solution
+o-cresol,Trametes versicolor,20% v/v,unknown,static culture,unknown,7 days,unknown,0.04 mM,whole fungi,Complete removal from solution
+p-cresol,Trametes pubescens,5% v/v,unknown,Airlift Reactor,unknown,unspecified,unknown,0.0 mM,whole fungi,All removal of target monomers
+o-cresol,Trametes pubescens,5% v/v,unknown,Airlift Reactor,unknown,unspecified,unknown,0.0 mM,whole fungi,All removal of target monomers
+cresylic effluent,Trametes pubescens,2% v/v,unknown,Airlift Reactor,unknown,unspecified,unknown,11.8 U/mL,whole fungi,Induction effect observed
+cresylic effluent,Trametes pubescens,5% v/v,unknown,Airlift Reactor,unknown,unspecified,unknown,0.0 mM,whole fungi,Adaptation of culture led to enhanced enzyme production

@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+triphenylmethane dyes,Bacillus sp.,varied,N/A,shaking,25-50°C,varied,6.0-8.0,selected based on clear zone,whole fungi,Isolated organism has been deposited in MTCC under accession NO. MTCC B0006.
+triphenylmethane dyes,Bacillus sp.,0.25-2.0% (w/v),N/A,shaking,N/A,N/A,N/A,1.0% glucose optimum for growth and decolorization,whole fungi,Best carbon sources identified as glucose and maltose.
+triphenylmethane dyes,Bacillus sp.,0.25-2.0% (w/v),N/A,shaking,N/A,N/A,N/A,1.25-1.5% soyapeptone optimum for cellmass yield and decolorization activity,whole fungi,Different organic nitrogen sources evaluated.
+triphenylmethane dyes,Bacillus sp.,N/A,2.5-10% (v/v),N/A,30°C,N/A,7.0-7.25,Good growth with maximum decolorization activity observed with 10% inoculum size,whole fungi,Lag time for growth minimized with increased inoculum size.
+triphenylmethane dyes,Bacillus sp.,varied,N/A,shaking,50°C,varied,7.0,Maximum decolorization observed,whole fungi,High temperature stability indicated for treatment of textile effluent.
+"Crystal Violet, Malachite Green, Magenta",Bacillus sp.,up to 400 ppm,N/A,shaking,N/A,120 h,N/A,Growing cells could grow and decolorize,whole fungi,Magenta was least toxic to Bacillus sp.
+"Crystal Violet, Malachite Green, Magenta",Bacillus sp.,100 ppm,whole cell,N/A,N/A,N/A,N/A,dye decolorization studies optimized,whole fungi,"Optimized parameters include aeration, agitation, temperature, and pH."
+"Crystal Violet, Malachite Green, Magenta",Pleurotus ostreatus,N/A,N/A,static,N/A,N/A,N/A,Malachite Green decolorized rapidly,whole fungi,Laccase thought to be responsible for decolorization.

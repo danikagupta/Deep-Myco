@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Crystal Violet,Amycolatopsis orientalis,10 µg/ml,Not specified,Rotating wheel,30°C,60 min,Not specified,Complete decolorization,Whole fungi,"Decolorization was monitored on TLC at 5, 10, 20, 30, and 60 min intervals."
+Brilliant Green,Amycolatopsis orientalis,10 µg/ml,Not specified,Not specified,Not specified,Not specified,Not specified,Decolorized,Whole fungi,Combined dye treatment showed no negative effect on decolorization.
+Malachite Green,Amycolatopsis orientalis,10 µg/ml,Not specified,Not specified,Not specified,Not specified,Not specified,Decolorized,Whole fungi,Combined dye treatment showed effectiveness.
+Basic Fuchsin,Amycolatopsis orientalis,10 µg/ml,Not specified,Not specified,Not specified,Not specified,Not specified,Decolorized,Whole fungi,Combined dye treatment showed effectiveness.
+Amido Black,Amycolatopsis orientalis,10 µg/ml,Not specified,Not specified,Not specified,Not specified,Not specified,Partially decolorized to a violet compound,Whole fungi,Degradation analysis indicates the formation of derivatives.
+Janus Green,Amycolatopsis orientalis,10 µg/ml,Not specified,Not specified,Not specified,Not specified,Not specified,Partially decolorized,Whole fungi,Degradation analysis indicates the reduction to diethyl safranine.
+Congo Red,Amycolatopsis orientalis,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not completely degraded; remains bound to cell wall,Whole fungi,Indicates potential limitations in dye structure degradation.
+Eriochrome Black T,Amycolatopsis orientalis,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Whole fungi,Not determined from the results.

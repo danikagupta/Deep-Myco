@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Amido black,A. orientalis SY6,10 µg/ml,N/A,shaking,30 °C,48 hours,7,color change from blue to violet,whole fungi,N/A
+Brilliant green,A. orientalis SY6,10 µg/ml,N/A,shaking,30 °C,up to 1 hour,N/A,decolorized to colorless,whole fungi,N/A
+Crystal violet,A. orientalis SY6,10 µg/ml,N/A,shaking,30 °C,over 60 minutes,N/A,minimum decolorization at 30 µg/ml,whole fungi,N/A
+Mixed triphenylmethane dyes,A. orientalis SY6,10 µg/ml each,N/A,shaking,37 °C,over several days,N/A,complete mineralization,whole fungi,"Combined dyes included crystal violet, brilliant green, basic fuchsin, and malachite green."
+Amido black,A. orientalis SY6,10 µg/ml,N/A,shaking,30 °C,N/A,N/A,partial detoxification,whole fungi,E. coli growth decreased when incubated in the decolorized supernatant.
+Combined triphenylmethane dyes,SlivCV clones,10 µg/ml each,N/A,shaking,37 °C,3 days,N/A,complete mineralization,whole fungi,"Multiple dyes included: crystal violet, brilliant green, and malachite green."

@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Reactive blue 19,Trametes versicolor,0.036 mM,not specified,"packed bed reactor, recirculation",23 ± 1 °C,4 months,5.0,97.5% enzymatic removal,whole fungi,Dye adsorption was reduced by ethanolamine treatment.
+Reactive blue 19,Trametes versicolor,0.036 mM,not specified,recirculation at flow rate 75 ml/min,23 ± 1 °C,3 successive decolorizations over 120 h,5.0,80-71% decolorization in each successive treatment,whole fungi,Stored in buffer for 4 months.
+Dispersed blue 3,Trametes versicolor,0.072 mM,not specified,packed bed reactor,23 ± 1 °C,84 h,5.0,74% decolorization,whole fungi,Conducted in phosphate buffer.
+Acid blue 74,Trametes versicolor,0.036 mM,not specified,packed bed reactor,23 ± 1 °C,84 h,5.0,34.6% decolorization,whole fungi,Conducted in phosphate buffer.
+Acid red 27,Trametes versicolor,0.036 mM,not specified,packed bed reactor,23 ± 1 °C,84 h,5.0,50% decolorization,whole fungi,Conducted in phosphate buffer.
+Reactive black 5,Trametes versicolor,0.036 mM,not specified,packed bed reactor,23 ± 1 °C,84 h,5.0,16.5% decolorization,whole fungi,Conducted in phosphate buffer.
+Reactive blue 19,Trametes versicolor,0.036 mM,not specified,assay with varied Merpol concentration,23 ± 1 °C,not specified,5.0,significantly inhibited by increasing Merpol concentration,whole fungi,First study to show Merpol inhibition on laccase.
+ABTS,Trametes versicolor,0.5 mM,0.274 nM,assay at constant concentrations,22 ± 1 °C,not specified,5.0,follows Michaelis-Menten kinetics,not applicable,No effect from Merpol.
+Reactive blue 19,Trametes versicolor,0.036 mM,120 nM,assay at varying NaCl concentrations,22 ± 1 °C,not specified,5.0,inhibited by sodium chloride,whole fungi,Non-linear inhibition observed.

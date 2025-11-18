@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+crystal violet,Amycolatopsis orientalis SY6,10 µg/ml,na,shaking,30°C,under 60 min.,na,complete decolorization,mycelial,Observed decolorization within 5 minutes.
+amido black,Amycolatopsis orientalis SY6,10 µg/ml,na,shaking,30°C,just under 2 days,na,color change from blue to violet,mycelial,Color not fully removed.
+brilliant green,Amycolatopsis orientalis SY6,10 µg/ml,na,shaking,30°C,under 1 hour,na,decolorized to colorless derivatives,mycelial,na
+combined triphenylmethane dyes,Amycolatopsis orientalis SY6,"10 µg/ml each of crystal violet, brilliant green, basic fuchsin, malachite green",na,shaking,37°C,3 days,7.0,complete decolorization,mycelial,Dyes were removed completely.
+crystal violet,Rhodococcus erythropolis SQ1,10 µg/ml,na,shaking,37°C,60 min.,na,significant decolorization,na,TLC showed similar patterns to Amycolatopsis orientalis SY6.
+crystal violet,Mycobacterium smegmatis mc2 155,10 µg/ml,na,shaking,37°C,60 min.,na,similar results to R. erythropolis SQ1,na,na

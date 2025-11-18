@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+amido black,Amycolatopsis orientalis SY6,10 µg/ml,not specified,shaking,30°C,variable up to 60 min,not specified,visual color change from blue to violet,whole fungi,Prolonged incubation led to failure to mineralize above 30 µg/ml
+brilliant green,Amycolatopsis orientalis SY6,10 µg/ml,not specified,shaking,30°C,under 1 hour,not specified,decolorized to colorless,whole fungi,notably reduced intensity was observed
+crystal violet,Amycolatopsis orientalis SY6,10 µg/ml,not specified,not specified,not specified,observed from 5 to 60 min,not specified,decolorization percentage observed via TLC,whole fungi,four main bands observed at various times
+combined triphenylmethane dyes,Amycolatopsis orientalis SY6,10 µg/ml per dye,not specified,not specified,37°C,3 days,7.0,complete mineralization observed,whole fungi,"dye combination included crystal violet, brilliant green, basic fuchsin, malachite green"
+crystal violet,SY6 variant strains,10 µg/ml,not specified,not specified,not specified,not specified,not specified,CFU/ml indicated complete detoxification,whole fungi,E. coli growth did not indicate toxicity
+combined dyes (crystal violet + others),combined SLIV clones,10 µg/ml,not specified,not specified,37°C,3 days,7.0,decolorized all combined dyes,whole fungi,molecular identification of genes linked to degradation

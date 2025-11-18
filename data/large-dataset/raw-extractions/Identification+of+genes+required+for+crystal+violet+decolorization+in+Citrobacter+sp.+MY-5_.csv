@@ -1,0 +1,17 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Crystal violet,Pseudomonas geniculata,50 mg/L,1e7 cfu/ml,shaking (150 rpm),35 °C,7 days,7,99%,whole fungi,Compared with uninoculated medium (control) showing no decolorization.
+Crystal violet,Pseudomonas geniculata AT 17,50 mg/L,unspecified,not specified,28 °C,7 days,4,0%,whole fungi,No clear zone formation.
+Crystal violet,Pseudomonas geniculata AT 17,50 mg/L,unspecified,not specified,28 °C,7 days,5,0%,whole fungi,No clear zone formation.
+Crystal violet,Pseudomonas geniculata AT 17,50 mg/L,unspecified,not specified,28 °C,7 days,7,37 mm clear zone,whole fungi,Maximum decolorization achieved.
+Crystal violet,Pseudomonas geniculata AT 17,50 mg/L,unspecified,not specified,28 °C,7 days,8,25.5 mm clear zone,whole fungi,Moderate decolorization.
+Crystal violet,Pseudomonas geniculata AT 17,50 mg/L,unspecified,not specified,20 °C,7 days,7,0%,whole fungi,No decolorization observed.
+Crystal violet,Pseudomonas geniculata AT 17,50 mg/L,unspecified,not specified,30 °C,7 days,7,32 mm clear zone,whole fungi,Suboptimal temperature for decolorization.
+Crystal violet,Pseudomonas geniculata AT 17,50 mg/L,unspecified,not specified,40 °C,7 days,7,22.5 mm clear zone,whole fungi,Slower decolorization observed.
+Crystal violet,Pseudomonas geniculata AT 17,50 mg/L,unspecified,not specified,35 °C,3 days,7,50 mm clear zone,whole fungi,Decolorization increased over time.
+Crystal violet,Pseudomonas geniculata AT 17,50 mg/L,unspecified,not specified,35 °C,5 days,7,52.5 mm clear zone,whole fungi,Continued increase in decolorization.
+Crystal violet,Pseudomonas geniculata AT 17,50 mg/L,unspecified,not specified,35 °C,9 days,7,63 mm clear zone,whole fungi,Peak decolorization achieved at 7 days.
+Crystal violet,Pseudomonas geniculata AT 17,50 mg/L,unspecified,not specified,35 °C,11 days,7,63 mm clear zone,whole fungi,Same decolorization results as 9 days.
+Crystal violet,Pseudomonas geniculata AT 17,50 mg/L,1%,not specified,35 °C,7 days,7,32 mm clear zone,whole fungi,Ammonium chloride used.
+Crystal violet,Pseudomonas geniculata AT 17,50 mg/L,2%,not specified,35 °C,7 days,7,20.5 mm clear zone,whole fungi,Higher concentration leads to less decolorization.
+Crystal violet,Pseudomonas geniculata AT 17,50 mg/L,0.5%,not specified,35 °C,7 days,7,11 mm clear zone,whole fungi,Lowest concentration tested.
+Crystal violet,Pseudomonas geniculata AT 17,50 mg/L,1%,not specified,35 °C,7 days,7,32 mm clear zone,whole fungi,Testing nitrogen sources on decolorization efficiency.

@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Amido Black,Amycolatopsis orientalis SY6,10 µg/ml,Diluted culture,Shaking,30°C,48 hours,Varied,Achieved,Whole fungi,Decolorization observed visually and monitored spectrophotometrically.
+Congo Red,Amycolatopsis orientalis SY6,10 µg/ml,Diluted culture,Shaking,30°C,48 hours,Varied,Not achieved,Whole fungi,Decolorization not achieved even with surfactant supplementation.
+Crystal Violet,Amycolatopsis orientalis SY6,30 µg/ml,Diluted culture,Shaking,37°C,60 minutes,Neutral,Achieved,Whole fungi,Initial decolorization visible in liquid culture.
+Methyl Red,Amycolatopsis orientalis SY6,10 µg/ml,Diluted culture,Shaking,30°C,48 hours,Neutral,Achieved,Whole fungi,Decolorization monitored using spectrophotometry.
+Brilliant Green,Amycolatopsis orientalis SY6,10 µg/ml,Diluted culture,Shaking,30°C,60 minutes,Neutral,Achieved,Whole fungi,Visual clearance noted after 60 minutes.
+Basic Fuchsin,Amycolatopsis orientalis SY6,10 µg/ml,Diluted culture,Shaking,30°C,60 minutes,Neutral,Achieved,Whole fungi,Rapid decolorization observed within 1 hour.
+Tartrazine,Amycolatopsis orientalis SY6,10 µg/ml,Diluted culture,Shaking,30°C,48 hours,Neutral,Not achieved,Whole fungi,No decolorization even with additional carbon sources.
+Eriochrome Black T,Amycolatopsis orientalis SY6,10 µg/ml,Diluted culture,Shaking,30°C,48 hours,Neutral,Not achieved,Whole fungi,No significant decolorization observed.
+Janus Green,Amycolatopsis orientalis SY6,10 µg/ml,Diluted culture,Shaking,30°C,48 hours,Neutral,Not achieved,Whole fungi,No decolorization observed in minimal media.

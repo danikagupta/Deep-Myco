@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Carmoisine,Saccharomyces cerevisiae,50 mg/l,1%,none specified,28 °C ± 2 °C,24 hours,not specified,85%,whole fungi,Results reported as mean of three experiments ± SD.
+Reactive Black 5,Saccharomyces cerevisiae,25 mg/l,1%,none specified,28 °C ± 2 °C,24 hours,not specified,53%,whole fungi,Results reported as mean of three experiments ± SD.
+Carmoisine,Saccharomyces cerevisiae,50 mg/l,0.1%,none specified,28 °C ± 2 °C,24 hours,not specified,less than 25% (exact value not provided),whole fungi,Reported in Figure 4.
+Carmoisine,Saccharomyces cerevisiae,50 mg/l,0.5%,none specified,28 °C ± 2 °C,24 hours,not specified,less than 50% (exact value not provided),whole fungi,Reported in Figure 4.
+Carmoisine,Saccharomyces cerevisiae,50 mg/l,2.5%,none specified,28 °C ± 2 °C,24 hours,not specified,exact value not provided (greater than 85%),whole fungi,Reported in Figure 4.
+Reactive Black 5,Saccharomyces cerevisiae,25 mg/l,0.1%,none specified,28 °C ± 2 °C,not specified,not specified,not significant,whole fungi,Reported in the study but specifics not highlighted.

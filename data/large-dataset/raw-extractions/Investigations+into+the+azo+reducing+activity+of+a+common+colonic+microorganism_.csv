@@ -1,0 +1,4 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Flame Orange,Bacillus cereus,200 mg L^-1,1 U mL^-1,shaking,38°C,15 min,7.0,complete,whole fungi,"Monitoring at lmax of the dye and detected only 2-amino-1,3-dimethylimidazolium as the product."
+Ruby Red,Bacillus cereus,200 mg L^-1,1 U mL^-1,shaking,38°C,15 min,7.0,complete,whole fungi,"Mass spectrometry detected N,N-dimethyl-1,4-benzenediamine as degradation product."
+Indigo Carmine,Bacillus cereus,unknown,1 U mL^-1,shaking,38°C,unknown (follow for 1 hour),7.0,color change from blue to yellow,whole fungi,Reaction relied on the presence of NADH and H2O2 for reoxidation.

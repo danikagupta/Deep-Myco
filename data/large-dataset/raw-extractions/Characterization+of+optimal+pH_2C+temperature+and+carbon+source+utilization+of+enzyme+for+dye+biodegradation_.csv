@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+amido black,A. orientalis,10 µg/ml,High cell density,shaking,30°C,1.5 days,6.5,Visible color change from blue to violet,whole fungi,Rapid decolorization observed
+brilliant green,A. orientalis,10 µg/ml,High cell density,shaking,30°C,less than 1 hour,6.5,Colorless derivatives,whole fungi,Decolorization completed rapidly
+crystal violet,A. orientalis,10 µg/ml,High cell density,shaking,37°C,60 minutes,6.5,Significant reduction in dye concentration,whole fungi,Monitoring via TLC revealed multiple bands
+combined triphenylmethane dyes,A. orientalis,10 µg/ml each,High cell density,shaking,37°C,3 days,6.5,Complete mineralization,whole fungi,"Dyes included crystal violet, brilliant green, malachite green, basic fuchsin"
+crystal violet,"combined clones (SlivCV2, SlivCV4, SlivCV6)",10 µg/ml,High cell density,shaking,37°C,3 days,7.0,Complete mineralization,whole fungi,Requires all three clones for complete degradation
+crystal violet (decolorized supernatant),A. orientalis,10 µg/ml,High cell density,not applicable,30°C,N/A,N/A,Complete detoxification indicated,whole fungi,Assessed by monitoring growth of E. coli

@@ -1,0 +1,11 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Malachite Green,Phanerochaete chrysosporium,64 WM,not specified,static,28°C,60h,5.6,unable to grow,whole fungi,
+Malachite Green,Phanerochaete chrysosporium,32 WM,not specified,static,28°C,84h,5.6,slower growth,whole fungi,
+Malachite Green,Fomes sclerodermeus,128 WM,not specified,static,28°C,9 days,5.6,unaffected growth,whole fungi,
+Malachite Green,Fomes sclerodermeus,32 WM,not specified,static,28°C,7 days,5.6,decolorized dye,whole fungi,
+Malachite Green,Phanerochaete chrysosporium,4 WM,not specified,static,28°C,not specified,5.6,affected growth,whole fungi,
+Malachite Green,Fomes sclerodermeus,16 WM,not specified,static,28°C,not specified,5.6,delayed growth,whole fungi,
+Malachite Green,Fomes sclerodermeus,32 WM,not specified,static,28°C,not specified,5.6,decolorized and detoxified MG,whole fungi,Colony growth was normal
+Decolorized Malachite Green (DMG),Phanerochaete chrysosporium,2 WM,not specified,static,28°C,not specified,3.5,non-toxic,whole fungi,
+Decolorized Malachite Green (DMG),Phanerochaete chrysosporium,10 WM,not specified,static,28°C,not specified,3.5,non-toxic,whole fungi,
+Decolorized Malachite Green (DMG),Phanerochaete chrysosporium,40 WM,not specified,static,28°C,not specified,3.5,non-toxic,whole fungi,

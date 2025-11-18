@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Acid Blue 113,Bacterial consortium CN-1,100 mg L^-1,2% (v/v),shaking,30°C,4 hr,Not specified,91.5%,whole fungi,Mixed in ratio 65:65:20 with Acid Black 24 and Mordant Black 17.
+Mordant Black 17,Bacterial consortium CN-1,100 mg L^-1,2% (v/v),shaking,30°C,4 hr,Not specified,91.5%,whole fungi,Mixed in ratio 65:65:20 with Acid Blue 113 and Acid Black 24.
+Acid Black 24,Bacterial consortium CN-1,100 mg L^-1,2% (v/v),shaking,30°C,4 hr,Not specified,91.5%,whole fungi,Mixed in ratio 65:65:20 with Acid Blue 113 and Mordant Black 17.
+Mixed Azo Dyes,Bacterial consortium CN-1,100 mg L^-1,2% (v/v),shaking,30°C,16 hr,Not specified,decreased gradually from 6.6 mg h^-1 to 4.4 mg h^-1,whole fungi,K value of degradation was 0.085 hr^-1 with R² of 0.982.
+Mixed Azo Dyes,Bacterial consortium CN-1,100 mg L^-1,2% (v/v),shaking,30°C,48 hr,Not specified,93.34%,whole fungi, GC-MS analysis showed salicylic acid and 2-naphthol as intermediates.

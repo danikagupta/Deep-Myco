@@ -1,0 +1,14 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Congo red,A. niger,0.01% (w/v),Not specified,stationary,25°C,10 days,Not specified,74.07%,mycelium,Observed under stationary conditions
+Congo red,F. oxysporum,0.01% (w/v),Not specified,stationary,25°C,10 days,Not specified,78.9%,mycelium,Maximum decolorization under stationary conditions
+Congo red,T. lignorum,0.01% (w/v),Not specified,stationary,25°C,10 days,Not specified,35.25%,mycelium,Observed under stationary conditions
+Crystal violet,T. lignorum,0.01% (w/v),Not specified,stationary,25°C,10 days,Not specified,92.7%,mycelium,Maximum decolorization of Crystal violet
+Crystal violet,F. oxysporum,0.01% (w/v),Not specified,stationary,25°C,10 days,Not specified,33.82%,mycelium,Observed under stationary conditions
+Crystal violet,A. niger,0.01% (w/v),Not specified,stationary,25°C,10 days,Not specified,33.82%,mycelium,Observed under stationary conditions
+Methylene blue,A. niger,0.01% (w/v),Not specified,stationary,25°C,10 days,Not specified,22.44%,mycelium,Observed under stationary conditions
+Methylene blue,T. lignorum,0.01% (w/v),Not specified,stationary,25°C,10 days,Not specified,48.3%,mycelium,Observed under stationary conditions
+Methylene blue,F. oxysporum,0.01% (w/v),Not specified,stationary,25°C,10 days,Not specified,48.5%,mycelium,Observed under stationary conditions
+Congo red,A. niger,0.01% (w/v),Not specified,shaking,25°C,10 days,Not specified,78.8%,mycelium,Observed under shaking conditions
+Congo red,T. lignorum,0.01% (w/v),Not specified,shaking,25°C,10 days,Not specified,91.4%,mycelium,Observed under shaking conditions
+Crystal violet,T. lignorum,0.01% (w/v),Not specified,shaking,25°C,10 days,Not specified,96.6%,mycelium,Maximum decolorization
+Methylene blue,T. lignorum,0.01% (w/v),Not specified,shaking,25°C,10 days,Not specified,85.2%,mycelium,Observed under shaking conditions

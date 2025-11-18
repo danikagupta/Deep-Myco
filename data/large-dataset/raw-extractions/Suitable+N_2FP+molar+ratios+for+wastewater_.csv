@@ -1,0 +1,16 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Ammonium Chloride,Chlorella vulgaris,63 mg L-1,N/A,air injection,23.6 ± 0.6 ºC,12 days,9.7 ± 0.2,100% removal of ammonium,whole fungi,N:P molar ratio of 8:1
+Ammonium Chloride,Chlorella vulgaris,126 mg L-1,N/A,air injection,23.6 ± 0.6 ºC,12 days,9.5 ± 0.2,100% removal of ammonium,whole fungi,N:P molar ratio of 16:1
+Ammonium Chloride,Chlorella vulgaris,189 mg L-1,N/A,air injection,23.6 ± 0.6 ºC,12 days,9.4 ± 0.2,100% removal of ammonium,whole fungi,N:P molar ratio of 24:1
+NH4Cl/NaNO3,Chlorella vulgaris,31.5 mg L-1 / 50 mg L-1,N/A,air injection,25.3 ± 0.5 ºC,12 days,9.7 ± 0.1,100% removal of ammonium,whole fungi,N:P molar ratio of 8:1
+NH4Cl/NaNO3,Chlorella vulgaris,63 mg L-1 / 100 mg L-1,N/A,air injection,25.3 ± 0.5 ºC,12 days,9.5 ± 0.1,100% removal of ammonium,whole fungi,N:P molar ratio of 16:1
+NH4Cl/NaNO3,Chlorella vulgaris,94.5 mg L-1 / 150 mg L-1,N/A,air injection,25.7 ± 0.5 ºC,12 days,9.7 ± 0.2,100% removal of ammonium,whole fungi,N:P molar ratio of 24:1
+Sodium Nitrate,Chlorella vulgaris,100 mg L-1,N/A,air injection,25.8 ± 0.9 ºC,12 days,9.6 ± 0.1,100% removal of nitrate,whole fungi,N:P molar ratio of 8:1
+Sodium Nitrate,Chlorella vulgaris,200 mg L-1,N/A,air injection,26.0 ± 0.8 ºC,12 days,9.7 ± 0.1,100% removal of nitrate,whole fungi,N:P molar ratio of 16:1
+Sodium Nitrate,Chlorella vulgaris,300 mg L-1,N/A,air injection,25.8 ± 0.6 ºC,12 days,9.6 ± 0.1,100% removal of nitrate,whole fungi,N:P molar ratio of 24:1
+Ammonium Chloride,Pseudokirchneriella subcapitata,63 mg L-1,N/A,air injection,24.7 ± 0.5 ºC,12 days,9.3 ± 0.1,100% removal of ammonium,whole fungi,N:P molar ratio of 8:1
+Ammonium Chloride,Pseudokirchneriella subcapitata,126 mg L-1,N/A,air injection,24.7 ± 0.5 ºC,12 days,9.3 ± 0.1,100% removal of ammonium,whole fungi,N:P molar ratio of 16:1
+Ammonium Chloride,Pseudokirchneriella subcapitata,189 mg L-1,N/A,air injection,24.7 ± 0.5 ºC,12 days,9.3 ± 0.1,100% removal of ammonium,whole fungi,N:P molar ratio of 24:1
+NH4Cl/NaNO3,Pseudokirchneriella subcapitata,31.5 mg L-1 / 50 mg L-1,N/A,air injection,25.7 ± 0.5 ºC,12 days,9.5 ± 0.1,100% removal of ammonium,whole fungi,N:P molar ratio of 8:1
+NH4Cl/NaNO3,Pseudokirchneriella subcapitata,63 mg L-1 / 100 mg L-1,N/A,air injection,25.7 ± 0.5 ºC,12 days,9.5 ± 0.1,100% removal of ammonium,whole fungi,N:P molar ratio of 16:1
+NH4Cl/NaNO3,Pseudokirchneriella subcapitata,94.5 mg L-1 / 150 mg L-1,N/A,air injection,25.7 ± 0.5 ºC,12 days,9.5 ± 0.1,100% removal of ammonium,whole fungi,N:P molar ratio of 24:1

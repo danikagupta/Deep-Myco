@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Congo Red,Irpex lacteus KUC8958,0.1 g/L,5-mm diameter disc,shaking,27°C,14 days,unspecified,95%,mycelium,
+Congo Red,Irpex lacteus KUC8958,0.1 g/L,5-mm diameter disc,static,27°C,14 days,unspecified,77%,mycelium,
+Reactive Blue 4,Irpex lacteus KUC8958,0.1 g/L,5-mm diameter disc,shaking,27°C,14 days,unspecified,95%,mycelium,
+Reactive Blue 4,Irpex lacteus KUC8958,0.1 g/L,5-mm diameter disc,static,27°C,14 days,unspecified,44%,mycelium,
+Orange II,Irpex lacteus KUC8958,0.1 g/L,5-mm diameter disc,shaking,27°C,14 days,unspecified,53%,mycelium,
+Orange II,Irpex lacteus KUC8958,0.1 g/L,5-mm diameter disc,static,27°C,14 days,unspecified,10%,mycelium,

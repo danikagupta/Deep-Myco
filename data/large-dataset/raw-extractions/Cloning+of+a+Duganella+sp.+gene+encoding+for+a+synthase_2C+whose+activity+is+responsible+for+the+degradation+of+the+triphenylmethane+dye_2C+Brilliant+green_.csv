@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+amido black,Amycolatopsis orientalis,10 µg/ml,not specified,shaking,30°C,48 hours,not specified,decolorized,mycelial,Color change from blue to violet
+crystal violet,Amycolatopsis orientalis SY6,10 µg/ml,not specified,shaking,37°C,60 minutes,not specified,decolorized,mycelial,Thin layer chromatography showed rapid degradation
+brilliant green,Amycolatopsis orientalis SY6,10 µg/ml,not specified,shaking,37°C,under 1 hour,not specified,decolorized,mycelial,
+combined triphenylmethane dyes (crystal violet + brilliant green + basic fuchsin + malachite green),Amycolatopsis orientalis SY6,10 µg/ml each,not specified,shaking,37°C,not specified,not specified,decolorized,mycelial,Degraded efficiently
+crystal violet,Rhodococcus erythropolis,10 µg/ml,not specified,shaking,30°C,60 minutes,not specified,decolorized,not specified,Showed similar TLC results to SY6
+bacterial strains supernatant (decolorized),E. coli,not applicable,not specified,shaking,37°C,2 hours,not specified,partial detoxification,not applicable,Inhibition detected in CFU/ml

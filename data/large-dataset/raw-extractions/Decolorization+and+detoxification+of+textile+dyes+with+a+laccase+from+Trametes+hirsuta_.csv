@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Basic Red 9 Base,Trametes hirsuta,0.25 mM,1.5 g (wet weight),incubated on rotary shaker,30°C,10 days,5.0,44.5%,mycelium,Comparison of decolorization by fungal mass.
+Reactive Blue 221,Trametes hirsuta,0.25 mM,1.5 g (wet weight),incubated on rotary shaker,30°C,10 days,5.0,19.4%,mycelium,Comparison of decolorization by fungal mass.
+Reactive Black 5,Trametes hirsuta,0.25 mM,1.5 g (wet weight),incubated on rotary shaker,30°C,10 days,5.0,15.9%,mycelium,Comparison of decolorization by fungal mass.
+Direct Blue 71,Trametes hirsuta,0.25 mM,1.5 g (wet weight),incubated on rotary shaker,30°C,10 days,5.0,16.2%,mycelium,Comparison of decolorization by fungal mass.
+Reactive Blue 19,Trametes hirsuta,0.25 mM,1.5 g (wet weight),incubated on rotary shaker,30°C,10 days,5.0,29.1%,mycelium,Comparison of decolorization by fungal mass.
+Acid Blue 74,Trametes hirsuta,0.25 mM,1.5 g (wet weight),incubated on rotary shaker,30°C,10 days,5.0,41.7%,mycelium,Comparison of decolorization by fungal mass.

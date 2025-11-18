@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+4-(4'-sulfophenylazo)-phenol,Phanerochaete chrysosporium,50 μM,,shaking,25°C,1 h,6.0,Not specified,whole fungi,Oxidized using horseradish peroxidase
+2-(4'-sulfophenylazo)-phenol,Phanerochaete chrysosporium,50 μM,,shaking,25°C,1 h,6.0,Extremely low,whole fungi,Considered poor substrate for enzymes
+Orange I,,200 μM,,shaking,25°C,10 min,7.0,93% loss,,Affected by additives like KNO3
+4-hydroxyazobenzene,,50 μM,,shaking,25°C,average 6 min,7.0,Complete loss,,Product sulfanilic acid generated
+Crocein Orange G,,300 μM,,shaking,25°C,10 min,7.0,Complete loss,,Reduction observed at various rpms

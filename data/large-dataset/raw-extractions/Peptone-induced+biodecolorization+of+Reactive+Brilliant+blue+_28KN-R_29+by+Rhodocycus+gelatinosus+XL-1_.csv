@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Reactive Brilliant Blue,Candida utilis(1),10 mg/L,40%,static aerobic,37˚C,18h,4,63.85%,whole fungi,
+Reactive Brilliant Blue,Candida sphaerica,10 mg/L,40%,static aerobic,25˚C,18h,6,68.83%,whole fungi,
+Reactive Brilliant Blue,Rhodotorula glutinis,10 mg/L,40%,static aerobic,25˚C,18h,5.5,66.88%,whole fungi,
+Reactive Brilliant Blue,Rhodotorula rubra,10 mg/L,40%,static anaerobic,25˚C,18h,4,67.75%,whole fungi,
+Reactive Brilliant Blue,Cryptococcus albidus,10 mg/L,40%,static anaerobic,25˚C,18h,4,68.40%,whole fungi,
+Reactive Brilliant Blue,Candida utilis(1),10 mg/L,40%,static aerobic,25˚C,24h,6,<pH 6 showed significantly lower decolorization</p>,whole fungi,Figures detail condition parameters
+Reactive Brilliant Blue,Rhodotorula glutinis,200 mg/L,40%,static anaerobic,25˚C,18h,5.5,Sharp drop in decolorization,whole fungi,Observation noted for high concentration

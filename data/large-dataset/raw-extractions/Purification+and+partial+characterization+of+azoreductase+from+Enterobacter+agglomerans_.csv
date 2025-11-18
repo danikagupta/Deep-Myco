@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Acid Maroon V,Enterobacter dissolvens,100 mg l-1,10% (v/v) inoculum,static,30 °C,not specified,7 ± 0.2,119.34 ± 7.4 U ml-1,whole fungi,
+Acid Maroon V,Pseudomonas aeruginosa,100 mg l-1,10% (v/v) inoculum,static,30 °C,not specified,7 ± 0.2,51.58 ± 2.8 U ml-1,whole fungi,
+Methyl Red,Enterobacter dissolvens,24 µM,not specified,not specified,30 °C,4 min pre-incubation,7,287.07 ± 12 U ml-1,whole fungi,
+Methyl Red,Pseudomonas aeruginosa,24 µM,not specified,not specified,30 °C,4 min pre-incubation,7,205.33 ± 8 U ml-1,whole fungi,
+Methyl Red,Enterobacter dissolvens,24 µM,not specified,not specified,30 °C,not specified,not specified,312.54 ± 13.5 U ml-1,whole fungi,NADH was used as electron donor
+Methyl Red,Pseudomonas aeruginosa,24 µM,not specified,not specified,30 °C,not specified,not specified,165.87 ± 14.77 U ml-1,whole fungi,NADH was used as electron donor
+Methyl Red,Enterobacter dissolvens,not specified,not specified,not specified,not specified,not specified,not specified,"K_m = 50 μM, V_max = 2222 U ml-1",whole fungi,Kinetic study conducted
+Methyl Red,Pseudomonas aeruginosa,not specified,not specified,not specified,not specified,not specified,not specified,"K_m = 250 μM, V_max = 1000 U ml-1",whole fungi,Kinetic study conducted

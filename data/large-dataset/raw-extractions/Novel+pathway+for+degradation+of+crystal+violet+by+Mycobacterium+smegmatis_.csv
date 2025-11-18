@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Crystal violet,Amycolatopsis orientalis SY6,10 µg/ml,Not specified,None specified,30°C,5 min,Not specified,Visible clearing observed,Whole fungi,Rapid degradation observed within 5 minutes
+Crystal violet,Amycolatopsis orientalis SY6,10 µg/ml,Not specified,None specified,30°C,10 min,Not specified,Dramatic decrease in intensity,Whole fungi,TLC showed four main bands
+Crystal violet,Amycolatopsis orientalis SY6,10 µg/ml,Not specified,None specified,30°C,20 min,Not specified,Dramatic decrease in intensity,Whole fungi,TLC showed stability of lower bands
+Crystal violet,Amycolatopsis orientalis SY6,10 µg/ml,Not specified,None specified,30°C,30 min,Not specified,No residual dye visible,Whole fungi,TLC confirmed extreme degradation
+Crystal violet,Amycolatopsis orientalis SY6,10 µg/ml,Not specified,None specified,30°C,60 min,Not specified,Colorless derivative generated,Whole fungi,Visual confirmation of complete detoxification
+Brilliant green,Amycolatopsis orientalis SY6,10 µg/ml,Not specified,None specified,Not specified,Not specified,Not specified,Effective decolorization observed,Whole fungi,Combined dye decolorization capability demonstrated
+Basic fuchsin,Amycolatopsis orientalis SY6,10 µg/ml,Not specified,None specified,Not specified,Not specified,Not specified,Effective decolorization observed,Whole fungi,Combined dye decolorization capability demonstrated
+Malachite green,Amycolatopsis orientalis SY6,10 µg/ml,Not specified,None specified,Not specified,Not specified,Not specified,Effective decolorization observed,Whole fungi,Combined dye decolorization capability demonstrated
+Combined triphenylmethane dyes,Amycolatopsis orientalis SY6,10 µg/ml (each dye),Not specified,None specified,Not specified,Not specified,Not specified,Effective decolorization of combined dyes,Whole fungi,Demonstrated no inhibition of E. coli in toxicity assays

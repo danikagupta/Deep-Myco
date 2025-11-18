@@ -1,0 +1,11 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Acid Black 48,Streptomyces ipomoeae,50 mM,0.4 U/mL,not specified,35 °C,24 h,8,0%,whole fungi,SilA was ineffective in decolorization.
+Acid Black 48,Streptomyces ipomoeae,50 mM,0.4 U/mL,not specified,35 °C,24 h,8,18.5 ± 1.04%,whole fungi,SilA + acetosyringone (AS) increased decolorization.
+Acid Black 48,Streptomyces ipomoeae,50 mM,0.4 U/mL,not specified,35 °C,24 h,8,1.67 ± 1.01%,whole fungi,SilA + syringaldehyde (SA) resulted in low decolorization.
+Acid Black 48,Streptomyces ipomoeae,50 mM,0.4 U/mL,not specified,35 °C,24 h,8,21.97 ± 4.43%,whole fungi,SilA + methyl syringate (MeS) showed better results.
+Acid Orange 63,Streptomyces ipomoeae,50 mM,0.4 U/mL,not specified,35 °C,24 h,8,0%,whole fungi,SilA was ineffective in decolorization.
+Acid Orange 63,Streptomyces ipomoeae,50 mM,0.4 U/mL,not specified,35 °C,24 h,8,3.76 ± 0.71%,whole fungi,SilA + AS increased decolorization.
+Acid Orange 63,Streptomyces ipomoeae,50 mM,0.4 U/mL,not specified,35 °C,24 h,8,0%,whole fungi,SilA + SA was ineffective.
+Acid Orange 63,Streptomyces ipomoeae,50 mM,0.4 U/mL,not specified,35 °C,24 h,8,13.96 ± 0.96%,whole fungi,SilA + MeS showed better results.
+Tartrazine,Streptomyces ipomoeae,50 mM,0.4 U/mL,not specified,60 °C,24 h,8,36-fold decrease in toxicity,whole fungi,SilA + MeS at high temperature showed optimal results.
+Acid Orange 63,Streptomyces ipomoeae,50 mM,0.4 U/mL,not specified,60 °C,24 h,8,70-fold increase in decolorization with higher mediator concentration,whole fungi,Increased mediator concentration improved decolorization.

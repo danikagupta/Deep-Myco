@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+4-(4'-sulfophenylazo)-phenol,Phanerochaete chrysosporium,50 µM,N/A,shaking,25 °C,1 hour,6.0,high oxidation rates observed,whole fungi,"HRP, MnP, and Lip oxidized this dye"
+2-(4'-sulfophenylazo)-phenol,Phanerochaete chrysosporium,50 µM,N/A,shaking,25 °C,1 hour,6.0,poor substrates for peroxidases,whole fungi,not oxidized by studied peroxidases
+Orange I,N/A,100 µM,N/A,shaking,25 °C,15 minutes,3.5,up to 63% reduction observed,N/A,maximum reduction at the lowest pH
+Orange I,N/A,200 µM,N/A,shaking,25 °C,10 minutes,7.0,90% decolorization,N/A,reaction monitored by UV-visible spectrophotometer
+Orange II,N/A,200 µM,N/A,shaking,25 °C,10 minutes,7.0,decolorization monitored,N/A,HPLC and UV-visible spectrophotometer used in analysis
+H2O2,N/A,10-100 mM,N/A,shaking,25 °C,10 minutes,7.0,increased OH generation observed,N/A,observed effects on azo dye oxidation
+Crocein Orange G,N/A,100 pM,N/A,shaking,25 °C,10 minutes,7.0,reduction studied,N/A,reaction kinetics observed via first-order kinetics

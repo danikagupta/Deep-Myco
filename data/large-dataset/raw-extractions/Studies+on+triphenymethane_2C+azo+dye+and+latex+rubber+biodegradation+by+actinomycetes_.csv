@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Crystal Violet,Pseudomonas geniculata,50 mg/L,107 cfu/ml,shaking,35°C,7 days,7,99%,whole fungi,No toxicity detected on Bacillus subtilis after 7 days of incubation.
+Crystal Violet,Pseudomonas geniculata,50 mg/L,107 cfu/ml,shaking,30°C,7 days,7,32 mm clear zone,whole fungi,
+Crystal Violet,Pseudomonas geniculata,50 mg/L,107 cfu/ml,shaking,20°C,7 days,7,0 mm clear zone,whole fungi,
+Crystal Violet,Pseudomonas geniculata,50 mg/L,107 cfu/ml,shaking,40°C,7 days,7,22.5 mm clear zone,whole fungi,
+Crystal Violet,Pseudomonas geniculata,50 mg/L,107 cfu/ml,shaking,35°C,3 days,7,50 mm clear zone,whole fungi,
+Crystal Violet,Pseudomonas geniculata,50 mg/L,107 cfu/ml,shaking,35°C,5 days,7,52.5 mm clear zone,whole fungi,
+Crystal Violet,Pseudomonas geniculata,50 mg/L,107 cfu/ml,shaking,35°C,9 days,7,63 mm clear zone,whole fungi,
+Crystal Violet,Pseudomonas geniculata,50 mg/L,107 cfu/ml,shaking,35°C,11 days,7,63 mm clear zone,whole fungi,

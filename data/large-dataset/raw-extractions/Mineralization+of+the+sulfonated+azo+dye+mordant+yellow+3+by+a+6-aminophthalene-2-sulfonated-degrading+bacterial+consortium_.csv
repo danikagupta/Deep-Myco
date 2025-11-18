@@ -1,0 +1,12 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+4-(4'-sulfophenylazo)-phenol,Phanerochaete chrysosporium,50 µM,Not specified,Not specified,Room temperature,Not specified,6.0,Various rates for different substrates,Whole fungus,"Oxidized by horseradish peroxidase (HRP), manganese peroxidase (MnP), and lignin peroxidase (Lip)"
+2-(4'-sulfophenylazo)-phenol,Phanerochaete chrysosporium,50 µM,Not specified,Not specified,Room temperature,Not specified,6.0,Not oxidized,Whole fungus,Poor substrates for peroxidases
+Crocein Orange G,Not applicable,300 µM,Not applicable,Shaking,Room temperature,10 minutes,7.0,Complete in 10 minutes,Not applicable,Reduced by zero-valent iron (FeO) to form sulfanilic acid
+Orange II,Not applicable,200 µM,Not applicable,Shaking,25°C,10 minutes,7.0,90% decolorization observed,Not applicable,Analyzed for reduction products via HPLC
+Orange II,None,200 pM,Not applicable,Orbital shaking,Room temperature,2 minutes,7.0,Complete decolorization,Not applicable,Affected by KNO3 presence
+4-hydroxyazobenzene,Not applicable,200 pM,Not applicable,Not specified,Room temperature,Not specified,7.0,43% reduction observed,Not applicable,Analyzed for products generated post-reduction
+NADH,Not applicable,50 pM,Not applicable,Not specified,25°C,40 minutes,3.5,>93% reduction observed,Not applicable,"Reduction kinetics measured, involving multiple hydrides"
+Orange I,Not applicable,50 pM,Not applicable,Not specified,25 °C,1 hour,4.0,75% reduction observed,Not applicable,Reduction monitored spectrophotometrically
+Various Azo Dyes,None,200 µM,Not applicable,Orbital shaking,Room temperature,Not specified,7.0,Comparative reduction rates observed,Not applicable,Kinetic analysis for different azo structures performed
+Tartrazine,None,300 µM,Not applicable,Shaking,Room temperature,Not specified,7.0,Rapid reduction rates using zero-valent iron,Not applicable,Investigated with various substituents for QSAR
+3-Nitro-substituted azo dye,None,Not specified,Not applicable,Not specified,Room temperature,Not specified,Not specified,Not reduced,Not applicable,Comparison with other substituted dyes revealed selectivity

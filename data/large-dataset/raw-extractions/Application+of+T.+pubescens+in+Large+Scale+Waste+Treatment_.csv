@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Cadmium,Trametes pubescens,10 mg/L,Not specified,Not specified,28°C,15 days,4.5,53.13% removal rate,Mycelium,Maximum removal rate at this concentration
+Cadmium,Trametes pubescens,100 mg/L,Not specified,Shaking,28°C,15 days,4.5,6.565 mg/g biosorption,Mycelium,Biosorption capacity increased up to saturation
+Cadmium,Trametes pubescens,5 mg/L,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Mycelium,FTIR analysis showed interaction with functional groups
+Cadmium,Trametes pubescens,10 mg/L,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Colonized mycelium,"Reduced Cd accumulation in rice by 53.54% in roots, 86.38% in shoots"
+Cadmium,Trametes pubescens,10 mg/L,Not specified,Not specified,Not specified,15 days,Not specified,Prevented Cd-induced damage,Mycelium,Helped in nutrient absorption and growth promotion

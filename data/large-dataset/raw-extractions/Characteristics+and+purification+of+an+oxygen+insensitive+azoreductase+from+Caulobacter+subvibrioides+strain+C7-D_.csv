@@ -1,0 +1,11 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Acid Maroon V,Enterobacter dissolvens AGYP1,100 mg l-1,10% (v/v) inoculum of 0.5 OD 600,static conditions,30 °C,not specified,7,119.34±7.4 U ml-1,whole fungi,
+Acid Maroon V,Pseudomonas aeruginosa AGYP2,100 mg l-1,10% (v/v) inoculum of 0.5 OD 600,static conditions,30 °C,not specified,7,51.58±2.8 U ml-1,whole fungi,
+Methyl Red,Enterobacter dissolvens AGYP1,24 µM,not specified,not specified,30 °C,not specified,7,287.07±12 U ml-1,whole fungi,
+Methyl Red,Pseudomonas aeruginosa AGYP2,24 µM,not specified,not specified,30 °C,not specified,7,205.33±8 U ml-1,whole fungi,
+Acid Maroon V,Enterobacter dissolvens AGYP1,100 mg l-1,10% (v/v) inoculum of 0.5 OD 600,static conditions,30 °C,not specified,not specified,11.34±2 U ml-1,whole fungi,
+Acid Maroon V,Pseudomonas aeruginosa AGYP2,100 mg l-1,10% (v/v) inoculum of 0.5 OD 600,static conditions,30 °C,not specified,not specified,6.23±0.6 U ml-1,whole fungi,
+Methyl Red,Enterobacter dissolvens AGYP1,24 µM,not specified,not specified,not specified,not specified,not specified,not specified,whole fungi,pH optimum shown in a figure
+Methyl Red,Pseudomonas aeruginosa AGYP2,24 µM,not specified,not specified,not specified,not specified,not specified,not specified,whole fungi,pH optimum shown in a figure
+not specified,Enterobacter dissolvens AGYP1,not specified,not specified,not specified,30 °C,not specified,7,312.54±13.5 U ml-1,whole fungi,
+not specified,Pseudomonas aeruginosa AGYP2,not specified,not specified,not specified,30 °C,not specified,7,165.87±14.77 U ml-1,whole fungi,

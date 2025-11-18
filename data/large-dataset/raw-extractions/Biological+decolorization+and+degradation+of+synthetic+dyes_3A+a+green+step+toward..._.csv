@@ -1,0 +1,11 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Acid Maroon V,Enterobacter dissolvens (ED),100 mg l-1,10% (v/v) inoculum of 0.5 OD 600,static,30 °C,not specified,7±0.2,119.34±7.4 U ml-1,whole fungi,activity measured after decolorization
+Acid Maroon V,Pseudomonas aeruginosa (PA),100 mg l-1,10% (v/v) inoculum of 0.5 OD 600,static,30 °C,not specified,7±0.2,51.58±2.8 U ml-1,whole fungi,activity measured after decolorization
+Methyl Red,Enterobacter dissolvens (ED),24 µM,not specified,not specified,30 °C,4 min pre-incubation,7,287.07±12 U ml-1,whole fungi,activity measured using UV-visible spectrophotometer
+Methyl Red,Pseudomonas aeruginosa (PA),24 µM,not specified,not specified,30 °C,4 min pre-incubation,7,205.33±8 U ml-1,whole fungi,activity measured using UV-visible spectrophotometer
+Methyl Red,Enterobacter dissolvens (ED),0.1 to 2 mM,not specified,not specified,30 °C,not specified,7,Max activity 318.57±4.8 U ml-1 at 1 mM NADH,whole fungi,activity decreases at higher NADH concentrations
+Methyl Red,Pseudomonas aeruginosa (PA),0.1 to 2 mM,not specified,not specified,30 °C,not specified,7,Max activity 169.34±3.4 U ml-1 at 1 mM NADH,whole fungi,activity decreases at higher NADH concentrations
+Methyl Red,Enterobacter dissolvens (ED),not specified,not specified,not specified,30 °C,not specified,not specified,Maximum activity at pH 7 (315.58±8.4 U ml-1),whole fungi,pH activity data shown in Figure 1
+Methyl Red,Pseudomonas aeruginosa (PA),not specified,not specified,not specified,30 °C,not specified,not specified,Maximum activity at pH 7 (161.71±2.7 U ml-1),whole fungi,pH activity data shown in Figure 1
+Acid Maroon V,Enterobacter dissolvens (ED),100 mg l-1,10% (v/v) inoculum of 0.5 OD 600,static,30 °C,not specified,7±0.2,Specific activity 51.72 U mg-1 protein,whole fungi,specific activity reported after partial purification
+Acid Maroon V,Pseudomonas aeruginosa (PA),100 mg l-1,10% (v/v) inoculum of 0.5 OD 600,static,30 °C,not specified,7±0.2,Specific activity 33.06 U mg-1 protein,whole fungi,specific activity reported after partial purification

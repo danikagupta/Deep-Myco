@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Methyl Red,Enterococcus faecalis,20 µM,Not Applicable,gentle shaking,room temperature,10 min,7.5,yes,whole fungi,
+Methyl Red,Enterococcus faecalis,20 µM,Not Applicable,constant current electrophoresis,4 °C,Not Applicable,8.3,yes,whole fungi,Qualitative assessment via native PAGE
+Methyl Red,Enterococcus faecalis,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Vmax determined for different concentrations of substrates
+Methyl Red,Enterococcus faecalis,10 µM,Not Applicable,shaking,25 °C,2 min,7.2,yes,whole fungi,Quantitative assay conducted with 0.5 mM NADPH and 20 µM FMN
+Methyl Red,Enterococcus faecalis,20 µM,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,180-fold preference for NADH,whole fungi,Appeared in comparative analysis of kinetic parameters

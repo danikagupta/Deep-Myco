@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+amido black,Amycolatopsis orientalis,10 µg/ml,high cell density,shaking,30°C,48 hours,unknown,complete,mycelial,transformation led to biodegradative ability
+crystal violet,Amycolatopsis orientalis,10 µg/ml,high cell density,shaking,37°C,60 min.,unknown,significant color removal,mycelial,initial absorbance monitored
+crystal violet,Amycolatopsis orientalis,10 µg/ml,unknown,unknown,unknown,20 min.,unknown,decolorization observed,mycelial,decolorization monitored using TLC
+combined triphenylmethane dyes,Amycolatopsis orientalis,10 µg/ml each,unknown,unknown,37°C,unknown,unknown,complete degradation,mycelial,multiple dyes successfully decolorized
+amido black, Amycolatopsis orientalis,10 µg/ml,unknown,unknown,unknown,unknown,unknown,showing potential,mycelial,associated genes identified

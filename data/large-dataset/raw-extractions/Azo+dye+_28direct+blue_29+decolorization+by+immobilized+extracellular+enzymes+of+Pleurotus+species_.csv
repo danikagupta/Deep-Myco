@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Phenol Red,P. flabellatus,300 mg/l,5 ml,stagnant,25°C,20 days,5.5,Maximally decolorized,mycelium,Figure 5 shows the decolorization results.
+Phenol Red,P. ostreatus,300 mg/l,5 ml,stagnant,25°C,20 days,5.5,Decolorized,mycelium,Figure 5 shows the decolorization results.
+Phenol Red,P. citrinopileatus,300 mg/l,5 ml,stagnant,25°C,20 days,5.5,Decolorized,mycelium,Figure 5 shows the decolorization results.
+Phenol Red,Improved dikaryon Poc 9X6,300 mg/l,5 ml,stagnant,25°C,20 days,5.5,Maximally decolorized,mycelium,Figure 5 shows the decolorization results.
+Phenol Red,Improved dikaryon Pfo 6X9,300 mg/l,5 ml,stagnant,25°C,20 days,5.5,Decolorized,mycelium,Figure 5 shows the decolorization results.
+Phenol Red,Improved dikaryon Poc 9X6,300 mg/l,3 ml,150 rpm orbitary shaker,25°C,10 days,5.5,Maximally decolorized,mycelium,Figure 6 illustrates the effect of age and concentration.
+Phenol Red,Improved dikaryon Poc 9X6,300 mg/l,5 ml,stagnant,25°C,10 days,0.1% Tween-80,Maximally decolorized,mycelium,Figure 7 shows the effect of surfactants.
+Phenol Red,Improved dikaryon Poc 9X6,300 mg/l,5 ml,stagnant,25°C,10 days,0.5 mM SDS,Maximally decolorized,mycelium,Figure 7 shows the effect of surfactants.

@@ -1,0 +1,11 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Reactive Red HE8B,Phanerochaete chrysosporium,10 mg/L,10 mm agar plugs,static,27°C,13 days,not specified,complete,whole fungi,"Figures 1, 2a-h show decolorization"
+Reactive Black B,Phanerochaete chrysosporium,10 mg/L,10 mm agar plugs,static,27°C,11 days,not specified,complete,whole fungi,"Figures 1, 2a-h show decolorization"
+Reactive Golden Yellow HR,Phanerochaete chrysosporium,10 mg/L,10 mm agar plugs,static,27°C,11 days,not specified,complete,whole fungi,"Figures 1, 2a-h show decolorization"
+Reactive Violet 5R,Phanerochaete chrysosporium,10 mg/L,10 mm agar plugs,static,27°C,11 days,not specified,complete,whole fungi,"Figures 1, 2a-h show decolorization"
+Reactive Red HE8B,Phanerochaete chrysosporium,50 mg/L,10 mm agar plugs,static,27°C,not specified,not specified,not specified,whole fungi,Monitoring at regular intervals noted increases in time for higher concentration
+Reactive Red HE8B,Phanerochaete chrysosporium,100 mg/L,10 mm agar plugs,static,27°C,not specified,not specified,not specified,whole fungi,Monitoring at regular intervals noted increases in time for higher concentration
+Reactive Red HE8B,Phanerochaete chrysosporium,250 mg/L,10 mm agar plugs,static,27°C,not specified,not specified,not specified,whole fungi,Monitoring at regular intervals noted increases in time for higher concentration
+Reactive Red HE8B,Phanerochaete chrysosporium,500 mg/L,10 mm agar plugs,static,27°C,not specified,not specified,not specified,whole fungi,Monitoring at regular intervals noted increases in time for higher concentration
+Reactive Red HE8B,Phanerochaete chrysosporium,10 mg/L,3 to 12 agar plugs,static,27°C,5 days,not specified,not specified,whole fungi,Figures 4 shows effect of inoculum size
+Reactive Red HE8B,Phanerochaete chrysosporium,10 mg/L,10 mm agar plugs with various carbon sources,static,27°C,not specified,not specified,heavily influenced by carbon source,whole fungi,Dextrose and asparagine were found to be excellent supports; sodium nitrite inhibited growth

@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+4-(4'-sulfophenylazo)-phenol,Phanerochaete chrysosporium,50 µM,,shaking,25°C,10 min,6.0,oxidized,whole fungi,
+2-(4'-sulfophenylazo)-phenol,Phanerochaete chrysosporium,50 µM,,shaking,25°C,10 min,6.0,poor substrate,whole fungi,
+Orange I,,200 pM,,shaking,25°C,15 min,3.5,93%,,
+Orange I,,50 µM,,shaking,25°C,10 min,3.5,complete,,
+Orange I,,50 µM,,shaking,25°C,1 h,4.0,93.3%,,
+Crocein Orange G,,300 µM,,shaking,25°C,10 min,7.0,80%,,
+4-Hydroxyazobenzene,,200 µM,,shaking,25°C,10 min,3.5,56%,,
+4-(4'-sulfophenylazo)-phenol,,200 µM,,shaking,25°C,10 min,6.0,66%,,
+2-(4'-sulfophenylazo)-phenol,,200 µM,,shaking,25°C,10 min,6.0,50%,,

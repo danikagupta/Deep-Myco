@@ -1,0 +1,11 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether fungi was mycellium, fungal mass or whole fungi",any additional information
+,,,,,,,6.5-8.3,,,Sediment samples were collected from 5 ponds and wetlands at a passive coal mine drainage bioremediation site.
+,,,,,<20 °C,varied by sampling years,,,,"Environmental data like temperature, pH, dissolved oxygen, turbidity and conductivity were collected from previous surveys for the sites."
+,,,,,10-18 °C,varied by sampling years,,,,Temperatures during data collection varied; differences related to years of sampling.
+,"Proteobacteria, Bacteroidetes, Firmicutes, Verrucomicrobia",,,,,,,,,Microbial communities varied across the five ponds with different organisms represented.
+,"Anaeromyxobacter, Desulfobacterium, Desulfobulbus",,,,,,,,,These genera were among the common organisms found in anaerobic conditions.
+,"Solitalea, Pedosphaera, Rhodocyclus, Alkaliflexus, Chitinophaga",,,,,,,,,These genera were significantly represented in Pond 1.
+,"Ignavibacterium, Pelotomaculum",,,,,,,,,Notable fold change between wetlands and Pond 1.
+,"Geobacter, Cytophaga",,,,,,,,,Present in the top three genera among all five sites.
+,Bacteroidetes,,,,,,,,,This group was present in all five sites examined.
+,"Desulfobacterium, Desulfobulbus",,,,,,,,,Found in similar conditions and part of the sulfur cycle.

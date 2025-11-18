@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Amido Black,Amycolatopsis orientalis SY6,10 µg/ml,N/A,shaking,37°C,prolonged incubation,6.5,yes,mycelial,"Decolorization visible from initial growth, accompanied by a color change."
+Brilliant Green,Amycolatopsis orientalis SY6,10 µg/ml,N/A,shaking,37°C,prolonged incubation,6.5,yes,mycelial,Decolorized to colorless derivatives.
+Azo Dyes (combined),Amycolatopsis orientalis SY6,10 µg/ml each,N/A,shaking,37°C,N/A,6.5,yes,mycelial,Combination of dyes decolorized effectively.
+Crystal Violet,Streptomyces lividans,10 µg/ml,N/A,shaking,37°C,3 days,7.0,yes,mycelial,Expressed with notable decolorization.
+Amido Black,Rhodococcus erythropolis SQ1,10 µg/ml,N/A,shaking,37°C,N/A,N/A,no,mycelial,No significant activity as per control group.

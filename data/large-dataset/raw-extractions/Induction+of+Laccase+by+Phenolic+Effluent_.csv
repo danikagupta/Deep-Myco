@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+phenol,Trametes versicolor,20%,not specified,static,28°C,1 day,not specified,5.99 mM residual after 1 day,whole fungi,highest phenolic monomers removed to date.
+p-cresol,Trametes versicolor,20%,not specified,static,28°C,1 day,not specified,0 mM residual after 1 day,whole fungi,successful complete removal.
+m-cresol,Trametes versicolor,20%,not specified,static,28°C,1 day,not specified,0 mM residual after 1 day,whole fungi,successful complete removal.
+o-cresol,Trametes versicolor,20%,not specified,static,28°C,1 day,not specified,0.04 mM residual after 1 day,whole fungi,successful removal.
+p-cresol,Trametes pubescens,2.5% (v/v),not specified,agitated,28°C,7 days,not specified,increased laccase activity by 3 times,whole fungi,laccase production observed.
+cresylic effluent,Trametes pubescens,5% (v/v),not specified,agitated,28°C,not specified,not specified,removal of phenolic compounds within 1 day,whole fungi,observed phenolic compound removal.
+p-cresol,Trametes pubescens,10% (v/v),not specified,agitated,28°C,daily addition,not specified,complete removal,whole fungi,removal of toxic aromatic compounds.
+mixed phenolics,Trametes pubescens,5%,not specified,agitated,not specified,16 days,not specified,total removal achieved,whole fungi,highest removal rate achieved.

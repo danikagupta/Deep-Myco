@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Sudan Orange G,Bacillus subtilis,50 µM,Not specified,shaking at 600 rpm,37°C,24 h,8,85-98%,whole fungi,Presence and absence of 5 µM ABTS used as redox mediator
+Acid Blue 62,Bacillus subtilis,50 µM,Not specified,shaking at 600 rpm,37°C,24 h,8,85-98%,whole fungi,Presence and absence of 5 µM ABTS used as redox mediator
+Reactive Black 5,Bacillus subtilis,50 µM,Not specified,shaking at 600 rpm,37°C,24 h,8,85-98%,whole fungi,Presence and absence of 5 µM ABTS used as redox mediator
+Direct Red R,Bacillus subtilis,50 µM,Not specified,shaking at 600 rpm,37°C,24 h,8,38-60%,whole fungi,Presence and absence of 5 µM ABTS used as redox mediator
+Direct Black 38,Bacillus subtilis,50 µM,Not specified,shaking at 600 rpm,37°C,24 h,8,38-60%,whole fungi,Presence and absence of 5 µM ABTS used as redox mediator
+Disperse Yellow 3,Bacillus subtilis,50 µM,Not specified,shaking at 600 rpm,37°C,24 h,8,8%,whole fungi,Presence and absence of 5 µM ABTS used as redox mediator

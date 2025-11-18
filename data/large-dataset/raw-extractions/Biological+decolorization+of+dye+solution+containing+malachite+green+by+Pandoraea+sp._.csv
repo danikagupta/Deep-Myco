@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Malachite green,Pleurotus eryngii,10 mg/L,10.0 g/L,shaking,25°C,120 min,7.0,47.2%,mycelium,
+Malachite green,Pleurotus eryngii,150 mg/L,10.0 g/L,shaking,25°C,120 min,7.0,2.32%,mycelium,
+Malachite green,Pleurotus eryngii,20 mg/L,10.0 g/L,shaking,20°C,120 min,7.0,higher rate observed,mycelium,
+Malachite green,Pleurotus eryngii,20 mg/L,10.0 g/L,shaking,30°C,120 min,6.0,97.4%,mycelium,optimal conditions found
+Malachite green,Pleurotus eryngii,20 mg/L,10.0 g/L,shaking,50°C,120 min,7.0,decrease noted above 50°C,mycelium,
+Malachite green,Pleurotus eryngii,20 mg/L,10.0 g/L,shaking,30°C,120 min,9.0,93.6%,mycelium,
+Malachite green,Pleurotus eryngii,10 mg/L,10.0 g/L,shaking,30°C,2 h,7.0,97.5%,mycelium,DyP-PE used for decolorization
+Malachite green,Pleurotus eryngii,20 mg/L,10.0 g/L,shaking,30°C,2 h,7.0,94.3%,mycelium,DyP-PE used for decolorization
+Malachite green,Pleurotus eryngii,30 mg/L,10.0 g/L,shaking,30°C,2 h,7.0,90.2%,mycelium,DyP-PE used for decolorization

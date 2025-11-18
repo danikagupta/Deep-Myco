@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Indanthrene Blue RS,Bacterial consortium,500 mg L-1,3.0 x 10^6 CFU mL-1,Continuous up-flow,30 ± 3 ºC,20 days,10.0,90%,Bacterial consortium,The study explores various flow rates and concentration settings.
+Indanthrene Blue RS,Bacterial consortium,100 mg L-1,3.0 x 10^6 CFU mL-1,Continuous up-flow,30 ± 3 ºC,20 days,10.0,above 90%,Bacterial consortium,Explored in combination with flow rate affecting removal efficiency.
+Indanthrene Blue RS,Bacterial consortium,200 mg L-1,3.0 x 10^6 CFU mL-1,Continuous up-flow,30 ± 3 ºC,20 days,10.0,above 90%,Bacterial consortium,Combined with varying inlet loading rates.
+Indanthrene Blue RS,Bacterial consortium,300 mg L-1,3.0 x 10^6 CFU mL-1,Continuous up-flow,30 ± 3 ºC,20 days,10.0,above 90%,Bacterial consortium,The study also explores the effect of variable feed flow rates.
+Indanthrene Blue RS,Bacterial consortium,400 mg L-1,3.0 x 10^6 CFU mL-1,Continuous up-flow,30 ± 3 ºC,20 days,10.0,decreased significantly,Bacterial consortium,Observed a decrease in removal efficiency at higher concentrations.
+Indanthrene Blue RS,Bacterial consortium,500 mg L-1,3.0 x 10^6 CFU mL-1,Continuous up-flow,30 ± 3 ºC,20 days,10.0,around 75.2%,Bacterial consortium,The relationship between the inlet loading rates and removal efficiencies was analyzed.
+Indanthrene Blue RS,Bacterial consortium,200 mg L-1,1.5 x 10^6 CFU mL-1,Batch reactor,30 ºC,24 hours,10.0,95.2%,Bacterial consortium,Tested under optimized conditions for batch processing.

@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+amido black,A. orientalis SY6,10 µg/ml,N/A,shaking,30°C,under 2 days,N/A,distinct color change from blue to violet,mycelial,Capable of decolorizing at higher concentrations with acclimatization.
+crystal violet,A. orientalis SY6,10 µg/ml,N/A,N/A,37°C,60 min,N/A,significant reduction observed,mycelial,Thin layer chromatography showed reduction in chromophore intensity.
+brilliant green,A. orientalis SY6,10 µg/ml,N/A,shaking,30°C,under 1 hour,N/A,decolorized to colorless derivatives,mycelial,Demonstrated efficiency in liquid media.
+mixed triphenylmethane dyes,A. orientalis SY6,10 µg/ml,N/A,N/A,37°C,N/A,N/A,66% decolorization,mycelial,Adequate decolorization for combination of dyes.
+crystal violet,R. erythropolis SQ1 and M. smegmatis mc2 155,10 µg/ml,N/A,N/A,N/A,60 min,N/A,similar banding patterns on TLC,varies,Results compared to A. orientalis SY6.
+crystal violet,A. orientalis SY6,30 µg/ml,N/A,N/A,N/A,N/A,N/A,struggled to mineralize,mycelial,Maximum concentration limit observed.
+amido black,A. orientalis SY6,varied,N/A,shaking,N/A,2 hours,N/A,inhibition observed,mycelial,Check against glucose supplemented media.

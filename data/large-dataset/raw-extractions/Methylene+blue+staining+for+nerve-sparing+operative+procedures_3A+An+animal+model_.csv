@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Methylene Blue,Desmodesmus sp.,20 mg.L-1,0.25 g.L-1,not specified,25 °C,6 days,6.8,98.4%,whole fungi,
+Methylene Blue,Desmodesmus sp.,5 mg.L-1,0.25 g.L-1,not specified,25 °C,6 days,6.8,95.7%,whole fungi,
+Malachite Green,Desmodesmus sp.,20 mg.L-1,0.25 g.L-1,not specified,25 °C,4 days,6.8,89.1%,whole fungi,
+Malachite Green,Desmodesmus sp.,5 mg.L-1,0.25 g.L-1,not specified,25 °C,8 days,6.8,57.4%,whole fungi,

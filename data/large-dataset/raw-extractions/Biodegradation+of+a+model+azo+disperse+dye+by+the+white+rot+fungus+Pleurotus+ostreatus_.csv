@@ -1,0 +1,13 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Orange II,Pleurotus ostreatus,100 ppm,N/A,shaking,30ºC,7 days,5,90%,whole fungi,ANOVA p-value: 4.44E-05 indicates significant effect of buffer concentration.
+Acid Red 29,Pleurotus ostreatus,100 ppm,N/A,shaking,30ºC,7 days,5,Significant decolorization achieved under optimum buffer concentration.,whole fungi,ANOVA p-value: 1.41E-06 indicates significant effect of buffer concentration.
+Remazol Brilliant Blue R,Pleurotus ostreatus,100 ppm,N/A,shaking,30ºC,7 days,5,Substantial decolorization observed.,whole fungi,ANOVA p-value indicates significant influence of buffer concentration.
+Disperse Red 1,Pleurotus ostreatus,50 ppm,N/A,shaking,30ºC,7 days,5,Not specified,whole fungi,"Primary products identified: nitrobenzene, 4-nitrophenol, 4-nitroaniline."
+Disperse Red 1,Pleurotus ostreatus,100 ppm,N/A,shaking,30ºC,7 days,5,Not specified,whole fungi,Production of 4-nitrophenol observed.
+Disperse Red 1,Pleurotus ostreatus,200 ppm,N/A,shaking,30ºC,7 days,5,Not specified,whole fungi,Lower production of degradation products compared to lower concentrations.
+4-nitrophenol,Pleurotus ostreatus,25 ppm,N/A,shaking,30ºC,7 days,5,90% after 5 days.,whole fungi,Secondary degradation products included: 4-nitroanisole.
+4-nitrophenol,Pleurotus ostreatus,50 ppm,N/A,shaking,30ºC,7 days,5,Not specified,whole fungi,Increased production of 4-nitroanisole.
+4-nitrophenol,Pleurotus ostreatus,100 ppm,N/A,shaking,30ºC,7 days,5,Negligible degradation.,whole fungi,Highest concentration prevented significant degradation.
+4-nitroaniline,Pleurotus ostreatus,25 ppm,N/A,shaking,30ºC,7 days,5,40% degradation observed.,whole fungi,Production of nitrobenzene and 4-nitrophenol confirmed.
+4-nitroaniline,Pleurotus ostreatus,50 ppm,N/A,shaking,30ºC,7 days,5,40% degradation observed.,whole fungi,Nitrobenzene produced during degradation.
+4-nitroaniline,Pleurotus ostreatus,100 ppm,N/A,shaking,30ºC,7 days,5,20% degradation observed.,whole fungi,Lower degradation efficiency compared to 50 ppm.

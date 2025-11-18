@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+carpet dye,Aspergillus niger,5 ml,1 ml inoculum,shaking at 200 rpm,27 °C,7 days,1.62,99.7%,mycelium,pH decreased significantly during incubation
+carpet dye,Aspergillus niger,10 ml,1 ml inoculum,shaking at 200 rpm,27 °C,7 days,1.40,99.7%,mycelium,pH decreased significantly during incubation
+carpet dye,Aspergillus niger,20 ml,1 ml inoculum,shaking at 200 rpm,27 °C,7 days,1.61,88% decrease in COD,mycelium,pH decreased significantly during incubation
+carpet dye,Aspergillus niger,30 ml,1 ml inoculum,shaking at 200 rpm,27 °C,7 days,1.60,88% decrease in COD,mycelium,pH decreased significantly during incubation
+carpet dye,Aspergillus niger,40 ml,1 ml inoculum,shaking at 200 rpm,27 °C,7 days,1.46,88% decrease in COD,mycelium,pH decreased significantly during incubation

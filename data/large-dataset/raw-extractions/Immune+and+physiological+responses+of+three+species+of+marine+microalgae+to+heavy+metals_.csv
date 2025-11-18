@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Zinc,Monoraphidium pusillum,20 mg l-1,200 ml culture per flask,bubbled with sterile air,24 °C,7 days,7-7.5,29.3 mg g-1 of zinc removed,whole fungi,100% values obtained from control culture
+Zinc,Monoraphidium pusillum,40 mg l-1,200 ml culture per flask,bubbled with sterile air,24 °C,7 days,7-7.5,not specified,whole fungi,Morphological changes observed
+Zinc,Monoraphidium grifffithii,10 mg l-1,200 ml culture per flask,bubbled with sterile air,24 °C,3 days,7-7.5,29.7 mg g-1 of zinc removed,whole fungi,Result expressed as a percentage of initial zinc content
+Zinc,Monoraphidium grifffithii,30 mg l-1,200 ml culture per flask,bubbled with sterile air,24 °C,7 days,7-7.5,not specified,whole fungi,Growth inhibition observed

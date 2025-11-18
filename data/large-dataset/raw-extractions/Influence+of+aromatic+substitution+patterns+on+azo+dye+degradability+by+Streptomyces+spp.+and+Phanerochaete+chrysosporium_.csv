@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+4-(4'-sulfopheny1azo)-phenol,Phanerochaete chrysosporium,50 µM,Not applicable,shaking,25°C,40 min,6.0,Complete,Whole fungi,HRP oxidized all mono-substituted dyes except nitro-substituted. HRP showed high activity with multiple substitutions.
+2-(4'-sulfopheny1azo)-phenol,Phanerochaete chrysosporium,50 µM,Not applicable,shaking,25°C,40 min,6.0,Not oxidized,Whole fungi,Low substrate specificity for 2-(4'-sulfopheny1azo)-phenol.
+Orange I,Not applicable,200 µM,Not applicable,shaking,25°C,10 min,7.0,90.2%,Not applicable,Optimized using FeII/H2O2 system.
+4-hydroxyazobenzene,Not applicable,200 µM,Not applicable,shaking,25°C,10 min,7.0,68.1%,Not applicable,Reduction observed through formation of aromatic amines.
+Allura Red,Not applicable,200 µM,Not applicable,shaking,25°C,10 min,7.0,58.0%,Not applicable,Hydroxyl radical oxidation tests performed.
+Sunset Yellow FCF,Not applicable,200 µM,Not applicable,shaking,25°C,10 min,7.0,Early stages decolorization observed,Not applicable,Further tests scheduled for additional time points.
+Mordant Orange 1,Not applicable,200 µM,Not applicable,shaking,25°C,10 min,2.5,70%,Not applicable,Dye structure and solvent effects examined.
+Crocein Orange G,Not applicable,200 µM,Not applicable,shaking,25°C,10 min,7.0,Rate dependent on mixing,Not applicable,Kinetics affected by mixing rates.
+Acid Blue 113,Not applicable,60 µM,Not applicable,shaking,25°C,10 min,7.0,90-93%,Not applicable,Reduction kinetics assessed.

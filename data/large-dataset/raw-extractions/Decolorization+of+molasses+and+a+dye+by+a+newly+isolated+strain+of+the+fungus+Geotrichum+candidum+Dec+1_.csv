@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+kraft pulp bleaching effluent,Geotrichum candidum Dec 1,30 g/l,not specified,shaking,30°C,7 days,5.0,78%,mycelium,Reduction of absorbable organic halogens was 43%.
+kraft pulp bleaching effluent,Geotrichum candidum Dec 1,20 g/l,not specified,shaking,30°C,6 days,5.0,78%,mycelium,
+kraft pulp bleaching effluent,Geotrichum candidum Dec 1,5 g/l,not specified,shaking,30°C,3 days,5.0,47%,mycelium,Color removal decreased to 0 after 4 days.
+kraft pulp bleaching effluent,Geotrichum candidum Dec 1,10 g/l,not specified,shaking,30°C,4 days,5.0,color adsorption to cells led to 71% removal,mycelium,
+kraft pulp bleaching effluent,Geotrichum candidum Dec 1,30 g/l,not specified,shaking,30°C,10 days,5.0,color removal maintained >70% after 4 days,mycelium,Pellet color increased with incubation.
+commercial lignin,Geotrichum candidum Dec 1,1 g/l,not specified,not specified,30°C,14 days,not specified,decolorization observed,whole fungi,Results illustrated in figure.

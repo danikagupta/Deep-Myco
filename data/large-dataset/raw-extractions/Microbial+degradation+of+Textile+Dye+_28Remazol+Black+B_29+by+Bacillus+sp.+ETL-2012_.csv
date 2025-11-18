@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Remazol Black B,Bacillus spp.,100 mg/l,10% inoculum (OD600 1.0),static,37°C,24 hours,6,99%,whole fungi,
+Remazol Black B,Bacillus spp.,50 mg/l,10% inoculum (OD600 1.0),static,37°C,24 hours,6,increased with concentration,whole fungi,
+Remazol Black B,Bacillus spp.,100 mg/l,10% inoculum (OD600 1.0),static,37°C,24 hours,7.5,95%,whole fungi,
+Remazol Black B,Bacillus spp.,100 mg/l,10% inoculum (OD600 1.0),static,28°C,24 hours,7.5,complete at 27°C,whole fungi,
+Remazol Black B,Bacillus spp.,100 mg/l,10% inoculum (OD600 1.0),static,40°C,24 hours,7.5,complete at 40°C,whole fungi,
+Remazol Black B,Bacillus spp.,100 mg/l,10% inoculum (OD600 1.0),static,45°C,24 hours,7.5,none,whole fungi,
+Remazol Black B,Bacillus spp.,600 mg/l,10% inoculum (OD600 1.0),static,37°C,24 hours,7.5,inhibited,whole fungi,
+Remazol Black B,Bacillus spp.,100 mg/l,10% inoculum (OD600 1.0),static,37°C,up to third cycle of dye addition,7.5,100% up to third dye aliquot,whole fungi,

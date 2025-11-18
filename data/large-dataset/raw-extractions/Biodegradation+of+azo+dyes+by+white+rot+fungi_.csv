@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Ponceau 2R,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static,room temperature to 40 ºC,7 days,not specified,degraded,whole fungi,"Data represent means ± SEM, n=3."
+Orange G,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static,room temperature to 40 ºC,7 days,not specified,degraded,whole fungi,"Data represent means ± SEM, n=3."
+Direct Blue 71,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static,room temperature to 40 ºC,7 days,not specified,degraded,whole fungi,"Data represent means ± SEM, n=3."
+Biebrich Scarlet,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static,room temperature to 40 ºC,96 hours,not specified,incomplete degradation,whole fungi,"Data represent means ± SEM, n=3."
+Ponceau 2R,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static,not specified,>21 days,not specified,incomplete degradation,whole fungi,Azo dye used in nitrogen-limiting conditions.
+Orange G,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static,not specified,>21 days,not specified,incomplete degradation,whole fungi,Azo dye used in nitrogen-limiting conditions.
+Direct Blue 71,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static,not specified,>21 days,not specified,incomplete degradation,whole fungi,Azo dye used in nitrogen-limiting conditions.
+Biebrich Scarlet,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static,not specified,>21 days,not specified,incomplete degradation,whole fungi,Azo dye used in nitrogen-limiting conditions.

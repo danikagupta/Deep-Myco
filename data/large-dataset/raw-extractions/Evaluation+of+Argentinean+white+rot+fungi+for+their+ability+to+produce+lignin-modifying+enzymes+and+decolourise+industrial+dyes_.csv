@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+indigo carmine,Coriolus antarcticus,100 µM,40 days,solid state fermentation,28 °C,5 h,5.2,93,whole fungi,Maximum laccase and MnP activity achieved after 40 days.
+malachite green,Coriolus antarcticus,100 µM,40 days,solid state fermentation,28 °C,5 h,5.2,86,whole fungi,Maximum laccase and MnP activity achieved after 40 days.
+azure B,Coriolus antarcticus,100 µM,40 days,solid state fermentation,28 °C,5 h,5.2,82,whole fungi,Maximum laccase and MnP activity achieved after 40 days.
+remazol brilliant blue R,Coriolus antarcticus,100 µM,40 days,solid state fermentation,28 °C,5 h,5.2,82,whole fungi,Maximum laccase and MnP activity achieved after 40 days.
+crystal violet,Coriolus antarcticus,100 µM,40 days,solid state fermentation,28 °C,5 h,5.2,77,whole fungi,Maximum laccase and MnP activity achieved after 40 days.
+xylidine,Coriolus antarcticus,100 µM,40 days,solid state fermentation,28 °C,5 h,5.2,58,whole fungi,Maximum laccase and MnP activity achieved after 40 days.

@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Reactive Red 198,Penicillium simplicissimum,200 mg L-1,100 mg L-1,shaking (rotary shaker),28ºC,7 days,not specified,100%,fungal mass,
+Reactive Blue 21,Penicillium simplicissimum,200 mg L-1,100 mg L-1,shaking (rotary shaker),28ºC,2 days,not specified,100%,fungal mass,
+Reactive Blue 214,Penicillium simplicissimum,200 mg L-1,100 mg L-1,shaking (rotary shaker),28ºC,7 days,not specified,100%,fungal mass,
+"Mixture of Reactive Red 198, Reactive Blue 21, and Reactive Blue 214",Penicillium simplicissimum,66.6 mg L-1 for each dye,100 mg L-1,shaking (rotary shaker),28ºC,5 days,not specified,100%,fungal mass,
+Reactive Red 198,Penicillium simplicissimum,200 mg L-1,100 mg L-1,shaking (rotary shaker),28ºC,14 days,not specified,increased toxicity (Moderately acutely toxic),fungal mass,Toxicity increased from 30.8% to 9.5% after treatment
+Reactive Blue 214,Penicillium simplicissimum,200 mg L-1,100 mg L-1,shaking (rotary shaker),28ºC,14 days,not specified,remained minor acutely toxic (increased from 31.4% to 34.8%),fungal mass,
+Reactive Blue 21,Penicillium simplicissimum,200 mg L-1,100 mg L-1,shaking (rotary shaker),28ºC,14 days,not specified,reduced toxicity (increased from 1.1% to 20.3%),fungal mass,
+"Mixture of Reactive Red 198, Reactive Blue 21, and Reactive Blue 214",Penicillium simplicissimum,66.6 mg L-1 for each dye,100 mg L-1,shaking (rotary shaker),28ºC,14 days,not specified,reduced toxicity (increased from 42.1% to 49.8%),fungal mass,

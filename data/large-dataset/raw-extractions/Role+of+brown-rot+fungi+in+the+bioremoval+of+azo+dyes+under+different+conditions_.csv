@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Acid Red 151,A. flavus SA2,20 mg l-1,0.001% (w/v),shaking,30°C,192 hrs,5.6,97.70%,whole fungi,
+Acid Red 151,A. tereus SA3,20 mg l-1,0.001% (w/v),shaking,30°C,192 hrs,5.6,55%,whole fungi,
+Acid Red 151,Alternaria spp. SA4,20 mg l-1,0.001% (w/v),shaking,30°C,192 hrs,5.6,98.47%,whole fungi,
+Acid Red 151,Penicillium spp. SA5,20 mg l-1,0.001% (w/v),shaking,30°C,192 hrs,5.6,65%,whole fungi,
+Orange II,A. flavus SA2,20 mg l-1,0.001% (w/v),shaking,30°C,192 hrs,5.6,47.98%,whole fungi,
+Orange II,A. tereus SA3,20 mg l-1,0.001% (w/v),shaking,30°C,192 hrs,5.6,44.67%,whole fungi,
+Orange II,Alternaria spp. SA4,20 mg l-1,0.001% (w/v),shaking,30°C,192 hrs,5.6,58.66%,whole fungi,
+Orange II,Penicillium spp. SA5,20 mg l-1,0.001% (w/v),shaking,30°C,192 hrs,5.6,55.68%,whole fungi,

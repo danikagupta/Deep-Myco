@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Crystal Violet,Amycolatopsis orientalis SY6,10 µg/ml,High density,Shaking,37°C,60 min,6.5,100%,Mycelium,Rapid decolorization; two main bands observed on TLC
+Brilliant Green,Amycolatopsis orientalis SY6,10 µg/ml,High density,Shaking,37°C,60 min,6.5,100%,Mycelium,Decolorization to colorless derivatives
+Malachite Green,Amycolatopsis orientalis SY6,10 µg/ml,High density,Shaking,37°C,60 min,6.5,100%,Mycelium,Efficiency of decolorization observed
+Amido Black,Amycolatopsis orientalis SY6,10 µg/ml,High density,Shaking,37°C,60 min,6.5,Significant reduction observed,Mycelium,Color change from blue to violet
+Orange II,Amycolatopsis orientalis SY6,10 µg/ml,High density,Shaking,37°C,60 min,6.5,Observed,Mycelium,Not all dyes were effectively decolorized
+Biebrich Scarlet,Amycolatopsis orientalis SY6,10 µg/ml,High density,Shaking,37°C,60 min,6.5,Observed,Mycelium,Not all strains effective
+Congo Red,Amycolatopsis orientalis SY6,10 µg/ml,High density,Shaking,37°C,60 min,6.5,Observed,Mycelium,Results assessed through TLC
+Multiple Dyes,Amycolatopsis orientalis SY6,Combination of triphenylmethane dyes (10 µg/ml each),High density,Shaking,37°C,60 min,6.5,Combined effective decolorization,Mycelium,Complete biodegradation with combined clones

@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Methyl red,N/A,50 µM,N/A,N/A,N/A,N/A,8,paArsH and paMdaB showed higher rates with NADPH,N/A,Tested under varying concentrations of NAD(P)H
+Menadione,N/A,50 µM,N/A,N/A,N/A,N/A,8,paYieF was able to reduce it with both NADH and NADPH,N/A,paYieF showed significantly higher rate with NADPH
+Olsalazine,N/A,N/A,N/A,N/A,N/A,N/A,N/A,All three enzymes reduced olsalazine; it showed little reduction by paAzoR1-3,N/A,paArsH showed strong propensity for azo dyes
+"1,2-napthoquinone",N/A,N/A,N/A,N/A,N/A,N/A,N/A,paArsH showed a preference for napthoquinones,N/A,Testing was consistent with other substrates
+Phenol Blue,N/A,100 µM,N/A,N/A,N/A,1 minute,8,Rates determined over initial linear reaction portion,N/A,Used to measure the effect of flavin on activity
+Nitrofurazone,N/A,N/A,N/A,N/A,N/A,N/A,N/A,All azoreductases reduced nitrofurazone,N/A,Some showed rates 3-5 times faster than others

@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+amido black,A. orientalis SY6,10 µg/ml,not specified,shaking,30°C,2 days,not specified,visible color change from blue to violet,mycelial,Decolorization observed in liquid culture.
+brilliant green,A. orientalis SY6,10 µg/ml,not specified,shaking,30°C,<1 hour,not specified,decolorized to colorless derivatives,mycelial,Fast decolorization rate.
+crystal violet,A. orientalis SY6,30 µg/ml,not specified,shaking,30°C,varied,not specified,struggled to mineralize the dye at high concentration,mycelial,Decolorization monitored by TLC.
+crystal violet,Strain SY6,10 µg/ml,not specified,shaking,30°C,60 min,not specified,observed bands indicating significant decolorization,mycelial,Thin layer chromatography used to analyze results.
+mixed triphenylmethane dyes,Strain SY6,10 µg/ml each dye,not specified,shaking,37°C,varied,not specified,highly effective decolorization,mycelial,Decolorization of combined triphenylmethane dyes occurred effectively.
+amido black,R. erythropolis,not specified,not specified,shaking,30°C,varied,not specified,not capable of degrading amido black,not applicable,Expression of pAM1 observed.
+multi-dye tests,SQ1CV clones,10 µg/ml,not specified,shaking,37°C,3 days,not specified,complete degradation of dyes observed,not applicable,Combination of various clones showed significant decolorization.

@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Nylosan yellow E2RL SGR,Trichosporon sp.,60 mg/L,1.5 x 10^3 CFU/mL,static,room temperature,10 days,not specified,50%,whole fungi,highest rate of decolorization
+Nylosan yellow E2RL SGR,Galactomyces sp.,60 mg/L,2.5 x 10^3 - 3.5 x 10^3 CFU/mL,static,room temperature,10 days,not specified,14%,whole fungi,lower decolorization efficiency
+Nylosan yellow E2RL SGR,not specified (bacteria),60 mg/L,"varies (e.g., Serratia marcescens, Klebsiella oxytoca)",not specified,temperature fluctuated between 22°C and 26°C,total operational 100 days,varies,85% (overall dye removal efficiency),not applicable,sample analysis conducted across different days
+not specified,mixed culture with bacteria and fungi,varied (20 to 80 mg/L),5.5 g/L (activated sludge),stirred at 50 rpm,22°C to 26°C,24 hours cycle,pH between 5.5 and 9,dye removal efficiency up to 97% after ultrafiltration,mixed fungal mass,influenced by alternating anaerobic and aerobic conditions

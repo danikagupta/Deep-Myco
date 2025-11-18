@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Acid Orange 7,Trametes versicolor,100 mg/L,N/A,Aerobic,30°C,5 days,4.5,75.6%,mycelium,
+Coomassie Brilliant Blue G250,Trametes versicolor,2000 mg/L,N/A,Aerobic,30°C,48 hours,4.5,90%,mycelium,
+Congo Red,Trametes versicolor,800 mg/L,N/A,Aerobic,30°C,48 hours,4.5,92%,mycelium,
+Safranin,Trametes versicolor,300 mg/L,N/A,Aerobic,30°C,48 hours,4.5,79%,mycelium,
+Acid Violet 7,N/A,100 mg/L,N/A,N/A,55°C,24 hours,6.0,90.5%,N/A,Ca2C and ABTS were used as mediators
+Bromophenol Blue,N/A,100 mg/L,N/A,N/A,55°C,24 hours,6.0,67.8%,N/A,Ca2C and ABTS were used as mediators
+Coomassie Brilliant Blue G250,N/A,100 mg/L,N/A,N/A,55°C,24 hours,6.0,85%,N/A,Ca2C and ABTS were used as mediators
+Amaranth,N/A,100 mg/L,N/A,N/A,55°C,24 hours,6.0,14.5%,N/A,Ca2C and ABTS were used as mediators

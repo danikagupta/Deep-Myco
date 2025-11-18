@@ -1,0 +1,25 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Crystal violet,Kurthia,10,1g/100ml,constant stirring,30,24,7,100%,whole fungi,Complete decolourization occurred within 24 hours.
+Crystal violet,Kurthia,20,1g/100ml,constant stirring,30,48,7,100%,whole fungi,Complete decolourization occurred within 48 hours.
+Crystal violet,Kurthia,30,1g/100ml,constant stirring,30,72,7,98%,whole fungi,Partial decolourization occurred after 72 hours.
+Crystal violet,Kurthia,40,1g/100ml,constant stirring,30,72,7,94%,whole fungi,Partial decolourization occurred after 72 hours.
+Malachite green,Kurthia,10,1g/100ml,constant stirring,30,24,7,100%,whole fungi,Complete decolourization occurred within 24 hours.
+Malachite green,Kurthia,20,1g/100ml,constant stirring,30,24,7,100%,whole fungi,Complete decolourization occurred within 24 hours.
+Malachite green,Kurthia,30,1g/100ml,constant stirring,30,48,7,100%,whole fungi,Complete decolourization occurred within 48 hours.
+Malachite green,Kurthia,40,1g/100ml,constant stirring,30,48,7,98%,whole fungi,Partial decolourization occurred after 48 hours.
+Brilliant green,Kurthia,10,1g/100ml,constant stirring,30,24,7,100%,whole fungi,Complete decolourization occurred within 24 hours.
+Brilliant green,Kurthia,20,1g/100ml,constant stirring,30,24,7,100%,whole fungi,Complete decolourization occurred within 24 hours.
+Brilliant green,Kurthia,30,1g/100ml,constant stirring,30,48,7,100%,whole fungi,Complete decolourization occurred within 48 hours.
+Brilliant green,Kurthia,40,1g/100ml,constant stirring,30,48,7,96%,whole fungi,Partial decolourization occurred after 48 hours.
+Crystal violet,Kurthia,1,1g/100ml,constant stirring,30,45,7,100%,whole fungi,Complete decolourization within 45 minutes.
+Crystal violet,Kurthia,2,1g/100ml,constant stirring,30,90,7,100%,whole fungi,Complete decolourization within 90 minutes.
+Crystal violet,Kurthia,3,1g/100ml,constant stirring,30,135,7,100%,whole fungi,Complete decolourization within 135 minutes.
+Crystal violet,Kurthia,4,1g/100ml,constant stirring,30,180,7,100%,whole fungi,Complete decolourization within 180 minutes.
+Malachite green,Kurthia,1,1g/100ml,constant stirring,30,45,7,100%,whole fungi,Complete decolourization within 45 minutes.
+Malachite green,Kurthia,2,1g/100ml,constant stirring,30,90,7,100%,whole fungi,Complete decolourization within 90 minutes.
+Malachite green,Kurthia,3,1g/100ml,constant stirring,30,135,7,100%,whole fungi,Complete decolourization within 135 minutes.
+Malachite green,Kurthia,4,1g/100ml,constant stirring,30,180,7,100%,whole fungi,Complete decolourization within 180 minutes.
+Brilliant green,Kurthia,1,1g/100ml,constant stirring,30,45,7,100%,whole fungi,Complete decolourization within 45 minutes.
+Brilliant green,Kurthia,2,1g/100ml,constant stirring,30,90,7,100%,whole fungi,Complete decolourization within 90 minutes.
+Brilliant green,Kurthia,3,1g/100ml,constant stirring,30,135,7,100%,whole fungi,Complete decolourization within 135 minutes.
+Brilliant green,Kurthia,4,,,,,,,,

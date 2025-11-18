@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+amido black,A. orientalis SY6,10 µg/ml,high cell density,shaking,30°C,less than 2 days,not specified,visible color change from blue to violet,mycelial,Prolonged incubation showed reduced ability to decolorize at 30 µg/ml.
+brilliant green,A. orientalis SY6,10 µg/ml,high cell density,shaking,30°C,under an hour,not specified,decolorized to colorless derivatives,mycelial,
+combined triphenylmethane dyes (crystal violet + brilliant green + basic fuchsin + malachite green),A. orientalis SY6,10 µg/ml each,high cell density,shaking,37°C,not specified,not specified,decolorization observed,mycelial,suggested complete biodegradation.
+crystal violet,R. erythropolis SQ1,10 µg/ml,high cell density,not specified,30°C,60 min,not specified,decolorized,not specified,compared to other strains.
+"combined dyes (crystal violet, orange II, biebrich scarlet)",combination of clones,variable,high cell density,not specified,37°C,not specified,not specified,complete biodegradation,not specified,demonstrated synergy in degradation.
+amido black,clone SQ1AM1 (R. erythropolis SQ1 with pAM1),10 µg/ml,high cell density,not specified,not specified,not specified,not specified,decolorization observed,not specified,

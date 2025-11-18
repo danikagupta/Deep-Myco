@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Ponceau 2R,Coriolopsis sp. strain arf5,0.2 g/L,N/A,static,room temperature,10 days,N/A,complete,mycelium,N/A
+Orange G,Coriolopsis sp. strain arf5,0.2 g/L,N/A,static,room temperature,7 days,N/A,complete,mycelium,N/A
+Direct Blue 71,Coriolopsis sp. strain arf5,0.2 g/L,N/A,static,room temperature,12 days,N/A,complete,mycelium,N/A
+Biebrich Scarlet,Coriolopsis sp. strain arf5,0.2 g/L,N/A,static,room temperature,12 days,N/A,complete,mycelium,N/A
+Ponceau 2R,Coriolopsis sp. strain arf5,0.2 g/L,N/A,static,30 °C,N/A,4.5,partial,mycelium,Degradation was affected by incubation temperature.
+Orange G,Coriolopsis sp. strain arf5,0.2 g/L,N/A,static,30 °C,N/A,4.5,partial,mycelium,Degradation was affected by incubation temperature.
+Direct Blue 71,Coriolopsis sp. strain arf5,0.2 g/L,N/A,static,30 °C,N/A,4.5,partial,mycelium,Degradation was affected by incubation temperature.
+Biebrich Scarlet,Coriolopsis sp. strain arf5,0.2 g/L,N/A,static,30 °C,N/A,4.5,partial,mycelium,Degradation was affected by incubation temperature.

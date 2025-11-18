@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Amido Black,Amycolatopsis orientalis SY6,10 µg/ml,High cell density,Shaking,30°C,Under 48 hours,6.5,Color change from blue to violet,Mycelium,CLear zones detected on plates.
+Brilliant Green,Amycolatopsis orientalis SY6,10 µg/ml,High cell density,Shaking,30°C,Under 1 hour,6.5,Decolorized to colorless derivatives,Mycelium,Fast degradation observed.
+Mixed Triphenylmethane Dyes,Amycolatopsis orientalis SY6,10 µg/ml each,High cell density,Shaking,30°C,Under specified conditions,6.5,66% decolorization,Mycelium,Ability to degrade multiple dyes observed.
+Crystal Violet,Amycolatopsis orientalis SY6,30 µg/ml,High cell density,Shaking,30°C,Max decolorization capacity determined,6.5,Struggled to mineralize beyond this concentration,Mycelium,Visual monitoring and TLC were used.
+Crystal Violet,Streptomyces lividans TK23,10 µg/ml,N/A,N/A,N/A,3 days,7.0,Single clone exhibited zone of clearing,Mycelium,Patching of clones showed results.
+Amido Black,Rhodococcus erythropolis SQ1,N/A,N/A,Incubation,30°C,Indeterminate,N/A,Not capable of degrading amido black,N/A,Analysis conducted under various conditions.

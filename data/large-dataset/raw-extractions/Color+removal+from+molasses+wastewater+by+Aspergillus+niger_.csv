@@ -1,0 +1,13 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+molasses wastewater,Citeromyces siamensis,1% glucose,N/A,shaking,30 degrees Celsius,7 days,N/A,significant color loss,whole fungi,OD values ranged from 5454 to 44.6 during the 7 days
+molasses wastewater,Citeromyces siamensis,2% glucose,N/A,shaking,30 degrees Celsius,7 days,N/A,"reduced color, less effective than 1% glucose",whole fungi,OD values were typically higher than those with 1% glucose
+molasses wastewater,Citeromyces siamensis,3% glucose,N/A,shaking,30 degrees Celsius,7 days,N/A,least effective color removal,whole fungi,OD values remained high
+molasses wastewater,Issatchenkia orientalis,1% glucose,N/A,shaking,30 degrees Celsius,7 days,N/A,noticeable color reduction,whole fungi,OD values showed gradual decrease
+molasses wastewater,Issatchenkia orientalis,2% glucose,N/A,shaking,30 degrees Celsius,7 days,N/A,less effective than 1%,whole fungi,remained relatively high OD values
+molasses wastewater,Issatchenkia orientalis,3% glucose,N/A,shaking,30 degrees Celsius,7 days,N/A,reduced decolorization efficiency,whole fungi,showed poor results compared to 1% glucose
+molasses wastewater,Saccharomyces cerevisiae,1% glucose,N/A,shaking,30 degrees Celsius,7 days,N/A,effective color removal,whole fungi,OD values decreased to satisfactory levels
+molasses wastewater,Saccharomyces cerevisiae,2% glucose,N/A,shaking,30 degrees Celsius,7 days,N/A,less effective than 1%,whole fungi,showed moderate OD reduction
+molasses wastewater,Saccharomyces cerevisiae,3% glucose,N/A,shaking,30 degrees Celsius,7 days,N/A,ineffective color reduction,whole fungi,OD values remained high
+molasses wastewater,Citeromyces siamensis,1% peptone,N/A,shaking,30 degrees Celsius,7 days,N/A,best color removal,whole fungi,showed significant reduction in OD values
+molasses wastewater,Issatchenkia orientalis,1% peptone,N/A,shaking,30 degrees Celsius,7 days,N/A,notable color reduction,whole fungi,OD values dropped consistently
+molasses wastewater,Saccharomyces cerevisiae,1% yeast extract,N/A,shaking,30 degrees Celsius,7 days,N/A,effective color removal,whole fungi,maintained low OD values throughout

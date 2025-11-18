@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+amido black,Amycolatopsis orientalis,10 µg/ml,30% (v/v),shaking,30°C,48h,7,Significant decolorization,Mycelium,Color change from blue to violet
+crystal violet,Amycolatopsis orientalis,10 µg/ml,30% (v/v),shaking,30°C,48h,7,Almost complete decolorization,Mycelium,Very fast degradation observed
+crystal violet,Amycolatopsis orientalis,10 µg/ml,30% (v/v),shaking,30°C,varying durations,7,Different levels of decolorization at different concentrations,Mycelium,No decolorization beyond 30 µg/ml
+crystal violet,Amycolatopsis orientalis,varying concentrations (10-30 µg/ml),30% (v/v),shaking,30°C,1h,7,Starting clear after 5 minutes,Mycelium,Thin-layer chromatography confirmed degradation
+combined crystal violet and other triphenylmethane dyes,Amycolatopsis orientalis,10 µg/ml each,30% (v/v),shaking,30°C,varying durations,7,66% decolorization overall,Mycelium,Confirmed by visual observation and TLC
+crystal violet,Streptomyces lividans,10 µg/ml,varying densities,shaking,30°C,3 days,7,High levels of decolorization observed,Mycelium,Transformed clones confirmed functionality with dye
+crystal violet,Rhodococcus erythropolis,10 µg/ml,variable,static,30°C,48h,7,Minimal impact,Whole fungi,Control strain for dye degradation testing

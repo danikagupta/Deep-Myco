@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Basic Blue 9,Aspergillus niger,50 mg/l,0.2 g,shaking,22 ± 1 °C,6 h,6.0,"78% reduction with M1, 98% reduction with M2, 19% reduction with M3, 15% reduction with M4, 26% reduction with M5",fungal mass,pH decreased to final values between 4.0-5.4; pH for raw biomass increased to 6.6
+Acid Blue 29,Aspergillus niger,45.96 mg/l,0.2 g,shaking,22 ± 1 °C,6 h,4.0,Slight increase in biosorption ranging from 0.2% to 0.9%,fungal mass,"Final pH values slightly increased to 4.2-4.5 except for acetone treatment, which decreased to 3.7."
+Congo Red,Aspergillus niger,48.69 mg/l,0.2 g,shaking,22 ± 1 °C,6 h,6.0,Reductions from 19% to 56%; highest with lipid extraction by benzene (M5),fungal mass,Final pH values increased to 6.6-7.1
+Disperse Red 1,Aspergillus niger,13.50 mg/l,0.2 g,shaking,22 ± 1 °C,6 h,4.0,109% increase with M3; 52% increase with M5; 91% reduction with M2,fungal mass,Final pH increased to 5.8 after biosorption on raw biomass

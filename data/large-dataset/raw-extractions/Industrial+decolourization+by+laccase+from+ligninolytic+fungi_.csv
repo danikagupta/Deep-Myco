@@ -1,0 +1,12 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+orange G,Thelephora sp.,50 µM,10^5 spores/ml,shaking,30 °C,6 days,not specified,33.3%,mycelium,
+congo red,Thelephora sp.,50 µM,10^5 spores/ml,shaking,30 °C,6 days,not specified,97.1%,mycelium,
+amido black 10B,Thelephora sp.,25 µM,10^5 spores/ml,shaking,30 °C,6 days,not specified,98.8%,mycelium,
+orange G,Laccase,50 µM,15 U/ml,not specified,not specified,not specified,7.0,19%,not applicable,
+orange G,LiP,50 µM,15 U/ml,not specified,not specified,not specified,4.5,13.5%,not applicable,
+orange G,MnP,50 µM,15 U/ml,not specified,not specified,not specified,4.5,10.8%,not applicable,
+congo red,Laccase,50 µM,5 U/ml,not specified,not specified,not specified,7.0,12.0%,not applicable,
+amido black 10B,Laccase,25 µM,15 U/ml,not specified,not specified,not specified,7.0,15.0%,not applicable,
+dye industry effluent,Thelephora sp.,not specified,10^5 spores/ml,batch,39 °C,3 days,4.5,61%,mycelium,
+dye industry effluent,Thelephora sp.,not specified,10^5 spores/ml,continuous,39 °C,7 days,4.5,50%,mycelium,
+dye industry effluent,Laccase,not specified,15 U/ml,not specified,37 °C,1 hour,7.0,15%,not applicable,

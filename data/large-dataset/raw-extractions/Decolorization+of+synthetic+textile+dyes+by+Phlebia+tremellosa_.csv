@@ -1,0 +1,14 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Reactive blue,Polyporus rubidus,1000 mg/L,1 g (wet weight),shaking,28 + 2°C,5 days,5.5,63% color remaining,mycelium,Measured at 560 nm.
+Reactive blue,Polyporus rubidus,400 mg/L,1 g (wet weight),shaking,28 + 2°C,5 days,5.5,20% color remaining,mycelium,Measured at 560 nm.
+Reactive blue,Polyporus rubidus,100 mg/L,1 g (wet weight),shaking,28 + 2°C,5 days,5.5,90% decolorization,mycelium,Completed within 5 days.
+Reactive orange,Polyporus rubidus,1000 mg/L,1 g (wet weight),shaking,28 + 2°C,5 days,5.5,40% color remaining,mycelium,Measured at 600 nm.
+Reactive orange,Polyporus rubidus,100 mg/L,1 g (wet weight),shaking,28 + 2°C,5 days,5.5,92% decolorization,mycelium,Completed within 5 days.
+Ramazol black,Polyporus rubidus,1000 mg/L,1 g (wet weight),shaking,28 + 2°C,5 days,5.5,26% color remaining,mycelium,Measured at 430 nm.
+Ramazol black,Polyporus rubidus,100 mg/L,1 g (wet weight),shaking,28 + 2°C,5 days,5.5,Complete decolorization,mycelium,Completed within 3 days.
+Congo red,Polyporus rubidus,1000 mg/L,1 g (wet weight),shaking,28 + 2°C,5 days,5.5,Complete decolorization,mycelium,Complete decolorization achieved.
+Congo red,Polyporus rubidus,100 mg/L,1 g (wet weight),shaking,28 + 2°C,5 days,5.5,Complete decolorization,mycelium,Complete decolorization achieved.
+Textile effluent sample 1,Polyporus rubidus,N/A,1 g (wet weight),shaking,28 + 2°C,4 days,4-7,100% decolorization,mycelium,Applied in bioreactor.
+Textile effluent sample 2,Polyporus rubidus,N/A,1 g (wet weight),shaking,28 + 2°C,5 days,4-7,20% color remaining,mycelium,Applied in bioreactor.
+Textile effluent sample 3,Polyporus rubidus,N/A,1 g (wet weight),shaking,28 + 2°C,5 days,4-7,100% decolorization,mycelium,Applied in bioreactor.
+Textile effluent sample 4,Polyporus rubidus,N/A,1 g (wet weight),shaking,28 + 2°C,5 days,4-7,30% color remaining,mycelium,Applied in bioreactor.

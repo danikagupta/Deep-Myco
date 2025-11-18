@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Amido Black,A. orientalis SY6,10 µg/ml,Not specified,Shaking,30°C,72 hours,Not specified,Color change from blue to violet,Mycelial strain,Decolorization was monitored spectrophotometrically.
+Brilliant Green,A. orientalis SY6,10 µg/ml,Not specified,Shaking,30°C,Under 1 hour,Not specified,Decolorized to colorless derivatives,Mycelial strain,Rapid decolorization was observed.
+Crystal Violet,A. orientalis SY6,10 µg/ml,Not specified,Not specified,37°C,Monitoring over 20-minute increments up to 60 minutes,Not specified,Dramatic decrease in intensity within 5 minutes,Mycelial strain,Thin layer chromatography was used.
+Combined triphenylmethane dyes,A. orientalis SY6,10 µg/ml each,Not specified,Not specified,37°C,Monitoring,Not specified,66% decolorization of combined dyes,Mycelial strain,Dyes combined included brilliant green and basic fuchsin.
+Janus Green,A. orientalis SY6,10 µg/ml,Not specified,Not specified,30°C,Monitoring,Not specified,Observed decolorization,Mycelial strain,Part of the range of dyes tested.
+Bismarck Brown Y,A. orientalis SY6,10 µg/ml,Not specified,Not specified,30°C,Monitoring,Not specified,No decolorization observed,Mycelial strain,Tested alongside other triphenylmethane dyes.
+Congo Red,R. erythropolis,10 µg/ml,Not specified,Not specified,Not specified,Monitoring,Not specified,No decolorization observed,Not specified,Used for comparison with A. orientalis.

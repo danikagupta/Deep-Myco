@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Poly R478,Trametes trogii,50 mg l−1,not specified,rotary shaker at 160 rpm,30°C,3 weeks,5.5,positive,whole fungi,
+Neolane blue,Trametes trogii,50 mg l−1,not specified,not specified,30°C,1 day,5,91.5%,whole fungi,
+Neolane yellow,Trametes trogii,50 mg l−1,not specified,not specified,30°C,1 day,5,18%,whole fungi,
+Neolane pink,Trametes trogii,50 mg l−1,not specified,not specified,30°C,1 day,5,63.6%,whole fungi,
+Bezaktiv S-BF turquoise,Trametes trogii,50 mg l−1,not specified,not specified,30°C,1 day,5,54%,whole fungi,
+Maxillon blue,Trametes trogii,50 mg l−1,not specified,not specified,30°C,1 day,5,0%,whole fungi,
+Neolane yellow (with HBT),Trametes trogii,50 mg l−1,not specified,not specified,30°C,1 day,5,100%,whole fungi,HBT was used as a mediator.

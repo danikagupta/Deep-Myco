@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Amido Black,Amycolatopsis orientalis SY6,10 µg/ml,Not specified,Shaking,30°C,2 days,Not specified,Significant color change observed,Whole fungi,Visual observation indicated a change from blue to violet.
+Brilliant Green,Amycolatopsis orientalis SY6,10 µg/ml,Not specified,Shaking,30°C,Less than 1 hour,Not specified,Decolorization to colorless derivatives,Whole fungi,Rapid decolorization demonstrated.
+Congo Red,Amycolatopsis orientalis SY6,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified,Not specified (hypothesis on potential breakdown),Whole fungi,Further testing required.
+Crystal Violet,Amycolatopsis orientalis SY6,10 µg/ml,Not specified,Shaking,30°C,60 minutes,Not specified,Significant as monitored on TLC,Whole fungi,Clear bands observed at different time intervals.
+Combined triphenylmethane dyes,Amycolatopsis orientalis SY6,10 µg/ml for each dye,Not specified,Shaking,37°C,Not specified,Not specified,66% decolorization,Whole fungi,All dyes decolorized effectively.
+Amido Black,Amycolatopsis orientalis SY6,10 µg/ml,Not specified,Not specified,Not specified,Not specified,Not specified,Undetectable,Whole fungi,Not decolorized without carbon source.
+Rhodococcus erythropolis,Rhodococcus erythropolis SQ1,10 µg/ml,Not specified,Not specified,Not specified,60 minutes,Not specified,Monitoring showed similar Rf values in TLC,Whole fungi,No strong variations detected among strains.

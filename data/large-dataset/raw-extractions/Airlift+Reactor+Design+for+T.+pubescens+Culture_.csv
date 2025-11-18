@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+phenol,Trametes versicolor,20% v/v,0.2 g/L (for decolorization study),shaking,29°C,7 days,not specified,93.55% removal,whole fungi,Highest removal concentration reported.
+p-cresol,Trametes versicolor,20% v/v,0.2 g/L (for decolorization study),shaking,29°C,7 days,not specified,Complete removal,whole fungi,Highest removal concentration reported.
+m-cresol,Trametes versicolor,20% v/v,0.2 g/L (for decolorization study),shaking,29°C,7 days,not specified,Complete removal,whole fungi,Highest removal concentration reported.
+o-cresol,Trametes versicolor,20% v/v,0.2 g/L (for decolorization study),shaking,29°C,7 days,not specified,Complete removal,whole fungi,Highest removal concentration reported.
+phenol,Trametes pubescens,2.5% v/v,10% inoculum,airlift,not specified,10 days of fermentation,not specified,100% removal,whole fungi,Laccase activity reached 11.8 U/mL.
+p-cresol,Trametes pubescens,3.5% v/v,10% inoculum,airlift,not specified,10 days of fermentation,not specified,Complete removal,whole fungi,Laccase activity correlated with pollutant removal.
+o-cresol,Trametes pubescens,5% v/v,10% inoculum,airlift,not specified,10 days of fermentation,not specified,Complete removal,whole fungi,Laccase activity increased significantly.

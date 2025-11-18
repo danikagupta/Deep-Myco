@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Methyl Red,Enterococcus faecalis,20 µM,~10^7 cfu/ml,shaking,37°C,20 min,7.0,completely reduced,whole fungi,Kinetics of reduction were determined
+Direct Blue 15,Enterococcus faecalis,20 µM,~10^7 cfu/ml,shaking,37°C,50 min,7.0,"completely reduced under anaerobic conditions, not completely reduced under aerobic conditions",whole fungi,kinetics measured
+Tartrazine,Enterococcus faecalis,20 µM,~10^7 cfu/ml,shaking,37°C,40 min,7.0,"completely reduced under anaerobic conditions, reduced by 80% in PBSG",whole fungi,kinetics observed
+Methyl Red,E. faecalis (cell extract),20 µM,Not specified,Not specified,25°C,2 min,7.2,not reduced by purified AzoB azoreductase,Not applicable,No activity detected
+NADH,AzoA (purified enzyme),0.1 mM,Not specified,N/A,Not specified,N/A,7.0,activity higher compared to NADPH,Not applicable,Comparative analysis with NADPH

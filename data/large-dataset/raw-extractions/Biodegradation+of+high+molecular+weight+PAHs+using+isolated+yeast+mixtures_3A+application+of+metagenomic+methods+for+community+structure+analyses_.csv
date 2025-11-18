@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Ibuprofen,none,500 mg L-1,N/A,shaking,30 ºC,6 h,7,100% degradation,none,
+Ibuprofen,none,10 mg kg-1,N/A,N/A,N/A,16 days,N/A,90% degradation in sewage sludge,none,
+Ibuprofen,none,1 mg L-1,N/A,shaking,30 ºC,6 h,7,100% degradation,none,
+Ibuprofen,none,500 mg L-1,N/A,shaking,30 ºC,28 h,7,500 mg L-1 degraded,none,66% mineralized in 3 days
+Ibuprofen,none,10 mg L-1,N/A,N/A,30 ºC,14 days,N/A,26% degradation by L. neptuniae,none,Degradation tested in presence of glucose
+Ibuprofen,none,10 mg kg-1,N/A,N/A,30 ºC,16 days,N/A,90% degradation in sludge,none,Non-inoculated control dissipation was only 30%

@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+N/A,Trametes hirsuta,N/A,N/A,shaking,25°C,20 days,5.8,7614 U/L laccase activity,mycelium,Time course of laccase production monitored.
+N/A,Trametes hirsuta,0.1 mM to 2 mM,N/A,shaking,25°C,5 days,5.8,Maximum laccase activity of 17074 U/L at 1 mM copper sulphate,mycelium,Effect of copper sulphate concentration on laccase production.
+N/A,Trametes hirsuta,0.25 mM to 2 mM,N/A,shaking,25°C,5 days,5.8,"Maximum laccase activity of 23543 U/L at 1 mM 2,5 xylidine",mycelium,"Time course of 2,5 xylidine addition studied."
+N/A,Trametes hirsuta,N/A,20 g/L,shaking,25°C,N/A,5.8,9300 U/L laccase activity from wheat bran,mycelium,Effect of lignocellulosic materials on laccase production.
+N/A,Trametes hirsuta,N/A,10 g/L,shaking,25°C,N/A,5.8,Maximum laccase activity of 17390 U/L with peptone,mycelium,Effect of nitrogen sources on laccase production.
+N/A,Trametes hirsuta,N/A,N/A,shaking,25°C,N/A,N/A,25889 U/L laccase activity from Plakett-Burman design optimization,mycelium,Statistical optimization of media components.
+N/A,Trametes hirsuta,N/A,N/A,N/A,N/A,N/A,N/A,Control laccase activity of 7614 U/L,mycelium,

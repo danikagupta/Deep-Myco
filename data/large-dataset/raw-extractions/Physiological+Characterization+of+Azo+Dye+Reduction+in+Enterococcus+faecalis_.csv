@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Methyl Red,Enterococcus faecalis,20 µM,log phase cells,anaerobic incubation,37°C,20 min,7.0,Complete reduction,whole fungi,Results showed specific activity under anaerobic conditions.
+Tartrazine,Enterococcus faecalis,20 µM,log phase cells,anaerobic incubation,37°C,40 min,7.0,Complete reduction,whole fungi,Highest reduction rate under anaerobic conditions.
+Direct Blue 15,Enterococcus faecalis,20 µM,log phase cells,anaerobic incubation,37°C,50 min,7.0,Complete reduction,whole fungi,Reduction rate lower than Methyl Red.
+Methyl Red,Enterococcus faecalis,20 µM,log phase cells,aerobic shaking,37°C,1 hr,7.0,Incomplete reduction,whole fungi,It took three times longer compared to anaerobic conditions.
+Direct Blue 15,Enterococcus faecalis,20 µM,log phase cells,aerobic shaking,37°C,4 hr,7.0,75% reduction,whole fungi,Not completely reduced under aerobic conditions.
+Methyl Red,Enterococcus faecalis,20 µM,lag phase cells,anaerobic no agitation,37°C,20 min,7.0,90% reduction,whole fungi,Similar reduction rates as in BHIS medium.
+Tartrazine,Enterococcus faecalis,20 µM,lag phase cells,anaerobic no agitation,37°C,28 hr,7.0,80% reduction,whole fungi,Significantly longer reduction time in PBSG.

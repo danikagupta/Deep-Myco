@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,type of fungi classification,additional information
+crystal violet,Rhodococcus pyridinivorans,0.6 mM,10% (v/v),shaking,30°C,24h,7,73 ± 3%,whole fungi,Comparison to static mode (43 ± 2%)
+crystal violet,Rhodococcus pyridinivorans,0.6 mM,10% (v/v),shaking,45°C,24h,7,91 ± 2%,whole fungi,"Optimized conditions, reduced incubation time to achieve nearly complete decolorization"
+crystal violet,Rhodococcus pyridinivorans,0.6 mM,10% (v/v),static,30°C,24h,7,43 ± 2%,whole fungi,Control for comparison with shaking mode
+crystal violet,Rhodococcus pyridinivorans,0.3 mM,10% (v/v),shaking,30°C,12h,varied (4-10),94 ± 1%,whole fungi,Effect of varying initial dye concentrations
+crystal violet,Rhodococcus pyridinivorans,0.6 mM,varied (4% - 20% v/v),shaking,45°C,12h,7,91 ± 2%,whole fungi,Highest removal achieved with 12% inoculum concentration
+crystal violet,Rhodococcus pyridinivorans,0.6 mM,10% (v/v),repeated addition,varied,10 cycles,7,39 ± 1% after 10 cycles,whole fungi,Repeated addition of dye over multiple cycles

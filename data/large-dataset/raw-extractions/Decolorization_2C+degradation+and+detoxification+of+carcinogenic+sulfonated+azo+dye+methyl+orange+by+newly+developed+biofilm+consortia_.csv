@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Methyl orange,Serratia marcescens,0.5 mg/100 ml,not specified,shaking,37 °C,7 days,7,80.83%,whole fungi,calorimetric analysis
+Congo red,Serratia marcescens,1 mg/90 ml + 10 ml ethanol,not specified,shaking,37 °C,7 days,7,92.7%,whole fungi,calorimetric analysis
+Methyl orange,Serratia marcescens,not specified,not specified,shaking,37 °C,96 hours,not specified,80.83%,whole fungi,in BH medium
+Congo red,Serratia marcescens,not specified,not specified,shaking,37 °C,96 hours,not specified,92.7%,whole fungi,in BH medium

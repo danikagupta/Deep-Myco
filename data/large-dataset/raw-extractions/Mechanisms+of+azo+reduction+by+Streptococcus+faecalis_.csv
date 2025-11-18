@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Methyl Red,Enterococcus faecalis,20 µM,Mid-log phase,Shaking (200 rpm),37°C,20 minutes,7.0,Complete reduction,whole fungi,Rates in BHIS anaerobically were highest.
+Tartrazine,Enterococcus faecalis,20 µM,Mid-log phase,Shaking (200 rpm),37°C,40 minutes,7.0,Complete reduction,whole fungi,Rates in BHIS anaerobically were highest.
+Direct Blue 15,Enterococcus faecalis,20 µM,Mid-log phase,Shaking (200 rpm),37°C,50 minutes,7.0,Complete reduction under anaerobic conditions,whole fungi,Not fully reduced under aerobic conditions.
+Methyl Red,Enterococcus faecalis,20 µM,Cytoplasmic extract,None,25°C,2 minutes,7.2,Activity tested,whole fungi,Kinetics assessed with NADH.
+Methyl Red,Enterococcus faecalis,20 µM,Cytoplasmic extract,None,25°C,45 minutes,7.2,No reduction observed,whole fungi,AzoB enzyme tested without activity.
+Direct Blue 15,Enterococcus faecalis,0.5 mM,Cytoplasmic extract,None,25°C,2 minutes,7.0,Not detected,whole fungi,Assayed with NADPH.

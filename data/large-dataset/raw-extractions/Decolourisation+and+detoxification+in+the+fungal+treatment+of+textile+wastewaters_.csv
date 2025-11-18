@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+acid dyes,Bjerkandera adusta,100 ppm,5 agar plugs,shaking (130 rpm),28°C,7 days,5,96.5 ± 0.5 (3),mycelium,
+reactive dyes,Bjerkandera adusta,1250 ppm,10 agar plugs,shaking (130 rpm),28°C,7 days,10,91.0 ± 6.5 (10),mycelium,dilution to 1/5 was necessary due to harsh conditions
+direct dyes,Bjerkandera adusta,1000 ppm,10 agar plugs,shaking (130 rpm),28°C,7 days,9,89.7 ± 1.5 (7),mycelium,
+acid dyes,Bjerkandera adusta,100 ppm,5 agar plugs,shaking (130 rpm),28°C,7 days,5,40.8 ± 6.8 (24 h),mycelium,real wastewater before ozonation
+acid dyes,Bjerkandera adusta,100 ppm,10 fungal plugs,shaking (130 rpm),28°C,7 days,8.5,40.6,mycelium,V. fischeri toxicity increased after treatment

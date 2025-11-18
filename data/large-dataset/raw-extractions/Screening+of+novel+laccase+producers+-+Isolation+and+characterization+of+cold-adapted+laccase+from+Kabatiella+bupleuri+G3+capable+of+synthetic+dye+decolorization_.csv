@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+crystal violet,Kabatiella bupleuri,250 mg/L,unknown,shaking (150 rpm),30°C,1 hour,3.5,40.4%,fungal mass,puriﬁed laccase from K. bupleuri was used.
+alkaline fuchsin,Kabatiella bupleuri,250 mg/L,unknown,shaking (150 rpm),30°C,1 hour,3.5,31.7%,fungal mass,puriﬁed laccase from K. bupleuri was used.
+Coomassie Brilliant Blue,Kabatiella bupleuri,250 mg/L,unknown,shaking (150 rpm),30°C,1 hour,3.5,19.8%,fungal mass,puriﬁed laccase from K. bupleuri was used.
+methylene blue,Kabatiella bupleuri,250 mg/L,unknown,shaking (150 rpm),30°C,1 hour,3.5,18.2%,fungal mass,puriﬁed laccase from K. bupleuri was used.

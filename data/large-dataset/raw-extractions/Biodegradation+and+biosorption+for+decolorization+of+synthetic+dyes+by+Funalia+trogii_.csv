@@ -1,0 +1,19 @@
+type_of_dye,type_of_fungi,concentration_of_dye,concentration_of_fungi,method_of_agitation,temperature,duration,pH,decolorization_result,further_information
+Congo red,A. niger,0.01%,N/A,stationary,25°C,10 days,N/A,74.07%,Maximum decolorization observed.
+Congo red,F. oxysporum,0.01%,N/A,stationary,25°C,10 days,N/A,78.9%,Maximum decolorization under stationary conditions.
+Congo red,T. lignorum,0.01%,N/A,stationary,25°C,10 days,N/A,35.25%,Lowest decolorization under stationary conditions.
+Crystal violet,A. niger,0.01%,N/A,stationary,25°C,10 days,N/A,33.82%,Observed under stationary conditions.
+Crystal violet,F. oxysporum,0.01%,N/A,stationary,25°C,10 days,N/A,53.4%,Observed under stationary conditions.
+Crystal violet,T. lignorum,0.01%,N/A,stationary,25°C,10 days,N/A,92.7%,Maximum decolorization observed.
+Methylene blue,A. niger,0.01%,N/A,stationary,25°C,10 days,N/A,22.44%,Observed under stationary conditions.
+Methylene blue,F. oxysporum,0.01%,N/A,stationary,25°C,10 days,N/A,48.5%,Observed under stationary conditions.
+Methylene blue,T. lignorum,0.01%,N/A,stationary,25°C,10 days,N/A,48.3%,Observed under stationary conditions.
+Congo red,A. niger,0.01%,N/A,shaking,25°C,10 days,N/A,91.4%,Higher decolorization compared to stationary state.
+Congo red,F. oxysporum,0.01%,N/A,shaking,25°C,10 days,N/A,84.7%,Higher decolorization compared to stationary state.
+Congo red,T. lignorum,0.01%,N/A,shaking,25°C,10 days,N/A,88.5%,Higher decolorization compared to stationary state.
+Crystal violet,A. niger,0.01%,N/A,shaking,25°C,10 days,N/A,78.8%,Higher decolorization compared to stationary state.
+Crystal violet,F. oxysporum,0.01%,N/A,shaking,25°C,10 days,N/A,56.1%,Higher decolorization compared to stationary state.
+Crystal violet,T. lignorum,0.01%,N/A,shaking,25°C,10 days,N/A,96.6%,Maximum decolorization observed.
+Methylene blue,A. niger,0.01%,N/A,shaking,25°C,10 days,N/A,53.4%,Higher decolorization compared to stationary state.
+Methylene blue,F. oxysporum,0.01%,N/A,shaking,25°C,10 days,N/A,85.2%,Maximum decolorization observed.
+Methylene blue,T. lignorum,0.01%,N/A,shaking,25°C,10 days,N/A,85.2%,Overall dye biodegradation better compared to stationary state.

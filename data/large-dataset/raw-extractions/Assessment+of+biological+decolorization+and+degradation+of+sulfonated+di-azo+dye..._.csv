@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Acid Maroon V,Enterobacter dissolvens,100 mg l-1,10% (v/v),static,30 °C,not specified,7,119.34±7.4 U ml-1,whole fungi,crude extracts yielded 528.8 mg of protein
+Acid Maroon V,Pseudomonas aeruginosa,100 mg l-1,10% (v/v),static,30 °C,not specified,7,51.58±2.8 U ml-1,whole fungi,crude extracts yielded 359 mg of protein
+Methyl Red,Enterobacter dissolvens,24 µM,not specified,static,30 °C,4 min pre-incubation + assay duration,7,287.07±12 U ml-1,whole fungi,reaction mixture evaluated using UV-visible spectrophotometer
+Methyl Red,Pseudomonas aeruginosa,24 µM,not specified,static,30 °C,4 min pre-incubation + assay duration,7,205.33±8 U ml-1,whole fungi,reaction mixture evaluated using UV-visible spectrophotometer
+Acid Maroon V,Enterobacter dissolvens,not specified,not specified,static,30 °C,not specified,7,2.31 times more than PA,whole fungi,activity comparison between ED and PA
+Methyl Red,Enterobacter dissolvens,not specified,not specified,static,from 25 to 55 °C,not specified,not specified,Vmax of 2222 U ml-1,whole fungi,Kinetic study conducted
+Methyl Red,Pseudomonas aeruginosa,not specified,not specified,static,from 25 to 55 °C,not specified,not specified,Vmax of 1000 U ml-1,whole fungi,Kinetic study conducted

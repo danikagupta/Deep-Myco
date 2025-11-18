@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+n/a,Lentinula boryana,n/a,6 plugs,shaking,20 °C,30 days,"varied, initial 5.06",70 UI.L-1 (max at 25 days),mycelium,Corn cob meal and Eucalyptus benthamii sawdust used.
+n/a,Lentinula edodes,n/a,6 plugs,shaking,25 °C,30 days,"varied, initial 5.06",20 UI.L-1 (max at 25 days),mycelium,Corn cob meal and Eucalyptus benthamii sawdust used.
+n/a,Lentinula boryana,n/a,5 plugs,n/a,20 °C,30 days,4.99 (end of cultivation),max 110 UI.L-1 (between 20 and 25 days),mycelium,Solid-state fermentation.
+n/a,Lentinula edodes,n/a,5 plugs,n/a,25 °C,30 days,4.87 (end of cultivation),max 110 UI.L-1 (at 10 days),mycelium,Solid-state fermentation.

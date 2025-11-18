@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Methyl Orange,KV10,1 mg/ml,8 mm diameter discs,static,28°C,96 hours,5.4,76%,whole fungi,High laccase production correlated with decolorization.
+Methyl Orange,KV12,1 mg/ml,8 mm diameter discs,static,28°C,96 hours,5.4,79%,whole fungi,High laccase production correlated with decolorization.
+Rhodamine-B,KV10,1 mg/ml,8 mm diameter discs,static,28°C,96 hours,5.4,more than 60%,whole fungi,Dye degradation shown by UV-VIS absorption spectra analysis.
+Rhodamine-B,KV12,1 mg/ml,8 mm diameter discs,static,28°C,96 hours,5.4,more than 60%,whole fungi,Dye degradation shown by UV-VIS absorption spectra analysis.
+Methyl Orange,KVA5,1 mg/ml,8 mm diameter discs,static,28°C,96 hours,5.4,higher extent (nearly 80%),whole fungi,High laccase production correlated with decolorization.
+Rhodamine-B,KVA5,1 mg/ml,8 mm diameter discs,static,28°C,96 hours,5.4,more than 60%,whole fungi,Dye degradation shown by UV-VIS absorption spectra analysis.

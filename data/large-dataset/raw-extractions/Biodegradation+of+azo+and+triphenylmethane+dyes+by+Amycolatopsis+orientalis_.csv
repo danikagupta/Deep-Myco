@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Amido Black,Amycolatopsis orientalis SY6,10 µg/ml,High density,Shaking,30°C,2 days,Unknown,Visible color change from blue to violet,Mycelial,Decolorization monitored spectrophotometrically
+Brilliant Green,Amycolatopsis orientalis SY6,10 µg/ml,High density,Shaking,30°C,1 hour,Unknown,Decolorized to colorless derivatives,Mycelial,Result confirmed within one hour
+Combined triphenylmethane dyes (crystal violet + brilliant green + basic fuchsin + malachite green),Amycolatopsis orientalis SY6,10 µg/ml each,High density,Shaking,37°C,60 min,Unknown,66% decolorization,Mycelial,All triphenylmethane dyes were effectively decolorized
+Amido Black,Amycolatopsis orientalis SY6,50 µg/ml,High density,Not specified,37°C,Prolonged,7.0,No decolorization beyond 30 µg/ml,Mycelial,Limit on decolorization capacity observed

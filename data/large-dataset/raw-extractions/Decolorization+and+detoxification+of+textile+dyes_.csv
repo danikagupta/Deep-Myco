@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Acid Orange 63,Streptomyces ipomoeae,50 mM,0.4 U/mL,N/A,35 °C,24 h,8,3.76 ± 0.71%,whole fungi,Decay in absorbance measured at 418 nm
+Acid Orange 63,Streptomyces ipomoeae,50 mM,0.4 U/mL,N/A,60 °C,24 h,8,70-fold increase with 0.5 mM MeS,whole fungi,Significant increase in decolorization with mediator concentration.
+Tartrazine,Streptomyces ipomoeae,50 mM,0.4 U/mL,N/A,35 °C,24 h,8,19.22 ± 0.20%,whole fungi,Decay in absorbance measured at 425 nm
+Tartrazine,Streptomyces ipomoeae,50 mM,0.4 U/mL,N/A,60 °C,24 h,8,36-fold decrease in toxicity with MeS,whole fungi,High temperature significantly increased degradation.
+Reactive Black 5,Streptomyces ipomoeae,50 mM,0.4 U/mL,N/A,35 °C,24 h,8,90.82 ± 0.18%,whole fungi,Significant increase with AS mediator
+Reactive Black 5,Streptomyces ipomoeae,50 mM,0.4 U/mL,N/A,60 °C,24 h,8,94.11 ± 1.35%,whole fungi,Highest decolorization observed with methyl syringate.

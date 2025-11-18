@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Reactive blue 19,Trametes versicolor,0.036 mM,N/A,re-circulating packed bed reactor,23 ± 1°C,3 hours,5,97.5% enzymatic,N/A,Ethanolamine treatment reduced dye adsorption by 40%
+Disperse blue 3,Trametes versicolor,0.072 mM,N/A,N/A,23 ± 1°C,84 h,5,74% decolorization,N/A,N/A
+Acid blue 74,Trametes versicolor,0.036 mM,N/A,N/A,23 ± 1°C,84 h,5,34.6%,N/A,More toxic than anthraquinone dyes
+Acid red 27,Trametes versicolor,0.036 mM,N/A,N/A,23 ± 1°C,84 h,5,50% decolorization,N/A,Inhibited laccase activity by 33%
+Reactive black 5,Trametes versicolor,0.036 mM,N/A,N/A,23 ± 1°C,84 h,5,16.5%,N/A,Highly toxic and significantly inhibited laccase activity
+ABTS,Trametes versicolor,500 µM,120 nM,N/A,22 ± 1°C,N/A,5,Kinetics followed Michaelis-Menten,N/A,Inhibition was hyperbolic non-competitive
+Reactive blue 19,Trametes versicolor,0.036 mM,120 nM,N/A,N/A,N/A,5,Kinetics showed parabolic mixed inhibition,N/A,Two chlorides can bind to laccase
+Reactive blue 19,Trametes versicolor,0.036 mM,120 nM,N/A,22 ± 1°C,N/A,5,Inhibition by sodium chloride,N/A,Kinetics influenced by substrate
+Reactive blue 19,Trametes versicolor,0.036 mM,N/A,N/A,23 ± 1°C,4 months,5,Activity unchanged after 4 months,N/A,85% decolorization was achieved in three successive trials

@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Amido Black,Amycolatopsis orientalis SY6,10 µg/ml,Standard growth,Shaking,30°C,48 hours,Neutral,Decolorized,Mycelium,Initial color observed
+Brilliant Green,Amycolatopsis orientalis SY6,10 µg/ml,Standard growth,Shaking,30°C,Less than 1 hour,Neutral,Decolorized,Mycelium,Converted to colorless derivatives
+Crystal Violet,Amycolatopsis orientalis SY6,30 µg/ml,Standard growth,Shaking,30°C,48 hours,Neutral,Partially decolorized,Mycelium,Visible color change from blue to violet
+Mixed Triphenylmethane Dyes,Amycolatopsis orientalis SY6,10 µg/ml each,Standard growth,Shaking,30°C,N/A,Neutral,Decolorized,Mycelium,Effective degradation of multiple dyes observed
+Combined Azo Dyes,Amycolatopsis orientalis SY6,10 µg/ml each,Standard growth,Shaking,30°C,N/A,Neutral,Not decolorized,Mycelium,Some dyes remain colored

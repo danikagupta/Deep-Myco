@@ -1,0 +1,13 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+crystal violet,Amycolatopsis orientalis,10 µg/ml,N/A,N/A,30°C,up to 60 min,N/A,Complete decolorization,whole fungi,"Decolorization monitored by TLC, significant degradation observed at 5 min."
+brilliant green,Amycolatopsis orientalis,N/A,N/A,N/A,N/A,N/A,N/A,Decolorization observed,whole fungi,Part of combined dye study
+basic fuchsin,Amycolatopsis orientalis,N/A,N/A,N/A,N/A,N/A,N/A,Decolorization observed,whole fungi,Part of combined dye study
+malachite green,Amycolatopsis orientalis,N/A,N/A,N/A,N/A,N/A,N/A,Decolorization observed,whole fungi,Part of combined dye study
+amido black,Amycolatopsis orientalis,N/A,N/A,N/A,N/A,N/A,N/A,Decolorization observed,whole fungi,Part of combined dye study
+janus green,Amycolatopsis orientalis,N/A,N/A,N/A,N/A,N/A,N/A,Decolorization observed,whole fungi,Part of combined dye study
+congo red,Amycolatopsis orientalis,N/A,N/A,N/A,N/A,N/A,N/A,Bound to cell wall only,whole fungi,Part of combined dye study
+eriochrome black T,Amycolatopsis orientalis,N/A,N/A,N/A,N/A,N/A,N/A,Not determined,whole fungi,Part of combined dye study
+orange II,Amycolatopsis orientalis,N/A,N/A,N/A,N/A,N/A,N/A,Not determined,whole fungi,Part of combined dye study
+bismarck brown,Amycolatopsis orientalis,N/A,N/A,N/A,N/A,N/A,N/A,Not determined,whole fungi,Part of combined dye study
+brilliant green,Rhodococcus erythropolis,10 µg/ml,N/A,N/A,N/A,N/A,N/A,Complete decolorization,whole fungi,Comparison to A. orientalis results showed similar Rf values.
+crystal violet,Mycobacterium smegmatis,10 µg/ml,N/A,N/A,37°C,2 h,N/A,Complete decolorization,whole fungi,Detection of complete detoxification via CFU.

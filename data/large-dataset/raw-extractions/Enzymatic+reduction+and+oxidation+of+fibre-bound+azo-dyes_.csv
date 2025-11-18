@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Ruby Red,Laccase,200 mg l−1,1 U ml−1,stirred,20 °C,1 h,7.0,100%,whole fungi,
+Flame Orange,Laccase,200 mg l−1,1 U ml−1,stirred,20 °C,1 h,7.0,100%,whole fungi,
+Ruby Red,MnP,200 mg l−1,1 U ml−1,stirred,20 °C,1 h,7.0,62.74%,whole fungi,
+Flame Orange,MnP,200 mg l−1,1 U ml−1,stirred,20 °C,1 h,7.0,19.9%,whole fungi,
+Ruby Red,AaP,200 mg l−1,1 U ml−1,stirred,20 °C,1 h,7.0,48%,whole fungi,
+Flame Orange,AaP,200 mg l−1,1 U ml−1,stirred,20 °C,1 h,7.0,not specified,whole fungi,
+Ruby Red,YcnD,200 mg l−1,0.1 U ml−1,stirred,20 °C,15 min,7.0,Complete,whole fungi,Color change observed
+Flame Orange,YcnD,200 mg l−1,0.1 U ml−1,stirred,20 °C,15 min,7.0,Not completely decolorized,whole fungi,

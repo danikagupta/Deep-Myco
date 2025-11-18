@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Methyl Red,Enterococcus faecalis,20 µM,Variable,Gentle shaking,Room temperature,10 min,7.5,Clearing zones observed,Whole fungi,"Clearing observed with both NADH and NADPH, indicating enzymes can utilize both."
+Methyl Red,Enterococcus faecalis,20 µM,Variable,No agitation,4 °C,Variable,8.3,Observations noted by electrophoresis,Whole fungi,Electrophoresed under native conditions.
+Methyl Red,Enterococcus faecalis,20 µM,Variable,Shaking,Room temperature,2 min,7.2,Reduction observed with the addition of NADPH,Whole fungi,Initial absorbance reduction used to measure activity.
+Methyl Red,Enterococcus faecalis,20 µM,Variable,No agitation,25 °C,Incubated for 10 mins,7.0,No activity observed with controls,Whole fungi,Control reactions indicate enzymatic activity.

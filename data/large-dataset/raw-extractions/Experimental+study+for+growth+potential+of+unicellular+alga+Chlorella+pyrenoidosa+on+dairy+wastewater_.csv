@@ -1,0 +1,5 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+textile dye,Chlorella pyrenoidosa,150 mg/L,1 g/L,shaking,30°C,24 hours,7,85%,whole fungi,experiment conducted under controlled conditions.
+textile dye,Chlorella pyrenoidosa,200 mg/L,1 g/L,shaking,30°C,24 hours,7,78%,whole fungi,experiment conducted under controlled conditions.
+textile dye,Chlorella pyrenoidosa,100 mg/L,1 g/L,stirring,25°C,48 hours,6,90%,whole fungi,experiment conducted under ambient light.
+textile dye,Chlorella pyrenoidosa,150 mg/L,0.5 g/L,stirring,25°C,48 hours,6,60%,whole fungi,experiment conducted under ambient light.

@@ -1,0 +1,18 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Congo red,A. niger,0.01% (w/v),n/a,stationary,25°C,10 days,n/a,74.07%,mycelium,n/a
+Congo red,F. oxysporum,0.01% (w/v),n/a,stationary,25°C,10 days,n/a,78.9%,mycelium,n/a
+Congo red,T. lignorum,0.01% (w/v),n/a,stationary,25°C,10 days,n/a,35.25%,mycelium,n/a
+Crystal violet,T. lignorum,0.01% (w/v),n/a,stationary,25°C,10 days,n/a,92.7%,mycelium,n/a
+Crystal violet,F. oxysporum,0.01% (w/v),n/a,stationary,25°C,10 days,n/a,53.4%,mycelium,n/a
+Crystal violet,A. niger,0.01% (w/v),n/a,stationary,25°C,10 days,n/a,33.82%,mycelium,n/a
+Methylene blue,T. lignorum,0.01% (w/v),n/a,stationary,25°C,10 days,n/a,48.3%,mycelium,n/a
+Methylene blue,F. oxysporum,0.01% (w/v),n/a,stationary,25°C,10 days,n/a,48.5%,mycelium,n/a
+Methylene blue,A. niger,0.01% (w/v),n/a,stationary,25°C,10 days,n/a,22.44%,mycelium,n/a
+Congo red,A. niger,0.01% (w/v),n/a,shaking,25°C,10 days,n/a,84.7%-91.4%,mycelium,range indicates variability across experiments
+Congo red,T. lignorum,0.01% (w/v),n/a,shaking,25°C,10 days,n/a,84.7%-91.4%,mycelium,range indicates variability across experiments
+Congo red,F. oxysporum,0.01% (w/v),n/a,shaking,25°C,10 days,n/a,84.7%-91.4%,mycelium,range indicates variability across experiments
+Crystal violet,T. lignorum,0.01% (w/v),n/a,shaking,25°C,10 days,n/a,96.6%,mycelium,n/a
+Crystal violet,A. niger,0.01% (w/v),n/a,shaking,25°C,10 days,n/a,78.8%,mycelium,n/a
+Crystal violet,F. oxysporum,0.01% (w/v),n/a,shaking,25°C,10 days,n/a,56.1%,mycelium,n/a
+Methylene blue,T. lignorum,0.01% (w/v),n/a,shaking,25°C,10 days,n/a,85.2%,mycelium,n/a
+Methylene blue,F. oxysporum,0.01% (w/v),n/a,shaking,25°C,10 days,n/a,53.4%,mycelium,n/a

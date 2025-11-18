@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+crystal violet,Amycolatopsis orientalis,10 µg/ml,high cell density,shaking,37°C,60 minutes,7.0,complete decolorization,mycelia,Immediate observation of decolorization; TLC confirmed dye breakdown.
+crystal violet,Amycolatopsis orientalis,20 µg/ml,high cell density,shaking,37°C,60 minutes,7.0,complete decolorization,mycelia,Visible color change from blue to violet.
+crystal violet,Amycolatopsis orientalis,30 µg/ml,high cell density,shaking,37°C,60 minutes,7.0,no complete decolorization,mycelia,Strain struggled to mineralize the dye at higher concentrations.
+crystal violet,Amycolatopsis orientalis,10 µg/ml,high cell density,shaking,37°C,2 hours,7.0,partial detoxification,mycelia,Measured by monitoring growth of E. coli in decolorized supernatant.
+amido black,Amycolatopsis orientalis,10 µg/ml,high cell density,shaking,37°C,24 hours,6.5,colorless derivative,mycelia,Retained original color afterward.
+combined triphenylmethane dyes (crystal violet + brilliant green + basic fuchsin + malachite green),Amycolatopsis orientalis,10 µg/ml each,high cell density,shaking,37°C,3 days,7.0,complete decolorization,mycelia,Expression of genes led to higher capacity for various dyes.
+amido black,Amycolatopsis orientalis,10 µg/ml,high cell density,shaking,37°C,7 days,7.0,struggle to mineralize,mycelia,TLC showed residual dye after treatment.

@@ -1,0 +1,12 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Reactive Black 5,E. coli,20 mg L/C01,0.3 mg BVU5,not specified,30°C,3 min,not specified,80.1 ± 62.5%,whole fungi,using NADH as coenzyme
+Reactive Black 5,E. coli,200 mg L/C01,0.3 mg BVU5,not specified,30°C,30 min,not specified,53.5 ± 61.8%,whole fungi,using NADH as coenzyme
+Reactive Black 5,E. coli,40 mg L/C01,0.3 mg BVU5,not specified,30°C,30 min,not specified,not specified,whole fungi,using NADH as coenzyme
+Reactive Black 5,E. coli,80 mg L/C01,0.3 mg BVU5,not specified,30°C,30 min,not specified,not specified,whole fungi,using NADH as coenzyme
+Reactive Black 5,E. coli,100 mg L/C01,0.3 mg BVU5,not specified,30°C,30 min,not specified,not specified,whole fungi,using NADH as coenzyme
+Reactive Black 5,E. coli,200 mg L/C01,0.3 mg BVU5,not specified,30°C,30 min,not specified,49 ± 62.1%,whole fungi,using NADH as coenzyme
+Reactive Black 5,E. coli,20 mg L/C01,0.3 mg BVU5,shaking,10°C,30 min,not specified,not specified,whole fungi,testing temperature effects
+Reactive Black 5,E. coli,20 mg L/C01,0.3 mg BVU5,not specified,60°C,30 min,not specified,not specified,whole fungi,testing temperature effects
+Reactive Black 5,E. coli,20 mg L/C01,0.3 mg BVU5,not specified,30°C,30 min,4.0,70.9 ± 62.1%,whole fungi,testing pH effects
+Reactive Black 5,E. coli,20 mg L/C01,0.3 mg BVU5,not specified,30°C,30 min,6.0,61.7 ± 62.0%,whole fungi,testing salt concentration effects
+Reactive Black 5,E. coli,20 mg L/C01,0.3 mg BVU5,not specified,30°C,30 min,8.0,78% relative activity,whole fungi,testing salt concentration effects

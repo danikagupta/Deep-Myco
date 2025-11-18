@@ -1,0 +1,17 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Ponceau 2R,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static culture,room temperature to 35 °C,9 days,5.0,completely degraded,whole fungi,degradation observed over 9 days
+Orange G,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static culture,room temperature to 35 °C,8 days,5.0,completely degraded,whole fungi,degradation observed over 8 days
+Direct Blue 71,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static culture,room temperature to 35 °C,> 21 days (incomplete),5.0,incomplete degradation,whole fungi,degradation not completed
+Biebrich Scarlet,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static culture,room temperature to 35 °C,> 21 days (incomplete),5.0,incomplete degradation,whole fungi,degradation not completed
+Ponceau 2R,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static culture,nitrogen-limiting conditions,10 days,not specified,degraded,whole fungi,degradation under nitrogen-limiting conditions
+Orange G,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static culture,nitrogen-limiting conditions,7 days,not specified,degraded,whole fungi,degradation under nitrogen-limiting conditions
+Direct Blue 71,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static culture,nitrogen-limiting conditions,12 days,not specified,degraded,whole fungi,degradation under nitrogen-limiting conditions
+Biebrich Scarlet,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static culture,nitrogen-limiting conditions,12 days,not specified,degraded,whole fungi,degradation under nitrogen-limiting conditions
+Ponceau 2R,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static culture,4.5 °C,not specified,4.5,degraded,whole fungi,degradation rate affected by pH
+Orange G,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static culture,4.5 °C,not specified,4.5,degraded,whole fungi,degradation rate affected by pH
+Direct Blue 71,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static culture,4.5 °C,not specified,4.5,degraded,whole fungi,degradation rate affected by pH
+Biebrich Scarlet,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static culture,4.5 °C,not specified,4.5,degraded,whole fungi,degradation rate affected by pH
+Ponceau 2R,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static culture,35 °C,40.0 hours,4.5,degraded,whole fungi,DT 50 values obtained
+Orange G,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static culture,35 °C,52.6 hours,4.5,degraded,whole fungi,DT 50 values obtained
+Direct Blue 71,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static culture,35 °C,32.6 hours,4.5,degraded,whole fungi,DT 50 values obtained
+Biebrich Scarlet,Coriolopsis sp. strain arf5,0.2 g/L,not specified,static culture,35 °C,65.6 hours,4.5,degraded,whole fungi,DT 50 values obtained

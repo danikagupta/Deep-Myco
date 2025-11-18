@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Phenol,Trametes versicolor,20%,,static,,12h,,5.99 mM residual,whole fungi,
+p-cresol,Trametes versicolor,20%,,static,,12h,,0 mM residual,whole fungi,
+m-cresol,Trametes versicolor,20%,,static,,12h,,0 mM residual,whole fungi,
+o-cresol,Trametes versicolor,20%,,static,,12h,,0.04 mM residual,whole fungi,
+Phenol,Trametes pubescens,2.5%,10%,static,,varies,,complete removal,whole fungi,
+p-cresol,Trametes pubescens,5%,10%,static,,varies,,complete removal,whole fungi,
+m-cresol,Trametes pubescens,5%,10%,static,,varies,,complete removal,whole fungi,
+o-cresol,Trametes pubescens,5%,10%,static,,varies,,complete removal,whole fungi,

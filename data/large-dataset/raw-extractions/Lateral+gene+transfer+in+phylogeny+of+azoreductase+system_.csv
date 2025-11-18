@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycelium, fungal mass or whole fungi",any additional information
+Reactive Violet 5R,Enterococcus sp. L2,100 mg/L,Not specified,Static,40 °C,3h,7-8,>90%,Whole fungi,Strain L2 was the most effective azo dye decolorizer.
+Methyl Red,Enterococcus sp. L2,100 mg/L,Not specified,Static,Not specified,6h,Not specified,99%,Whole fungi,Isolate L2 decolorized MR in 6h.
+Reactive Violet 5R,Klebsiella sp. K1,100 mg/L,Not specified,Not specified,Not specified,15h,Not specified,91.82%,Whole fungi,Effect of redox mediators included.
+Reactive Violet 5R,Klebsiella sp. E2,100 mg/L,Not specified,Not specified,Not specified,15h,Not specified,87.89%,Whole fungi,Effect of redox mediators included.
+Reactive Violet 5R,Acinetobacter sp. L1,100 mg/L,Not specified,Not specified,Not specified,15h,Not specified,74.46%,Whole fungi,Effect of redox mediators included.
+Reactive Violet 5R,Enterococcus sp. L2 (fdh transformant),100 mg/L,Not specified,Not specified,Not specified,6h,Not specified,73.45%,Whole fungi,3.2 fold increase due to NADH-regeneration system.
+Reactive Violet 5R,Enterococcus sp. L2 (vector control),100 mg/L,Not specified,Not specified,Not specified,6h,Not specified,22.97%,Whole fungi,Used as a control for fdh transformant.

@@ -1,0 +1,3 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Methyl Red,Enterococcus faecalis,0.5 mM,varied (enzyme concentration 1-800 μg),gentle shaking,room temperature,10 min,7.5,observed clearing zone,whole fungi,NADH (1 mM) and NADPH (2 mM) were used; specific activity measured
+Methyl Red,Enterococcus faecalis,20 μM,varied (enzyme concentration 1-800 μg),n/a (cuvette),25 °C,2 min,7.2,reduction measured by absorbance decrease,whole fungi,Vmax and kinetic parameters calculated

@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+4-(4'-sulfophenylazo)-phenol,Phanerochaete chrysosporium,50 uM,N/A,shaking,25°C,60 min,6.0,N/A,whole fungi,Oxidized by horseradish peroxidase.
+2-(4'-sulfophenylazo)-phenol,Phanerochaete chrysosporium,50 uM,N/A,shaking,25°C,60 min,6.0,N/A,whole fungi,Oxidized at low rates.
+Orange I,Phanerochaete chrysosporium,200 uM,N/A,shaking,25°C,10 min,N/A,90%,whole fungi,Reacts with NADH.
+Crocein Orange G,N/A,300 uM,N/A,orbital shaking,25°C,10 min,N/A,N/A,N/A,Reduced by zero-valent iron.
+Allura Red,N/A,300 uM,N/A,orbital shaking,25°C,10 min,N/A,66%,N/A,Reacts under mixed conditions.
+Sunset Yellow FCF,N/A,300 uM,N/A,orbital shaking,25°C,10 min,N/A,N/A,N/A,Reacts with zero-valent iron.
+Orange II,N/A,200 uM,N/A,shaking,25°C,10 min,N/A,98%,N/A,Reduced by zero-valent iron.

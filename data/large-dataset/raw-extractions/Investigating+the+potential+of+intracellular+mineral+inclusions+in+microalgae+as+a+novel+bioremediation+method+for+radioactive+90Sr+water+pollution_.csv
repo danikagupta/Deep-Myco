@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Strontium-90,Tetraselmis chui,3.1x10-12 M,2x10^5 cells mL-1,shaking,20 °C,15 days,8.2,90Sr removed by half after 15 days,whole fungi,Initial concentration of Sr was 1.4 Bq mL-1.
+Strontium-90,Tetraselmis chui,6.2x10-11 M,2x10^5 cells mL-1,shaking,20 °C,15 days,8.2,90Sr decreased from 56 to 27.6 ± 7.3 Bq mL-1,whole fungi,Saturation point reached after 15 days.
+Strontium-90,Tetraselmis chui,2.7x10-10 M,2x10^5 cells mL-1,shaking,20 °C,14 days,8.2,activity decreased by 30% after 14 days,whole fungi,Total radioactivity decay coefficient correlated to initial Sr concentration.
+Strontium-90,Tetraselmis marina,3.1x10-12 M,2x10^5 cells mL-1,shaking,20 °C,15 days,8.2,no 90Sr removal observed,whole fungi,Control cultures showed stable radioactivity.
+Strontium-90,Tetraselmis chui,0.4 mM,2.4x10^6 cells mL-1,bubble column photobioreactor,20 °C,7 days,7.5,94% removal after 7 days,whole fungi,This was under CO2 supplementation.
+Strontium-90,Tetraselmis chui,0.5 mM,2.6x10^6 cells mL-1,bubble column photobioreactor,20 °C,7 days,7.5,97% removal after 4 days,whole fungi,There was CO2 augmentation in these cultures.

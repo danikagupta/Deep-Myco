@@ -1,0 +1,11 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Malachite Green,Trametes versicolor,7 mg/l,N/A,not shaking,28 °C,20 days,N/A,95%,mycelium,Induced with 0.5 mM copper sulphate
+Bromothymol Blue,Trametes versicolor,50 mg/l,N/A,not shaking,28 °C,20 days,N/A,95%,mycelium,Induced with 0.5 mM copper sulphate
+Methyl Red,Trametes versicolor,100 mg/l,N/A,not shaking,28 °C,20 days,N/A,80%,mycelium,Induced with 0.5 mM copper sulphate
+Malachite Green,Fomes fomentarius,7 mg/l,N/A,not shaking,28 °C,20 days,N/A,70%,mycelium,Induced with 0.5 mM copper sulphate
+Bromothymol Blue,Fomes fomentarius,50 mg/l,N/A,not shaking,28 °C,20 days,N/A,70%,mycelium,Induced with 0.5 mM copper sulphate
+Methyl Red,Fomes fomentarius,100 mg/l,N/A,not shaking,28 °C,20 days,N/A,80%,mycelium,Induced with 0.5 mM copper sulphate
+Crystal Violet,Trametes versicolor,20 mg/l,N/A,not shaking,28 °C,20 days,N/A,low,mycelium,Induced with 0.5 mM copper sulphate
+Methylene Blue,Trametes versicolor,240 mg/l,N/A,not shaking,28 °C,20 days,N/A,low,mycelium,Induced with 0.5 mM copper sulphate
+Crystal Violet,Fomes fomentarius,20 mg/l,N/A,not shaking,28 °C,20 days,N/A,low,mycelium,Induced with 0.5 mM copper sulphate
+Methylene Blue,Fomes fomentarius,240 mg/l,N/A,not shaking,28 °C,20 days,N/A,low,mycelium,Induced with 0.5 mM copper sulphate

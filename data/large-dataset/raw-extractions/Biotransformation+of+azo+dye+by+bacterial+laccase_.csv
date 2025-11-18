@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Indigo Carmine,Geobacillus thermocatenulatus MS5,50 mg/l,not specified,incubation,60°C,2 hours,4.6,50%,whole fungi,99% decolorization observed after 4 hours
+Congo Red,Geobacillus thermocatenulatus MS5,50 mg/l,not specified,incubation,60°C,6 hours,4.6,60%,whole fungi,99% decolorization observed after 32 hours
+RBBR,Geobacillus thermocatenulatus MS5,50 mg/l,not specified,incubation,60°C,12 hours,4.6,40%,whole fungi,98% decolorization observed after 32 hours
+Bromophenol Blue,Geobacillus thermocatenulatus MS5,50 mg/l,not specified,incubation,60°C,48 hours,4.6,70%,whole fungi,decolorization observed at varying time intervals
+Brilliant Green,Geobacillus thermocatenulatus MS5,50 mg/l,not specified,incubation,60°C,48 hours,4.6,60%,whole fungi,decolorization observed at varying time intervals

@@ -1,0 +1,11 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+4-(4'-sulfopheny1azo)-phenol,Phanerochaete chrysosporium,50 µM,Not applicable,shaking,25°C,40 min,6.0,Not specified,whole fungi,Used enzymes produced by the fungus
+2-(4'-sulfopheny1azo)-phenol,Phanerochaete chrysosporium,50 µM,Not applicable,shaking,25°C,40 min,6.0,Not specified,whole fungi,Used enzymes produced by the fungus
+Orange I,Not applicable,100 µM,Not applicable,mixing with NADH,25°C,15 min,3.5,63%,Not applicable,Reduction with NADH
+Orange II,Not applicable,200 µM,Not applicable,mixing with FeO,Not specified,6 min,7.0,Complete,Not applicable,Generated sulfanilic acid
+Mordant Orange I,Not applicable,200 µM,Not applicable,mixing with FeO,25°C,10 min,7.0,Not specified,Not applicable,Quinone and aromatic amines produced
+Brilliant Blue FCF,Not applicable,60 µM,Not applicable,shaking,Not specified,10 min,7.0,Complete,Not applicable,Reduction by zero-valent iron
+Crocein Orange G,Not applicable,300 µM,Not applicable,shaking,25°C,10 min,7.0,Not specified,Not applicable,Reduction by zero-valent iron
+Sunset Yellow FCF,Not applicable,100 µM,Not applicable,shaking,Not specified,10 min,7.0,47%,Not applicable,Reduction by zero-valent iron
+Allura Red,Not applicable,100 µM,Not applicable,shaking,25°C,10 min,7.0,93%,Not applicable,Reduction by zero-valent iron
+Amaranth,Not applicable,100 µM,Not applicable,shaking,Not specified,10 min,7.0,100%,Not applicable,Reduction by zero-valent iron

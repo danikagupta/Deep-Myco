@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+amaranth,Bacillus badius,0.05 mM,2 mg/ml,stirring,37°C,12 hrs,7.4,yes,whole fungi,Reduction monitored by UV-visible spectrophotometer
+3-nitrobenzoic acid,Bacillus badius,1 mM,2 mg/ml,stirring,37°C,12 hrs,7.4,yes,whole fungi,Products analyzed by IR and NMR spectroscopy
+4-nitrotoluene,Bacillus badius,1 mM,2 mg/ml,stirring,37°C,12 hrs,7.4,yes,whole fungi,Products analyzed by IR and NMR spectroscopy
+3-nitrotoluene,Bacillus badius,1 mM,2 mg/ml,stirring,37°C,12 hrs,7.4,yes,whole fungi,Products analyzed by IR and NMR spectroscopy
+1-chloro-2-nitrobenzene,Bacillus badius,1 mM,2 mg/ml,stirring,37°C,12 hrs,7.4,yes,whole fungi,Products analyzed by IR and NMR spectroscopy

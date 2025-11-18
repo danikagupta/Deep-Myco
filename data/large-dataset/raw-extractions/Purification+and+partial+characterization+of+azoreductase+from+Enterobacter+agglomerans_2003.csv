@@ -1,0 +1,7 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Acid Maroon V,Bacterial,100 mg l-1,10% (v/v),static,30 °C,not specified,7,value not specified,n/a,"After decolorization, azoreductase activity measured."
+Methyl Red,Bacterial,24 µM,not specified,not specified,30 °C,4 min pre-incubation,7,not specified,n/a,Azoreductase activity was evaluated.
+Methyl Red,Bacterial,24 µM,not specified,not specified,30 °C,not specified,not specified,0.6% enzymatic activity,n/a,Up to 318.57±4.8 U ml-1 for ED with NADH.
+Methyl Red,Bacterial,24 µM,not specified,not specified,30 °C,not specified,not specified,not specified,n/a,NADH increased activity to 318.57±4.8 U ml-1 (ED).
+Methyl Red,Bacterial,not specified,not specified,not specified,not specified,not specified,not specified,not specified,n/a,Kinetic study showed Km and Vmax values.
+Methyl Red,Bacterial,24 µM,not specified,not specified,30 °C,not specified,not specified,not specified,n/a,Maximal activity found at 1 mM NADH concentration.

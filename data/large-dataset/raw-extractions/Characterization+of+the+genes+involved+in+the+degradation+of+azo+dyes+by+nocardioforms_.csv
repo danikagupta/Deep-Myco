@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Amido Black,Amycolatopsis orientalis,10 µg/ml,High cell density,Shaking,37°C,Under 2 days,Neutral,Distinct color change from blue to violet,Whole fungi,Notable for rapid decolorization
+Brilliant Green,Amycolatopsis orientalis,10 µg/ml,High cell density,Shaking,37°C,Under 1 hour,Neutral,Decolorized to colorless derivatives,Whole fungi,Strong capacity for decolorization
+Crystal Violet,Amycolatopsis orientalis,30 µg/ml,High cell density,Shaking,27°C,Not specified,Neutral,Struggled to mineralize beyond this concentration,Whole fungi,Visual observation of dye reduction
+Multiple Triphenylmethane Dyes,Amycolatopsis orientalis,10 µg/ml each,High cell density,Shaking,37°C,Not specified,Neutral,Combined Triphenylmethane dyes were efficiently decolorized,Whole fungi,All combined triphenylmethane dyes resulted in complete mineralization
+Amido Black,Amycolatopsis orientalis,10 µg/ml,High cell density,Shaking,37°C,Not specified,Neutral,Partial detoxification,Whole fungi,E. coli growth monitored for toxicity
+Crystal Violet,Rhodococcus erythropolis,10 µg/ml,Not specified,Shaking,37°C,Not specified,Neutral,Mineralized dye after combining with clones,Whole fungi,Diverse interactions with dye substrate
+Combined Dyes,Rhodococcus erythropolis,"Varying, each 10 µg/ml",Not specified,Shaking,37°C,Not specified,Neutral,Completed biodegradation,Whole fungi,Tested with various dye combinations

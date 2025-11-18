@@ -1,0 +1,12 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Acid Black-24,Bacillus halodurans MTCC 865,1000 mg/l,10% inoculum (v/v),static,37°C,6 hours,9,90%,whole fungi,"Decolorization measured spectrophotometrically at 557 nm, with significant changes in FTIR and HPLC results."
+Acid Black-24,Bacillus halodurans MTCC 865,1000 mg/l,10% inoculum (v/v),static,32°C,6 hours,9,unknown,whole fungi,Decolorization rate not specified.
+Acid Black-24,Bacillus halodurans MTCC 865,1000 mg/l,10% inoculum (v/v),static,40°C,6 hours,9,71%,whole fungi,Decolorization rate gradually decreased above optimal temperature.
+Acid Black-24,Bacillus halodurans MTCC 865,1000 mg/l,10% inoculum (v/v),static,45°C,6 hours,9,52%,whole fungi,Decolorization rate gradually decreased above optimal temperature.
+Acid Black-24,Bacillus halodurans MTCC 865,1000 mg/l,10% inoculum (v/v),static,50°C,6 hours,9,33%,whole fungi,Decolorization rate gradually decreased above optimal temperature.
+Acid Black-24,Bacillus halodurans MTCC 865,1000 mg/l,10% inoculum (v/v),static,55°C,6 hours,9,8%,whole fungi,Significant decrease in decolorization at high temperature.
+Acid Black-24,Bacillus halodurans MTCC 865,1000 mg/l,10% inoculum (v/v),static,37°C,6 hours,6,15%,whole fungi,Least decolorization at low pH.
+Acid Black-24,Bacillus halodurans MTCC 865,1000 mg/l,10% inoculum (v/v),static,37°C,6 hours,7,44%,whole fungi,Decolorization observed at moderate pH.
+Acid Black-24,Bacillus halodurans MTCC 865,1000 mg/l,10% inoculum (v/v),static,37°C,6 hours,8,58%,whole fungi,Decolorization rate varies with pH.
+Acid Black-24,Bacillus halodurans MTCC 865,1000 mg/l,10% inoculum (v/v),static,37°C,6 hours,10,50%,whole fungi,Optimal decolorization reached at certain pH.
+Acid Black-24,Bacillus halodurans MTCC 865,1000 mg/l,10% inoculum (v/v),static,37°C,6 hours,9,90%,whole fungi,Results confirmed with FTIR and HPLC.

@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Amido black,Amycolatopsis orientalis SY6,10 µg/ml,Not specified,Shaking,30°C,48 hours,Not specified,Successful,Mycelium,Color change from blue to violet observed.
+Crystal violet,Amycolatopsis orientalis SY6,10-30 µg/ml,Not specified,Shaking,37°C,1 hour,6.5,Successful,Mycelium,Decolorized to colorless derivatives in under an hour.
+Brilliant green,Amycolatopsis orientalis SY6,10 µg/ml,Not specified,Shaking,37°C,Less than 1 hour,Not specified,Successful,Mycelium,Colorless derivatives produced.
+Malachite green,Amycolatopsis orientalis SY6,10 µg/ml,Not specified,Shaking,37°C,Not specified,Not specified,Successful,Mycelium,Decolorized effectively.
+Basic fuchsin,Amycolatopsis orientalis SY6,10 µg/ml,Not specified,Shaking,Not specified,Not specified,Not specified,Successful,Mycelium,Demonstrated dye removal.
+Azo dye,Amycolatopsis orientalis SY6,Not specified,Not specified,Shaking,Not specified,Not specified,Not specified,Successful,Mycelium,Combined night decolorization observed.
+Amido black,Streptomyces lividans,10 µg/ml,Not specified,Shaking,Not specified,Not specified,Not specified,Partial success,Mycelium,Zone of growth detected.
+Crystal violet,Streptomyces lividans,10 µg/ml,Not specified,Shaking,Not specified,Not specified,Not specified,Partial success,Mycelium,Observed on TLC.
+Crystal violet,Rhodococcus erythropolis,10 µg/ml,Not specified,Shaking,37°C,60 minutes,Not specified,Successful,Mycelium,Similar banding patterns on TLC.

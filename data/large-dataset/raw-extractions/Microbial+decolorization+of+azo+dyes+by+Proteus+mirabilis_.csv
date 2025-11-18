@@ -1,0 +1,9 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+methyl orange,Pseudomonas spp.,50 mg/l,not specified,static,32°C,4 days,not specified,more than 84%,whole fungi,none
+methyl orange,Pseudomonas spp.,100 mg/l,not specified,static,32°C,4 days,not specified,more than 84%,whole fungi,none
+methyl orange,Pseudomonas spp.,150 mg/l,not specified,static,32°C,4 days,not specified,maximal efficiency of 86%,whole fungi,none
+methyl orange,Pseudomonas spp.,250 mg/l,not specified,static,32°C,4 days,not specified,less than 84% (exact value not specified),whole fungi,none
+methyl orange,Pseudomonas spp.,400 mg/l,not specified,static,32°C,4 days,not specified,greater than 60%,whole fungi,none
+methyl orange,Pseudomonas spp.,500 mg/l,not specified,static,32°C,4 days,not specified,60%,whole fungi,none
+methyl orange,Pseudomonas spp.,150 mg/l,not specified,shaking,32°C,4 days,7.0,65%,whole fungi,more COD removal compared to static conditions
+methyl orange,Pseudomonas spp.,150 mg/l,not specified,static,not specified,not specified,not specified,10-94% over four cycles,whole fungi,decolorization decreased in subsequent cycles

@@ -1,0 +1,10 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Acid orange 7,P. chrysosporium 787,50 µM,105 spores/ml,shaking,30°C,4 days,6.5,94.8%,mycelium,Mycelial growth was 54.0 mg on the fourth day.
+Acid orange 7,S. commune,50 µM,105 spores/ml,shaking,30°C,4 days,6.5,96.7%,mycelium,Mycelial growth was 60 mg on the fourth day.
+Acid orange 7,L. eximia,50 µM,105 spores/ml,shaking,30°C,4 days,6.5,95.5%,mycelium,Mycelial growth was 56.0 mg on the fourth day.
+Methyl red,P. chrysosporium 787,50 µM,105 spores/ml,shaking,30°C,4 days,6.5,92.2%,mycelium,Mycelial growth was 56.0 mg on the fourth day.
+Methyl red,S. commune,50 µM,105 spores/ml,shaking,30°C,4 days,6.5,98.5%,mycelium,Mycelial growth was 62 mg on the fourth day.
+Methyl red,L. eximia,50 µM,105 spores/ml,shaking,30°C,4 days,6.5,96.0%,mycelium,Mycelial growth was 58 mg on the fourth day.
+Evans blue,P. chrysosporium 787,50 µM,105 spores/ml,shaking,30°C,4 days,6.5,90.2%,mycelium,Mycelial growth was 53 mg on the fourth day.
+Evans blue,S. commune,50 µM,105 spores/ml,shaking,30°C,4 days,6.5,97.4%,mycelium,Mycelial growth was 58 mg on the fourth day.
+Evans blue,L. eximia,50 µM,105 spores/ml,shaking,30°C,4 days,6.5,95.5%,mycelium,Mycelial growth was 54 mg on the fourth day.

@@ -1,0 +1,8 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+phenol,Trametes versicolor,20% v/v,3.5L,shaking,29°C,16 days,Not specified,Total removal,whole fungi,This is the highest rate of removal yet reported.
+p-cresol,Trametes versicolor,20% v/v,3.5L,shaking,Not specified,16 days,Not specified,Total removal,whole fungi,Highest removal rate historically in ALR.
+m-cresol,Trametes versicolor,20% v/v,3.5L,shaking,Not specified,16 days,Not specified,Total removal,whole fungi,Efficiently biodegraded at high rates.
+o-cresol,Trametes versicolor,20% v/v,3.5L,shaking,Not specified,16 days,Not specified,Total removal,whole fungi,High-performance removal.
+stripped gas liquor,Trametes versicolor,2.5% v/v,3.5L,not specified,not specified,3 days,not specified,Total removal,whole fungi,Effluent added after initial growth.
+stripped gas liquor,Trametes versicolor,5% v/v,3.5L,not specified,not specified,3 days,not specified,Total removal,whole fungi,Effective removal without toxicity.
+stripped gas liquor,Trametes versicolor,10% v/v,3.5L,not specified,not specified,16 days,not specified,Total removal,whole fungi,Highest removal efficiency observed.

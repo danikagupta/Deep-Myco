@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Methyl Red,Enterococcus faecalis,20 µM,N/A,gentle shaking,room temperature,10 min,7.5,Yes,N/A,Assays with both NADH (1 mM) and NADPH (2 mM) showed clearing zones on gels.
+Methyl Red,Enterococcus faecalis,20 µM,N/A,constant current,4 °C,Not specified,8.3,Yes,N/A,Analyzed the azoreductase activity with a native PAGE assay.
+Methyl Red,Enterococcus faecalis,20 µM,Not specified,Not specified,25 °C,Not specified,7.0,Yes,N/A,"All enzyme assays were performed with 0.5 mM NADPH, 10 µM FMN."
+Methyl Red,Enterococcus faecalis,20 µM,N/A,Not specified,Number not specified,Not specified,Not specified,Yes,N/A,Comparison of catalytic efficiency with other sources.
+Methyl Red,Enterococcus faecalis,20 µM,Not specified,Not specified,Not specified,Not specified,Not specified,Not observed,N/A,No azoreductase activity was found with Direct Blue 15 and Tartrazine.

@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Methyl Red,not applicable,20 μM,not applicable,gentle shaking,room temperature,10 min,7.5,zone of clearing observed,not applicable,Assay performed in two different trays with NADH and NADPH.
+Methyl Red,not applicable,20 μM,not applicable,not specified,25 °C,not specified,7.0,high specific activity observed,not applicable,Initial specific azoreductase activity was 0.003 U/mg. A 3-step purification process achieved over 200-fold purification.
+Methyl Red,not applicable,20 μM,not applicable,not specified,25 °C,not specified,7.0,Vmax of 29 ± 5 μmol/min/mg,not applicable,Kinetic parameters showed a Km of 11 μM for Methyl Red.
+Methyl Red,not applicable,20 μM,not applicable,not specified,25 °C,not specified,7.0,no activity observed,not applicable,No azoreductase activity was observed for Direct Blue 15 and Tartrazine.
+not applicable,E. faecalis,2 mM,not applicable,not specified,37 °C,20 min,7,not specified,whole fungi,Used for growth and production of azoreductase.

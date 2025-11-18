@@ -1,0 +1,11 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Acid Maroon V,Enterobacter dissolvens,100 mg l-1,10% (v/v),static,30 °C,not specified,7,119.34±7.4 U ml-1,whole fungi,
+Acid Maroon V,Pseudomonas aeruginosa,100 mg l-1,10% (v/v),static,30 °C,not specified,7,51.58±2.8 U ml-1,whole fungi,
+Methyl Red,Enterobacter dissolvens,24 µM,not specified,not specified,30 °C,4 min,7,287.07±12 U ml-1,whole fungi,
+Methyl Red,Pseudomonas aeruginosa,24 µM,not specified,not specified,30 °C,4 min,7,205.33±8 U ml-1,whole fungi,
+Methyl Red,Enterobacter dissolvens,24 µM,not specified,not specified,30 °C,not specified,not specified,318.57±4.8 U ml-1,whole fungi,NADH at 1 mM concentration
+Methyl Red,Pseudomonas aeruginosa,24 µM,not specified,not specified,30 °C,not specified,not specified,169.34±3.4 U ml-1,whole fungi,NADH at 1 mM concentration
+Acid Maroon V,Enterobacter dissolvens,100 mg l-1,10% (v/v),static,30 °C,not specified,3,23.20% of max activity,whole fungi,
+Acid Maroon V,Enterobacter dissolvens,100 mg l-1,10% (v/v),static,30 °C,not specified,10,6.29% of max activity,whole fungi,
+Acid Maroon V,Enterobacter dissolvens,100 mg l-1,10% (v/v),static,30 °C,not specified,7,max activity 315.58±8.4 U ml-1,whole fungi,
+Acid Maroon V,Pseudomonas aeruginosa,100 mg l-1,10% (v/v),static,30 °C,not specified,7,max activity 161.71±2.7 U ml-1,whole fungi,

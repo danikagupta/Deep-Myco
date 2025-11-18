@@ -1,0 +1,13 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+Congo red,A. niger,0.01%,Not specified,stationary,25°C,10 days,Not specified,74.07%,whole fungi,
+Crystal violet,A. niger,0.01%,Not specified,stationary,25°C,10 days,Not specified,33.82%,whole fungi,
+Methylene blue,A. niger,0.01%,Not specified,stationary,25°C,10 days,Not specified,22.44%,whole fungi,
+Congo red,F. oxysporum,0.01%,Not specified,stationary,25°C,10 days,Not specified,78.9%,whole fungi,
+Crystal violet,F. oxysporum,0.01%,Not specified,stationary,25°C,10 days,Not specified,53.4%,whole fungi,
+Methylene blue,F. oxysporum,0.01%,Not specified,stationary,25°C,10 days,Not specified,48.5%,whole fungi,
+Congo red,T. lignorum,0.01%,Not specified,stationary,25°C,10 days,Not specified,35.25%,whole fungi,
+Crystal violet,T. lignorum,0.01%,Not specified,stationary,25°C,10 days,Not specified,92.7%,whole fungi,Use of T. lignorum as dye bio degrader or decolorizer has been done first time in this study
+Methylene blue,T. lignorum,0.01%,Not specified,stationary,25°C,10 days,Not specified,48.3%,whole fungi,
+Congo red,A. niger,0.01%,Not specified,shaking,25°C,10 days,Not specified,84.7-91.4%,whole fungi,
+Crystal violet,T. lignorum,0.01%,Not specified,shaking,25°C,10 days,Not specified,96.6%,whole fungi,
+Methylene blue,T. lignorum,0.01%,Not specified,shaking,25°C,10 days,Not specified,85.2%,whole fungi,

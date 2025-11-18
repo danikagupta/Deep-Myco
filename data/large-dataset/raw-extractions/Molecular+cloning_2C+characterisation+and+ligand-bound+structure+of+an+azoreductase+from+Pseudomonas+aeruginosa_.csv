@@ -1,0 +1,6 @@
+type of dye,type of fungi,concentration of dye,concentration of fungi,method of agitation,temperature,duration,pH,decolorization result,"whether the fungi was mycellium, fungal mass or whole fungi",any additional information
+methyl red,Pseudomonas aeruginosa,50 µM,0.2-10 µg/mL,shaking,18 °C,16 hours,8,reduced at a significantly higher rate using NADPH compared to NADH,whole fungi,See Fig 2C and 2D.
+Menadione,Pseudomonas aeruginosa,50 µM,0.2-10 µg/mL,shaking,18 °C,16 hours,8,"reduced using both NADH and NADPH, with significantly higher rates using NADPH",whole fungi,See Fig 2B.
+various azo compounds,Pseudomonas aeruginosa,various,0.2-10 µg/mL,shaking,not specified,not specified,8,"reduced by paMdaB, paArsH, and paYieF, with notable activity on olsalazine",whole fungi,See Fig 3.
+Phenol blue (Phb),Pseudomonas aeruginosa,100 µM,0.2-10 µg/mL,shaking,not specified,not specified,8,activity measured in varying concentrations of FMN and FAD,whole fungi,See Fig 6.
+nitrofurazone,Pseudomonas aeruginosa,not specified,0.2-10 µg/mL,shaking,not specified,not specified,not specified,"all enzymes reduced nitrofurazone, with paArsH and paMdaB showing faster rates",whole fungi,See Fig 8.
